@@ -7,6 +7,52 @@
   pointer-events: none;
 }
 
+.special-label {
+  display: none !important;
+}
+
+body{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  width: 7px;
+  height: 1px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #011B6D !important;
+  border-radius: 40px !important;
+}
+::-webkit-scrollbar-track {
+  background-color:transparent !important;
+}
+
+
+
+/* //////// react-html5-camera-photo //////////// */
+
+.react-html5-camera-photo>img, .react-html5-camera-photo>video {
+    width:368px !important;
+    height: 200px !important;
+}
+
+#container-circles {
+  position: absolute;
+  left: 50% !important;
+  bottom: 25% !important;
+}
+#outer-circle {
+  height: 50px !important;
+  width: 50px !important;
+}
+
+#inner-circle {
+  height: 30px !important;
+  width: 30px !important;
+  margin: -27px 0 0 -15px !important;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -27,6 +73,7 @@
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {

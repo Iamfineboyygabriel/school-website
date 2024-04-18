@@ -1,0 +1,245 @@
+/**SCHEME CONTENT**/
+.schemenocopy {
+  user-select: none;
+}
+
+.schemeheader {
+  padding: 2.4em;
+  padding-left: 4em;
+  width: 100%;
+  background-color: #f1f5f9;
+  color: #064e3b;
+}
+
+@media screen and (max-width: 960px) {
+  .schemeheader {
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .schemeTable thead tr {
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+
+  .schemeTable thead th {
+    display: block;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .schemeTable td {
+    display: block;
+    padding: 10px;
+  }
+
+  .schemeTable tbody .contentData:after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid #888888;
+    margin-top: 14px;
+  }
+
+  .weekData,
+  .topicsData {
+    text-align: center;
+  }
+
+  .schemeTable thead {
+    flex-direction: column;
+  }
+
+  .schemeTable tbody {
+    display: block;
+  }
+
+  .schemeTable td:first-child {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+
+  .schemeTable td:last-child {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+
+  .schemeTable td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    margin-right: 10px;
+  }
+
+  .relatedSubjects {
+    padding: 1em;
+  }
+}
+
+.schemeTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+}
+
+.schemeTable th,
+.schemeTable td {
+  padding: 12px;
+  border: 1px solid #fff;
+}
+
+.schemeTable td {
+  background-color: #f1f5f9;
+  padding: 1.7em;
+}
+
+.schemeTable th {
+  background-color: #f6f9fc;
+  color: #6b7280;
+}
+
+.schemeTable tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.contentData:hover {
+  background-color: #f6f9fc;
+  cursor: pointer;
+}
+
+.readMoreButton {
+  border: none;
+  background-color: #f1f5f9;
+  border-radius: 2px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.table th,
+.table td {
+  padding: 1em;
+  padding-left: 1em;
+  color: #6b7280;
+  cursor: pointer;
+  text-align: left;
+}
+
+.weekData {
+  font-size: 2em;
+}
+
+.table th {
+  background-color: #f1f5f9;
+  color: #888888;
+  margin-top: 8px;
+  padding: 1.5em;
+  border-top: 1px solid #ffff;
+}
+
+.separator {
+  border-top: 2px solid #f1f5f9;
+}
+
+li::marker {
+  color: #1f2937;
+}
+
+/**MODAL**/
+
+.modalheader {
+  color: #064e3b;
+  font-weight: bold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 1.9em;
+  margin-bottom: 1em;
+  margin-top: 13px;
+}
+
+.modaldetails {
+  color: #888888;
+  font-size: 1rem;
+}
+
+.modaldetails span {
+  font-size: 1.1rem;
+}
+
+.wish {
+  color: #064e3b;
+  font-weight: bold;
+  font-size: 1em;
+  margin-bottom: 1em;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.selected {
+  color: #064e3b;
+}
+
+.box {
+  cursor: pointer;
+}
+
+.checkbox label {
+  margin-left: 8px;
+}
+
+.submitbutton {
+  border: none;
+  cursor: pointer;
+  align-items: center;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 1em;
+}
+
+.submit {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/**RELATED CONTENT**/
+.relatedContent {
+  background-color: #f1f5f9;
+  border-radius: 2em;
+  display: block;
+  padding: 2em;
+  margin-top: 2em;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.relatedText {
+  font-size: 1em;
+  font-weight: bolder;
+  margin-bottom: 10px;
+  color: #888888;
+}
+
+.relatedSubjects {
+  margin-top: 10px;
+  display: block;
+}
+
+.relatedSubjects ul {
+  padding: 0;
+}
+
+.relatedSubjects li {
+  margin-bottom: 5px;
+  color: #888888;
+}
+
+.relatedSubjects li::marker {
+  color: #888888;
+}

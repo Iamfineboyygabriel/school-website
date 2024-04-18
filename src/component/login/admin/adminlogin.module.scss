@@ -1,0 +1,233 @@
+// @font-face {
+//     font-family: Gilroy;
+//     src: url(../../../shared/utils/fonts/Gilroy-Regular.ttf);
+//   }
+
+.parent {
+  background-image: url("../../../assets//png/teacher.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.discone {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 107, 255, 0.1) 0%,
+    rgba(121, 81, 175, 0.1) 76.04%
+  );
+  width: 45%;
+  align-items: center;
+  justify-content: center;
+  padding: 2em 5em;
+}
+.headone {
+  color: var(--black, #00040f);
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 21px;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px;
+  padding-top: 2.7em;
+}
+.logoimg {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.middlepic {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1em;
+
+  img {
+    width: 500px;
+    height: 400px;
+  }
+}
+
+.disctwo {
+  overflow-y: scroll;
+  width: 100%;
+  align-items: center;
+  padding: 5em 2em;
+}
+
+.insideDisc {
+  border-radius: 16px;
+  margin: auto;
+  width: 50%;
+  background: #fff;
+  padding: 16px;
+  gap: 8px;
+  box-sizing: border-box;
+}
+
+.inputted {
+  width: 70%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.headwelcome {
+  color: var(--black, #050505);
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrowstyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+
+  img {
+    width: 76px;
+    height: 50px;
+  }
+}
+.rowname {
+  color: var(--grey-text, #999);
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  // line-height: 20px;
+  letter-spacing: 0.035px;
+  margin-top: 1.7em;
+}
+
+.calculatorinput {
+  width: 100%;
+  height: 50px;
+  margin-top: 0.4em;
+  border-radius: 8px;
+  border: 1px solid var(--grey-50, #ccc);
+  background: var(--white-full, #fff);
+  padding: 0.5em;
+  padding: 0.5em;
+  &:focus {
+    border-color: #627d6e;
+    outline: none;
+  }
+}
+
+.calculatorinputgroup {
+  border: none;
+}
+.forget {
+  color: #627d6e;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  justify-content: end;
+  align-items: end;
+  float: right;
+  cursor: pointer;
+}
+
+.requestbut {
+  justify-content: center;
+  align-items: center;
+  // display: flex;
+  margin-top: 2.7em;
+}
+
+.btnrequest {
+  gap: 10px;
+  border: none;
+  height: 44px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.9em;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+  width: 100%;
+  background: #627d6e;
+  border-radius: 10px;
+}
+
+.btnrequest:hover {
+  background: #627d6e;
+  color: #ffffff;
+}
+
+.donthave {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-top: 1em;
+
+  span {
+    font-family: "Roboto", sans-serif;
+    color: #627d6e;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+  }
+}
+
+.visibility {
+  border: none;
+  background-color: transparent;
+  padding-right: 0.8em !important;
+}
+
+.group {
+  height: 50px !important;
+  width: 100% !important;
+  margin-top: 0.4em !important;
+  border-radius: 8px !important;
+  border: 1px solid var(--grey-50, #ccc) !important;
+  background: var(--white-full, #fff) !important;
+  padding: 0.5em !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 960px) {
+  .discone {
+    display: none;
+  }
+  .disctwo {
+    width: 100%;
+    padding: 2em 0em;
+  }
+  .insideDisc {
+    width: 80%;
+  }
+  .inputted {
+    width: 85%;
+  }
+}

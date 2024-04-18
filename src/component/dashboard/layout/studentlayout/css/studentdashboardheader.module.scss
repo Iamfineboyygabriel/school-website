@@ -1,0 +1,238 @@
+.parent {
+  height: 70px;
+  box-shadow: 3px 0px 20px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  background: #ffffff;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.12);
+  padding: 1em;
+}
+.logoDiv {
+  align-items: center;
+  padding: 0em 2em;
+  font-size: large;
+  color: #064e3b;
+  font-weight: bold;
+}
+.logo {
+  width: 100px;
+}
+.textDiv {
+  padding-left: 0.6em;
+}
+.name {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.8em;
+  line-height: 17px;
+  letter-spacing: 0.05em;
+  color: #064e3b;
+
+  span {
+    margin-left: 2em;
+  }
+}
+.instant {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 0.6em;
+  line-height: 17px;
+  letter-spacing: 0.1em;
+  color: #064e3b;
+}
+.row {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.userdata {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.title {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #b3b3b3;
+  padding: 0em 1.5em;
+  cursor: pointer;
+}
+.icons {
+  color: #b3b3b3;
+  padding: 0em 0.5em;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+.passportDiv {
+  padding: 0.3em;
+  cursor: pointer;
+}
+.passport {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+}
+
+// DROPDOWN
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-right: 2em;
+}
+
+.dropdownContent {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  line-height: 20px;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 5;
+  position: fixed;
+  margin-top: 0.1em;
+  padding-right: 2em;
+
+  @media screen and (max-width: 600px) {
+    min-width: 200px;
+    width: 300px;
+  }
+  @media screen and (max-width: 350px) {
+    min-width: 200px;
+    width: 270px;
+  }
+}
+.dropDownRow {
+  display: flex;
+  align-items: center;
+  margin: 1.1em 0.9em;
+}
+.dropdownContent a {
+  color: #fff !important;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.dropIcon {
+  width: 20px;
+}
+
+.logoTitleDiv {
+  margin-left: 0em;
+
+  display: flex;
+  align-items: center;
+  padding: 0em 0.5em;
+  cursor: pointer;
+}
+.dropDowntitle {
+  color: var(--Grey-Primary, #373737);
+  font-family: Gilroy;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 166.667% */
+}
+.dropDowntitle:hover {
+  color: #064e3b;
+}
+
+.dropdown:hover .dropdownContent {
+  display: block;
+}
+
+.inputspan {
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  transform: translateY(-50%);
+}
+
+.menuDiv {
+  cursor: pointer;
+}
+.menu {
+  color: #064e3b;
+  font-size: 2em;
+  display: none;
+}
+.modalParent {
+  background-color: #ffffff;
+}
+.modalMenu {
+  display: grid;
+}
+
+.modalClose {
+  display: flex;
+  justify-content: flex-end;
+}
+.modalMenufirst {
+  display: grid;
+  gap: 1em;
+}
+
+.hold {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 960px) {
+  .parent {
+    padding: 1em;
+    align-items: center;
+    height: 70px;
+  }
+  .logoDiv {
+    padding: 0;
+  }
+
+  .userdata {
+    display: none;
+  }
+
+  .modal-content {
+    width: 60% !important;
+  }
+  .titleModal {
+    font-family: "Roboto, sans-serif";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.9em;
+    line-height: 48px;
+    /* text-align: center; */
+    color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .menuDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .menu {
+    display: inline;
+    cursor: pointer;
+  }
+}
+
+// @media screen and (max-width:1200px) {
+//    .logoDivmobile{
+//     display: none !important;
+//    }
+//    .logomobile{
+//     display: none !important;
+//    }
+// }

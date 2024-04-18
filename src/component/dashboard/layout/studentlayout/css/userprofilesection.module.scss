@@ -1,0 +1,279 @@
+// @font-face {
+//     font-family: Gilroy;
+//     src: url(../../../shared/utils/fonts/Gilroy-Regular.ttf);
+//   }
+.parent {
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  margin-top: -21em;
+  z-index: 30;
+}
+.content {
+  z-index: 3000 !important;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.04);
+  padding: 2em 2em;
+  margin: 1em 1em;
+  margin-bottom: 2em;
+  // width: 100%;
+}
+
+.cardholder {
+  display: flex;
+  align-items: center;
+}
+
+// .userimg {
+//   position: absolute;
+// }
+
+.relativeicon {
+  font-size: 3rem;
+  padding: 0.4em;
+}
+
+.imghold {
+  border-radius: 100px;
+  background: var(--White-Blue, #f0f3ff);
+  display: inline-table;
+  position: absolute;
+  right: -8%;
+  top: 60%;
+  cursor: pointer;
+}
+
+.userpassportimg {
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  margin-right: 1em;
+}
+.userimgspan {
+  height: 90px;
+  width: 90px;
+  padding: 50px;
+  background: var(--White-Blue, #f0f3ff);
+  border-radius: 50%;
+  margin-right: 1em;
+  position: relative;
+}
+
+.name {
+  color: var(--Black, #00040f);
+  font-family: Gilroy;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px; /* 166.667% */
+}
+
+.country {
+  border-radius: 100px;
+  background: var(--White-Blue, #f0f3ff);
+  padding: 0.5em 0.5em;
+}
+
+.countryh1 {
+  color: var(--Blue-Primary, #011b6d);
+  font-family: Gilroy;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+  text-align: center;
+}
+
+.contenthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fileInputLabel {
+  background-color: #007bff;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Hide the default file input */
+// input[type="file"] {
+//   display: none;
+// }
+
+.contenth2 {
+  color: var(--Black, #00040f);
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px; /* 177.778% */
+}
+
+.editholder {
+  border-radius: 30px;
+  background: var(--White-Blue, #f0f3ff);
+  padding: 0.5em 0.5em;
+  width: 80px;
+  cursor: pointer;
+}
+
+.edith1 {
+  color: var(--Blue-Primary, #011b6d);
+  font-family: Gilroy;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+  text-align: center;
+}
+
+.firstdivflex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  // padding:1em 1em;
+  width: 50%;
+  margin-bottom: 2em;
+}
+
+.firstdivh1 {
+  color: var(--grey-text, #999);
+  font-family: Gilroy;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.changepass {
+  border-radius: 100px;
+  background: var(--White-Blue, #f0f3ff);
+  padding: 0.7em 0.7em;
+}
+
+.changepassh1 {
+  color: var(--Blue-Primary, #011b6d);
+  font-family: Gilroy;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+  text-align: center;
+}
+
+.icon {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+// KYC REGISTRATION //
+
+.kycreg {
+  border-radius: 16px;
+  background: rgba(255, 15, 15, 0.05);
+  padding: 1em 1em;
+  margin: 1em;
+  margin-bottom: 2em;
+}
+
+.kych1 {
+  color: var(--red, #ff0f0f);
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.kycflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    color: var(--blue-primary, #011b6d);
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    width: 60%;
+  }
+
+  h3 {
+    color: var(--blue-primary, #011b6d);
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    cursor: pointer;
+  }
+}
+
+.arrow {
+  margin-left: 2em;
+}
+
+.firstp {
+  border: none !important;
+  color: var(--Grey-text, #999);
+  font-family: Gilroy;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px; /* 137.5% */
+}
+
+// input{
+//     border: none !important;
+// }
+
+@media screen and (max-width: 960px) {
+  .cardholder {
+    display: grid;
+  }
+  .userpassportimg {
+    margin: auto;
+    justify-content: center;
+    display: flex;
+  }
+  .name {
+    text-align: center;
+  }
+  .contenthead {
+    display: grid;
+    justify-content: center;
+    margin: auto;
+  }
+  .editholder {
+    width: 100%;
+  }
+  .firstdivflex {
+    width: 100%;
+    margin-top: 1em;
+  }
+  .contenth2 {
+    text-align: center;
+  }
+  .kycflex {
+    display: grid;
+
+    p {
+      width: 100%;
+    }
+    h3 {
+      text-align: left;
+    }
+  }
+  .kycreg {
+    margin: 1em;
+  }
+}

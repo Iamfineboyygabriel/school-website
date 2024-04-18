@@ -1,0 +1,78 @@
+
+
+/* term.module.scss */
+.header {
+  padding: 2.4em;
+  padding-left: 4em;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  background-color: #f1f5f9;
+  color: #064e3b;
+}
+
+@media screen and (max-width: 960px) {
+  .header {
+    padding: 2em;
+    border: 1px solid #ffff;
+  }
+}
+
+.tableheader {
+  padding: 3em;
+  width: 100%;
+}
+
+.tableContainer {
+  overflow-x: auto;
+  user-select: none;
+  padding: 1em;
+}
+
+.table {
+  border: 1px solid #ffff;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.readMoreButton {
+  border: none;
+  background-color: #f1f5f9;
+  border-radius: 2px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.table th,
+.table td {
+  padding: 1em;
+  padding-left: 1em;
+  color: #6b7280;
+  cursor: pointer;
+  text-align: left;
+}
+
+.subject {
+  width: 7em;
+  font-size: large;
+}
+
+.subjectRow:hover {
+  background-color: #f1f5f9;
+  cursor: pointer;
+}
+
+.table th {
+  background-color: #f1f5f9;
+  color: #888888;
+  margin-top: 8px;
+  padding: 1.5em;
+  border-top: 1px solid #ffff;
+}
+
+.separator {
+  border-top: 2px solid #f1f5f9;
+}
+
+li::marker {
+  color: #1f2937;
+}

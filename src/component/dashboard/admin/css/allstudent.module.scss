@@ -1,0 +1,101 @@
+.container {
+  padding: 1em;
+}
+
+.content {
+  background-color: #f8fafc;
+  min-height: calc(100vh - 4em);
+  overflow-x: auto;
+}
+
+.studentTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.studentTable th,
+.studentTable td {
+  padding: 0.75em 1em;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.studentTable td {
+  cursor: pointer;
+}
+
+.studentTable th {
+  background-color: #f1f1f1;
+  font-weight: bold;
+}
+
+.userdetails {
+  margin-bottom: 1em;
+}
+
+.userDetailsContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.userDetailsList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.userDetailsList li {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0.5em;
+}
+
+.detailLabel {
+  font-weight: normal;
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-start;
+  width: 120px;
+}
+
+.detailValue {
+  color: #333;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-weight: bold;
+  margin-left: 0;
+  flex: 1;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-self: flex-end;
+  width: 100%;
+  margin-top: 1em;
+  // background-color: #f44336;
+}
+
+.approveButton,
+.declineButton {
+  padding: 0.5em 1em;
+  background-color: #4caf50; /* Green for Approve */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  // display: flex;
+  // justify-content: flex-end;
+  cursor: pointer;
+  margin-left: 0.5em;
+}
+
+.declineButton {
+  background-color: #f44336;
+}
+
+.approveButton:hover,
+.declineButton:hover {
+  opacity: 0.8;
+}
