@@ -17,13 +17,13 @@ const Home = () => {
   const signupType = [
     {
       id: 1,
-      icon: <img src={personal} className={styles.payicon} alt="img" />,
+      icon: <img src={group} className={styles.payicon} alt="groupimg" />,
       name: "Login as a student",
       direct: "Student",
     },
     {
       id: 2,
-      icon: <img src={group} className={styles.payicon} alt="groupimg" />,
+      icon: <img src={personal} className={styles.payicon} alt="img" />,
       name: "Login as an admin",
       direct: "Admin",
     },

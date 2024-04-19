@@ -1,10 +1,38 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import styles from "../layout/studentlayout/css/userprofilesection.module.scss";
 import takepic from "../../../assets/svg/takepic.svg";
 import { LuFileEdit } from "react-icons/lu";
+import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
+import { getStudentProfile } from "../../shared/redux/services/getProfile.services";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const UserProfileSections = () => {
-  
+  const [loading, setLoading] = useState(false);
+  const dispatch = useAppDispatch();
+  const userProfile = useAppSelector((state) => state.student.profile);
+  // console.log("profilesection", userProfile);
+
+  useEffect(() => {
+    // console.log("Fetching user profile...");
+    getStudentProfile();
+  }, []);
+
+  const studentProfile = () => {
+    setLoading(true);
+    dispatch(getStudentProfile())
+      .unwrap()
+      .then(() => {
+        setLoading(false);
+      })
+      .catch((err) => {
+        const errorMessage = err.errorMessage;
+        toast.error(errorMessage);
+      });
+  };
+
+  // console.log("User profile:", userProfile);
+
   return (
     <div className={styles.parent}>
       <div>

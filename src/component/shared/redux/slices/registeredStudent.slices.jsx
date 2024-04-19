@@ -2,6 +2,7 @@ import registeredStudentService from "../services/registeredStudent.services";
 import { setMessage } from "./message.slices";
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
+//Get ALL STudent That Created An Account
 export const GetRegisteredStudents = createAsyncThunk(
   "registration/getRegisteredStudents",
   async (thunkAPI) => {
@@ -21,6 +22,9 @@ export const GetRegisteredStudents = createAsyncThunk(
     }
   }
 );
+
+
+
 
 const initialState = {
   getAllStudents: null,

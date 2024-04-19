@@ -39,6 +39,7 @@ import Text from "./component/classes/tableofcontents/view/Text.jsx";
 import SchemeOfWork from "./component/classes/tableofcontents/Schemeofwork";
 import Admin from "./component/dashboard/admin/Admin.jsx";
 import AdminLoginPage from "./component/login/admin/AdminLoginPage.jsx";
+import PasswordChange from "./component/login/student/PasswordChange.jsx";
 
 function App() {
   return (
@@ -48,6 +49,7 @@ function App() {
         <Route path="/admin-login" element={<AdminLoginPage />} />
         <Route path="/admin" element={<Admin />} />
         <Route path="/student-login" element={<StudentLogin />} />
+        <Route path="/change-password" element={<PasswordChange />} />
         <Route path="/register" element={<Register />} />
         <Route path="/*" element={<StudentSideBarRoute />} />
         {/*ROUTES FOR CLASSES */}

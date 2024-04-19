@@ -1,15 +1,4 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.special-label {
-  display: none !important;
-}
 
 body{
  margin: 0;
@@ -21,7 +10,7 @@ body{
   height: 1px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #011B6D !important;
+  background-color: #064e3b !important;
   border-radius: 40px !important;
 }
 ::-webkit-scrollbar-track {
@@ -53,33 +42,6 @@ body{
   margin: -27px 0 0 -15px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
 
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+

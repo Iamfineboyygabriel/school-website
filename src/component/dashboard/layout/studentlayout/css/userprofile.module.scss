@@ -10,8 +10,8 @@
 .content {
   background: linear-gradient(
     180deg,
-    rgba(0, 107, 255, 0.1) 0%,
-    rgba(121, 81, 175, 0.1) 76.04%
+    rgba(6, 78, 59, 0.1) 0%,
+    rgba(6, 78, 59, 0.1) 76.04%
   );
   height: 200px;
   width: 100%;
@@ -28,8 +28,8 @@
 }
 
 .tophead {
-  color: var(--blue-primary, #011b6d);
-  font-family: Gilroy;
+  color: var(--blue-primary, #064e3b);
+  font-family: "Roboto", sans-serif;
   font-size: 32px;
   font-style: normal;
   font-weight: 700;
@@ -38,7 +38,7 @@
 
 .toppara {
   color: var(--grey-primary, #373737);
-  font-family: Gilroy;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -56,7 +56,7 @@
   gap: 10px;
   border: none;
   height: 40px;
-  font-family: "Gilroy";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 0.9em;
@@ -67,12 +67,12 @@
   padding-left: 2em;
   padding-right: 2em;
   width: 100%;
-  background: #011b6d;
+  background: #064e3b;
   border-radius: 10px;
 }
 
 .btnrequest:hover {
-  background: #0e30a1;
+  background: #627d6e;
   color: #ffffff;
 }
 

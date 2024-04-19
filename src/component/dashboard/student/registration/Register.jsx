@@ -177,6 +177,28 @@ const Register = () => {
                       style={{ width: "100%", marginTop: "1rem" }}
                     />
                   )}
+                  {/* Class Input */}
+                  <h2 className={styles.rowname}>Class</h2>
+                  <select
+                    className={`${styles.calculatorinput} ${
+                      errors.student_class ? styles.error : ""
+                    }`}
+                    value={registrationDetails.student_class}
+                    onChange={(e) =>
+                      setRegistrationDetails({
+                        ...registrationDetails,
+                        student_class: e.target.value.toUpperCase(),
+                      })
+                    }
+                  >
+                    <option value="">Select Class</option>
+                    <option value="JSS1">JSS1</option>
+                    <option value="JSS2">JSS2</option>
+                    <option value="JSS3">JSS3</option>
+                    <option value="SSS1">SSS1</option>
+                    <option value="SSS2">SSS2</option>
+                    <option value="SSS3">SSS3</option>
+                  </select>
                 </div>
                 <div className={styles.formholdertwo}>
                   <h2 className={styles.rowname}>Other names</h2>
@@ -219,28 +241,6 @@ const Register = () => {
                     value={registrationDetails.dob}
                     onChange={handleDateChange}
                   />
-                  {/* Class Input */}
-                  <h2 className={styles.rowname}>Class</h2>
-                  <select
-                    className={`${styles.calculatorinput} ${
-                      errors.student_class ? styles.error : ""
-                    }`}
-                    value={registrationDetails.student_class}
-                    onChange={(e) =>
-                      setRegistrationDetails({
-                        ...registrationDetails,
-                        student_class: e.target.value.toUpperCase(),
-                      })
-                    }
-                  >
-                    <option value="">Select Class</option>
-                    <option value="JSS1">JSS1</option>
-                    <option value="JSS2">JSS2</option>
-                    <option value="JSS3">JSS3</option>
-                    <option value="SSS1">SSS1</option>
-                    <option value="SSS2">SSS2</option>
-                    <option value="SSS3">SSS3</option>
-                  </select>
                 </div>
               </div>
             </div>
