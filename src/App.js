@@ -3,6 +3,8 @@ import Home from "./component/home/Home";
 import StudentLogin from "./component/login/student/StudentLogin";
 import Register from "./component/dashboard/student/registration/Register.jsx";
 import StudentSideBarRoute from "./component/dashboard/layout/studentlayout/StudentSideBarRoute";
+import StudentResetPassword from "./component/login/student/StudentResetPassword.jsx";
+import AdminResetPassword from "./component/login/admin/AdminResetPassword.jsx";
 import PageNotFound from "./component/pagenotfound/PageNotFound.jsx";
 
 // For JSS1
@@ -50,6 +52,11 @@ function App() {
         <Route path="/admin" element={<Admin />} />
         <Route path="/student-login" element={<StudentLogin />} />
         <Route path="/change-password" element={<PasswordChange />} />
+        <Route path="/admin-reset-password" element={<AdminResetPassword />} />
+        <Route
+          path="/admin-reset-password"
+          element={<StudentResetPassword />}
+        />
         <Route path="/register" element={<Register />} />
         <Route path="/*" element={<StudentSideBarRoute />} />
         {/*ROUTES FOR CLASSES */}
