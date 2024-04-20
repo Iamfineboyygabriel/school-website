@@ -44,8 +44,12 @@ const AdminLoginPage = () => {
         toast.success("Login successful");
       })
       .catch((err) => {
-        const errorMessage = err.message;
-        toast.error(errorMessage);
+        if (err && err.data && err.data.error) {
+          // If the error object has a 'data' property containing 'error' message
+          toast.error(err.data.error); // Display custom error message from the backend
+        } else {
+          toast.error("Invalid Credentials."); // Fallback error message
+        }
         setLoading(false);
       });
   };
