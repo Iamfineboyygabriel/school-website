@@ -252,7 +252,7 @@ const Register = () => {
                 >
                   {loading ? (
                     <ReactLoading
-                      color="white"
+                      color="#064e3b"
                       width={25}
                       height={25}
                       type="spin"

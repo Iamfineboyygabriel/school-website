@@ -19,7 +19,9 @@ const AdminResetPassword = () => {
       .unwrap()
       .then(() => {
         setLoading(false);
-        toast.success("Password reset email sent successfully!");
+        toast.success(
+          "Password reset mail has been sent to your registered email!"
+        );
       })
       .catch((err) => {
         const errorMessage = err.message || "Failed to send reset email";
@@ -43,7 +45,7 @@ const AdminResetPassword = () => {
 
         <button onClick={resetAdminData} className={styles.submitButton}>
           {loading ? (
-            <ReactLoading color="white" width={25} height={25} type="spin" />
+            <ReactLoading color="#064e3b" width={25} height={25} type="spin" />
           ) : (
             "Submit"
           )}

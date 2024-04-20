@@ -28,7 +28,7 @@ const TermContent = ({ data }) => {
             transform: "translate(-50%, -50%)",
           }}
         >
-          <ReactLoading type="spin" color="blue" width={30} height={30} />
+          <ReactLoading color="#064e3b" width={25} height={25} type="spin" />
         </div>
       )}
 

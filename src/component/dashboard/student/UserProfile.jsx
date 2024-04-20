@@ -31,7 +31,12 @@ const UserProfile = () => {
             disabled={loading}
           >
             {loading ? (
-              <ReactLoading type="spin" color="#fff" height={20} width={20} />
+                 <ReactLoading
+                 color="#064e3b"
+                 width={25}
+                 height={25}
+                 type="spin"
+               />
             ) : (
               <>
                 <IoIosLogOut className={styles.icon} />

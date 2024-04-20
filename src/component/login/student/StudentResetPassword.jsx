@@ -43,7 +43,7 @@ const StudentResetPassword = () => {
 
         <button onClick={forgetPasswordData} className={styles.submitButton}>
           {loading ? (
-            <ReactLoading color="white" width={25} height={25} type="spin" />
+            <ReactLoading color="#064e3b" width={25} height={25} type="spin" />
           ) : (
             "Submit"
           )}

@@ -115,7 +115,6 @@
 
 // export default ForgetPasswordModal;
 
-
 import styles from "./forgetpasswordmodal.module.scss";
 import React, { useState } from "react";
 import modalimg from "../../../assets/png/modalimg.png";
@@ -208,7 +207,7 @@ const ForgetPasswordModal = ({ handleModalShow }) => {
               >
                 {loading ? (
                   <ReactLoading
-                    color="white"
+                    color="#064e3b"
                     width={25}
                     height={25}
                     type="spin"

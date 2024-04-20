@@ -84,9 +84,14 @@ const Admin = () => {
           <button className={styles.log} onClick={handleLogout}>
             {/* Show loading spinner if loading state is true, otherwise show logout button */}
             {loading ? (
-              <ReactLoading type="spin" color="white" height={20} width={20} />
+              <ReactLoading
+                color="#064e3b"
+                width={25}
+                height={25}
+                type="spin"
+              />
             ) : (
-              <Link to="/admin-login">
+              <Link to="/">
                 <div className={styles.iconpagename}>
                   <img src={Logout} className={styles.icon} alt="horse" />
                   <div

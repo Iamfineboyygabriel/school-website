@@ -126,7 +126,7 @@ const AdminLoginPage = () => {
 
               <p className={styles.forget}>
                 <Link
-                  to="/admin-reset-password"
+                  to="/admina-reset-password"
                   style={{
                     textDecoration: "none",
                     fontFamily: "sans-serif",
@@ -148,7 +148,7 @@ const AdminLoginPage = () => {
                 >
                   {loading ? (
                     <ReactLoading
-                      color="white"
+                      color="#064e3b"
                       width={25}
                       height={25}
                       type="spin"

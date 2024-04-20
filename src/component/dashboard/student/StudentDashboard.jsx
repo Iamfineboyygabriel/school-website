@@ -136,7 +136,7 @@ const StudentDashboard = () => {
           </div>
           <img src={globe} alt="" />
           {loading && (
-            <ReactLoading color="blue" width={25} height={25} type="spin" />
+            <ReactLoading color="#064e3b" width={25} height={25} type="spin" />
           )}
         </div>
         <div className="slider-container">
