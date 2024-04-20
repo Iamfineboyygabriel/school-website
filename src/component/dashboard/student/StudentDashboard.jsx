@@ -1,12 +1,15 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
+import styles from "../layout/studentlayout/css/studentdashboard.module.scss";
+import put from "../../../assets/svg/put.svg";
+import globe from "../../../assets/svg/globe.svg";
+import Slider from "react-slick";
 import { useNavigate } from "react-router-dom";
-import ReactLoading from "react-loading";
 import { IoIosArrowForward } from "react-icons/io";
 import { RiArrowDropDownLine } from "react-icons/ri";
-import globe from "../../../assets/svg/globe.svg";
-import put from "../../../assets/svg/put.svg";
-import Slider from "react-slick";
-import styles from "../layout/studentlayout/css/studentdashboard.module.scss";
+import ReactLoading from "react-loading";
+import { ToastContainer, toast } from "react-toastify";
+import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
+import { GetProfileStudent } from "../../shared/redux/slices/GetStudentProfile.slices";
 
 const StudentDashboard = () => {
   const settings = {
@@ -43,10 +46,42 @@ const StudentDashboard = () => {
     ],
   };
 
-  const [loading, setLoading] = useState(false);
+  const dispatch = useAppDispatch();
   const navigate = useNavigate();
+  const [loading, setLoading] = useState(false);
   const [openMenus, setOpenMenus] = useState(new Array(6).fill(false)); // Adjusted to cover JSS1 to SS3
+  const getProfile = useAppSelector((state) => state.student.profile);
 
+  useEffect(() => {
+    const studentToken = sessionStorage.getItem("studentData");
+    if (studentToken) {
+      setLoading(true);
+      dispatch(GetProfileStudent()) // Dispatch the thunk
+        .unwrap() // Use unwrap for thunks with promises
+        .then(() => {
+          setLoading(false);
+        })
+        .catch((err) => {
+          const errorMessage = err.message;
+          toast.error(errorMessage);
+        });
+    } else {
+      // Handle case when student token is not found
+    }
+  }, [dispatch]);
+
+  const getStudent = () => {
+    setLoading(true);
+    dispatch(GetProfileStudent())
+      .unwrap()
+      .then(() => {
+        setLoading(false);
+      })
+      .catch((err) => {
+        const errorMessage = err.message;
+        toast.error(errorMessage);
+      });
+  };
   const handleMenuToggle = (index) => {
     setOpenMenus((prevState) => {
       const newState = [...prevState];
@@ -90,12 +125,18 @@ const StudentDashboard = () => {
       <div className={styles.parent}>
         <div className={styles.content}>
           <div className={styles.contenthead}>
-            <h1>Welcome Colos</h1>
+            <h1>
+              Welcome{" "}
+              {getProfile &&
+                getProfile.data &&
+                getProfile.data.student &&
+                getProfile.data.student.surname}
+            </h1>
             <p>Unlock your learning journey today!</p>
           </div>
           <img src={globe} alt="" />
           {loading && (
-            <ReactLoading color="blue" width={25} height={25} tye="spin" />
+            <ReactLoading color="blue" width={25} height={25} type="spin" />
           )}
         </div>
         <div className="slider-container">
@@ -136,58 +177,40 @@ const StudentDashboard = () => {
             <h1 className={styles.kych1}>Account Verification</h1>
             <div className={styles.kycflex}>
               <p>
-                Your account verification is pending. Some features may be
-                restricted until your account is fully verified. Please complete
-                the verification process to access all features and
-                functionalities of the student StudentDashboard.
+                Your account verification has been successful. You can now
+                access the school portal and enjoy all its features and
+                functionalities.
               </p>
             </div>
           </div>
         </div>
 
-        <div className={styles.contenttable}>
+        <div
+          className={styles.contenttable}
+          style={{
+            marginBottom: "2em",
+            paddingLeft: "2em",
+          }}
+        >
           <div className={styles.tableheader}>
             <h1 className={styles.headerh1}>Subjects</h1>
-            <p>
-              See all <IoIosArrowForward />
-            </p>
           </div>
           <div className="table-responsive">
             <table className="table table-striped table-borderless">
-              <thead className={styles.tablerow}>
-                <tr>
-                  <th
-                    className={styles.tablehead}
-                    scope="col"
-                    style={{
-                      paddingLeft: "2em",
-                      paddingBottom: "1.5000em",
-                    }}
-                  >
-                    Week(s)
-                  </th>
-                  <th
-                    className={styles.tablehead}
-                    scope="col"
-                    style={{
-                      paddingLeft: "2em",
-                      paddingBottom: "1.5000em",
-                    }}
-                  >
-                    Topic(s)
-                  </th>
-                  <th
-                    className={styles.tablehead}
-                    scope="col"
-                    style={{ paddingBottom: "1.5000em" }}
-                  >
-                    content
-                  </th>
-                </tr>
-              </thead>
+              <tbody>
+                {getProfile?.data?.subjects.map((subject, index) => (
+                  <tr key={index}>
+                    <td className={`${styles.tabledata} ${styles.subjectData}`}>
+                      {subject.subject_name}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
             </table>
           </div>
         </div>
+
+        <ToastContainer />
       </div>
     </>
   );

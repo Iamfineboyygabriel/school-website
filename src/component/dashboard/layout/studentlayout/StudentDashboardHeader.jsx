@@ -1,5 +1,4 @@
 import styles from "./css/studentdashboardheader.module.scss";
-import Passport from "../../../../assets/png/passport.jpg";
 import { IoMdArrowDropdown } from "react-icons/io";
 import usericon from "../../../../assets/svg/usericon.svg";
 import logoutuser from "../../../../assets/svg/logoutuser.svg";
@@ -12,14 +11,14 @@ import "react-toastify/dist/ReactToastify.css";
 import ReactLoading from "react-loading";
 
 const DashboardHeader = () => {
-  const [showMenu, setShowMenu] = useState(true);
+  const [showMenu, setShowMenu] = useState(false); // Changed initial state to false
   const [modal, setModal] = useState(false);
   let navigate = useNavigate();
   const [loading, setLoading] = useState(false);
 
   const toggle = () => {
     setModal(!modal);
-    setShowMenu(!showMenu);
+    setShowMenu(!showMenu); // Toggle showMenu state
   };
 
   const goToUserProfile = () => {
@@ -33,15 +32,11 @@ const DashboardHeader = () => {
 
         <div className={styles.row}>
           <div className={styles.userdata}>
-            <div className={styles.passportDiv}>
-              <img src={Passport} alt="img" className={styles.passport} />
-            </div>
-
             <div className={styles.dropdown}>
               <div className={styles.name}>
                 {loading && (
                   <ReactLoading
-                    color="blue"
+                    color="#064e3b"
                     width={25}
                     height={25}
                     type="spin"
@@ -51,8 +46,15 @@ const DashboardHeader = () => {
                   <IoMdArrowDropdown />
                 </span>
               </div>
-              <div className={styles.dropdownContent}>
-                <div className={styles.dropDownRow} onClick={goToUserProfile}>
+              <div
+                className={`${styles.dropdownContent} ${
+                  showMenu ? styles.show : ""
+                }`}
+              >
+                <div
+                  className={styles.dropDownRow}
+                  onClick={goToUserProfile}
+                >
                   <div className={styles.logoDrodownDiv}>
                     <img
                       src={usericon}
@@ -61,7 +63,14 @@ const DashboardHeader = () => {
                     />
                   </div>
                   <div className={styles.logoTitleDiv}>
-                    <div className={styles.dropDowntitle}>Profile</div>
+                    <div className={styles.dropDowntitle}>
+                      <Link
+                        to="/my-profile"
+                        style={{ color: "#052e16", fontFamily: "sans-serif" }}
+                      >
+                        Profile
+                      </Link>
+                    </div>
                   </div>
                 </div>
 
@@ -74,7 +83,14 @@ const DashboardHeader = () => {
                     />
                   </div>
                   <div className={styles.logoTitleDiv}>
-                    <div className={styles.dropDowntitle}>Log out</div>
+                    <div className={styles.dropDowntitle}>
+                      <Link
+                        to="/my-profile"
+                        style={{ color: "#052e16", fontFamily: "sans-serif" }}
+                      >
+                        Profile
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -89,7 +105,7 @@ const DashboardHeader = () => {
             isOpen={modal}
             toggle={toggle}
             fullscreen
-            style={{ width: "60%" }}
+            style={{ width: "60%", margin: "auto" }}
           >
             <ModalBody className={styles.modalParent}>
               <div onClick={toggle} className={styles.modalClose}>

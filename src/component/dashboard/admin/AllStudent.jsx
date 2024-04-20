@@ -150,7 +150,7 @@ const AllStudent = () => {
               </li>
             </ul>
           </div>
-          <div>
+          <div className="select-container">
             <select
               value={selectedStatus}
               onChange={handleStatusChange}
@@ -160,13 +160,6 @@ const AllStudent = () => {
               <option value="admitted">Admitted</option>
               <option value="rejected">Rejected</option>
             </select>
-            <button
-              className={styles.submitButton}
-              onClick={handleSubmit}
-              disabled={!selectedStatus || loading}
-            >
-              {loading ? "Loading..." : "Submit"}
-            </button>
           </div>
         </Modal>
       )}

@@ -199,16 +199,6 @@
   display: flex;
 }
 
-.inner .nocurrency {
-  color: var(--grey-primary, #373737);
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 40px;
-}
-
 .tablerow {
   height: 55px;
 }
@@ -224,16 +214,17 @@
 
 .tabledata {
   font-family: "Roboto", sans-serif;
-  font-size: 0.9em;
+  font-size: 1em;
   font-style: normal;
   font-weight: 300;
+  margin-bottom: 1em;
   line-height: 26px;
   color: #064e3b;
   min-width: 230px;
 }
 
 .tabledatas {
-  font-family: Gilroy;
+  font-family: "Roboto", sans-serif;
   font-size: 0.9em;
   font-style: normal;
   font-weight: 300;
@@ -246,6 +237,7 @@
   font-size: 0.9em;
   font-style: normal;
   font-weight: 300;
+  gap: 1em;
   line-height: 26px;
   color: #064e3b;
   min-width: 150px;
@@ -337,27 +329,27 @@
 
 .kycreg {
   border-radius: 16px;
-  background: rgba(255, 15, 15, 0.05);
+  background: #6ee7b7;
   padding: 1em 1em;
   margin: 2em;
   margin-top: 2em;
 }
 
 .kych1 {
-  color: var(--red, #ff0f0f);
+  color: #064e3b;
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
   align-items: center;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   line-height: 32px;
 }
 
 .kycflex {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
 
   p {
@@ -392,11 +384,11 @@
   align-items: center;
 }
 
-.tableheader .headerh1 {
-  color: var(--grey-primary, #373737) !important;
+.headerh1 {
+  color: var(--grey-primary, #373737);
   text-align: center;
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
+  font-size: 1.3em;
   font-style: normal;
   font-weight: 600;
   padding-left: 2em;

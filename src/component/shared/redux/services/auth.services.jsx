@@ -88,15 +88,20 @@ const AddStudent = async (body) => {
 };
 
 /*STUDENT LOGIN*/
+/**AUTH SERVICES FOR STUDENT LOGIN */
 const StudentLogin = async (body) => {
   return await axios
     .post(API_URL_STUDENT_LOGIN, body, {
       headers: authHeader(),
     })
     .then((response) => {
-      return response.data;
+      const studentData = response.data.data.token; // Assuming the token is returned in the 'token' field of the response
+      sessionStorage.setItem("studentData", studentData); // Store the student token in sessionStorage
+      console.log("here", response.data);
+      return { ...response.data, studentData }; // Return studentData along with other data
     });
 };
+
 
 /**STUDENT FORGET PASSWORD */
 const ForgetStudentPassword = async (body) => {

@@ -1,8 +1,23 @@
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import styles from "../layout/studentlayout/css/userprofile.module.scss";
 import UserProfileSections from "./UserProfileSection";
 import { IoIosLogOut } from "react-icons/io";
+import ReactLoading from "react-loading";
 
 const UserProfile = () => {
+  const navigate = useNavigate();
+  const [loading, setLoading] = useState(false);
+
+  const handleLogout = () => {
+    setLoading(true);
+    // Simulate logout process or perform any necessary actions
+    setTimeout(() => {
+      setLoading(false);
+      navigate("/student-login");
+    }, 1000); // Example: Redirect after 1 second (you can adjust the delay)
+  };
+
   return (
     <div className={styles.parent}>
       <div className={styles.content}>
@@ -12,10 +27,17 @@ const UserProfile = () => {
         <div className={styles.requestbut}>
           <button
             className={styles.btnrequest}
-            // onClick={handleModalShowTransfer}
+            onClick={handleLogout}
+            disabled={loading}
           >
-            <IoIosLogOut className={styles.icon} />
-            Log out
+            {loading ? (
+              <ReactLoading type="spin" color="#fff" height={20} width={20} />
+            ) : (
+              <>
+                <IoIosLogOut className={styles.icon} />
+                Log out
+              </>
+            )}
           </button>
         </div>
       </div>

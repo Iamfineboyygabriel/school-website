@@ -1,65 +1,68 @@
-import React, { useState } from "react";
-import styles from "./changepassword.module.scss"; // Assuming you have CSS file for styling
-import { toast } from "react-toastify";
+// import React, { useState } from "react";
+// import styles from "../student/changepassword.module.scss";
+// import { ToastContainer, toast } from "react-toastify";
+// import ReactLoading from "react-loading";
+// import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
+// import { ResetAdminPassword } from "../../shared/redux/slices/auth.slices";
+
+// const AdminResetPassword = () => {
+//   const [email, setEmail] = useState("");
+//   const [loading, setLoading] = useState(false);A
+//   const dispatch = useAppDispatch();
+
+//   const resetAdminPassword = useAppSelector(
+//     (state) => state.auth.resetAdminPassword
+//   );
+//   console.log("here", resetAdminPassword);
+//   const resetAdminData = () => {
+//     setLoading(true);
+//     let body = {
+//       email,
+//     };
+//     dispatch(ResetAdminPassword(body))
+//       .unwrap()
+//       .then(() => {
+//         setLoading(false);
+//       })
+//       .catch((err) => {
+//         const errorMessage = err.errorMessage;
+//         toast.error(errorMessage);
+//         setLoading(false);
+//       });
+//   };
+
+//   return (
+//     <div className={styles.container}>
+//       <div className={styles.form}>
+//         <div className={styles.inputGroup}>
+//           <label>Email Address</label>
+//           <input
+//             type="email"
+//             placeholder="Kindly input your email address"
+//             value={email}
+//             onChange={(e) => setEmail(e.target.value)}
+//           />
+//         </div>
+
+//         <button onClick={resetAdminData} className={styles.submitButton}>
+//           {loading ? (
+//             <ReactLoading color="white" width={25} height={25} type="spin" />
+//           ) : (
+//             "Submit"
+//           )}
+//         </button>
+//       </div>
+//       <ToastContainer />
+//     </div>
+//   );
+// };
+
+// export default AdminResetPassword;
+
+import React from "react";
 
 const AdminResetPassword = () => {
-  const [password, setPassword] = useState("");
-  const [confirmPassword, setConfirmPassword] = useState("");
-
-  const handleChangePassword = () => {
-    // Logic to check if passwords match and contain required characters
-    if (password !== confirmPassword) {
-      // Passwords don't match
-      toast.error("Passwords do not match");
-    } else if (
-      !/[a-z]/.test(password) ||
-      !/[A-Z]/.test(password) ||
-      !/[0-9]/.test(password) ||
-      !/[^a-zA-Z0-9]/.test(password)
-    ) {
-      // Password does not contain required characters
-      toast.error(
-        "Password must contain at least one lowercase letter, one uppercase letter, one number, and one special character"
-      );
-    } else {
-      // Password change logic here
-      // You can make an API call to update the password
-      toast.success("Password changed successfully");
-    }
-  };
-
-  return (
-    <div className={styles.container}>
-      <h2>Kindly Change Your Password</h2>
-      <div className={styles.form}>
-        <div className={styles.inputGroup}>
-          <label>Password</label>
-          <input
-            type="password"
-            value={password}
-            placeholder="input your password"
-            onChange={(e) => setPassword(e.target.value)}
-          />
-        </div>
-        <div className={styles.inputGroup}>
-          <label>Confirm Password</label>
-          <input
-            type="password"
-            value={confirmPassword}
-            placeholder="confirm your password"
-            onChange={(e) => setConfirmPassword(e.target.value)}
-          />
-        </div>
-        <button className={styles.submitButton} onClick={handleChangePassword}>
-          Submit
-        </button>
-      </div>
-      <p className={styles.passwordAdvice}>
-        Kindly choose a password that contains at least one lowercase letter,
-        one uppercase letter, one number, and one special character.
-      </p>
-    </div>
-  );
+  return <div>AdminResetPassword</div>;
 };
 
 export default AdminResetPassword;

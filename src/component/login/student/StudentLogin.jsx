@@ -33,11 +33,12 @@ const StudentLogin = () => {
       .unwrap()
       .then(() => {
         setLoading(false);
-        navigate("/dashboard");
+        navigate("/student-dashboard");
+        toast.success("Login successful");
       })
       .catch((err) => {
         const errorMessage = err.message;
-        toast.error(errorMessage); // Display the error message obtained from the backend
+        toast?.error(errorMessage);
         setLoading(false);
       });
   };
@@ -72,32 +73,53 @@ const StudentLogin = () => {
               <input
                 onChange={(e) => setadmissionNumber(e.target.value)}
                 className={styles.calculatorinput}
-                type="number"
+                type="string"
                 placeholder="Enter your Admission number"
               />
 
               <h2 className={styles.rowname}>Password</h2>
-              <div className={styles.group}>
+              <div
+                style={{
+                  position: "relative",
+                  display: "flex",
+                  alignItems: "center",
+                }}
+              >
                 <input
-                  className={styles.calculatorinputgroup}
+                  onChange={(e) => setPassword(e.target.value)}
+                  style={{
+                    width: "100%",
+                    height: "50px",
+                    marginTop: "0.4em",
+                    borderRadius: "8px",
+                    border: "1px solid var(--grey-50, #ccc)",
+                    background: "var(--white-full, #fff)",
+                    padding: "0.5em",
+                    paddingRight: "40px", // Space for the button
+                  }}
                   type={passwordType}
                   placeholder="Enter password"
-                  onChange={(e) => setPassword(e.target.value)}
                   value={password}
                   name="password"
                 />
-                <div className="input-group-btn">
-                  <button
-                    className={styles.visibility}
-                    onClick={togglePassword}
-                  >
-                    {passwordType === "password" ? (
-                      <MdOutlineVisibilityOff />
-                    ) : (
-                      <MdOutlineVisibility />
-                    )}
-                  </button>
-                </div>
+                <button
+                  className={styles.visibility}
+                  onClick={togglePassword}
+                  style={{
+                    position: "absolute",
+                    right: "5px",
+                    top: "50%",
+                    transform: "translateY(-50%)",
+                    border: "none",
+                    backgroundColor: "transparent",
+                  }}
+                >
+                  {passwordType === "password" ? (
+                    <MdOutlineVisibilityOff />
+                  ) : (
+                    <MdOutlineVisibility />
+                  )}
+                </button>
               </div>
 
               <p className={styles.forget}>
@@ -153,4 +175,3 @@ const StudentLogin = () => {
 };
 
 export default StudentLogin;
-

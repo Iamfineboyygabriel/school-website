@@ -54,7 +54,7 @@ function App() {
         <Route path="/change-password" element={<PasswordChange />} />
         <Route path="/admin-reset-password" element={<AdminResetPassword />} />
         <Route
-          path="/admin-reset-password"
+          path="/student-reset-password"
           element={<StudentResetPassword />}
         />
         <Route path="/register" element={<Register />} />

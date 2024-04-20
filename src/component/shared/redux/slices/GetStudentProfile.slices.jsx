@@ -1,14 +1,12 @@
-import studentProfileService from "../services/getProfile.services";
-import { setMessage } from "./message.slices";
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+import { setMessage } from "./message.slices";
+import studentProfileService from "../services/GetStudentProfile.services";
 
-//GET STUDENT PROFILE SLICE
-export const getStudentProfile = createAsyncThunk(
-  "student/getStudentProfile",
+export const GetProfileStudent = createAsyncThunk(
+  "student/GetStudentProfile",
   async (thunkAPI) => {
     try {
-      const data = await studentProfileService.getStudentProfile();
-      console.log("here", data);
+      const data = await studentProfileService.GetStudentProfile();
       return { student: data };
     } catch (error) {
       const message =
@@ -33,10 +31,10 @@ export const studentProfileSlice = createSlice({
   initialState,
   reducers: {},
   extraReducers: (builder) => {
-    builder.addCase(getStudentProfile.fulfilled, (state, action) => {
-      state.profile = action.payload.students;
+    builder.addCase(GetProfileStudent.fulfilled, (state, action) => {
+      state.profile = action.payload.student;
     });
-    builder.addCase(getStudentProfile.rejected, (state) => {
+    builder.addCase(GetProfileStudent.rejected, (state) => {
       state.profile = null;
     });
   },
