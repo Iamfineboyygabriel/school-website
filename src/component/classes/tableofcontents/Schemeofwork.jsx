@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import styles from "./schemeofwork.module.scss";
-import { useParams, Link, useNavigate } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import StudentSideBar from "../../../component/dashboard/layout/studentlayout/StudentSideBar";
 import ReactLoading from "react-loading";
 import Modal from "../modal/Modal";
@@ -101,15 +101,6 @@ const SchemeOfWork = () => {
     setSelectedOption(option);
   };
 
-  // Function to generate demo related subjects
-  const generateDemoRelatedSubjects = () => {
-    return [
-      { subject: "Physics", classGrade: "JSS2", term: "First Term" },
-      { subject: "Chemistry", classGrade: "JSS2", term: "First Term" },
-      { subject: "Biology", classGrade: "JSS2", term: "First Term" },
-    ];
-  };
-
   // Function to handle submitting modal
   const handleSubmitModal = () => {
     setIsLoading(true);
@@ -178,28 +169,6 @@ const SchemeOfWork = () => {
               ))}
           </tbody>
         </table>
-
-        <div className={styles.relatedContent}>
-          <div className={styles.relatedText}>
-            Related to {subject} scheme of work for {classGrade} {term}
-          </div>
-          <div className={styles.relatedSubjects}>
-            {generateDemoRelatedSubjects().map((relatedSubject, index) => (
-              <Link
-                key={index}
-                to={`/scheme-of-work/${relatedSubject.classGrade}/${relatedSubject.term}/${relatedSubject.subject}`}
-                className={styles.relatedSubjectLink}
-              >
-                <ul>
-                  <li>
-                    {relatedSubject.subject} scheme of work for {""}
-                    {relatedSubject.classGrade} {relatedSubject.term}
-                  </li>
-                </ul>
-              </Link>
-            ))}
-          </div>
-        </div>
 
         {showModal && (
           <Modal onCloseModal={handleCloseModal}>
@@ -283,69 +252,67 @@ const SchemeOfWork = () => {
 
 export default SchemeOfWork;
 
-
-
-  // // Function to fetch scheme of work data
-  // const fetchSchemeOfWorkData = () => {
-  //   // For demo purposes, simulate fetching data
-  //   const mockSchemeOfWorkData = [
-  //     {
-  //       week: 1,
-  //       topics: "Introduction to Algebra",
-  //       content:
-  //         "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
-  //     },
-  //     {
-  //       week: 2,
-  //       topics: "Linear Equations and Inequalities",
-  //       content:
-  //         "Understanding linear equations and inequalities. Solving linear equations with one variable and graphing linear inequalities on a coordinate plane.",
-  //     },
-  //     {
-  //       week: 3,
-  //       topics: "Polynomials",
-  //       content:
-  //         "Introduction to polynomials. Adding, subtracting, multiplying, and dividing polynomials. Factoring polynomials and solving polynomial equations.",
-  //     },
-  //     {
-  //       week: 4,
-  //       topics: "Quadratic Equations",
-  //       content: [
-  //         "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
-  //         "Word Problem",
-  //         "Graphs of Linear Equation",
-  //       ],
-  //     },
-  //     {
-  //       week: 5,
-  //       topics: "Rational Expressions and Equations",
-  //       content:
-  //         "Exploring rational expressions and equations. Simplifying and performing operations on rational expressions. Solving rational equations.",
-  //     },
-  //     {
-  //       week: 6,
-  //       topics: "Exponents and Radicals",
-  //       content:
-  //         "Introduction to exponents and radicals. Simplifying expressions with exponents and radicals. Solving equations involving exponents and radicals.",
-  //     },
-  //     {
-  //       week: 7,
-  //       topics: "Functions and Graphs",
-  //       content: [
-  //         "Understanding functions and their graphs. Identifying key features of functions, including domain, range, and intercepts. Graphing various types of functions.",
-  //         "Difference of Two Square",
-  //       ],
-  //     },
-  //     {
-  //       week: 8,
-  //       topics: "Revision",
-  //       content: "Revision on all work done",
-  //     },
-  //     {
-  //       week: 9,
-  //       topics: "Examination",
-  //       content: "Examination",
-  //     },
-  //   ];
-  //   setSchemeOfWorkContent(mockSchemeOfWorkData);
-  // };
+// // Function to fetch scheme of work data
+// const fetchSchemeOfWorkData = () => {
+//   // For demo purposes, simulate fetching data
+//   const mockSchemeOfWorkData = [
+//     {
+//       week: 1,
+//       topics: "Introduction to Algebra",
+//       content:
+//         "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
+//     },
+//     {
+//       week: 2,
+//       topics: "Linear Equations and Inequalities",
+//       content:
+//         "Understanding linear equations and inequalities. Solving linear equations with one variable and graphing linear inequalities on a coordinate plane.",
+//     },
+//     {
+//       week: 3,
+//       topics: "Polynomials",
+//       content:
+//         "Introduction to polynomials. Adding, subtracting, multiplying, and dividing polynomials. Factoring polynomials and solving polynomial equations.",
+//     },
+//     {
+//       week: 4,
+//       topics: "Quadratic Equations",
+//       content: [
+//         "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
+//         "Word Problem",
+//         "Graphs of Linear Equation",
+//       ],
+//     },
+//     {
+//       week: 5,
+//       topics: "Rational Expressions and Equations",
+//       content:
+//         "Exploring rational expressions and equations. Simplifying and performing operations on rational expressions. Solving rational equations.",
+//     },
+//     {
+//       week: 6,
+//       topics: "Exponents and Radicals",
+//       content:
+//         "Introduction to exponents and radicals. Simplifying expressions with exponents and radicals. Solving equations involving exponents and radicals.",
+//     },
+//     {
+//       week: 7,
+//       topics: "Functions and Graphs",
+//       content: [
+//         "Understanding functions and their graphs. Identifying key features of functions, including domain, range, and intercepts. Graphing various types of functions.",
+//         "Difference of Two Square",
+//       ],
+//     },
+//     {
+//       week: 8,
+//       topics: "Revision",
+//       content: "Revision on all work done",
+//     },
+//     {
+//       week: 9,
+//       topics: "Examination",
+//       content: "Examination",
+//     },
+//   ];
+//   setSchemeOfWorkContent(mockSchemeOfWorkData);
+// };

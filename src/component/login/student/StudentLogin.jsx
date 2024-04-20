@@ -4,8 +4,6 @@ import arrow from "../../../assets/png/arrowright.png";
 import { Link, useNavigate } from "react-router-dom";
 import { MdOutlineVisibilityOff, MdOutlineVisibility } from "react-icons/md";
 import ReactLoading from "react-loading";
-import Modal from "../../classes/modal/Modal";
-import ForgetPasswordModal from "./forgetPasswordModal";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { useAppSelector } from "../../shared/redux/reduxHooks";
@@ -161,15 +159,9 @@ const StudentLogin = () => {
               </span>
             </p>
           </div>
-          <p className={styles.donthave} style={{ marginTop: "1em" }}>
-            By clicking sign in, you agree to our{" "}
-            <span>Terms & Conditions </span>and <span>Privacy Policy</span>
-          </p>
         </div>
       </div>
-      <Modal isOpen={showModal} onClose={closeModal}>
-        <ForgetPasswordModal />
-      </Modal>
+      <ToastContainer />
     </div>
   );
 };
