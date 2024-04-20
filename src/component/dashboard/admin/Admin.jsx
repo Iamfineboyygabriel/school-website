@@ -89,7 +89,10 @@ const Admin = () => {
               <Link to="/admin-login">
                 <div className={styles.iconpagename}>
                   <img src={Logout} className={styles.icon} alt="horse" />
-                  <div style={{ color: "white" }} className={styles.pageName}>
+                  <div
+                    style={{ color: "white", fontFamily: "sans-serif" }}
+                    className={styles.pageName}
+                  >
                     LogOut
                   </div>
                 </div>
