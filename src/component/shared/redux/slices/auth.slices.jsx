@@ -22,6 +22,25 @@ export const RegisterAnAdmin = createAsyncThunk(
   }
 );
 
+export const AdminReset = createAsyncThunk(
+  "auth/adminReset",
+  async (body, thunkAPI) => {
+    try {
+      const data = await AuthServices.AdminForget(body);
+      return { auth: data };
+    } catch (error) {
+      const message =
+        (error.response &&
+          error.response.data &&
+          error.response.data.message) ||
+        error.message ||
+        error.toString();
+      thunkAPI.dispatch(setMessage(message));
+      return thunkAPI.rejectWithValue(message);
+    }
+  }
+);
+
 /**AUTH SLICE TO LOGIN ADMIN  */
 export const AdminLogin = createAsyncThunk(
   "auth/adminLogin",
@@ -150,7 +169,8 @@ const initialState = {
   forgetPassword: null,
   forgetAdminPassword: null,
   approveStudent: null,
-  adminData: null, //remove late
+  adminData: null,
+  adminResetPassword: null,
 };
 
 export const authSlice = createSlice({
@@ -199,6 +219,12 @@ export const authSlice = createSlice({
     });
     builder.addCase(ApproveStudent.rejected, (state) => {
       state.approveStudent = null;
+    });
+    builder.addCase(AdminReset.fulfilled, (state, action) => {
+      state.adminReset = action.payload.auth;
+    });
+    builder.addCase(AdminReset.rejected, (state) => {
+      state.adminReset = null;
     });
   },
 });

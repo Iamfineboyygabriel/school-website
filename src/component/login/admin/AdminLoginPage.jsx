@@ -126,7 +126,7 @@ const AdminLoginPage = () => {
 
               <p className={styles.forget}>
                 <Link
-                  to="/student-reset-password"
+                  to="/admin-reset-password"
                   style={{
                     textDecoration: "none",
                     fontFamily: "sans-serif",
