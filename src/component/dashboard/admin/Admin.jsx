@@ -68,7 +68,7 @@ const Admin = () => {
           >
             admission
           </button>
-          <button
+          {/* <button
             className={activeTab === "test" ? styles.activeButton : ""}
             onClick={() => handleTabChange("test")}
           >
@@ -79,7 +79,7 @@ const Admin = () => {
             onClick={() => handleTabChange("assignment")}
           >
             Assignment
-          </button>
+          </button> */}
 
           <button className={styles.log} onClick={handleLogout}>
             {/* Show loading spinner if loading state is true, otherwise show logout button */}

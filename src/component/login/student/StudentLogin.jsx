@@ -121,9 +121,16 @@ const StudentLogin = () => {
               </div>
 
               <p className={styles.forget}>
-                <span onClick={openModal} className={styles.resetPassword}>
+                <Link
+                  to="/student-reset-password"
+                  style={{
+                    textDecoration: "none",
+                    fontFamily: "sans-serif",
+                    color: "#052e16",
+                  }}
+                >
                   Reset Password?
-                </span>
+                </Link>
               </p>
               <div className={styles.requestbut}>
                 <button

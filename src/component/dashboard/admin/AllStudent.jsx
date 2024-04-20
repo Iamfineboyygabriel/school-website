@@ -150,19 +150,65 @@ const AllStudent = () => {
               </li>
             </ul>
           </div>
-          <div className="select-container">
-            <select
-              value={selectedStatus}
-              onChange={handleStatusChange}
-              className={styles.statusDropdown}
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "flex-end",
+            }}
+          >a
+            <div
+              className="select-container"
+              style={{ width: "200px", marginRight: "10px" }}
             >
-              <option value="">Change Status</option>
-              <option value="admitted">Admitted</option>
-              <option value="rejected">Rejected</option>
-            </select>
+              <select
+                value={selectedStatus}
+                onChange={handleStatusChange}
+                className={styles.statusDropdown}
+                style={{
+                  width: "100%",
+                  height: "40px", // Increase height of select options
+                  padding: "5px", // Add padding for better spacing
+                  borderRadius: "5px", // Add rounded corners
+                  border: "1px solid #ccc", // Add border
+                }}
+              >
+                <option value="">Change Status</option>
+                <option
+                  value="admitted"
+                  style={{ backgroundColor: "#4caf50", color: "white" }}
+                >
+                  Admitted
+                </option>
+                <option
+                  value="rejected"
+                  style={{ backgroundColor: "#f44336", color: "white" }}
+                >
+                  Rejected
+                </option>
+              </select>
+            </div>
+
+            <button
+              onClick={handleSubmit}
+              disabled={!selectedStatus}
+              className={styles.submitButton}
+              style={{
+                padding: "10px 20px",
+                backgroundColor: "#052e16",
+                color: "white",
+                border: "none",
+                borderRadius: "5px",
+                cursor: "pointer",
+                transition: "background-color 0.3s ease",
+              }}
+            >
+              Submit
+            </button>
           </div>
         </Modal>
       )}
+
       <ToastContainer />
     </div>
   );

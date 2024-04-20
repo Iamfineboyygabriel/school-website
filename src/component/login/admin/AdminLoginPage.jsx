@@ -160,12 +160,6 @@ const AdminLoginPage = () => {
               </div>
             </div>
           </div>
-          <div>
-            <p className={styles.donthave} style={{ marginTop: "1em" }}>
-              By clicking sign in, you agree to our{" "}
-              <span>Terms & Conditions </span>and <span>Privacy Policy</span>
-            </p>
-          </div>
         </div>
       </div>
       <ToastContainer position="top-center" />
