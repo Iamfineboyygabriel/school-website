@@ -1710,9 +1710,183 @@ export const SchemeOfWorkData = {
           content: ["JSS1 English Studies Second Term Examination"],
         },
       ],
-      "Home Economics": [{
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Family Needs, Goals and Standards",
+          content: [
+            "(a) Meaning and Types of Family Needs and Wants",
+            "(b) Meaning of Family Goals and Standards",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Family Needs, Goals and Standards",
+          content: [
+            "(c) Types of Family Goals and Standards",
+            "(d) Relationship among Family Needs, Goals and Standards",
+            "(e) Uses of Family Needs, Goals and Standards in Resource Management",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Production of Clothing and Household Articles/Crafts",
+          content: [
+            "(a) Listing and Explaining Simple Relevant Household Articles and Crafts",
+            "(b) Tools, Equipment and Materials for Making Simple Articles and Crafts",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Production of Clothing and Household Articles/Crafts",
+          content: [
+            "(c) Construction of Simple Relevant Articles (Practical)",
+            "e.g. apron, cap, needlework bag, head rest, table mat, puffs, purse, curtain holder, bibs, arm rest, shopping bag, head-tie, napkin and handkerchief",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Production of Clothing and Household Articles/Crafts",
+          content: [
+            "(d) Production of Income Yielding Crafts",
+            "e.g. tie/dye and batik fabrics",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Production of Cleaning Agents, Deodorants and Cosmetics",
+          content: [
+            "(a) Types of Home-made Cleaning Agents",
+            "e.g. Polish (Steps necessary)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Production of Cleaning Agents, Deodorants and Cosmetics",
+          content: ["(b) Uses of Home-made Cleaning Agents"],
+        },
+        {
+          week: 8,
+          topics: "Production of Cleaning Agents, Deodorants and Cosmetics",
+          content: [
+            "(c) Types of Cosmetics",
+            "(d) Materials and Tools for Making Cosmetics",
+            "e.g. pomade, cream and deodorants",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Production of Cleaning Agents, Deodorants and Cosmetics",
+          content: [
+            "(e) Safety, Quality and Regulatory Control of Cosmetic Products in Nigeria",
+            "(f) Roles of Regulatory Bodies e.g. NAFDAC, SON, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Production of Cleaning Agents, Deodorants and Cosmetics",
+          content: [
+            "(g) Procedure for Making Cream/Pomade, Deodorants and Cosmetics",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["JSS1 Home Economics Second Term Examination"],
+        },
+      ],
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Estimation",
+          content: [
+            "(a) Estimation of Dimensions and Distances",
+            "(b) Estimation of the Capacity and Mass of Objects",
+            "(c) Estimation of Other Things",
+            "e.g. age, time, square root and cube root, etc.",
+            "(d) Quantitative Reasoning Involving Estimation",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Approximation",
+          content: [
+            "(a) Rounding Off (Rounding Up and Rounding Down)",
+            "(b) Approximating the Results of Addition and Subtraction",
+            "(c) Approximating the Results of Multiplication and Division",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Approximation",
+          content: [
+            "(a) Rounding Off Numbers to the Nearest Whole Numbers, 10, 100, 1000, 0.5, 0.1, etc.",
+            "(b) Application of Approximation in Everyday Life",
+            "(c) Quantitative Reasoning Involving Approximation",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Addition and Subtraction of Numbers in Base 2 Numerals",
+          content: [
+            "(a) Addition of Two or Three Digit Binary Numbers",
+            "(b) Subtraction of Two or Three Digit Binary Numbers",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Multiplication of Numbers in Base 2 Numerals",
+          content: ["Multiplication of Two or Three Digit Binary Numbers"],
+        },
+        {
+          week: 6,
+          topics: "Use of symbols",
+          content: [
+            "(a) Open Sentences",
+            "(b) Use of Letters to Represent Symbols and Shapes in Open Sentences",
+            "(c) Solving Open Sentences with Two Arithmetic Operations",
+            "(d) Quantitative Reasoning",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Simplification of Algebraic Expressions",
+          content: [
+            "(a) Basic Arithmetic Operations Applied to Algebraic Expressions of Similar Terms",
+            "(b) Collection and Simplification of Like and Unlike Terms in Algebraic Expressions",
+            "(c) Use of Brackets",
+            "(d) Quantitative Reasoning",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Simple Equations",
+          content: [
+            "(a) Meaning of Equation",
+            "(b) Solving Simple Equations",
+            "(c) Translation of Word Problems into Equations and Vice versa",
+            "(d) Solving word Problems",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Mathematics Second Term Examination"],
+        },
+      ],
+      Music:[
         
-      }]
+      ]
     },
   },
 };
