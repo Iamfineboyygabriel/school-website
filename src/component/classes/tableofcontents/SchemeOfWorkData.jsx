@@ -1104,6 +1104,360 @@ export const SchemeOfWorkData = {
           content: ["JSS1 Agric Science Second Term Examination"],
         },
       ],
+      "Basic Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Living Things",
+          content: [
+            "(i) Meaning of Living Things",
+            "(ii) Characteristics of Living Things",
+            "(iii) Classification of Living Things",
+            "(iv) Differences and Similarities between Plants and Animals",
+            "(v) Uses/Importance of Plants and Animals",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Non-living Things",
+          content: [
+            "(a) Matter",
+            "(i) Meaning of Matter",
+            "(ii) Identification of Matter",
+            "(iii) States of Matter",
+            "(iv) Change of State of Matter",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Non-living Things",
+          content: [
+            "(b) Classification of Non-living Things – Metals and Non-metals",
+            "(i) Meaning, Properties and Uses of Metals",
+            "(ii) Meaning, Properties and Uses of Non-metals",
+          ],
+        },
+        {
+          week: 5,
+          topics: "You and Energy",
+          content: [
+            "(i) Meaning of Energy",
+            "(ii) Sources of Energy",
+            "(iii) Forms of Energy",
+            "(iii) Transformation of Energy",
+            "(iv) Uses of Energy",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Renewable and Non-renewable Energy",
+          content: [
+            "(a) Renewable Energy",
+            "(i) Meaning of Renewable Energy",
+            "(ii) Uses/Advantages of Renewable Energy",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Renewable and Non-renewable Energy",
+          content: [
+            "(b) Non-renewable Energy",
+            "(i) Meaning of Non-renewable Energy",
+            "(ii) Misuses/Disadvantages of Renewable Energy",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Renewable and Non-renewable Energy",
+          content: [
+            "(c) Energy and Society",
+            "(i) Effects of Energy on Society",
+            "(ii) Ways Lack of Energy Supply Affects Societal Development",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["JSS1 Basic Science Second Term Examination"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Basic Science First Term Examination"],
+        },
+      ],
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Drawing Instruments and Materials",
+          content: [
+            "(a) Drawing Instruments and Materials: tee-square, set square, pair of compasses and dividers, the protractor, rulers, templates and stencils, pencils and glass paper block, pencil sharpener, erasers and erasing shields, drawing papers, French curves, drafting tapes, tracing papers, etc.",
+            "(b) Basic Techniques of Handling, Storage and Caring for Instruments and Drawing Materials",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Drawing Instruments and Materials",
+          content: [
+            "(c) Uses of Drawing Instruments and Materials",
+            "(d) Care of Drawing Instruments and Materials",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Board Practice",
+          content: [
+            "Basic Board Practice",
+            "(a) Setting Drawing Paper on the Board",
+            "(b) Sharpening Pencil to Conical Point and Knife Edge",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Board Practice",
+          content: [
+            "(c) Using the Tee and Set Square for Drawing Board; Horizontal and Vertical Lines",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Board Practice",
+          content: [
+            "(d) Positioning and Drawing the Title Block",
+            "(e) Freehand Writing of Letters and Numerals",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Freehand Sketching",
+          content: [
+            "Basic Freehand Techniques of Drawing Lines, Curves, Circles, and Irregular Shapes",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Freehand Sketching",
+          content: [
+            "Basic Freehand Techniques of Drawing Circles, Irregular Shapes, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Basic Technology First Term Examination"],
+        },
+      ],
+      "Business Studies": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Types of Occupation",
+          content: [
+            "(i) Meaning of Occupation",
+            "(ii) Divisions of Occupation – Industrial, Commercial and Service Occupations",
+            "(iii) Factors which Affect Occupations",
+            "(iv) Differences between Direct and Indirect Services",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Honesty in Business",
+          content: [
+            "(i) Meaning of Truthfulness",
+            "(ii) Attributes of Truthfulness",
+            "(iii) Factors that Cause People to Lie",
+            "(iv) Reward for Being Truthful",
+            "(v) Consequences of Not Being Truthful",
+            "(vi) Meaning of Fair Play",
+            "(vii) Attributes of Fair Play",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Ethics in Sourcing Chemicals",
+          content: [
+            "(i) Meaning of Ethics",
+            "(ii) Ethics in Sourcing Chemicals – From licensed chemicals vendors, good handling techniques, good distribution, and proper disposal",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Entrepreneurship",
+          content: [
+            "(i) Meaning of Entrepreneurship, Enterprise, Self-Employment",
+            "(ii) Facilities Available for Self-employment",
+            "(iii) Successful Entrepreneurs in Your Locality, Nigeria, International Community",
+            "(iv) Importance of Entrepreneurship",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Forms of Business Organization",
+          content: [
+            "(a) Types of Business Organization – Sole Trade/Sole proprietorship, partnership, limited liability companies, cooperative society",
+            "(b) Advantages and Disadvantages of Each Form of Business Organization",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Consumer, Market and Society",
+          content: [
+            "(a) Meaning of Consumer, Market, Society",
+            "(b) The Need for Consumer Education",
+            "(c) Importance of Consumer Education",
+            "(d) Consequences of Lack of Consumer Education",
+          ],
+        },
+        {
+          week: 8,
+          topics: "The Need For Monitoring And Control Of Chemicals",
+          content: [
+            "(a) Meaning Of Chemicals",
+            "(b) Chemicals Suitable and Not Suitable For Use",
+            "(c) The Need For Monitoring And Controlling Food, Drug, Chemicals",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Introduction to Book-keeping",
+          content: [
+            "(a) Meaning of Book-keeping",
+            "(b) Importance of Book-keeping",
+            "(c) Essentials Qualities of Book-keeping",
+            "(d) Common Book-keeping Practices",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Source Documents",
+          content: [
+            "(a) Meaning of Source Document",
+            "(b) Uses of Source Documents",
+            "(c) Types of Source Documents: Invoice – sales invoice and purchase invoice, receipt for payment made, cash registered tapes, credit note, debit notes, cheques",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Journals",
+          content: [
+            "(i) Meaning of Journal",
+            "(ii) Types of Journals: General, Special Journals – sales, purchases, return inward and return outward",
+            "(iii) Books of Original Entry",
+          ],
+        },
+        {
+          week: 12,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 13,
+          topics: "Examination",
+          content: ["JSS1 Business Studies First Term Examination"],
+        },
+      ],
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision of First Term work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Call to Repentance",
+          content: [
+            "(a) The Meaning of Repentance",
+            "(b) King David Obeys God’s Call to Repentance (2 Sam. 12:7-13, Ps. 51:1-19)",
+            "(c) Zacchaeus Responds to the Call to Repentance (Luke 19:1-9)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Call to Repentance",
+          content: [
+            "(d) The People of Nineveh Repent of their Sins (Jonah 3:1-10)",
+            "(e) John the Baptist Calls for Repentance (Luke 3:1-14)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Call to Repentance",
+          content: [
+            "(e) Consequences of Lack of Repentance (1 Sam. 3:18, 4:10-21)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Call to Obedience",
+          content: [
+            "(a) Meaning of Obedience",
+            "(b) The Call of Abraham",
+            "(c) Blessings from Obeying God’s Call (Gen. 12:1-9)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Call to Obedience",
+          content: [
+            "(d) The Birth of Isaac (Gen. 21:1-8)",
+            "(e) Abraham Demonstrates His Obedience in the Sacrifice of Isaac (Gen 22:1-18)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Call to Service",
+          content: [
+            "(a) Meaning of Service",
+            "(b) Examples of People Who Served in the Bible",
+            "(i) Joseph is Sold to Egypt (Gen. 37:12-36)",
+            "(ii) Joseph Serves in Egypt (Gen. 41:37-57)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Call to Service",
+          content: [
+            "(c) Ruth Serves Her Mother-in-Law (Ruth 1:7-18)",
+            "(d) Lessons from the Services of Joseph and Ruth",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Call to Service",
+          content: [
+            "(e) Life in God’s Service (1 Peter 2:18-25)",
+            "(f) Problems of Service",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: [" Revision of work done in second term "],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 CRS Second Term Examination "],
+        },
+      ],
     },
   },
 };
