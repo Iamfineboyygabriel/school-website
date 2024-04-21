@@ -8,41 +8,41 @@ import ReactLoading from "react-loading";
 const Jss2FirstTerm = () => {
   const data = [
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS2",
       subject: "Agricultural Science",
     },
-    { term: "First Term", class: "JSS2", subject: "Basic Science" },
-    { term: "First Term", class: "JSS2", subject: "Basic Technology" },
+    { term: "FirstTerm", class: "JSS2", subject: "Basic Science" },
+    { term: "FirstTerm", class: "JSS2", subject: "Basic Technology" },
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS2",
       subject: "Business Studies",
     },
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS2",
       subject: "Christian Religious Studies",
     },
-    { term: "First Term", class: "JSS2", subject: "Civic Education" },
-    { term: "First Term", class: "JSS2", subject: "Computer Studies" },
+    { term: "FirstTerm", class: "JSS2", subject: "Civic Education" },
+    { term: "FirstTerm", class: "JSS2", subject: "Computer Studies" },
+    // {
+    //   term: "FirstTerm",
+    //   class: "JSS2",
+    //   subject: "Cultural and Creative Arts",
+    // },
+    { term: "FirstTerm", class: "JSS2", subject: "English Studies" },
+    { term: "FirstTerm", class: "JSS2", subject: "Home Economics" },
+    { term: "FirstTerm", class: "JSS2", subject: "Mathematics" },
+    { term: "FirstTerm", class: "JSS2", subject: "Music" },
     {
-      term: "First Term",
-      class: "JSS2",
-      subject: "Cultural and Creative Arts",
-    },
-    { term: "First Term", class: "JSS2", subject: "English Studies" },
-    { term: "First Term", class: "JSS2", subject: "Home Economics" },
-    { term: "First Term", class: "JSS2", subject: "Mathematics" },
-    { term: "First Term", class: "JSS2", subject: "Music" },
-    {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS2",
       subject: "Physical and Health Education (PHE)",
     },
-    { term: "First Term", class: "JSS2", subject: "Social Studies" },
+    { term: "FirstTerm", class: "JSS2", subject: "Social Studies" },
   ];
-  const selectedTerm = "First Term";
+  const selectedTerm = "FirstTerm";
   const selectedClass = "JSS2";
 
   const [selectedSubject, setSelectedSubject] = useState(null);

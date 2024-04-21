@@ -12,36 +12,68 @@ const Jss1FirstTerm = () => {
       term: "FirstTerm",
       subject: "Agricultural Science",
     },
-    { term: "FirstTerm", class: "JSS1", subject: "Basic Science" },
-    { term: "FirstTerm", class: "JSS1", subject: "Basic Technology" },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Basic Science",
+    },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Basic Technology",
+    },
 
     {
-      term: "FirstTerm",
       class: "JSS1",
+      term: "FirstTerm",
       subject: "Business Studies",
     },
     {
-      term: "FirstTerm",
       class: "JSS1",
+      term: "FirstTerm",
       subject: "Christian Religious Studies",
     },
-    { term: "FirstTerm", class: "JSS1", subject: "Civic Education" },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Civic Education",
+    },
     { term: "FirstTerm", class: "JSS1", subject: "Computer Studies" },
     // {
     //   term: "FirstTerm",
     //   class: "JSS1",
     //   subject: "Cultural and Creative Arts",
     // },
-    { term: "FirstTerm", class: "JSS1", subject: "English Studies" },
-    { term: "FirstTerm", class: "JSS1", subject: "Home Economics" },
-    { term: "FirstTerm", class: "JSS1", subject: "Mathematics" },
-    { term: "FirstTerm", class: "JSS1", subject: "Music" },
     {
-      term: "FirstTerm",
       class: "JSS1",
+      term: "FirstTerm",
+      subject: "English Studies",
+    },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Home Economics",
+    },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Mathematics",
+    },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Music",
+    },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
       subject: "Physical and Health Education (PHE)",
     },
-    { term: "FirstTerm", class: "JSS1", subject: "Social Studies" },
+    {
+      class: "JSS1",
+      term: "FirstTerm",
+      subject: "Social Studies",
+    },
   ];
   const selectedTerm = "FirstTerm";
   const selectedClass = "JSS1";

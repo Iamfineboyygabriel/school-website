@@ -3141,8 +3141,994 @@ export const SchemeOfWorkData = {
   },
 
   JSS2: {
-    Firsterm: {
-      
+    FirstTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: [
+            "Revision of last term's work",
+            "Revision of work done in the previous term/session",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Farm Structures and Buildings",
+          content: [
+            "(a) Description of Farm Structures and Buildings:",
+            "(i) Farm Structures – barns, silos, rhombus, paddock, fish ponds, etc.",
+            "(ii) Farm Buildings – poultry houses, pen, store, offices, utility building, security post, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Farm Structures and Buildings",
+          content: [
+            "(b) Uses of Farm Structures and Buildings",
+            "(c) Maintenance of Farm Structures and Buildings",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Crop Propagation and Cultural Practices",
+          content: [
+            "(a) Meaning of Propagation",
+            "(b) Methods of Crop Propagation:",
+            "(i) By seed (sexual)",
+            "(ii) By vegetative organs (asexual)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Crop Propagation and Cultural Practices",
+          content: [
+            "(c) (i) Advantages and Disadvantages of Propagation by Seeds",
+            "(ii) Advantages and Disadvantages of Propagation by Vegetative Organs",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Agricultural/Cultural Practices",
+          content: [
+            "(a) Meaning and Description of Pre-planting Operations",
+            "(i) Choice of site (ii) Clearing (iii) Stumping (iv) Plotting/Farm layout (v) Tillage e.g. ploughing, harrowing and ridging",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Agricultural/Cultural Practices",
+          content: [
+            "(b) Planting Operations:",
+            "(i) Seed treatment",
+            "(ii) Spacing and planting, etc.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Agricultural/Cultural Practices",
+          content: [
+            "(c) Meaning and Description of Post-planting Operations:",
+            "Thinning, supplying, mulching, manuring or fertilizer application, harvesting.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Agricultural/Cultural Practices",
+          content: [
+            "(d) Effects of Timely Harvesting versus Late Harvesting",
+            "(e) Post-harvesting Operations:",
+            "Processing of crops into useable forms, storage, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in last term"],
+        },
+
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Agricultural Science First Term Examination"],
+        },
+      ],
+      "Basic Science": [],
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Revision of work done in JSS1",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "First Aid",
+          content: [
+            "(a) (i) Meaning of First Aid",
+            "(ii) Materials Used in First Aid",
+            "(b) Application of Simple First Aid",
+            "(c) ABC of First Aid – Bleeding and breaks, circulation (pulses)",
+            "(d) Application of ABC of First Aid",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Rescue Operations",
+          content: [
+            "(a) Meaning of Rescue Operation",
+            "(b) Different Aspects of Rescue Operations",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Rescue Operations",
+          content: [
+            "(c) Securing the Environment – Vehicles and Victims",
+            "(d) Steps Involved in Rescue Operations",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Materials and their Common Uses",
+          content: [
+            "(a) Wood – Furniture, building construction, handle of implements, etc.",
+            "(b) Metals – Household utensils, vehicle and ship parts.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Materials and their Common Uses",
+          content: [
+            "(c) Brass – Decorations, ammunition, etc.",
+            "(d) Bronze – Carving, statues and ornaments",
+            "(e) Ceramics – Tiles, household utensils, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Geometric Construction - Circles",
+          content: [
+            "(i) Parts of a Circle (diameter, radius, sector, quadrant, circumference, etc.",
+            "(ii) Circle Drawing",
+            "(iii) Use of Set Square and Compasses to Divide a Circle into 4, 8 and 12 Equal Parts",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Geometric Construction - Circles",
+          content: [
+            "(iv) Construction of Tangent and Normal to a Circle – Tangent at a Point of the Circle, Tangent from a Point Outside the Circle and to One or Two Equal Circles",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Basic Technology First Term Examination"],
+        },
+      ],
+      "Business Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in JSS1"],
+        },
+        {
+          week: 2,
+          topics: "The Reception Office",
+          content: [
+            "(a) The Reception Office:",
+            "(i) Meaning and Description of the Reception Office",
+            "(b) The Receptionist:",
+            "(i) Meaning of Receptionist",
+            "(ii) Importance of Receptionist",
+            "(iii) Qualities of a Receptionist",
+            "(c) Duties of a Receptionist:",
+            "(i) How to Receive and Treat Visitors",
+            "(ii) Procedure Involved in Answering a Telephone Call",
+            "(iii) Appropriate Office Dress Code",
+            "(d) Documents Handled by a Receptionist",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Office Correspondence",
+          content: [
+            "(a) Correspondence Records:",
+            "(i) Types of Correspondence Records",
+            "(ii) Uses of Correspondence Records",
+            "(b) Ways Mail Come into an Organization",
+            "(c) Procedure for Handling Mails and Correspondence",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Office Documents",
+          content: [
+            "(a) (i) Meaning of Office Documents",
+            "(ii) Types of Office Documents",
+            "(b) Sales Documents:",
+            "(i) Preparation of Office Documents",
+            "(ii) Uses of Office Documents",
+            "(c) Purchases Documents:",
+            "(i) Preparation of Office Documents",
+            "(ii) Uses of Office Documents",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Trade",
+          content: [
+            "(a) (i) Meaning of Trade",
+            "(ii) Importance of Trade",
+            "(b) Forms of Trade:",
+            "(i) Home Trade",
+            "(ii) Foreign Trade",
+            "(c) Aids to Trade: Banking, Insurance, Advertising, Communication, Transportation, Tourism, etc.",
+            "(d) Role of Custom and Excise in Foreign Trade",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Market",
+          content: [
+            "(a) (i) Meaning of Market",
+            "(ii) Features of Market",
+            "(b) Types of Market: Capital Market, Money Market and Commodity Market",
+            "(c) Institutions and Instruments Traded in Each Type of Market",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Market",
+          content: [
+            "(d) Careers in the Capital Market",
+            "(e) Buying and Selling:",
+            "(i) Meaning of Buying and Selling, Cash or Credit",
+            "(f) Transaction: Costs of Sale, Markup, turnover, profit and loss",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Distribution",
+          content: [
+            "(a) Meaning of Distribution",
+            "(b) Channels or Chains of Distribution:",
+            "(i) Producer/Manufacturer",
+            "(ii) Wholesaler",
+            "(iii) Retailer",
+            "(iv) Consumer",
+            "(v) Functions of Each of the Channels of Distribution",
+            "(c) Licensed Chemical Vendors",
+            "(d) Handling and Distribution of Chemicals ",
+            "(e) Effects of Wrong Handling of Chemicals",
+            "(f) When Production Ends",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Commercial Bank",
+          content: [
+            "(a) Definition of Commercial Bank",
+            "(b) Bank Services",
+            "(c) Ethical Issues in Banking",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Business Studies First Term Examination"],
+        },
+      ],
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in JSS1"],
+        },
+        {
+          week: 2,
+          topics: "The Birth of Jesus Christ",
+          content: [
+            "(a) The Annunciation",
+            "(Isaiah 9:6-7. Matt. 1:18-27. Luke 1:26-35)",
+            "(b) The Birth of Jesus",
+            "(Matt. 1:18-25. Luke 2:1-7)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "The Birth of Jesus Christ",
+          content: [
+            "(c) The Visit of the Wise Men (Magi)",
+            "(Matt. 2:1-12)",
+            "(d) The Shepherds’ Visit",
+            "(Luke 2:8-20)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "The Birth of Jesus Christ",
+          content: [
+            "(e) The Value of Virginity Before and After Marriage",
+            "(i) Freedom from STDs, HIV/AIDS, etc.",
+            "(ii) Freedom from unwanted pregnancies, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Jesus and His Family",
+          content: [
+            "(a) Jesus and His Siblings",
+            "(Matt. 13:53-56; 12: 46-50)",
+            "(b) Jesus Obeyed His Parents",
+            "(Luke 2:51-52)",
+            "(c) Jesus’ Understanding of Family",
+            "(Matt. 12: 46-50)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "The Baptism of Jesus",
+          content: [
+            "(a) The Forerunner of Jesus",
+            "(Mark 1:1-8; Luke 3: 1-20)",
+            "(b) The Baptism of Jesus",
+            "(Matt. 3:3-17; Mark 1:9-11; Luke 3:21-22)",
+            "(c) The Significance of Jesus’ Baptism",
+          ],
+        },
+        {
+          week: 7,
+          topics: "The Temptation of Jesus",
+          content: [
+            "(a) The Temptation of Jesus",
+            "(Matt. 4:1-12; Luke 4:1-13)",
+            "(b) The Significance of the Temptation of Jesus",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Temptation",
+          content: ["Temptations in Nigeria Today and Ways of Overcoming Them"],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["Revision of work done in First Term"],
+        },
+      ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in JSS1"],
+        },
+        {
+          week: 2,
+          topics: "National Values: Integrity",
+          content: [
+            "(a) Meaning of Integrity",
+            "(b) Attributes of Integrity – Probity, honesty, contentment, truthfulness, fairplay, non-compromise of principles, etc.",
+            "(c) Examples of People of Integrity in the Society",
+            "(d) Need for People of Integrity in Society, e.g. community development, peaceful co-existence, models for the young ones, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "National Values: Integrity",
+          content: [
+            "(c) Examples of People of Integrity in the Society",
+            "(d) Need for People of Integrity in Society, e.g. community development, peaceful co-existence, models for the young ones, etc.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "National Values: Contentment",
+          content: [
+            "(a) Meaning of Contentment",
+            "(b) Attributes of Contentment – Satisfaction with what one has, lack of envy of others, abhorrence of greed and corruption, humility, etc.",
+            "(c) Effects of Lack of Contentment on Society – Corruption, greed, envy, theft, prostitution, robbery and cheating, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "National Values: Discipline",
+          content: [
+            "(a) Meaning of Discipline",
+            "(b) Attributes of a Disciplined Person – Self control, moderation, modesty, respect for legitimate authority, respect for rules and regulations, perseverance, dedication, etc.",
+            "(c) Benefits of Disciplined Behaviour",
+            "(d) Consequences of Indiscipline on the Individual and the Society",
+          ],
+        },
+        {
+          week: 6,
+          topics: "National Values: Discipline",
+          content: [
+            "(c) Benefits of Disciplined Behaviour",
+            "(d) Consequences of Indiscipline on the Individual and the Society",
+          ],
+        },
+        {
+          week: 7,
+          topics: "National Values: Courage",
+          content: [
+            "(a) Meaning of Courage, e.g. Exercise of boldness in carrying out positive activities in the community",
+            "(b) Types of Courage –",
+            "    (i) Physical courage",
+            "    (ii) Moral courage",
+            "    (iii) Spiritual Courage",
+            "(c) Attributes of Courageous Persons –",
+            "    (i) Commitment",
+            "    (ii) Endurance",
+            "    (iii) Determination",
+            "    (iv) Steadfastness",
+            "    (v) Diligence",
+            "    (vi) Boldness",
+            "    (vii) Bravery, etc.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Nigeria as a Federation",
+          content: [
+            "(a) Meaning of Federation",
+            "(b) Need for Federation –",
+            "    (i) National integration",
+            "    (ii) Unity in Diversity",
+            "    (iii) Controlling the activities of state",
+            "(c) Characteristics of a Federation –",
+            "    (i) Sharing of powers between central and state government",
+            "    (ii) States have constitutional control over their own affairs",
+            "    (iii) The central government controls the State",
+            "    (iv) The constitution of a federal system is supreme",
+          ],
+        },
+        {
+          week: 9,
+          topics:
+            "Relationship between the Federal, State and Local Government",
+          content: [
+            "(a) Relationship between the Federal, State and Local Government –",
+            "    (i) Perform functions according to constitutional provisions",
+            "    (ii) Power to Legislate over matters spelt out in legislative lists",
+            "    (iii) Power to carry out functions in accordance with constitutional provisions",
+            "    (iv) Provide form of governance, etc.",
+            "(b) Differences among the Three Tiers of Government –",
+            "    (i) Functions",
+            "    (ii) Legislative powers",
+            "    (iii) Executive powers",
+            "    (iv) Exclusive, concurrent and residual powers, etc.",
+          ],
+        },
+
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Basic Technology First Term Examination"],
+        },
+      ],
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Computer Software",
+          content: [
+            "(a) Definition of Software",
+            "(b) Meaning of Installation",
+            "(c) Types and Examples of Software – System software (operating system), application software",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Computer Software",
+          content: [
+            "(c)(α) System Software: Types of System Software – Operating system, language translator, utility software, device drivers",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Computer Software",
+          content: [
+            "(c)(β) Application Software:",
+            "    (i) Meaning of Application Software",
+            "    (ii) Classification of Application Software",
+            "    (iii) Types of Application Software – Word processing software, spreadsheet software, database management software, presentation software, graphic software, communication software, multimedia software",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Operating System",
+          content: [
+            "(a) (i) Definition of Operating System",
+            "    (ii) Meaning of User Interface (UI)",
+            "    (iii) Types of User Interface",
+            "(b) Types of Operating System – Single-user operating system, multi-user operating system, distributed operating system, multiprocessing operating system",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Operating System",
+          content: [
+            "(c) Functions of Operating Systems – Resource allocation, file management, memory management, monitoring, utilities, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Units of Storage in the Computer",
+          content: [
+            "(a) Meaning of Computer Memory",
+            "(b) (i) Units of Storage in the Computer – Bit, nibble, byte, word",
+            "    (ii) Working Examples",
+            "    (iii) Conversion of One Memory Unit to the Other",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Computer Problem Solving Skills",
+          content: [
+            "(a) Definition of Terms:",
+            "    (i) Meaning of Computer Program",
+            "    (ii) Meaning of Programming Language",
+            "    (iii) Meaning of Programmer",
+            "    (iv) Meaning of Programming",
+            "(b) Categories of Programing Languages",
+            "(c) Types of Programming Languages – Machine language, low level language, high level language",
+            "(d) Steps to Writing a Program",
+          ],
+        },
+        {
+          week: 9,
+          topics: "The BASIC Programming Language",
+          content: [
+            "(a) Meaning of BASIC",
+            "(b) Rules for BASIC Programming",
+            "(c) BASIC Character Set",
+            "(d) Meaning, Types and Examples of Variables",
+            "(e) Key BASIC Statement",
+            "(f) Simple BASIC Statements",
+            "(g) Structure of a BASIC Program",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Computer Studies First Term Examination"],
+        },
+      ],
+      "English Studies": [
+        {
+          week: 1,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Pure Vowels – (Spelling Features)",
+            "(b) Structure: Parts of Speech (Functions)",
+            "(c) Comprehension/Vocabulary Development: Reading to Understand the Writer’s Purpose 'How We Spent the Holiday'",
+            "(d) Composition: Narrative Essay – Writing an Outline (Brainstorming)",
+            "(e) Literature: Types and Features of Prose (e.g. Narrative, Descriptive, etc. Features of prose e.g. Plot, Style, Setting, Theme, Characterization)",
+          ],
+        },
+        {
+          week: 2,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Consonant Sounds (Spelling Features)",
+            "(b) Structure: Parts of Speech – Verbs (Transitive and Intransitive Verbs)",
+            "(c) Comprehension/Vocabulary Development: on 'Health' – Reading to Understand the Writer’s Purpose 'How to Make a Candle Stand Up'",
+            "(d) Composition: Types and Elements of Composition – (Narrative, Descriptive, Argumentative, Expository; Elements of Composition Writing – Introduction, Body and Conclusion, Pre-Writing, Writing, Editing, Arrangement of Ideas)",
+            "(e) Literature: Figures of Speech – Simile, Metaphor, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Intonation, Stress and Rhythm",
+            "(b) Structure: Question Tags",
+            "(c) Vocabulary Development/Comprehension: Administration – Reading to Understand the Writer’s Purpose 'One Pendulum to Another'",
+            "(d) Composition: Formal Letters – Types and Features of Formal Letters",
+            "(e) Literature: Oral Literature – Myths and Legends",
+          ],
+        },
+        {
+          week: 4,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Contrasting Vowels /i:/ and /i/ (e.g. beans, bins); /u:/ and /u/ (e.g. fool, full)",
+            "(b) Structure: Active and Passive Voices",
+            "(c) Comprehension/Vocabulary Development on Law and Order – Reading to Understand the Writer’s Purpose 'My Hometown'",
+            "(d) Composition: Speech Work: Contrasting Vowels /i:/ and /i/ (e.g. beans, bins); /u:/ and /u/ (e.g. fool, full)",
+            "(e) Literature: (i) Folktales – (African and Non-African) Features – Didactic, entertainment, magical, myths and legends; (ii) Poetry Structure, Themes and Literary devices in Recommended Text",
+          ],
+        },
+        {
+          week: 5,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Consonants Contrast /s/ and /z/ (so, sit, cell, zero, zoo, freezer; either/feather, thank/thought (as in /Ө/ and /ð/))",
+            "(b) Structure: The “WH” Questions – Who, Where, When, Why, What",
+            "(c) Comprehension/Vocabulary Development on 'School Administration' – Reading to Identify the Meaning of Words in Various Contexts",
+            "(d) Composition: Features and Outline of an Informal Letter",
+            "(e) Literature: Figures of Comparison – (Alliteration and Assonance)",
+          ],
+        },
+        {
+          week: 6,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Types of Vowels – Monophthongs, Diphthongs and Triphthongs; Treating Diphthongs /au/, /ei/, /eə/ and /ai/",
+            "(b) Structure: Tenses (Present, Past and Future)",
+            "(c) Comprehension/Vocabulary Development on Administration 2 (Office) – Reading to Understand the Writer’s Purpose – Do you have a Goal?",
+            "(d) Composition: Narrative Essay (Linking Paragraphs Together – 'A Village Market')",
+            "(e) Literature: Figures of Speech – Irony and Paradox",
+          ],
+        },
+        {
+          week: 7,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Morphemes – Word Boundaries (Prefixes)",
+            "(b) Structure: Prepositions and Prepositional Phrases",
+            "(c) Comprehension/Vocabulary Development: Reading for Speed",
+            "(d) Composition: Narrative Essay on 'A Memorable Day'",
+            "(e) Literature: Poetry – Structure, Themes and Literary Devices in Recommended Text",
+          ],
+        },
+        {
+          week: 8,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Suffixes",
+            "(b) Structure: Conjunctions – Types and Usages",
+            "(c) Comprehension/Vocabulary Development on Sports",
+            "(d) Composition: Stating the Differences between Formal and Informal Letters",
+            "(e) Literature: Figures of Speech (Synecdoche, Metonymy, Pun, etc.)",
+          ],
+        },
+        {
+          week: 9,
+          topics: [
+            "Speech Work",
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+          ],
+          content: [
+            "(a) Speech Work: Triphthongs",
+            "(b) Structure: Making Requests using will, could, please e.g. 'Could you please come?' 'Will you make out time, please?'",
+            "(c) Comprehension/Vocabulary Development",
+            "(d) Composition: Formal Letter of Invitation (as a Guest Speaker)",
+            "(e) Literature: Poetry – Structure, Themes and Literary Devices in Recommended Text",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 English Studies First Term Examination"],
+        },
+      ],
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in JSS1"],
+        },
+        {
+          week: 2,
+          topics: "Resources and Decision Making",
+          content: [
+            "(a) (i) Meaning and Types of Family Resources",
+            "(ii) Importance of Family Resources",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Resources and Decision Making",
+          content: ["(b) Meaning and Steps in Decision Making"],
+        },
+        {
+          week: 4,
+          topics: "Resources and Decision Making",
+          content: ["(c) Simple Personal and Family Decisions"],
+        },
+        {
+          week: 5,
+          topics: "Care of Family Clothing and Household Linen",
+          content: ["(a) Types of Household Linen"],
+        },
+        {
+          week: 6,
+          topics: "Care of Family Clothing and Household Linen",
+          content: [
+            "(b) Factors that Enhance the Selection of Household Linen",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Care of Family Clothing and Household Linen",
+          content: [
+            "(c) Clothing Repairs (Steps in clothing repairs necessary)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Care of Family Clothing and Household Linen",
+          content: ["(d) Maintenance of Household Linen"],
+        },
+        {
+          week: 9,
+          topics: "Care of Family Clothing and Household Linen",
+          content: ["(e) Clothing Storage"],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Home Economics First Term Examination"],
+        },
+      ],
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Whole Numbers",
+          content: [
+            "(a) Whole Numbers in Standard Form",
+            "(b) Decimal Numbers in Standard Form",
+            "(c) Changing from Standard Form to Ordinary Numbers",
+            "(d) Indices",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Whole Numbers",
+          content: [
+            "(e) Revision: Prime Factors, LCM and HCF",
+            "(f) Squares and Square Roots",
+            "(g) Quantitative Reasoning",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Approximation",
+          content: [
+            "(a) Approximation of Numbers: Decimal Places, Significant Figures",
+            "(b) Quantitative Reasoning Involving Approximation",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Fractions",
+          content: [
+            "(a) Expressing Fractions as Decimals",
+            "(b) Percentages:",
+            "   (i) Percentages of Quantities",
+            "   (ii) Expressing One Quantity as a Percentage of the Other",
+            "   (iii) Percentage Increase and Decrease",
+            "(c) Ratios",
+            "(d) Rates and Proportions",
+            "(e) Word Problems Involving Fractions",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Transactions in the Homes and Offices",
+          content: [
+            "(a) Household Arithmetic: (Budget, Savings, Rents, Taxes, Bills, Water Rate)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Transactions in the Homes and Offices",
+          content: [
+            "(b) Commercial Arithmetic: (Simple Interest, Profit and Loss, Discount, Commission, VAT, Hire Purchase)",
+            "(c) Exchange Rate",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Basic Operations on Directed Numbers",
+          content: [
+            "(a) Addition and Subtraction of Directed Numbers (Revision)",
+            "(b) Multiplication and Division of Directed Numbers",
+            "(c) Inverse and Identity",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Tables, Charts and Schedules",
+          content: [
+            "(a) Square and Square Root Tables",
+            "(b) Charts, Records and Schedules: (Tabulated Data, Flight Schedules and Timetables)",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Mathematics First Term Examination"],
+        },
+      ],
+      Music: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in JSS1"],
+        },
+        {
+          week: 2,
+          topics: "Tonic Solfa Notation",
+          content: [
+            "(i) Meaning of Tonic Solfa Notation",
+            "(ii) Accidentals in Solfa Notation",
+            "(iii) The Modulator with Accidental",
+            "(iv) Punctuation Marks in Solfa Notation",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Broken Chords (Arpeggios) in Staff and Solfa",
+          content: ["Solfa in Broken Chords"],
+        },
+        {
+          week: 4,
+          topics: "Key Signatures",
+          content: ["Major Keys with Sharps and with Flats"],
+        },
+        {
+          week: 5,
+          topics: "Major Scales",
+          content: [
+            "Construction of Sharp Scales With and Without Key Signature (Ascending and Descending)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Major Scales",
+          content: [
+            "Construction of Flat Scales With and Without Key Signature",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Transcription",
+          content: ["Staff to Solfa and Solfa to Staff"],
+        },
+        {
+          week: 8,
+          topics: "Sight Singing",
+          content: ["Solfa and Staff"],
+        },
+        {
+          week: 9,
+          topics: "Kinds of Scales",
+          content: [
+            "Diatonic (Major and Minor) Chromatic and Pentatonic, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Ear Training (Practical)",
+          content: ["Ear Training Practical"],
+        },
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["JSS2 Mathematics First Term Examination"],
+        },
+      ],
+      "Physical and Health Education (PHE)": [
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: [
+            "JSS2 Physical and Health Education  First Term Examination",
+          ],
+        },
+      ],
     },
   },
 };
