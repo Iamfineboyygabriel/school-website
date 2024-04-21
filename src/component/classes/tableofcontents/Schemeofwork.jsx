@@ -19,7 +19,7 @@ const SchemeOfWork = ({ selectedSubject, selectedTerm }) => {
     const fetchSchemeOfWorkData = () => {
       const classData = SchemeOfWorkData[classGrade];
       if (classData) {
-        const termData = classData[term];
+        const termData = classData[term.replace(/ /g, "")]; // Replace spaces with empty string
         if (termData) {
           const subjectData = termData[subject];
           if (subjectData) {

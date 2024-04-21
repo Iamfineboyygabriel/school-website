@@ -1,6 +1,6 @@
 export const SchemeOfWorkData = {
   JSS1: {
-    "First Term": {
+    FirstTerm: {
       "Agricultural Science": [
         {
           week: 1,
@@ -1021,7 +1021,7 @@ export const SchemeOfWorkData = {
   },
 
   JSS1: {
-    "Second Term": {
+    SecondTerm: {
       "Agricultural Science": [
         {
           week: 1,
@@ -2113,7 +2113,7 @@ export const SchemeOfWorkData = {
   },
 
   JSS1: {
-    "Third Term": {
+    ThirdTerm: {
       "Agricultural Science": [
         {
           week: 1,
@@ -2329,7 +2329,198 @@ export const SchemeOfWorkData = {
           content: ["JSS1 Basic Technology Third Term Examination "],
         },
       ],
-      "Business Studies": [],
+      "Business Studies": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Double Entry Book-keeping",
+          content: [
+            "Meaning of Double Entry Book-keeping",
+            "Double Entry Treatment of Assets",
+            "Double Entry Treatment of Liability",
+            "Double Entry Treatment of Expenses",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Double Entry Book-keeping",
+          content: [
+            "Meaning of Journals",
+            "Meaning of Ledgers",
+            "Classes of Ledger",
+            "Classification of Accounts",
+            "- Real",
+            "- Nominal",
+            "- Personal",
+            "- Impersonal",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Introduction to Keyboarding",
+          content: [
+            "Meaning of Keyboarding",
+            "Importance of Keyboarding",
+            "Correct Sitting Posture for Keyboarding",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Parts of a Computer Keyboard",
+          content: [
+            "Parts of the Computer Keyboard",
+            "Uses (functions) of Parts of the Computer Keyboard",
+            "Similarities between the Typewriter and the Computer Keyboards",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Care of the Computer and Correct Keyboarding Techniques",
+          content: [
+            "Care of the Computer",
+            "Items Used for the Care of the Computer",
+            "The Keyboard Rows – Top, Upper, Home, Nottem",
+            "Divisions of the Keyboard – Left hand side, right hand side",
+          ],
+        },
+        {
+          week: 7,
+          topics: "The Home Row Keys (Keyboarding Applications)",
+          content: [
+            "The Keyboard Rows: Top, Upper, Home, Nottem",
+            "Two Divisions of the Keyboard: Left hand side, Right hand side",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Alphanumeric Keys (Keyboarding Applications)",
+          content: [
+            "Alphanumeric Keys: Identification, Soft Touch Manipulation",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Basic Service Keys (Keyboarding Applications)",
+          content: [
+            "Correct Finger Placement on the Basic Service Keys",
+            "The Manipulation of the Basic Service Keys Using Soft Touch",
+          ],
+        },
+        {
+          week: 10,
+          topics:
+            "Correct Spacing and Punctuation Marks (Keyboarding Applications)",
+          content: [
+            "Identification",
+            "Correct Finger Placement",
+            "Correct Use of Punctuation Mark Keys",
+            "Correct Spacing after Punctuation Marks",
+          ],
+        },
+        {
+          week: 11,
+          topics:
+            "Correct Spacing and Punctuation Marks (Keyboarding Applications)",
+          content: [
+            "Identification",
+            "Correct Finger Placement",
+            "Correct Use of Punctuation Mark Keys",
+            "Correct Spacing after Punctuation Marks",
+          ],
+        },
+        {
+          week: 12,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 13,
+          topics: "Examination",
+          content: ["JSS1 Business Studies Third Term Examination"],
+        },
+      ],
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Relationship in the Family",
+          content: [
+            "Meaning and Types of Family",
+            "Recognition of Family Members",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Relationship in the Family",
+          content: [
+            "Different Roles of Members of the Family",
+            "Attributes of a Good Family Name",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Relationship in the School",
+          content: [
+            "Names of Members of the School (School principal, subject teachers, house masters/mistresses, prefects, etc.)",
+            "Choosing Friends at School (Factors – common interest, age, religion, etc.)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Relationship in the School",
+          content: [
+            "Friendship between David and Jonathan (1 Sam. 18:1-5)",
+            "The Friend at Midnight (Luke 11:5-8)",
+            "Consequences of Bad Friendship – Cultism, stealing, drug addiction, prostitution, lesbianism, homosexuality, smoking, drinking, laziness, truancy, etc. (Pro. 1:10. 2 Thess. 3:6-13)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Relationship in the Community",
+          content: [
+            "Identification of the Names of Community Leaders",
+            "Ways of Sustaining Relationship in the Community – Respect for elders and leaders, obeying the laws of the land, participation in community development programs, caring for the needy, religious tolerance, etc. (Matt. 25:31-46)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Relationship in the Church",
+          content: [
+            "Identification of the Names of Church Leaders",
+            "Relationship in the Church (i) Love your Christian brothers and sisters, etc. (Rom. 12:9-21)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Relationship in the Church",
+          content: [
+            "Maintaining Relationship in the Church (1 Peter 3:8-13. Rom 13:1-7)",
+            "Field Trip (Pay visit to an orphanage within your state)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 CRS Third Term Examination"],
+        },
+      ],
+      "Civic Education":[
+        
+      ]
+
     },
   },
 };
