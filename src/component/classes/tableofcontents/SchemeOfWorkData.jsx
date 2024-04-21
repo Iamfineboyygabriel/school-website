@@ -1534,9 +1534,185 @@ export const SchemeOfWorkData = {
           content: ["JSS1 Civic Education Second Term Examination"],
         },
       ],
-      "Computer Studies":[
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Computer Ethics",
+          content: [
+            "(a) Meaning of Computer Room",
+            "(b) Components of a Computer Room",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Computer Ethics",
+          content: [
+            "(c) Meaning of Computer Room Management Ethics",
+            "(d) Ways to Take Care of Your Computer",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Computer Ethics",
+          content: [
+            "(e) Computer Laboratory Rules and Regulations – arrange chairs and tables in a comfortable manner",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Computer Ethics",
+          content: ["(f) Health Concerns of Computer Use"],
+        },
+        {
+          week: 6,
+          topics: "ICT Application in Everyday Life",
+          content: ["(a) Meaning of ICT", "(b) Uses of ICT in Communication"],
+        },
+        {
+          week: 7,
+          topics: "ICT Application in Everyday Life",
+          content: [
+            "(c) Uses of ICT in Timing and Control",
+            "(d) Uses of ICT in Information Processing/Management",
+          ],
+        },
+        {
+          week: 8,
+          topics: "ICT and Society",
+          content: [
+            "(a) ICT in Education",
+            "(b) ICT in Banking Industry",
+            "(c) ICT in Medical Sciences",
+          ],
+        },
+        {
+          week: 9,
+          topics: "ICT and Society",
+          content: [
+            "(d) ICT in Government",
+            "(e) ICT in Law",
+            "(f) ICT in the Airline Industry",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS1 Computer Studies Second Term Examination"],
+        },
+      ],
+      "English Studies": [
+        {
+          week: 1,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Consonants /f/ and /v/",
+            "(b) Structure: Adverbs: Forms/Functions of Adverbs in a Given Passage",
+            "(c) Comprehension/Vocabulary Development: Reading Skills (Answering Questions on a Given Passage)",
+            "(d) Composition: More on Narrative Composition (Paragraph Development)",
+            "(e) Literature: Review on the Genres of Literature (Prose, Poetry and Drama); Use recommended texts.",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Consonants /s/ and /z/",
+            "(b) Structure: Tenses: Present Tense (Making Sentences with the Present Tense)",
+            "(c) Comprehension/Vocabulary Development: Writing Skills – Answering Questions on a Given Passage",
+            "(d) Composition: More on Descriptive Composition (Paragraph Development)",
+            "(e) Literature: Prose – Literary Terms",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Consonants /ѳ/ and /ð/",
+            "(b) Structure: Tenses – Past Tenses (Making Sentences with the Past Tense)",
+            "(c) Comprehension/Vocabulary Development: Reading and Writing Skills (Intensive)",
+            "(d) Composition: Letter Writing – Formal letters (Format and Features of Formal Letters)",
+            "(e) Literature: Myths and Legends (African and Non-African Tales Comprising Myths and Legends)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Consonants /∫/ and /Ӡ/",
+            "(b) Structure: Tenses – Future Tenses (Making Sentences with the Future Tense)",
+            "(c) Comprehension/Vocabulary Development: Writing Skills – Giving Specific Answers to a Given Passage",
+            "(d) Composition: Formal letters – Guided Writing (Arrangement of Ideas in Logical Sequence)",
+            "(e) Literature: Features/Themes of Myths and Legends (Magic, Supernatural, and Superstition)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Consonants /ʧ/ and /ʤ/",
+            "(b) Structure: Tenses and Adverbials (Making Sentences with Tenses and Adverbials)",
+            "(c) Comprehension/Vocabulary Development: Reading and Writing Skills (contd.)",
+            "(d) Composition: Argumentative – (Vocatives and Paragraph Development (Oral Composition))",
+            "(e) Literature: Drama – Features, Types and Literary Terms",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Introduction to Diphthongs /ei/, /əu/, /iə/ and /eə/",
+            "(b) Structure: Tenses and Adverbials (Cont.)",
+            "(c) Comprehension/Vocabulary Development: Reading Skills – Reading to Understand the Author’s Mood",
+            "(d) Composition: Argumentative Essay (Guided Composition Writing)",
+            "(e) Literature: Drama – Themes in the Recommended Text",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Speech Work",
+          content: [
+            "(a) Speech Work: Diphthongs /ai/, /au/, /ↄi/ and /uə/",
+            "(b) Structure: Determiners (Meaning, Types and Functions of Determiners)",
+            "(c) Comprehension/Vocabulary Development: Writing Skills",
+            "(d) Composition: Expository Essay (Paragraph Development)",
+            "(e) Literature: More Work on Figures of Speech",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: [
+            "(a) Speech Work: Contrasting Consonants /t/ and /d/",
+            "(b) Structure: Introduction to Punctuation Marks (Meaning, Types and Functions of Punctuation Marks)",
+            "(c) Comprehension/Vocabulary Development: Reading Skills",
+            "(d) Composition – Speech Writing (Introduction)",
+            "(e) Literature: Poetry – Structure, Themes and Literary Devices in Recommended Text",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 English Studies Second Term Examination"],
+        },
+      ],
+      "Home Economics": [{
         
-      ]
+      }]
     },
   },
 };
