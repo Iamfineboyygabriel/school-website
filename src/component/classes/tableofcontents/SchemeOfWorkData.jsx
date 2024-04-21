@@ -810,6 +810,138 @@ export const SchemeOfWorkData = {
             "(c) Word Problems",
           ],
         },
+        {
+          week: 4,
+          topics: "LCM and HCF of Whole Numbers",
+          content: [
+            "(a) Rules of Divisibility",
+            "(b) Definitions: Even, Odd, Prime and Composite Numbers",
+            "(c) Factors, Multiples and Index Form",
+            "(d) LCM and HCF of Given Whole Numbers",
+            "(e) Quantitative Reasoning",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Counting in Base Two",
+          content: [
+            "(a) Counting in Groups of Twos",
+            "(b) Conversion of Base 10 Numerals to Binary Numbers",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Fractions",
+          content: [
+            "(a)  Definition and Types of Fractions",
+            "(b)Conversion of Fractions to Decimals and Vice versa",
+            "(c) Conversion of Fractions to Percentages and Vice versa",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Fractions",
+          content: [
+            "(d) Equivalent Fractions",
+            "(e)Ordering of Fractions",
+            "(f) Quantitative reasoning",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Basic Operations on Fractions",
+          content: [
+            "(a) Addition and Subtraction of Fractions",
+            "(b) Multiplication and Division of Fractions",
+            "(f) Quantitative reasoning",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Mathematics First Term Examination"],
+        },
+      ],
+      "Physical and Health Education (PHE)": [
+        {
+          week: 1,
+          topics: "Introduction to Physical and Health Education",
+          content: [
+            "(a) Physical Education (i) Meaning of Physical Education (ii) Scope/Branches of Physical Education (iii) Objectives of Physical Education ",
+            "(b)  Health Education (i) Meaning of Health (ii) Meaning of Health Educatio (iii) Objectives of Health Education",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Physical Fitness and Body Conditioning Programme",
+          content: [
+            "(a)Meaning of Physical Fitness ",
+            "(b)  Components of Physical Fitness – Health-related Components and Performance-related Component ",
+            "(c) Characteristics of a Physically-fit Person",
+            "(d) Importance of Physical Fitness",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Physical Fitness and Body Conditioning Programme",
+          content: [
+            "(e) Exercises to Develop Strength, Endurance and Flexibility ",
+            "(f) Safety Precautions while Performing Exercises ",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Recreation, Leisure and Dance Activities",
+          content: [
+            "(a) Meaning of Recreation, Leisure and Dance ",
+            "(b) Differences between Leisure, Dance and Recreation ",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Recreation, Leisure and Dance Activities",
+          content: [
+            "(a) Benefits of Recreation and Dance – Refreshes both body and mind,creates room for fun and enjoyment, carries over values learnt in physical education classes, and promotion of mental alertness, social and emotional stability",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Athletics (Track and Field)",
+          content: [
+            "Basic Skills Techniques in the Following Field Events: (i) Shot Put (ii) Discus",
+          ],
+        },
+        {
+          week: 7,
+          topics:
+            "Execution of Basic Skills and Techniques in Discus and Shot Put",
+          content: [
+            "Execution of Basic Skills and Techniques in (i) Discus – Carriage, Stance,Throw, Follow through (ii) Shot put – Grip, Stance, put, Follow Through ",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Athletics",
+          content: [
+            "(a) Rules Governing Discus and Shot Put",
+            "(b) Safety Measures in Athletics",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS1 PHE First Term Examination"],
+        },
       ],
     },
   },
