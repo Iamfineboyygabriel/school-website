@@ -8,47 +8,49 @@ import ReactLoading from "react-loading";
 const Jss1FirstTerm = () => {
   const data = [
     {
-      term: "First Term",
       class: "JSS1",
+      term: "FirstTerm",
       subject: "Agricultural Science",
     },
-    { term: "First Term", class: "JSS1", subject: "Basic Science" },
-    { term: "First Term", class: "JSS1", subject: "Basic Technology" },
+    { term: "FirstTerm", class: "JSS1", subject: "Basic Science" },
+    { term: "FirstTerm", class: "JSS1", subject: "Basic Technology" },
+
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS1",
       subject: "Business Studies",
     },
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS1",
       subject: "Christian Religious Studies",
     },
-    { term: "First Term", class: "JSS1", subject: "Civic Education" },
-    { term: "First Term", class: "JSS1", subject: "Computer Studies" },
+    { term: "FirstTerm", class: "JSS1", subject: "Civic Education" },
+    { term: "FirstTerm", class: "JSS1", subject: "Computer Studies" },
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS1",
       subject: "Cultural and Creative Arts",
     },
-    { term: "First Term", class: "JSS1", subject: "English Studies" },
-    { term: "First Term", class: "JSS1", subject: "Home Economics" },
-    { term: "First Term", class: "JSS1", subject: "Mathematics" },
-    { term: "First Term", class: "JSS1", subject: "Music" },
+    { term: "FirstTerm", class: "JSS1", subject: "English Studies" },
+    { term: "FirstTerm", class: "JSS1", subject: "Home Economics" },
+    { term: "FirstTerm", class: "JSS1", subject: "Mathematics" },
+    { term: "FirstTerm", class: "JSS1", subject: "Music" },
     {
-      term: "First Term",
+      term: "FirstTerm",
       class: "JSS1",
       subject: "Physical and Health Education (PHE)",
     },
-    { term: "First Term", class: "JSS1", subject: "Social Studies" },
+    { term: "FirstTerm", class: "JSS1", subject: "Social Studies" },
   ];
-  const selectedTerm = "First Term";
+  const selectedTerm = "FirstTerm";
   const selectedClass = "JSS1";
 
   const [selectedSubject, setSelectedSubject] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
 
   const handleSubjectClick = (subject) => {
+    console.log("handle selected subject", handleSubjectClick);
     setIsLoading(true);
     setSelectedSubject(subject);
 

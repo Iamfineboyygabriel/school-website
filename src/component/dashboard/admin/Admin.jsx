@@ -6,6 +6,7 @@ import Assignment from "./Assignment"; // Assuming Assignment component
 import Logout from "../../../assets/svg/logout.svg";
 import { Link, useNavigate } from "react-router-dom";
 import ReactLoading from "react-loading";
+import { Upload } from "@mui/icons-material";
 // import { GetRegisteredStudents } from "../../shared/redux/slices/registeredStudent.slices";
 // import { useAppDispatch, useAppSelector } from "../../shared/redux/reduxHooks";
 
@@ -68,7 +69,7 @@ const Admin = () => {
           >
             admission
           </button>
-          {/* <button
+          <button
             className={activeTab === "test" ? styles.activeButton : ""}
             onClick={() => handleTabChange("test")}
           >
@@ -79,7 +80,13 @@ const Admin = () => {
             onClick={() => handleTabChange("assignment")}
           >
             Assignment
-          </button> */}
+          </button>
+          <button
+            className={activeTab === "upload" ? styles.activeButton : ""}
+            onClick={() => handleTabChange("upload")}
+          >
+            Upload student lectures
+          </button>
 
           <button className={styles.log} onClick={handleLogout}>
             {/* Show loading spinner if loading state is true, otherwise show logout button */}
@@ -124,6 +131,10 @@ const Admin = () => {
             <Assignment
             // Pass necessary props (assignments, handleViewSubmission) here if needed
             />
+          ) : activeTab === "assignment" ? (
+            <Upload
+            // Pass necessary props (assignments, handleViewSubmission) here if needed
+            />
           ) : null}
         </div>
       </div>
@@ -132,3 +143,5 @@ const Admin = () => {
 };
 
 export default Admin;
+
+

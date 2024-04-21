@@ -7,6 +7,7 @@ import { GetRegisteredStudents } from "../../shared/redux/slices/registeredStude
 import { ApproveStudent } from "../../shared/redux/slices/auth.slices";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import ReactLoading from "react-loading";
 
 const AllStudent = () => {
   const [showModal, setShowModal] = useState(false);
@@ -39,9 +40,31 @@ const AllStudent = () => {
     setSelectedStatus(e.target.value);
   };
 
+  // const handleSubmit = async () => {
+  //   if (!selectedUser || !selectedStatus) return;
+
+  //   try {
+  //     setLoading(true);
+  //     const body = {
+  //       studentEmail: selectedUser.email,
+  //       admissionStatus: selectedStatus,
+  //     };
+  //     await dispatch(ApproveStudent(body));
+  //     setLoading(false);
+  //     setShowModal(false);
+  //     toast.success("Student admission status updated successfully!");
+  //     registeredStudents(); // Reload registered students after status update
+  //   } catch (error) {
+  //     setLoading(false);
+  //     const errorMessage =
+  //       error.response?.data?.message ||
+  //       "Failed to update student admission status";
+  //     toast.error(errorMessage);
+  //   }
+  // };
   const handleSubmit = async () => {
     if (!selectedUser || !selectedStatus) return;
-
+  
     try {
       setLoading(true);
       const body = {
@@ -55,13 +78,14 @@ const AllStudent = () => {
       registeredStudents(); // Reload registered students after status update
     } catch (error) {
       setLoading(false);
+      console.error("Error while updating admission status:", error); // Log the error message
       const errorMessage =
         error.response?.data?.message ||
         "Failed to update student admission status";
       toast.error(errorMessage);
     }
   };
-
+  
   const handleModalOpen = (user) => {
     setSelectedUser(user);
     setShowModal(true);
@@ -203,7 +227,22 @@ const AllStudent = () => {
                 transition: "background-color 0.3s ease",
               }}
             >
-              Submit
+              {loading ? (
+                <ReactLoading
+                  type="spin"
+                  color="white"
+                  height={20}
+                  width={20}
+                  style={{
+                    position: "absolute",
+                    top: "50%",
+                    left: "50%",
+                    transform: "translate(-50%, -50%)",
+                  }}
+                />
+              ) : (
+                "Submit"
+              )}
             </button>
           </div>
         </Modal>

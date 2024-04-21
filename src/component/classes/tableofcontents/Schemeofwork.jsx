@@ -4,8 +4,9 @@ import { useParams, useNavigate } from "react-router-dom";
 import StudentSideBar from "../../../component/dashboard/layout/studentlayout/StudentSideBar";
 import ReactLoading from "react-loading";
 import Modal from "../modal/Modal";
+import { SchemeOfWorkData } from "./SchemeOfWorkData.jsx";
 
-const SchemeOfWork = () => {
+const SchemeOfWork = ({ selectedSubject, selectedTerm }) => {
   const { classGrade, term, subject } = useParams();
   const [schemeOfWorkContent, setSchemeOfWorkContent] = useState(null);
   const [showModal, setShowModal] = useState(false);
@@ -14,76 +15,31 @@ const SchemeOfWork = () => {
   const [isLoading, setIsLoading] = useState(false);
 
   const navigate = useNavigate();
-
-  // Function to fetch scheme of work data
-  const fetchSchemeOfWorkData = () => {
-    // For demo purposes, simulate fetching data
-    const mockSchemeOfWorkData = [
-      {
-        week: 1,
-        topics: "Introduction to Algebra",
-        content:
-          "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
-      },
-      {
-        week: 2,
-        topics: "Linear Equations and Inequalities",
-        content:
-          "Understanding linear equations and inequalities. Solving linear equations with one variable and graphing linear inequalities on a coordinate plane.",
-      },
-      {
-        week: 3,
-        topics: "Polynomials",
-        content:
-          "Introduction to polynomials. Adding, subtracting, multiplying, and dividing polynomials. Factoring polynomials and solving polynomial equations.",
-      },
-      {
-        week: 4,
-        topics: "Quadratic Equations",
-        content: [
-          "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
-          "Word Problem",
-          "Graphs of Linear Equation",
-        ],
-      },
-      {
-        week: 5,
-        topics: "Rational Expressions and Equations",
-        content:
-          "Exploring rational expressions and equations. Simplifying and performing operations on rational expressions. Solving rational equations.",
-      },
-      {
-        week: 6,
-        topics: "Exponents and Radicals",
-        content:
-          "Introduction to exponents and radicals. Simplifying expressions with exponents and radicals. Solving equations involving exponents and radicals.",
-      },
-      {
-        week: 7,
-        topics: "Functions and Graphs",
-        content: [
-          "Understanding functions and their graphs. Identifying key features of functions, including domain, range, and intercepts. Graphing various types of functions.",
-          "Difference of Two Square",
-        ],
-      },
-      {
-        week: 8,
-        topics: "Revision",
-        content: "Revision on all work done",
-      },
-      {
-        week: 9,
-        topics: "Examination",
-        content: "Examination",
-      },
-    ];
-    setSchemeOfWorkContent(mockSchemeOfWorkData);
-  };
-
-  // Fetch scheme of work data on component mount
   useEffect(() => {
+    const fetchSchemeOfWorkData = () => {
+      const classData = SchemeOfWorkData[classGrade];
+      if (classData) {
+        const termData = classData[term];
+        if (termData) {
+          const subjectData = termData[subject];
+          if (subjectData) {
+            console.log("Scheme of work data:", subjectData);
+            setSchemeOfWorkContent(subjectData);
+          } else {
+            console.error(
+              `Scheme of work data not found for ${classGrade}, ${term}, ${subject}`
+            );
+          }
+        } else {
+          console.error(`Term data not found for ${classGrade}, ${term}`);
+        }
+      } else {
+        console.error(`Class data not found for ${classGrade}`);
+      }
+    };
+
     fetchSchemeOfWorkData();
-  }, []);
+  }, [classGrade, term, subject]);
 
   const handleOpenModal = (content) => {
     setSelectedContent(content);
@@ -97,11 +53,9 @@ const SchemeOfWork = () => {
   };
 
   const handleReadingOption = (option) => {
-    // Here you can navigate to a different route based on the selected option
     setSelectedOption(option);
   };
 
-  // Function to handle submitting modal
   const handleSubmitModal = () => {
     setIsLoading(true);
     setTimeout(() => {
@@ -251,68 +205,3 @@ const SchemeOfWork = () => {
 };
 
 export default SchemeOfWork;
-
-// // Function to fetch scheme of work data
-// const fetchSchemeOfWorkData = () => {
-//   // For demo purposes, simulate fetching data
-//   const mockSchemeOfWorkData = [
-//     {
-//       week: 1,
-//       topics: "Introduction to Algebra",
-//       content:
-//         "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
-//     },
-//     {
-//       week: 2,
-//       topics: "Linear Equations and Inequalities",
-//       content:
-//         "Understanding linear equations and inequalities. Solving linear equations with one variable and graphing linear inequalities on a coordinate plane.",
-//     },
-//     {
-//       week: 3,
-//       topics: "Polynomials",
-//       content:
-//         "Introduction to polynomials. Adding, subtracting, multiplying, and dividing polynomials. Factoring polynomials and solving polynomial equations.",
-//     },
-//     {
-//       week: 4,
-//       topics: "Quadratic Equations",
-//       content: [
-//         "Basic concepts of algebra, including variables, constants, and expressions. Solving simple algebraic equations and understanding the order of operations.",
-//         "Word Problem",
-//         "Graphs of Linear Equation",
-//       ],
-//     },
-//     {
-//       week: 5,
-//       topics: "Rational Expressions and Equations",
-//       content:
-//         "Exploring rational expressions and equations. Simplifying and performing operations on rational expressions. Solving rational equations.",
-//     },
-//     {
-//       week: 6,
-//       topics: "Exponents and Radicals",
-//       content:
-//         "Introduction to exponents and radicals. Simplifying expressions with exponents and radicals. Solving equations involving exponents and radicals.",
-//     },
-//     {
-//       week: 7,
-//       topics: "Functions and Graphs",
-//       content: [
-//         "Understanding functions and their graphs. Identifying key features of functions, including domain, range, and intercepts. Graphing various types of functions.",
-//         "Difference of Two Square",
-//       ],
-//     },
-//     {
-//       week: 8,
-//       topics: "Revision",
-//       content: "Revision on all work done",
-//     },
-//     {
-//       week: 9,
-//       topics: "Examination",
-//       content: "Examination",
-//     },
-//   ];
-//   setSchemeOfWorkContent(mockSchemeOfWorkData);
-// };
