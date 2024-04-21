@@ -1884,9 +1884,239 @@ export const SchemeOfWorkData = {
           content: ["JSS1 Mathematics Second Term Examination"],
         },
       ],
-      Music:[
+      Music: [
+        {
+          week: 1,
+          topics: "Musical Notes and their Values",
+          content: ["Musical Notes and their Values"],
+        },
+        {
+          week: 2,
+          topics: "Musical Rest and their Values",
+          content: ["Musical Rest and their Values"],
+        },
+        {
+          week: 3,
+          topics: "Time Signature",
+          content: [
+            "(i) Definition of Time Signature",
+            "(ii) Types of Time Signature",
+            "(iii) Classifications of Time Signature",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Folk Songs",
+          content: [
+            "(i) Description of Folk Music Songs",
+            "(ii) Western Folk songs",
+            "(iii) Nigerian Folk Songs",
+            "(iv) Singing of Folk Songs",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Classification of African Musical Instruments",
+          content: [
+            "(a) Names of Nigerian Instruments",
+            "(b) Classification of Musical Instruments – Idiophones, Aerophones, Membranophone and Chordophones",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "Traditional Musical Instruments/Making of Local Musical Instruments",
+          content: [
+            "Traditional Musical Instruments/Making of Local Musical Instruments",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Playing the Recorder",
+          content: [
+            "(i) Fingering the Recorder",
+            "(ii) Playing the Recorder",
+            "(iii) Fingering for the Right Hand",
+          ],
+        },
+        {
+          week: 8,
+          topics: "History of Music",
+          content: [
+            "(a) Composers of the Baroque Period",
+            "(b) Life and Works of Johann Sebastian Bach",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Music Second Term Examination"],
+        },
+      ],
+      "Physical and Health Education (PHE)": [
+        {
+          week: 1,
+          topics: "Ball Games: Volleyball",
+          content: [
+            "(a) Basic Skills and Techniques in Volleyball",
+            "(b) Application of the Rules and Regulations Governing Volleyball",
+            "(c) Officials in Volleyball and their Functions",
+            "(d) Facilities and Equipment Used in Volleyball",
+            "(e) Values of Volleyball",
+            "(f) Common Injuries on Volleyball",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Ball Games: Soccer",
+          content: [
+            "(a) Basic Skills and Techniques in Soccer",
+            "(b) Application of the Rules and Regulations Governing Soccer",
+            "(c) Soccer Officials and their Functions",
+            "(d) Soccer Facilities and Equipment",
+            "(e) Values of Soccer",
+            "(f) Common Injuries in Soccer",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Contact Sports",
+          content: [
+            "(a) Definition of Contact Sports",
+            "(b) Examples of Contact Sports – Wrestling, Boxing, Judo, etc.",
+            "(c) Benefits of Contact Sports",
+            "(d) Basic Skills of Contact Sports",
+            "(e) Safety Measures in Contact Sports",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Non-contact Sports",
+          content: [
+            "(a) Definition of Non-contact Sports",
+            "(b) Examples of Non-contact Sports – Swimming, Gymnastics, etc.",
+            "(c) Benefits of Non-contact sports",
+            "(d) Basic Skills of Non-Contact Sports",
+            "(e) Safety Measures in Non-contact Sports",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Introduction to Personal, School and Community Health",
+          content: [
+            "(a) Determinants of Health (Heredity, Environment, Life style)",
+            "(b) Aspects of Health",
+            "(c) Characteristics of a Healthy Person",
+            "(d) Characteristics of a Physically-fit Person",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Sewage Disposal",
+          content: [
+            "(a) Meaning of Sewage",
+            "(b) Types of Sewage",
+            "(c) Methods of Sewage Disposal",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Refuse Disposal",
+          content: [
+            "(a) Meaning of Refuse Disposal",
+            "(b) Methods of Refuse Disposal",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Sources of Water Supply",
+          content: [
+            "(a) Meaning of Water",
+            "(b) Sources of Water Supply",
+            "(c) Qualities of Good Water Supply",
+            "(d) Uses of Water",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 PHE Second Term Examination"],
+        },
+      ],
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Similarities and Differences Among Cultures in Nigeria",
+          content: [
+            "(a) Cultural Similarities in Nigeria",
+            "(b) Cultural Differences in Nigeria",
+            "(c) Meaning and Levels of Identity",
+            "(d) Shared Norms and Values of Nigerian Communities",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Agents and Processes of Socialization",
+          content: [
+            "(a) Meaning of Socialization",
+            "(b) Types of Socialization – Primary and Secondary Socialization",
+            "(c) Agents of Socialization",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Agents and Processes of Socialization",
+          content: [
+            "(d) Importance of Socialization",
+            "(e) Negative Effects or Disadvantages of Socialization",
+            "(f) Processes of Socialization – (i) Education (Direct Learning), (ii) Apprenticeship, (iii) Incidental learning, (iv) Learning from models, (v) Roles learning",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Road Safety Club as an Agent of Socialization",
+          content: [
+            "(a) Structure and Processes of Forming Road Safety Club in Schools",
+            "(b) Membership of the Federal Road Safety Club",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Road Safety Club as an Agent of Socialization",
+          content: [
+            "(c) The Roles of Road Safety Club in the Socialization of Youths",
+            "(d) Our Roles in Promoting Safety in Our Community",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 7,
+          topics: "Examination",
+          content: ["JSS1 Social Studies Second Term Examination"],
+        },
+      ],
+    },
+  },
+
+  JSS1: {
+    ThirdTerm: {
+      "Agricultural Science": [
         
-      ]
+      ],
     },
   },
 };
