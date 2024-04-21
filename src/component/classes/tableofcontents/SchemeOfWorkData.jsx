@@ -340,7 +340,356 @@ export const SchemeOfWorkData = {
         {
           week: 5,
           topics: "Marriage.",
-          content: ["(i)Types of marriage..(ii)Importance of marriage."],
+          content: ["(i)Types of marriage.(ii)Importance of marriage."],
+        },
+        {
+          week: 6,
+          topics: "Disobedience.",
+          content: [
+            "(i)Meaning of disobedience.(ii)Biblical accounts of first human disobedience.(iii)The consequences of Adam and Eve's disobedience.(iv)God's punishment for Adam, Eve and this happens. (v)Moral lessons",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Learners disobedience and its consequences.",
+          content: [
+            "(i)Who is a Learner?(ii)Learners disobedience and its consequences",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision.",
+          content: ["Revision of work done in first time."],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS1 CRS First Term Examination"],
+        },
+      ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "National values.",
+          content: [
+            "(a)Meaning of values. e.g Likes and Dislikes(ii)Levels of manifestation of values-(i)Individual. (ii)Society.",
+          ],
+        },
+        {
+          week: 2,
+          topics: "National values.",
+          content: [
+            "(b)Importance of values in the society e.g.Unity, Corporation, harmony, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "National values.",
+          content: [
+            "(c)Factors that promote good value system. e.g Consistency, Trust, Tolerance, Fairness, Integrity and Commitment.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "National values: Honesty",
+          content: ["(a)Meaning of honesty", "(b)Attributes of honesty."],
+        },
+        {
+          week: 5,
+          topics: "National values:Honesty",
+          content: [
+            "(c)Benefits of honesty",
+            "(d)Consequences of dishonesty e.g. In the examination, malpractice, cheating, fraudulent practices etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "National values: Co-operation",
+          content: [
+            "(c)Meaning of Co-operation e.g. Working together to achieve a goal.",
+            "(b)Attributes of Co-operation e.g Sharing, Caring, supporting etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "National values: Co-operation",
+          content: [
+            "(c)Factors that promote Co-operation - Trust, setting goals together. etc.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "National values: Co-operation",
+          content: [
+            "(d)Benefits of Co-operation - Harmony, progress and goal achievements.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revison of work done in first term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Civic Education First Term Examination"],
+        },
+      ],
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Historical Development of Computers",
+          content: [
+            "(a) Early Counting Devices – Fingers, stones, sticks, pebbles, cowries, etc..",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Historical Development of Computers",
+          content: [
+            "(b) Mechanical Counting and Calculating Devices – Abacus, slide rule, Napier’s bone, among others.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Historical Development of Computers",
+          content: [
+            "(c)Electro-mechanical Counting Devices – Wilhelm Schickard, Tito Livio Burattini,  Samuel Morland, René Grillet, Blaise Pascal Machine and Gottfried ilhelm (Von) Leibniz",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Historical Development of Computers",
+          content: [
+            "(d)  Electro-mechanical Counting Devices – Charles Babbage analytical machine, Philip Emeagwali and Joseph Jacquard’s loom ",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Historical Development of Computers",
+          content: [
+            "(e) Electronic Counting Devices and Modern Computer – (i) Herman Hollerith punch cards",
+            "(f) John Von Neumann Machine",
+            "(g)  Modern Machines",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Historical Development of Computers",
+          content: [
+            "(h) Generations of Computers – First, Second, Third, Fourth and Fifth",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Data Processing",
+          content: [
+            "(a) Definition of Data Processing",
+            "(b) Data Processing Cycle – Data gathering, data collection, input stage, processing stage, storage stage, output stage ",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Data Processing",
+          content: [
+            "(c) Importance of Computer as a Tool for Processing Data  Increased accuracy, efficient storage facilities, and fast access to information,handles repetitive tasks.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Computer Studies First Term Examination"],
+        },
+      ],
+      // "Cultural and Creative Arts": [
+      //   {
+      //     week: 1,
+      //     topics: "Historical Development of Computers",
+      //     content: [
+      //       "(a) Early Counting Devices – Fingers, stones, sticks, pebbles, cowries, etc..",
+      //     ],
+      //   },
+      // ],
+      "English Studies": [
+        {
+          week: 1,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Introduction to Speech Work (Production of vowel and consonant sounds)",
+            "(b)  Structure: Parts of Speech – Nouns (Features/Functions of Nouns in a Given Passage)",
+            "(c) Comprehension/Vocabulary Development:Reading Skills/Writing Skills (Developing Reading and Writing Skills)",
+            "(d) Composition: Types of Composition (Narrative, Descriptive, Argumentative and Expository)",
+            "(e) Literature:Introduction to Literature (Functions/Purpose of Literature)",
+          ],
+        },
+        {
+          week: 2,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Vowels –Introduction to Monophthongs (Long and Short Vowels e.g. /i:/, /i/)",
+            "(b)  Structure:Verbs – Features/Functions of Verbs (in a given passage)",
+            "(c) Comprehension/Vocabulary Development:Reading for Main Ideas",
+            "(d) Composition: Elements of Composition – Introduction, Body, Conclusion; Stages of Writing",
+            "(e)Literature: Genres of Literature (Definition of Genres with Related Texts)",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Vowels – Long and Short Vowels e.g. /ↄ:/,  /ɒ/",
+            "(b)  Structure:  Adverbs (Types of Adverbs – Frequency, Manner, Time, Purpose, etc.)",
+            "(c) Comprehension/Vocabulary Development: Reading for Supporting Ideas",
+            "(d) Composition: Writing Outlines (Arrangement of an Outline in a Logical Sequence)",
+            "(e) Literature: Prose (Types of Prose e.g. Narrative, Descriptive, etc)",
+          ],
+        },
+        {
+          week: 4,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Vowels /a:/ and /æ/",
+            "(b)  Structure: Adjectives (Features/Functions of Adjectives in a Given Passage)",
+            "(c) Comprehension/Vocabulary Development: Writing Skills – Reading to Answer Specific Questions",
+            "(d)Composition/Letter Writing:Introduction to /Types of Letters (Formal and Informal)",
+            "(e)  Literature: Categories of Oral and Written Literature",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work:Vowel Sounds – Vowel Sounds – /ʌ/, /ɒ/",
+            "(b) Structure: Conjunctions and Prepositions – (Features/Functions and Identification in a Given Passage)",
+            "(c) Comprehension/Vocabulary Development: Writing Skills – Reading to Answer Specific Questions",
+            "(d) Composition: Letter Writing – Informal Letters (Format and Features of an Informal Letter)",
+            "(e)  Literature: Folktales – Introduction to Folktales (African and Non-African Tales);Read recommended text",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Soundse.g. /b/ and /p/",
+            "(b) Structure: Tenses – Present, Past and Future Tenses",
+            "(c) Comprehension/Vocabulary Development: Reading for Maximum Retention and Recall (Intensive Reading)",
+            "(d) Composition: Letter Writing – Guided Writing (Informal Letters)",
+            "(e)  Literature: Folktales – Features/Themes of Folktales (Didactic, entertainment, magical, etc.)",
+          ],
+        },
+        {
+          week: 7,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Soundse.g.e.g. /t/  and  /d/",
+            "(b) Structure: Intensifiers",
+            "(c)  Composition: Narrative Composition (Features/Outline of a Guided Composition)",
+            "(d)  Literature: Introduction to Figures of Speech (Simile, Metaphor, etc.)",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Soundse /k/ and /g/",
+            "(b)Structure:  Tenses and Adverbials (Making Sentences with Tenses and Adverbials)",
+            "(c)Composition/Vocabulary Development: Differentiating between Main and Supporting Ideas in a Given Passage",
+            "(d)Composition: Descriptive Composition (Features/Outline of a Guided Composition)",
+            "(e) Literature: Prose: Features of Prose – Plot, characterization, style, setting, theme Read recommended texts",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 10,
+          topics: "Examinaton",
+          content: ["Revision of work done in First Term"],
+        },
+      ],
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Introduction to Home Economics",
+          content: [
+            "(a) Meaning of Home Economics",
+            "(b)  Scope (Areas in Home Economics)",
+            "(c)Careers in Home Economics",
+            "(d) Importance of Home Economics to the Society",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Puberty and Adolescence",
+          content: [
+            "(a)Puberty: (i)Meaning of Puberty (ii) Signs of Puberty (iii) Menstruation and Menstrual Hygiene ",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Puberty and Adolescence",
+          content: [
+            "(b) Body Odour:(i) Meaning of Body Odour (i)Meaning of Puberty  (ii) Causes of Body Odour(ii) (iii) Prevention of Body Odour",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Puberty and Adolescence",
+          content: [
+            "(c)  Adolescence: (i) Meaning of Adolescence (ii) Characteristics of Adolescents (iii) Needs of Adolescents (iv) Challenges of Adolescent",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Sexually Transmitted Infections (STIs), HIV/AIDS",
+          content: [
+            "(a) Meaning and Types of Sexually Transmitted Infections (STIs), HIV/AIDS",
+            "(b) Signs of Sexually Transmitted Infections",
+            "(c) Prevention and Treatment of STIs",
+          ],
+        },
+        {
+          week: 6,
+          topics: "HIV/AIDS and Self Medication",
+          content: [
+            "(d)HIV/AIDS and Self Medication",
+            "(e) Management of Persons with HIV/AIDS",
+            "(f) Meaning of Self Medication",
+            "(g) Effects/Consequences of Self Medication",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Human Rights and Violation",
+          content: [
+            "(a) Fundamental Rights of Every Nigerian Citizen",
+            "(b) Rights of a Child",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Human Rights and Violation",
+          content: ["(c) Rights of Women", "(d) Violation of Human Rights"],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
         },
       ],
     },

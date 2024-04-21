@@ -27,11 +27,11 @@ const Jss1FirstTerm = () => {
     },
     { term: "FirstTerm", class: "JSS1", subject: "Civic Education" },
     { term: "FirstTerm", class: "JSS1", subject: "Computer Studies" },
-    {
-      term: "FirstTerm",
-      class: "JSS1",
-      subject: "Cultural and Creative Arts",
-    },
+    // {
+    //   term: "FirstTerm",
+    //   class: "JSS1",
+    //   subject: "Cultural and Creative Arts",
+    // },
     { term: "FirstTerm", class: "JSS1", subject: "English Studies" },
     { term: "FirstTerm", class: "JSS1", subject: "Home Economics" },
     { term: "FirstTerm", class: "JSS1", subject: "Mathematics" },
