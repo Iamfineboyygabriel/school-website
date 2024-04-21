@@ -692,6 +692,125 @@ export const SchemeOfWorkData = {
           content: ["Revision of work done in First Term"],
         },
       ],
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Whole Numbers",
+          content: [
+            "(a)Development of Number System: (Roman numerals, counting boards, abacus, etc.)",
+            "(b)  Place Value: Whole Numbers and Decimal Fractions",
+            "(c)Counting:Tens, Hundreds… Trillions",
+            "(d) Translating Numbers Written in Figures to Words and Vice Versa",
+            "(e) Quantitative Reasoning:Simple coding, etc.",
+          ],
+        },
+        {
+          week: 2,
+          topics:
+            "Basic Operations on Whole Numbers (Addition and Subtraction)",
+          content: [
+            "(a) Order of Operations:(PEMDAS/BODMAS) ",
+            "(b)Use of Number Line",
+            "(c) Addition and Subtraction with Place Value",
+            "(d) Addition and Subtraction of Positive and Negative Numbers",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Basic Operations on Whole Numbers(Multiplication and Division) ",
+          content: [
+            "(a) Multiplication of Positive and Negative Numbers",
+            "(b)Division of Integers",
+            "(c) Addition and Subtraction with Place Value",
+            "(d)Word Problems",
+          ],
+        },
+        {
+          week: 4,
+          topics: "LCM and HCF of Whole Numbers",
+          content: [
+            "(a) Rules of Divisibility",
+            "(b) Definitions:Even, Odd, Prime and Composite Numbers",
+            "(c) Factors, Multiples and Index Form",
+            "(d) LCM and HCF of Given Whole Numbers",
+            "(e) Quantitative Reasoning",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Counting in Base Two",
+          content: [
+            "(a) Counting in Groups of Twos",
+            "(b) Counting in Groups of Twos",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Fractions",
+          content: [
+            "(a) Definition and Types of Fractions",
+            "(b)Conversion of Fractions to Decimals and Vice versa",
+            "(c)Conversion of Fractions to Percentages and Vice versa",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Fractions",
+          content: [
+            "(d) Equivalent Fractions",
+            "(e) Ordering of Fractions",
+            "(f)Quantitative reasoning",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Basic Operations on Fractions",
+          content: [
+            "(a) Addition and Subtraction of Fractions",
+            "(b) Multiplication and Division of Fractions",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+      ],
+      Music: [
+        {
+          week: 1,
+          topics: "Whole Numbers",
+          content: [
+            "(a)Development of Number System: (Roman numerals, counting boards, abacus, etc.)",
+            "(b)  Place Value: Whole Numbers and Decimal Fractions",
+            "(c)Counting:Tens, Hundreds… Trillions",
+            "(d) Translating Numbers Written in Figures to Words and Vice Versa",
+            "(e) Quantitative Reasoning:Simple coding, etc.",
+          ],
+        },
+        {
+          week: 2,
+          topics:
+            "Basic Operations on Whole Numbers:(Addition and Subtraction)",
+          content: [
+            "(a)Order of Operations:(PEMDAS/BODMAS)",
+            "(b) Use of Number Line",
+            "(c) Addition and Subtraction with Place Value",
+            "(d) Addition and Subtraction of Positive and Negative Numbers",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Basic Operations on Whole Numbers (Multiplication and Division)",
+          content: [
+            "(a) Multiplication of Positive and Negative Numbers",
+            "(b) Division of Integers",
+            "(c) Word Problems",
+          ],
+        },
+      ],
     },
   },
 };
