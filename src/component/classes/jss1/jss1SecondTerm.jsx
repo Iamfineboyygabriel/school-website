@@ -7,37 +7,37 @@ import styles from "./css/term.module.scss";
 const Jss1SecondTerm = () => {
   const data = [
     {
-      term: "SecondTerm",
+      term: "Second Term",
       class: "JSS1",
       subject: "Agricultural Science",
     },
-    { term: "SecondTerm", class: "JSS1", subject: "Basic Science" },
-    { term: "SecondTerm", class: "JSS1", subject: "Basic Technology" },
-    { term: "SecondTerm", class: "JSS1", subject: "Business Studies" },
+    { term: "Second Term", class: "JSS1", subject: "Basic Science" },
+    { term: "Second Term", class: "JSS1", subject: "Basic Technology" },
+    { term: "Second Term", class: "JSS1", subject: "Business Studies" },
     {
-      term: "SecondTerm",
+      term: "Second Term",
       class: "JSS1",
       subject: "Christian Religioud Studies (CRS)",
     },
-    { term: "SecondTerm", class: "JSS1", subject: "Civic Education" },
-    { term: "SecondTerm", class: "JSS1", subject: "Compter Studies" },
+    { term: "Second Term", class: "JSS1", subject: "Civic Education" },
+    { term: "Second Term", class: "JSS1", subject: "Compter Studies" },
     {
-      term: "SecondTerm",
+      term: "Second Term",
       class: "JSS1",
       subject: "Cultural and Creative Art",
     },
-    { term: "SecondTerm", class: "JSS1", subject: "English Studies" },
-    { term: "SecondTerm", class: "JSS1", subject: "Home Economics" },
-    { term: "SecondTerm", class: "JSS1", subject: "Mathematics" },
-    { term: "SecondTerm", class: "JSS1", subject: "Music" },
+    { term: "Second Term", class: "JSS1", subject: "English Studies" },
+    { term: "Second Term", class: "JSS1", subject: "Home Economics" },
+    { term: "Second Term", class: "JSS1", subject: "Mathematics" },
+    { term: "Second Term", class: "JSS1", subject: "Music" },
     {
-      term: "SecondTerm",
+      term: "Second Term",
       class: "JSS1",
       subject: "Physcal and Health Education",
     },
-    { term: "SecondTerm", class: "JSS1", subject: "Social Studies" },
+    { term: "Second Term", class: "JSS1", subject: "Social Studies" },
   ];
-  const selectedTerm = "SecondTerm";
+  const selectedTerm = "Second Term";
   const selectedClass = "JSS1";
 
   // Define state to track the selected subject

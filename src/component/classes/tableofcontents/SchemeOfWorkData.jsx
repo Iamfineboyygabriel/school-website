@@ -1,6 +1,6 @@
 export const SchemeOfWorkData = {
   JSS1: {
-    FirstTerm: {
+    "First Term": {
       "Agricultural Science": [
         {
           week: 1,
@@ -1021,7 +1021,7 @@ export const SchemeOfWorkData = {
   },
 
   JSS1: {
-    SecondTerm: {
+    "Second Term": {
       "Agricultural Science": [
         {
           week: 1,
@@ -2113,7 +2113,7 @@ export const SchemeOfWorkData = {
   },
 
   JSS1: {
-    ThirdTerm: {
+    "Third Term": {
       "Agricultural Science": [
         {
           week: 1,
@@ -2183,9 +2183,153 @@ export const SchemeOfWorkData = {
           content: [" JSS1 Agric Science Third Term Examination  "],
         },
       ],
-      "Basic Science":[
-        
-      ]
+      "Basic Science": [
+        {
+          week: 1,
+          topics: "Force",
+          content: [
+            "(i) Meaning of Force",
+            "(ii) Types of Forces",
+            "(iii) Uses of Force",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Force",
+          content: [
+            "Calculation of Gravitational Force:",
+            "(i) Meaning of Gravitational Force",
+            "(ii) Calculation of Gravitational Force",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Force",
+          content: [
+            "Friction:",
+            "(i) Uses of Friction",
+            "(ii) Advantages and Disadvantages of Friction",
+            "(iii) How to Reduce Friction",
+            "(iv) Balanced and Unbalanced Forces",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Force",
+          content: [
+            "Gravitational Force and Weightlessness:",
+            "(i) Meaning of Gravitation",
+            "(ii) Effects of Gravitation of Objects",
+            "(iii) Weightlessness",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Force",
+          content: [
+            "The Earth in Space:",
+            "(i) The Solar System",
+            "(ii) Earth’s Rotation and Revolution",
+            "(iii) Eclipse of the Sun and the Moon",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Force",
+          content: [
+            "Space Travel:",
+            "(i) Meaning of Space Travel",
+            "(ii) Purposes/Advantages of Space Travel",
+            "(iii) Dangers of Space Travel",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Force",
+          content: [
+            "Satellites:",
+            "(i) Meaning of Satellite",
+            "(ii) Types of Satellite",
+            "(iii) Uses of Satellites",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term "],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS1 Basic Science Third Term Examination"],
+        },
+      ],
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Woodwork Hand Tools",
+          content: [
+            "(a) Measuring Tools – Metric rule, inside calipers, outside calipers, pair of dividers, etc.",
+            "(b) Setting and Marking Out Tools – Try-square, sliding bevel, meter square, pair of compasses, trammels, etc.",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Woodwork Tools",
+          content: [
+            "(c) Driving Tools – Hammer, mallet and screw driver, etc.",
+            "(d) Boring tools – Wood brace’ ratchet brace and bradawl, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Woodwork Tools",
+          content: [
+            "(e) Holding Devices – Bench hook, Bench vice, ‘G’ cramp, sash clamp, etc.",
+            "(f) Cutting and Pairing Tools – Rip saw, cross cut saw, tenon saw, bow saw, dovetail saw, jack plane, smoothing plane, spoke shaves, chisels, etc.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Metal Work Hand Tools",
+          content: [
+            "(a) Marking Out Tools – Surface plate, scriber, odd-leg caliper, etc.",
+            "(b) Measuring Tools and Gauge – Steel rule, protractors, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Metal Work Hand Tools",
+          content: [
+            "(c) Driving Tools – Punches, screw drivers, spanners, etc",
+            "(d) Cutting Tools – Chisels, files, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Maintenance of Tools and Machines",
+          content: [
+            "(a) Meaning of Maintenance",
+            "(b) Types of Maintenance Practices such as Preventive, Predictive and Corrective",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Maintenance of Tools and Machines",
+          content: ["Importance of Maintenance"],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: [" Revision of work done in the current term"],
+        },
+        {
+          week: 7,
+          topics: "Examination",
+          content: ["JSS1 Basic Technology Third Term Examination "],
+        },
+      ],
+      "Business Studies": [],
     },
   },
 };
