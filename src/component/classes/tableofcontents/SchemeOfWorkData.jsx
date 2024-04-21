@@ -2517,10 +2517,632 @@ export const SchemeOfWorkData = {
           content: ["JSS1 CRS Third Term Examination"],
         },
       ],
-      "Civic Education":[
-        
-      ]
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Objects of National Consciousness",
+          content: [
+            "National Symbols: (i) Coat of Arms (ii) National Flag (iii) National Currency",
+            "National Anthem and Pledge",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Objects of National Consciousness",
+          content: ["National Consciousness and Identity"],
+        },
+        {
+          week: 4,
+          topics: "Objects of National Consciousness",
+          content: [
+            "The Purpose of the Establishment of National Institutions like NYSC, Unity Schools, Federal Character, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Objects of National Consciousness",
+          content: [
+            "Ways of Promoting National Unity: (i) Tolerance (ii) Hospitality (iii) Non-discrimination (iv) Inter-marriages, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Common Crimes, Causes and Effects",
+          content: [
+            "Examples of Crimes e.g. Falsehood, theft, rape, murder, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Common Crimes, Causes and Effects",
+          content: ["Causes and Effects of Common Crimes"],
+        },
+        {
+          week: 8,
+          topics: "Common Crimes, Causes and Effects",
+          content: [
+            "Crime Prevention – (i) Cooperation with the security agents, school and neighbourhood authorities in crime.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Common Crimes, Causes and Effects",
+          content: [
+            "Crime Prevention – (i) Cooperation with the security agents, school and neighbourhood authorities in crime.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+      ],
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Computer Ethics",
+          content: [
+            "Meaning of Computer Room",
+            "Components of a Computer Room",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Computer Ethics",
+          content: [
+            "Meaning of Computer Room Management Ethics",
+            "Ways to Take Care of Your Computer",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Computer Ethics",
+          content: [
+            "Computer Laboratory Rules and Regulations – arrange chairs and tables in a comfortable manner",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Computer Ethics",
+          content: ["Health Concerns of Computer Use"],
+        },
+        {
+          week: 6,
+          topics: "ICT Application in Everyday Life",
+          content: ["Meaning of ICT", "Uses of ICT in Communication"],
+        },
+        {
+          week: 7,
+          topics: "ICT Application in Everyday Life",
+          content: [
+            "Uses of ICT in Timing and Control",
+            "Uses of ICT in Information Processing/Management",
+          ],
+        },
+        {
+          week: 8,
+          topics: "ICT and Society",
+          content: [
+            "ICT in Education",
+            "ICT in Banking Industry",
+            "ICT in Medical Sciences",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Computer Studies Second Term Examination"],
+        },
+      ],
+      "English Studies": [
+        {
+          week: 1,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Consonants /l/ and /r/",
+            "Structure: Verbs – Active Voice (Introduction)",
+            "Comprehension/Vocabulary Development: Reading Skills – Reading for Spatial Description",
+            "Composition: Expository Essay (Brainstorming)",
+            "Literature: Poetry – Types of Poems",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Vowel Sounds – Weak Forms /Ә/ (after, often, listen)",
+            "Structure: Verbs – Making Sentences with Active Voices",
+            "Comprehension/Vocabulary Development: Writing Skills – Giving Specific Answers",
+            "Composition: Expository Arrangement of Ideas in Logical Sequence",
+            "Literature: Poetry – More Work on Figures of Speech and Literary Terms",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Nasal Sounds /m/, /n/, /ŋ/",
+            "Structure: Verbs – Passive Verbs",
+            "Comprehension/Vocabulary Development: Listening Skills – Listening for Maximum Retention and Recall",
+            "Composition: Expository Essay – Use of Transitional Devices (Paragraph Linkers), Stages of Writing",
+            "Literature: Structure and themes in Recommended Texts/Poems",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Stress – Introduction to Stress",
+            "Structure: Verbs – Highlighting the Rules of Passive Voice",
+            "Composition: Expository Essay – Guided Writing (Introduction, Body and Conclusion)",
+            "Literature: Poetry – Figures of Speech in Recommended Text/Poems",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Stress – Stress Patterns",
+            "Structure: Making Sentences with Active and Passive Voices",
+            "Comprehension/Vocabulary Development: Reading to Follow Directions in Written Communication",
+            "Composition: Expository Essay – Model Essays",
+            "Literature: Poetry – Structure and Themes in Recommended Texts",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Stress – Compound Words",
+            "Structure: Question Tags",
+            "Comprehension/Vocabulary Development: Listening Skills – Listening to Follow Directions in Written Communication",
+            "Composition: Narrative, Descriptive, Argumentative and Expository Essays – Identifying the Differences",
+            "Literature: Poetry – Figures of Speech in Recommended Text",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Consonant Clusters",
+            "Structure: Pronouns – Forms of Pronouns",
+            "Comprehension/Vocabulary Development: Writing Skills (Given passage)",
+            "Composition: Informal Letters – Writing to Suit Different Situations",
+            "Literature: Poetry – More on Figures of Speech Encourage students to write a poem.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Speech Work",
+          content: [
+            "Structure",
+            "Comprehension/Vocabulary Development",
+            "Composition",
+            "Literature",
+            "Speech Work: Consonant Sounds /h/, /j/, /w/",
+            "Structure: Pronouns – Positions and Functions of Pronouns",
+            "Comprehension/Vocabulary Development: Listening Skills (Given passage)",
+            "Composition: Formal Letters – Writing to Suit Different Situations",
+            "Literature: More Work on Literary Devices",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 English Studies Third Term Examination"],
+        },
+      ],
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in second term"],
+        },
+        {
+          week: 2,
+          topics: "Healthy Feeding and Eating Practices",
+          content: [
+            "Healthy Feeding and Eating Practices: Eat adequate diet, use foods in season, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Healthy Feeding and Eating Practices",
+          content: [
+            "Healthy Eating Habits (Table Manners): Washing hands before and after eating; taking a small quantity of food at a time; chewing food properly, etc.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Healthy Feeding and Eating Practices",
+          content: [
+            "Effects of Unhealthy Feeding Practices: Marasmus, kwashiorkor, etc;",
+            "Effects of Unhealthy Feeding Habits: Stomach ache, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Healthy Feeding and Eating Practices",
+          content: [
+            "Food Additives: Uses of Food Additives; Misuses of Food Additives; Detection",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Healthy Feeding and Eating Practices",
+          content: [
+            "Food Contaminants",
+            "Harmful Substances that Should Not be Consumed",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Healthy Feeding and Eating Practices",
+          content: [
+            "Meaning of Drug Abuse",
+            "Effects of Drug Abuse in the Body",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS1 Home Economics Third Term Examination"],
+        },
+      ],
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Plane Shapes",
+          content: [
+            "Identification of Common Plane Shapes",
+            "Properties of Circles and Triangles",
+            "Properties of Quadrilaterals: Square, rectangle, trapezium, rhombus, parallelogram, kite",
+            "Identification and Naming of Polygons",
+            "Similarities and Differences between Regular Quadrilaterals",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Perimeter of Plane Shapes",
+          content: [
+            "Perimeter of Circles and Triangles.",
+            "Perimeter of Regular Quadrilaterals and Polygons",
+            "Perimeter of Irregular Shapes",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Area of Regular and Irregular Plane Shapes",
+          content: [
+            "Area of Circles and Triangles",
+            "Area of Regular Quadrilaterals",
+            "Area of Irregular Shapes",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Three-dimensional Shapes (Solids)",
+          content: [
+            "Identification and Naming of Solids",
+            "Basic Properties of Prisms (cubes, cuboids and cylinders)",
+            "Basic Properties of Pyramids and Cones",
+            "Basic properties of Spheres",
+            "Volume of Cubes and Cuboids",
+            "Net of Shapes: Drawing and Making Nets of Shapes",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Construction",
+          content: [
+            "Construction of Parallel and Perpendicular Lines",
+            "Bisection of a Given Line Segment",
+            "Construction of Angles 90° and 60°",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Angles",
+          content: [
+            "Naming of Angles: Acute, Right, Complementary, Obtuse, Straight, Supplementary Reflex Angles and Angle at a Point",
+            "Units and Measurement of Angles",
+            "Angles between Lines: Vertically Opposite, Angle on a Straight Line and Angle at a Point",
+            "Angles between Parallel Lines: Adjacent, Alternate and Corresponding Angles",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Need for Statistics/Data Collection and Representation",
+          content: [
+            "The Purpose of Statistics",
+            "The Need for Collecting Data for Planning Purposes",
+            "Collection of Data in Class",
+            "Presentation of Data: Rank-ordered List, Frequency Table, Pictogram, Bar Chart and Interpretation of Pie Chart",
+            "Averages: Mean, Median and Mode",
+            "Mean (Listed and Tabulated Data Values)",
+            "Median",
+            "Mode of a Given Set of Data",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Averages:Mean, Median and Mode",
+          content: [
+            "(a) Mean (Listed and Tabulated Data Values)",
+            "(b) Median",
+            "(c) Mode of a Given Set of Data",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in third term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS1 Mathematics Third Term Examination"],
+        },
+      ],
+      Music: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in second term"],
+        },
+        {
+          week: 2,
+          topics: "Music Notation",
+          content: ["Definition of Music Notation", "Kinds of Music Notation"],
+        },
+        {
+          week: 3,
+          topics: "Dotted Notes and their Values",
+          content: [
+            "Definition of Dotted Notes",
+            "Effects of Dots",
+            "Effects of Double Dots",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Methods of Extending Note Values",
+          content: [
+            "Tie and Pause or Fermata",
+            "The Effect of Tie",
+            "The Effect of Pause",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Scales",
+          content: [
+            "Introduction to Scales",
+            "Definition of Scale",
+            "Kinds of Scale: Diatonic Scale and Chromatic Scale",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Major Scale: Tetrachord, Tones and Semitones",
+          content: [],
+        },
+        {
+          week: 7,
+          topics: "Major Scale of C Natural",
+          content: ["Key C Major Scale", "Tone-Semitone Arrangement"],
+        },
+        {
+          week: 8,
+          topics: "Technical Names of a Major Scale",
+          content: ["Technical Names of a Major Scale"],
+        },
+        {
+          week: 9,
+          topics: "Keyboard Setting/Accidentals",
+          content: ["Keyboard Setting/Accidentals"],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in third term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS1 Music Third Term Examination"],
+        },
+      ],
+      "Physical and Health Education (PHE)": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term(s)"],
+        },
+        {
+          week: 2,
+          topics: "Food, Nutrition and Health",
+          content: ["Meaning of Food", "Different Types of Food"],
+        },
+        {
+          week: 3,
+          topics: "Classes of Food Nutrients",
+          content: [
+            "Classes of Food Nutrients: Carbohydrate, protein, fats and oils, minerals and salts, vitamins and water",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Importance of Food",
+          content: [
+            "Importance of Food: To eliminate hunger, to provide energy for various physical activities, for healthy living, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Pathogens, Diseases and their Prevention",
+          content: ["Meaning of Diseases", "Types of Diseases"],
+        },
+        {
+          week: 6,
+          topics: "Diseases Caused by Pathogens",
+          content: [
+            "Effects of Diseases on Athletes’ Performance in Physical Activities",
+          ],
+        },
+        {
+          week: 7 - 9,
+          topics: "Diseases Preventive Measures",
+          content: [
+            "Preventive Measures against Diseases– Adequate nutrition and exercises, clean environment, use of safe water, proper disposal of refuse and sewage, seeking and getting treatment on time, good hygiene, immunization, good ventilation, health education, vaccination",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in third term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS1 PHE Third Term Examination"],
+        },
+      ],
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Common Social Problems in Nigeria",
+          content: [
+            "Meaning of Contemporary Social Problems",
+            "Contemporary Social Problems in Nigeria (e.g., Examination malpractice, cultism, HIV/AIDS, etc.)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Common Social Problems in Nigeria",
+          content: [
+            "Causes of Contemporary Social Problems in Nigeria (e.g., Poverty, corruption, greed, etc.)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Ways of Solving the Common Social Problems in Nigeria",
+          content: [
+            "Effects of Social Problems:",
+            "- Social Problems as they Affect the Individual",
+            "- Social Problems as they Affect the Family",
+            "- Social Problems as they Affect the Nation",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Ways of Solving the Common Social Problems in Nigeria",
+          content: ["Ways of Solving Contemporary Social Problems"],
+        },
+        {
+          week: 6,
+          topics: "Our Roles in Promoting Safety in our Community",
+          content: [
+            "Need for Safety:",
+            "- Meaning of Safety",
+            "- Reasons for Safety in the Environment",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Our Roles in Promoting Safety in our Community",
+          content: ["Safety Measures in the Home, School, and Workplaces"],
+        },
+        {
+          week: 8,
+          topics: "Our Roles in Promoting Safety in our Community",
+          content: [
+            "Safety Guidelines for pedestrians, Cyclists, Motorists, etc.:",
+            "- Traffic Rules and Regulations",
+            "- Causes of Road Accidents",
+            "- Consequences of Not Obeying Traffic Rules",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Social Studies Third Term Examination"],
+        },
+      ],
+    },
+  },
 
+  JSS2: {
+    Firsterm: {
+      
     },
   },
 };
