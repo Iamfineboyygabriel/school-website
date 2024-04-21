@@ -1458,6 +1458,85 @@ export const SchemeOfWorkData = {
           content: ["JSS1 CRS Second Term Examination "],
         },
       ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "National Values: Self Reliance",
+          content: [
+            "(a) Meaning of Self Reliance",
+            "(b) Attributes of Self Reliance",
+          ],
+        },
+        {
+          week: 3,
+          topics: "National Values: Self Reliance",
+          content: [
+            "(c) The Processes of Identifying,  Nurturing and Perfection of Talents and Skills",
+            "(d) Benefits of Self Reliance to Oneself, Family and the Society",
+          ],
+        },
+        {
+          week: 4,
+          topics: "National Values: Self Reliance",
+          content: [
+            "(e) Understanding that the Wealth of a Nation is Contained in its Natural and Human Resources",
+            "(f) Consequences of Undiscovered Talents and Undeveloped Skills",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Citizenship",
+          content: [
+            "(a) Meaning of Citizenship – Membership of a nation based on laid down conditions",
+            "(b) Types of Citizenship – By birth, by registration and naturalization",
+            "(c) Processes of Becoming a Citizen of a Country",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Rights and Duties of Citizens",
+          content: [
+            "(a) Meaning of Rights and Duties with Examples e.g. Right to education, right to life, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Rights and Duties of Citizens",
+          content: [
+            "(b) Differences between Rights (e.g. voting rights) and Duties (e.g. payment of taxes, obedience to law) of Citizens",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Rights and Duties of Citizens",
+          content: [
+            "(c) Importance of Citizens’ Rights and Duties – Social control, peace, due process and discipline, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Rights and Duties of Citizens",
+          content: ["(d) Types of Rights and Obligations"],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["JSS1 Civic Education Second Term Examination"],
+        },
+      ],
+      "Computer Studies":[
+        
+      ]
     },
   },
 };
