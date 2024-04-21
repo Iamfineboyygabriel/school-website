@@ -943,6 +943,167 @@ export const SchemeOfWorkData = {
           content: ["JSS1 PHE First Term Examination"],
         },
       ],
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Meaning and Scope of Social Studies Education",
+          content: [
+            "(a) Meaning of Social Studies",
+            "(b) Scope of Social Studies Education",
+            "(c) Reasons for Teaching/Studying Social Studies",
+          ],
+        },
+        {
+          week: 2,
+          topics: "History of Nigerian Social Studies Education",
+          content: [
+            "(a) History of Social Studies Education: The World Perspective",
+            "(b) History of Social Studies Education in Nigeria",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Family as a Primary Social Group",
+          content: [
+            "(a) Meaning of Primary Social Group",
+            "(b) What Makes the Family a Primary Social Group",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Family as a Primary Social Group",
+          content: [
+            "(c) The Roles and Responsibilities of Members of a Family as a Social Group",
+          ],
+        },
+        {
+          week: 5,
+          topics: "The Consequences of Large/Small Family Size",
+          content: [
+            "(a) Characteristics of Large Family Size - Father, mother, and many children",
+            "(b) Characteristics of Small Family Size - Father, mother and very few children",
+          ],
+        },
+        {
+          week: 6,
+          topics: "The Consequences of Large/Small Family Size",
+          content: [
+            "(c) Consequences of Family Size on",
+            "(i) Quality of Individual Lives",
+            "(ii) the National Economy",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Meaning and Characteristics of Culture",
+          content: [
+            "(a) Meaning of Culture",
+            "(b) Components of Culture – Material and Non-material Culture",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Meaning and Characteristics of Culture",
+          content: ["(c) Features of Culture"],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Social Studies First Term Examination"],
+        },
+      ],
+    },
+  },
+
+  JSS1: {
+    SecondTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: [
+            "Revision of the lessons and assessments of the previous term",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(a) Types of Farm Animals",
+            "(a) (i) Work Animals",
+            "(a) (ii) Dairy Animals",
+            "(a) (iii) Guard Animals",
+            "(a) (iv) Poultry",
+            "(a) (v) Aquatic Animals",
+            "(a) (vi) Pets, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(b) (i) Basic Characteristics of Farm Animals",
+            "(b) (ii) Distribution of Livestock in Nigeria",
+            "(b) (iii) Factors Affecting the Distribution of Livestock in Nigeria",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(c) Classification of Farm Animals based on Size – Large Animals and Small Animals",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(c) Classification of Farm Animals based on Habitat – Aquatic and Terrestrial Animals",
+            "(c) Classification of Farm Animals based on Mode of Reproduction and Feeding of Young Ones: Mammals and Non-mammals",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(d) Classification of Farm Animals based on Stomach Types – Ruminant and Non-ruminant Animals",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(e) Classification of Farm Animals based on Feeding Pattern – Herbivores, Carnivores and Omnivores",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Classes and Uses of Farm Animals",
+          content: [
+            "(f) Uses of Farm Animals",
+            "(f) (i) Food",
+            "(f) (ii) Work",
+            "(f) (iii) Sports and guard",
+            "(f) (iv) Source of hides and skins",
+            "(f) (v) Source of manure, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS1 Agric Science Second Term Examination"],
+        },
+      ],
     },
   },
 };
