@@ -2115,8 +2115,77 @@ export const SchemeOfWorkData = {
   JSS1: {
     ThirdTerm: {
       "Agricultural Science": [
-        
+        {
+          week: 1,
+          topics: "Methods of Weed and Pest Control",
+          content: [
+            "(a) Definition and Characteristics of Weeds: (i) Easily dispersed (ii) Long dormancy",
+            "(b) Classification of Weeds based on Habitat, Life Cycle and Shape of Leaves",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Methods of Weed and Pest Control",
+          content: [
+            "(c) Uses of weeds; (i) Medicine (ii) Food, etc.",
+            "(d) Methods of Weed Control (i) Cultural (ii) Chemical, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Methods of Weed and Pest Control",
+          content: [
+            "(e) Effects of Weed Control Methods on Vegetation and Soil",
+            "(f) Methods of Weed Dispersal",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Methods of Weed and Pest Control",
+          content: [
+            "(g) (i) Classification of Insect Pests based on their Mouth Parts",
+            "(ii) Classification of Insect Pests based on the Location",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Methods of Weed and Pest Control",
+          content: [
+            "(h) Description of the Damage Done by the Crop Pests",
+            "(i) Effects of Crop Pests on Yield",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Factors of Agricultural Production",
+          content: ["Factors of Production: (i) Land (ii) Labour"],
+        },
+        {
+          week: 7,
+          topics: "Factors of Agricultural Production",
+          content: ["Factors of Production: (iii) Water (iv) Capital (Money)"],
+        },
+        {
+          week: 8,
+          topics: "Factors of Agricultural Production",
+          content: [
+            "Factors of Production: (v) Management or Entrepreneur (Importance of each factor is necessary)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: [" JSS1 Agric Science Third Term Examination  "],
+        },
       ],
+      "Basic Science":[
+        
+      ]
     },
   },
 };
