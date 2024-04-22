@@ -8595,9 +8595,275 @@ SecondTerm:{
       content: ["JSS3Social Studies Second Term Examination"],
     },
   ]
-}
+},
   //JSS3 Third TERM
-
-
+ThirdTerm:{
+  "Christian Religious Studies":[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision and correction of the previous term’s work"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Unity Among Christians",
+    "content": [
+      "(a) Christian Organizations:",
+      "(i) World Council of Churches (WCC)",
+      "(ii) Christian Association of Nigeria (CAN)",
+      "(iii) Nigeria Association of Biblical Studies (NABS)",
+      "(iv) Pentecostal Fellowship of Nigeria (PFN), etc.",
+      "(b) Teachings that Will Foster Unity:",
+      "(i) Faith and Works (James 1:22-27)",
+      "(ii) Humility (Phil. 2:3-11)",
+      "(iii) Impartiality (James 2:1-13)",
+      "(iv) Forgiveness (Gal. 6:1-2)",
+      "(v) Giving (Phil. 4:14-19; 2Cor.8: 3-5; 9: 6-15)"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Christian Living among Non-Christians",
+    "content": [
+      "(a) Christian Living in the Community (Matt. 5:13-16)",
+      "(b) Christian Attitude to Persecution (1 Pet. 3:13-17; James 1:12-15; 1 Pet. 1:6-10)"
+    ]
+  },
+    {
+      week:8,
+      topics: "Revision",
+      content: ["Revision of work done in Second Term"],
+    },
+    {
+      week:9,
+      topics: "Examination",
+      content: ["JSS3Social Christian Religious Studies Third Term Examination"],
+    },
+  ],
+  "Computer Studies" :[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Human Issues",
+    "content": [
+      "(a) Computer Professionals –",
+      "(i) Computer Managers",
+      "(ii) System Analysts",
+      "(iii) Programmers",
+      "(iv) Computer Educators",
+      "(v) Computer Engineers and Technicians",
+      "(vi) Computer Operators"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Human Issues",
+    "content": [
+      "(b) Qualities of Good Computer Professionals"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Human Issues",
+    "content": [
+      "(c) Computer Professional Bodies –",
+      "(i) Nigeria Computer Society (NCS)",
+      "(ii) Institute of Management Information System (IMIS)",
+      "(iii) Computer Professional Registration Council of Nigeria (CPRN)",
+      "(iv) Information Technology Association of Nigeria (ITAN)",
+      "(v) Nigerian Internet Group (NIG)"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Computer Viruses",
+    "content": [
+      "(a) Meaning of Computer Virus",
+      "(b) Types of Computer Virus –",
+      "(i) Boot sector virus",
+      "(ii) Executable file virus",
+      "(iii) Attack on document",
+      "(c) Examples of Viruses –",
+      "(i) Trojan horse",
+      "(ii) Sleeper",
+      "(iii) Logic bomb",
+      "(iv) Alabama virus",
+      "(v) Christmas virus",
+      "(d) Sources of Viruses –",
+      "(i) Infected diskettes",
+      "(ii) Infected CD-ROMS",
+      "(iii) e-mails",
+      "(iv) Internet downloads",
+      "(v) Illegal duplication of software, etc."
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Computer Viruses",
+    "content": [
+      "(e) Virus Warning Signs –",
+      "(i) Slowing down of response time",
+      "(ii) Presence of tiny dots",
+      "(iii) Wandering across the screen",
+      "(iv) Incomplete saving of file",
+      "(v) Corruption of the system set-up instructions",
+      "(vi) Appearance of strange characters",
+      "(f) Virus Detection (Antivirus) –",
+      "(i) Norton Antivirus e.g. SMADAV",
+      "(ii) McAfee Virus Scan",
+      "(iii) Dr. Solomon’s Tool Kit",
+      "(iv) Penicillin, etc."
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Logic Gates",
+    "content": [
+      "(a) Meaning of Logic Gates",
+      "(b) Truth Table",
+      "(c) Types of Logic Gates –",
+      "OR gate, AND gate, NOT (Inverter) gate, NOR gate, NAND gate"
+    ]
   }
+    ,
+    {
+      week:8,
+      topics: "Revision",
+      content: ["Revision of work done in Second Term"],
+    },
+    {
+      week:9,
+      topics: "Examination",
+      content: ["JSS3 Computer Studies Third Term Examination"],
+    },
+  ],
+}
+  },
+  //SS1 FIRST TERM
+  SS1:{
+FirstTerm:{
+  "Agricultural Science":[
+    
+  {
+    "week": 1,
+    "topics": "Meaning and Importance of Agriculture",
+    "content": [
+      "(a) Definition of Agricultural Science",
+      "(b) Branches of Agricultural Science",
+      "(c) Importance of Agricultural Science to the Individual, Community, and Nation"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Subsistence and Commercial Agriculture",
+    "content": [
+      "(a) Meaning of Subsistence and Commercial Agriculture",
+      "(b) Differences between Subsistence and Commercial Agriculture based on their Characteristics",
+      "(c) Advantages and Disadvantages of Subsistence and Commercial Agriculture",
+      "(d) Problems of Subsistence and Commercial Agriculture"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Problems of Agricultural Development and Possible Solutions",
+    "content": [
+      "(a) Problems Related to Land Tenure, Basic Amenities, Finance, Transportation, Storage and Processing Facility, Agricultural Education and Extension; Tools and Machinery, Farm Inputs, Marketing System, Environmental Degradation, etc.",
+      "(b) Possible Solutions to Identified Problems"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Role of Government in Agricultural Development",
+    "content": [
+      "Roles of Government in Agricultural Development:",
+      "(i) Agricultural Finance – Credit, Subsidy",
+      "(ii) Agricultural Education",
+      "(iii) Agricultural Extension Services",
+      "(iv) Agricultural Policies and Programmes (Review of Past and Present e.g. OFN, ADP, etc.)"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Role of Non-governmental Organizations (NGOs) in Agricultural Development",
+    "content": [
+      "(a) Meaning of Non-governmental Organizations (NGOs)",
+      "(b) Importance of Non-governmental Organizations (NGOs)",
+      "(c) Roles of NGOs in Agricultural Development e.g. Capacity building, Extension services, etc."
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Agricultural Laws and Reforms",
+    "content": [
+      "(a) Land Tenure System in Nigeria",
+      "(b) The Land Use Decree of 1978 and its Implications for Agricultural Development",
+      "(c) Advantages and Disadvantages of the Land Use Decree in Nigeria"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Agricultural Ecology",
+    "content": [
+      "(a) Meaning of Agricultural Ecology and Ecosystem",
+      "(b) Components of Farm Ecosystem e.g. Biotic, Abiotic, Auto-trophism and Hetero-trophism",
+      "(c) Interactions of the Terrestrial and Aquatic Agro Ecosystem:"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Land and its Uses",
+    "content": [
+      "(a) Meaning of Land",
+      "(b) Characteristics of Land – Free gift of nature, immobile, limited in supply, etc.",
+      "(c) Uses of Land",
+      "(i) Agricultural Purposes – Crop production, wild life conservation (game reserves), livestock production, etc.",
+      "(ii) Non-agricultural Purposes – Industry – Housing, transport, etc."
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Factors Affecting Land Availability for Agricultural Purposes",
+    "content": [
+      "(a) Factors Affecting Land Availability for Agricultural Purposes:",
+      "(i) Land tenure system",
+      "(ii) Population pressure",
+      "(iii) Soil type and topography, etc."
+    ]
+  } ,
+    {
+      week: 10,
+      topics: "Revision",
+      content: ["Revision of work done Previous Term"],
+    },
+    {
+      week: 11,
+      topics: "Examination",
+      content: ["SS1 Agricultural Science First Term Examination"],
+    },
+  ],
+  "Biology" :[
+    {
+      week: 10,
+      topics: "Revision",
+      content: ["Revision of work done Previous Term"],
+    },
+    {
+      week: 11,
+      topics: "Examination",
+      content: ["SS1 Biology First Term Examination"],
+    },
+  ]
+}
+  }
+
 };
