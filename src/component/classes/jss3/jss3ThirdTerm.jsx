@@ -56,7 +56,7 @@ const Jss3ThirdTerm = () => {
     <StudentSideBar>
       <div className={styles.header}>
         <div>
-          <h2>Subject(s) For JSS3 Thirdn Term</h2>
+          <h2>Subject(s) For JSS3 Third Term</h2>
         </div>
       </div>
       <TableContent
