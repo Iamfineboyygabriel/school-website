@@ -8138,7 +8138,18 @@ SecondTerm:{
     },
   ],
   "English Studies":[
-    
+
+    {
+      week:7,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 8,
+      topics: "Examination",
+      content: ["JSS3 English Studies Second Term Examination"],
+    },
+
   ]
 }
   }
