@@ -8852,17 +8852,85 @@ FirstTerm:{
     },
   ],
   "Animal Husbandry" :[
+      {
+        week: 1,
+        topics: "INTRODUCTION TO ANIMAL HUSBANDRY",
+        content: ["Meaning of Animal Husbandry","Livestock in Animal Husbandry","The Scope of Animal Husbandry","History of Livestock Development","Types of Animal Husbandry","Career Opportunities in Animal Husbandry","Economic Importance of Farm Animals","Problems of Animal Husbandry","Suggested Solutions to the Problems of Animal Husbandry"],
+      },
+      {
+        week: 2,
+        topics: "EXTERNAL FEATURES OF SOME SELECTED ANIMALS",
+        content: ["External Features of a Cow","External Parts of a Pig","External Features of a Rabbit","External Features of a Fish","External Parts of a Fowl","External Features of a Goat","External Features of a Sheep"],
+      },
+      {
+        week: 3,
+        topics: "CLASSIFICATION OF ANIMALS",
+        content: ["Classification of Animals","Monogastric or Non-ruminant Animals","Polygastric or Ruminant Animals","Differences between Mono-gastric and Poly-gastric Animals"],
+      },
+      {
+        week: 4,
+        topics: "ECONOMIC IMPORTANCE OF FARM ANIMALS",
+        content: ["Economic Importance of Farm Animals"],
+      },
+      {
+        week: 5,
+        topics: "DIGESTIVE SYSTEM OF NON-RUMINANT ANIMALS",
+        content: ["Digestion in Non-ruminants/Monogastrics (Pig)","Digestion in Domestic Fowl"],
+      },
+      {
+        week: 6,
+        topics: "DIGESTION IN RUMINANT ANIMALS",
+        content: ["Digestion in Ruminant Animals","Enzymes","Importance of the Digestive System"],
+      },
+      {
+        week: 7,
+        topics: "RESPIRATORY SYSTEM",
+        content: ["Definition of Respiratory System","Types of Respiration","Breathing"," Breathing Importance of Respiratory System"],
+      },
+      {
+        week: 8,
+        topics: "NERVOUS SYSTEM",
+        content: ["Definition of Nervous System","The Central Nervous System","The Spinal Cord","The Peripheral Nervous System","Reflex Actions"],
+      },
+         {
+        week: 9,
+        topics: "THE CIRCULATORY SYSTEM",
+        content: ["Meaning of Circulatory System","The Blood","Blood Cells","General Functions of the Blood"],
+      },
+      {
+        week: 10,
+        topics: "THE HEART AND BLOOD VESSELS",
+        content: ["Meaning of the Heart","The Heartbeat","The Blood Vessels","Differences between the Artery and the Vein","Circulation of Blood"],
+      },
     {
-      week: 10,
-      topics: "Revision",
-      content: ["Revision of work done Previous Term"],
+      week: 11,
+      topics: "Examination",
+      content: ["SS1 Animal Husbandry First Term Examination"],
+    },
+  ],
+  "Biology":[
+    {
+      week: 1,
+      topics: "INTRODUCTION TO BIOLOGY",
+      content: ["Meaning of (a) Science and (b) Biology","The Scientific Method","Experimental Pattern", "Living And Non-living Things","Differences between Plants and Animals ","Levels of Organization","Complexity in Multicellular Organisms"],
+    },
+    {
+      week: 2,
+      topics: "CLASSIFICATION (TAXONOMY) OF LIVING THINGS",
+      content: ["Classification/Taxonomy of Living Things","Binomial System of Nomenclature","Classification and Evolution"],
+    },
+    {
+      week: 3,
+      topics: "Classification of Living Things II: Kingdom Plantae; Kingdom Animalia",
+      content: ["Kingdom Plantae","Kingdom Animalia"],
     },
     {
       week: 11,
       topics: "Examination",
-      content: ["SS1 Biology First Term Examination"],
+      content: ["SS1 Animal Husbandry First Term Examination"],
     },
   ]
+
 }
   }
 
