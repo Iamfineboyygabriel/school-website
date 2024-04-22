@@ -7554,7 +7554,478 @@ export const SchemeOfWorkData = {
     content: ["JSS3 Social Studies First Term Examination"],
   },
  ]
-    }
+    },
+  //JSS3 SECOND TERM
+SecondTerm:{
+  "Basic Science" :[
 
+    {
+      "week": 1,
+      "topics": "Revision of last term's work",
+      "content": [
+        "Revision of work done in the previous term"
+      ]
+    },
+    {
+      "week": 2,
+      "topics": "The Sense Organs",
+      "content": [
+        "(a) The Eye: (i) Description and Structure of the Eye",
+        "(b) The Ear: (i) Description and Structure of the Ear",
+        "(c) The Nose: (i) Description and Structure of the Nose",
+        "(d) The Tongue: (i) Description and Structure of the Tongue",
+        "(e) The Skin: (i) Description and Structure of the Skin",
+        "(f) The Nervous System"
+      ]
+    },
+    {
+      "week": 3,
+      "topics": "Light Energy",
+      "content": [
+        "(i) Review of the Concepts of Reflection and Refraction of Light",
+        "(ii) Apparent Depth and its Dangers to Swimmers",
+        "(iii) Vision",
+        "(iv) Dispersion of Light",
+        "(v) Dispersion and Rainbow"
+      ]
+    },
+    {
+      "week": 4,
+      "topics": "Sound Energy",
+      "content": [
+        "(i) Meaning of Sound",
+        "(ii) Production of Sound",
+        "(iii) Properties of Sound Energy",
+        "(iv) Transmission of Sound",
+        "(v) Reflection of Sounds (Echoes)",
+        "(vi) Hearing"
+      ]
+    },
+    {
+      "week": 5,
+      "topics": "Magnetism",
+      "content": [
+        "(i) Meaning of Magnet",
+        "(ii) The Law of Magnetism",
+        "(iii) Magnetic Poles and Magnetic Fields",
+        "(iv) Care of Magnets"
+      ]
+    },
+    {
+      "week": 6,
+      "topics": "Electrical Energy",
+      "content": [
+        "(i) Meaning of Electrical Energy",
+        "(ii) The Concept of Electron Flow",
+        "(iii) Electrical Circuits",
+        "(iv) Ammeter and Voltmeter",
+        "(v) House Circuits: Fuse and Circuit Breaker",
+        "(vi) Electric Meter Reading and Billing"
+      ]
+    },
+    {
+      "week": 7,
+      "topics": "Radioactivity",
+      "content": [
+        "(i) Meaning of Definition of Radioactivity",
+        "(ii) Brief History of Radioactivity",
+        "(iii) Some Radioactive Elements",
+        "(iv) Types of Radiation",
+        "(v) Uses of Radioactivity",
+        "(vi) Dangers in the Use of Radioactive Rays"
+      ]
+    },
+    {
+      "week": 8,
+      "topics": "Skills Acquisition",
+      "content": [
+        "(i) Meaning of Skill and Skill Acquisition",
+        "(ii) Reasons for Skills Acquisition",
+        "(iii) Types of Skills",
+        "(iv) Importance of Skills Acquisition"
+      ]
+    },
+    {
+      "week": 9,
+      "topics": "Ethical Issues in Science and Development",
+      "content": [
+        "(i) Introduction",
+        "(ii) Meaning of Right and Wrong Applications of Science",
+        "(iii) Implications of Science to the Development of the Society"
+      ]
+    },
+    {
+      week: 10,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 11,
+      topics: "Examination",
+      content: ["JSS3 Basic Science Second Term Examination"],
+    },
+  ],
+  "Basic Technology":[
+    
+  {
+    "week": 1,
+    "topics": "Revision of last term's work",
+    "content": [
+      "Revision of work done in the previous term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "BUILDING: Foundation",
+    "content": [
+      "(i) Definition of Foundation",
+      "(ii) Functions of Foundation – support and weight of walls, roofs and inhabitants",
+      "(iii) Types of Foundation – strip, stepped, raft etc.",
+      "(iv) Types and Properties of Soil",
+      "(v) Hand Tools and Plant for Excavation: diggers, shovels, excavator, etc."
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "BUILDING: Walls",
+    "content": [
+      "(i) Materials for Making Walls – grass, zinc, curtain, bricks, etc.",
+      "(ii) Types of Walls – walls grass, zinc, curtain bricks, etc.",
+      "(iii) Materials for Bonding"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "BUILDING: Floors",
+    "content": [
+      "(i) Floor – basement, ground floor, first floor, etc.",
+      "(ii) DPC"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "BUILDING: Doors, Windows and Openings",
+    "content": [
+      "(i) Doors – flush door, glazed, sliding, revolving, etc.",
+      "(ii) Windows – louver, sliding, casement, etc",
+      "(iii) Lintel"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "BUILDING: Roofs",
+    "content": [
+      "(i) Types of Roof – flat roof, double pitched, lean-to Gable, etc.",
+      "(ii) Roofing Materials – grass, zinc, aluminium, etc."
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "BUILDING: Simple Blueprint Reading",
+    "content": [
+      "(i) Sanitary Wares – sink, bath, showers, etc. soak-away, septic tank, socket, windows, doors, room, etc."
+    ]
+  }    ,
+    {
+      week: 8,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 9,
+      topics: "Examination",
+      content: ["JSS3 Basic Technology Second Term Examination"],
+    },
+  ],
+  "Business Studies":[
+    {
+      "week": 1,
+      "topics": "Revision of last term's work",
+      "content": [
+        "Revision of work done in the previous term"
+      ]
+    },
+    {
+      "week": 2,
+      "topics": "Consumer Protection Agencies",
+      "content": [
+        "(a) Meaning of Consumer",
+        "(b) Need for Consumer Protection",
+        "(c) Regulators (Agencies) of Consumer Protection",
+        "(d) Roles and Responsibilities of Consumer Protection Agencies"
+      ]
+    },
+    {
+      "week": 3,
+      "topics": "How to Make Complaints",
+      "content": [
+        "(a) Meaning of Complaint",
+        "(b) Types of Complaints",
+        "(c) Steps in Lodging a Complaint",
+        "(d) Writing a Complaint Letter"
+      ]
+    },
+    {
+      "week": 4,
+      "topics": "How to Make Complaints",
+      "content": [
+        "(i) Reasons for Banning Chemicals",
+        "(ii) Procedures for Banning Chemicals not Suitable for Use",
+        "(iii) Reasons for Restricting Chemicals not Suitable for Use",
+        "(iv) Procedure for Restricting Chemicals not Suitable for Use"
+      ]
+    },
+    {
+      "week": 5,
+      "topics": "How to Seek Redress",
+      "content": [
+        "(i) Meaning of Consumer Rights and Redress",
+        "(ii) Ways of Seeking Redress",
+        "(iii) Benefits of Providing Redress"
+      ]
+    },
+    {
+      "week": 6,
+      "topics": "Personal Finance",
+      "content": [
+        "(a) Personal Finance:",
+        "(i) Meaning of Personal Finance",
+        "(ii) Uses of Personal Finance",
+        "(iii) Sources of Finance for Individuals",
+        "(b) Consumption and Choice",
+        "(c) Scale of Preference",
+        "(d) Modesty:",
+        "(i) Meaning of Modesty",
+        "(ii) Attributes of Modesty – Simplicity, living within one’s means, contentment, etc.",
+        "(iii) Effects of Living Modestly – Self control, low tendency of corrupt practices, prudence, etc.",
+        "(iv) Link between Modesty and Extravagance",
+        "(e) Preparation of Individual Budget"
+      ]
+    },
+    {
+      "week": 7,
+      "topics": "Trial Balance",
+      "content": [
+        "(i) Meaning of Trial Balance",
+        "(ii) Uses of Trial Balance",
+        "(iii) Balances that Form the Trial Balance",
+        "(iv) Formation of Trial Balance from the Ledger",
+        "(v) Identification of Balance Sheet Items on the Trial Balance"
+      ]
+    },
+    {
+      "week": 8,
+      "topics": "Forms of Trial Balance",
+      "content": [
+        "(a) Trading Account",
+        "(b) Profit and Loss Account",
+        "(c) Balance Sheet"
+      ]
+    },
+    {
+      "week": 9,
+      "topics": "Trading, Profit and Loss Account",
+      "content": [
+        "(a) Purpose of Trading, Profit and Loss Accounts",
+        "(b) Trading Account",
+        "(c) Profit and Loss Account",
+        "(d) Rules for Constructing Simple Profit and Loss Account"
+      ]
+    },
+    {
+      week: 10,
+      topics: "Balance Sheet",
+      content: ["(i) Meaning of Balance Sheet (ii) Items of Balance Sheet (iv) Classification of Items in the Balance Sheet (v) Distinction between Capital and Liabilities(vi) Differences between Horizontal and Vertical Balance Sheet"],
+    },
+    {
+      week: 11,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 12,
+      topics: "Examination",
+      content: ["JSS3 Business Studies Second Term Examination"],
+    },
+  ],
+  "Christian Religious Studies":[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "The Ministry of Peter",
+    "content": [
+      "(a) Peter and Simon the Magician (Sorcerer)",
+      "(b) The Healing Miracles of Peter",
+      "(i) Raising of Dorcas from Death (Acts 9:32-42)"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "The Ministry of Peter",
+    "content": [
+      "(c) Peter Converts Cornelius (Acts 11:1-18)",
+      "(d) Peter Defends His Action in Cornelius’ House (Acts 11:1-18)",
+      "(e) The Detention of Peter and His Divine Release from Herod’s Prison and Death (Acts 12:1-24)"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Paul’s Early Life and His Conversion",
+    "content": [
+      "(a) Paul’s Nativity and Education (Acts 22:1-5; 26-38)",
+      "(b) Paul’s Persecution of the Early Church (Acts 7:57-58; 8:1-3)",
+      "(c) Paul’s Conversion (Acts 9:1-19)",
+      "(d) The Attitude of Christians Towards Persecutors"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "The Missionary Activities of Paul",
+    "content": [
+      "(a) Paul’s First Missionary Journey (Acts 13 and 14)",
+      "(b) The Church Council at Jerusalem (Acts 15:1-35)",
+      "(c) Ways of Resolving Conflict"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "The Missionary Activities of Paul",
+    "content": [
+      "(c) Paul’s Second Missionary Journey (Acts 15:36-38; 18:22)",
+      "(d) Paul’s Third Missionary Journey (Acts 18:23-28)"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "The Growth of the Church",
+    "content": [
+      "(a) The Great Commission (Matt. 28:19-20; Mark 16:15-16; Luke 24:47; Acts 1:8)",
+      "(b) The Orthodox Churches e.g. Roman Catholic Mission, Anglican, Methodist, Baptist, Presbyterian, EWCA, etc.",
+      "(c) Indigenous Churches e.g. Cherubim and Seraphim, Celestial Church of Christ, CAC, etc."
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "The Growth of the Church",
+    "content": [
+      "(d) Pentecostal Churches e.g. The Redeemed Christian Church of God, Winners Chapel, Deeper Life Bible Church, Church of God Mission, etc.",
+      "(e) Marks of Growth in the Church e.g. Organizing Crusades, Revivals, Vigils, Prayer Meetings, Miracles, etc. (Acts 2:1-end)"
+    ]
+  }
+,
+    {
+      week:9,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 10,
+      topics: "Examination",
+      content: ["JSS3 Christian Religious Studies Second Term Examination"],
+    },
+  ],
+  "Civic Education":[
+    {
+      "week": 1,
+      "topics": "Revision",
+      "content": [
+        "Revision of work done in the previous term"
+      ]
+    },
+    {
+      "week": 2,
+      "topics": "Elections and Electoral Bodies in Nigeria",
+      "content": [
+        "(a) Meaning of Election",
+        "(b) Importance of Elections"
+      ]
+    },
+    {
+      "week": 3,
+      "topics": "Elections and Electoral Bodies in Nigeria",
+      "content": [
+        "(c) Electoral Bodies in Nigeria – INEC/SIEC National and State Government"
+      ]
+    },
+    {
+      "week": 4,
+      "topics": "Elections and Electoral Bodies in Nigeria",
+      "content": [
+        "(d) The Need for Free and Fair Elections",
+        "(e) Electoral Malpractices in Nigeria and How to Prevent Them"
+      ]
+    },
+    {
+      "week": 5,
+      "topics": "The Democratic Process",
+      "content": [
+        "(a) Meaning of Voting",
+        "(b) Voters’ Registration",
+        "(c) Importance of Voting"
+      ]
+    },
+    {
+      "week": 6,
+      "topics": "The Democratic Process",
+      "content": [
+        "(d) The Process of Voting"
+      ]
+    },
+    {
+      "week": 7,
+      "topics": "Common Crimes and Associated Punishments",
+      "content": [
+        "(a) Common Crimes and Associated Punishments",
+        "(b) Food Contamination/Adulteration",
+        "(c) Drug Contamination/Adulteration"
+      ]
+    },
+    {
+      "week": 8,
+      "topics": "Crimes and National Security",
+      "content": [
+        "(a) Meaning of National Security",
+        "(b) Crimes that Affect National Security"
+      ]
+    },
+    {
+      "week": 9,
+      "topics": "Crimes and National Security",
+      "content": [
+        "(c) Demonstration of Awareness"
+      ]
+    }
+    ,
+    {
+      week:10,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 11,
+      topics: "Examination",
+      content: ["JSS3 Civic Education Second Term Examination"],
+    },
+  ],
+  "Computer Studies":[
+    {
+      week:10,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week: 11,
+      topics: "Examination",
+      content: ["JSS3 Computer Studies Second Term Examination"],
+    },
+  ]
+}
   }
 };

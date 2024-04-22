@@ -5,7 +5,7 @@ import Schemeofwork from "../tableofcontents/Schemeofwork";
 import styles from "../jss1/css/term.module.scss";
 import ReactLoading from "react-loading";
 
-const Jss3SecondTerm = () => {
+const Jss3FirstTerm = () => {
   const data = [
     {
       term: "FirstTerm",
@@ -26,6 +26,7 @@ const Jss3SecondTerm = () => {
     },
     { term: "FirstTerm", class: "JSS3", subject: "Civic Education" },
     { term: "FirstTerm", class: "JSS3", subject: "Computer Studies" },
+  
     { term: "FirstTerm", class: "JSS3", subject: "English Studies" },
     { term: "FirstTerm", class: "JSS3", subject: "Home Economics" },
     { term: "FirstTerm", class: "JSS3", subject: "Mathematics" },
@@ -81,4 +82,4 @@ const Jss3SecondTerm = () => {
   );
 };
 
-export default Jss3SecondTerm;
+export default Jss3FirstTerm;
