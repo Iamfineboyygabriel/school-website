@@ -29,7 +29,7 @@ const Jss3SecondTerm = () => {
     { term: "SecondTerm", class: "JSS3", subject: "English Studies" },
     { term: "SecondTerm", class: "JSS3", subject: "Home Economics" },
     { term: "SecondTerm", class: "JSS3", subject: "Mathematics" },
-    { term: "SecondTerm", class: "JSS3", subject: "Music" },
+    // { term: "SecondTerm", class: "JSS3", subject: "Music" },
     {
       term: "SecondTerm",
       class: "JSS3",

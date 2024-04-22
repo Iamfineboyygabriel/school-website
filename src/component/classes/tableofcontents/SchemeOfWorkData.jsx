@@ -8138,7 +8138,120 @@ SecondTerm:{
     },
   ],
   "English Studies":[
-
+    {
+      "week": 1,
+      "topics": [
+        "Speech Work",
+        "Vocabulary Development",
+        "Reading Comprehension",
+        "Structure",
+        "Composition",
+        "Literature"
+      ],
+      "content": {
+        "Speech Work": "(a) Speech Work: Consonant Sounds (Revision)",
+        "Vocabulary Development": "(b) Vocabulary Development: Revision of Prefixes (Antonyms)",
+        "Reading Comprehension": "(c) Reading Comprehension: ‘Carnivorous Plants’ (NOSEC, 108 – 109)",
+        "Structure": "(d) Structure: Expressing Exception (using except, except for, but for, apart from, without e.g. (i) We are all students apart from John. (ii) Everyone was present but for my friend.)",
+        "Composition": "(e) Composition: Narrative Essay (Guided Writing) “My Most Memorable Day”",
+        "Literature": "(f) Literature: Revision (Use recommended text.)"
+      }
+    },
+    {
+      "week": 2,
+      "topics": [
+        "Speech Work",
+        "Vocabulary Development",
+        "Reading Comprehension",
+        "Structure",
+        "Composition",
+        "Literature"
+      ],
+      "content": {
+        "Speech Work": "(a) Speech Work: Monophthongs (Revision)",
+        "Vocabulary Development": "(b) Vocabulary Development: Suffixes (Noun Derivations) -ness, -ment, -er, ship-, -action, -ant, -hood, -al, e.g. mildness, friendship, inhabitant, etc.)",
+        "Reading Comprehension": "(c) Reading Comprehension: ‘An Easy Job’ (NOSEC, pages 124 – 127)",
+        "Structure": "(d) Structure: Conjunctions (Additions)",
+        "Composition": "(e) Composition: Report Writing (Revision); “The School’s Inter-house Sports”",
+        "Literature": "(f) Literature: Revision (Use recommended text.)"
+      }
+    },
+    {
+      "week": 3,
+      "topics": [
+        "Speech Work",
+        "Vocabulary Development",
+        "Reading Comprehension",
+        "Structure",
+        "Composition",
+        "Literature"
+      ],
+      "content": {
+        "Speech Work": "(a) Speech Work: Diphthongs (Revision)",
+        "Vocabulary Development": "(b) Vocabulary Development: Suffixes (Verb Derivations -ify, -ize, -en, e.g. popularize, dignify, lighten)",
+        "Reading Comprehension": "(c) Reading Comprehension: Reading for Summary",
+        "Structure": "(d) Structure: Adverbials",
+        "Composition": "(e) Composition: Article Writing (Revision) ‘Curbing the menace of HIV/AIDS in the Society’",
+        "Literature": "(f) Literature: Revision (Use recommended text.)"
+      }
+    },
+    {
+      "week": 4,
+      "topics": [
+        "Speech Work",
+        "Vocabulary Development",
+        "Reading Comprehension",
+        "Structure",
+        "Composition",
+        "Literature"
+      ],
+      "content": {
+        "Speech Work": "(a) Speech Work: Nasal Sounds (Revision) /m/, /n/, and /ŋ/",
+        "Vocabulary Development": "(b) Vocabulary Development: Suffixes (Adjective Derivations) – -ful, -ment, -al, -less, -ish, -ive, e.g. grateful, intentional, faithless, childish, attentive)",
+        "Reading Comprehension": "(c) Reading Comprehension: Summary",
+        "Structure": "(d) Structure: Question Tags",
+        "Composition": "(e) Composition: Letter Writing – Informal Letters e.g. A letter to a friend",
+        "Literature": "(f) Literature: Revision (Use recommended text.)"
+      }
+    },
+    {
+      "week": 5,
+      "topics": [
+        "Speech Work",
+        "Vocabulary Development",
+        "Reading Comprehension",
+        "Structure",
+        "Composition",
+        "Literature"
+      ],
+      "content": {
+        "Speech Work": "(a) Speech Work: Consonant Contrast (Revision) /r/ and /l/",
+        "Vocabulary Development": "(b) Vocabulary Development: Spelling Skills – (Homonyms and Homophones)",
+        "Reading Comprehension": "(c) Reading Comprehension: Reading for Summary",
+        "Structure": "(d) Structure: Pronouns – (Personal and Possessive Pronouns; Indefinite and Reciprocal Pronouns)",
+        "Composition": "(e) Composition: Formal Letters – (Guided writing) “A letter of invitation to a programme”",
+        "Literature": "(f) Literature: Revision (Use recommended text.)"
+      }
+    },
+    {
+      "week": 6,
+      "topics": [
+        "Speech Work",
+        "Vocabulary Development",
+        "Reading Comprehension",
+        "Structure",
+        "Composition",
+        "Literature"
+      ],
+      "content": {
+        "Speech Work": "(a) Speech Work:",
+        "Vocabulary Development": "(b) Vocabulary Development: Homographs",
+        "Reading Comprehension": "(c) Reading Comprehension: Comprehension and Summary",
+        "Structure": "(d) Structure: Pronouns – (Reflexive, Relative Pronouns and Demonstrative Pronouns)",
+        "Composition": "(e) Composition: Expository Essay (Guided Writing) “Why Students Fail Examinations”",
+        "Literature": "(f) Literature: Revision (Use recommended text.)"
+      }
+    },
     {
       week:7,
       topics: "Revision",
@@ -8150,7 +8263,341 @@ SecondTerm:{
       content: ["JSS3 English Studies Second Term Examination"],
     },
 
+  ],
+  "Home Economics":[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in first term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Sewing Machine and Garment Construction Processes",
+    "content": [
+      "(a) Types and Parts of the Sewing Machine (Functions of Each Part)",
+      "(b) Factors that Influence the Choice of a Sewing Machine"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Sewing Machine and Garment Construction Processes",
+    "content": [
+      "(c) Care of Sewing Machine",
+      "(d) Terms Peculiar to Garment Construction E.g. facing, hems, opening, fastenings, etc.",
+      "(e) Making of a Simple Baby Dress Using the Sewing Machine"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Food Hygiene and Safety",
+    "content": [
+      "(a) Meaning of Food Hygiene",
+      "(b) Reasons for Healthy Food Handing",
+      "(c) Ways for Handling Foods for Safety"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Food Hygiene and Safety",
+    "content": [
+      "(d) Sources of Food Contamination and Poisoning",
+      "(e) Sensory Signs of Spoilage and Causative Micro-organisms"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Preparation, Packaging and Marketing of Food Items",
+    "content": [
+      "(a) Differences between Snacks and Main Meals",
+      "(b) Snacks and Drinks Available in the Society",
+      "(c) Duties of Food Sellers/Providers for the Public"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Preparation, Packaging and Marketing of Food Items",
+    "content": [
+      "(d) Preparation of Snacks, Drinks and Meals",
+      "(e) Preparation of Food for Packaging",
+      "(f) Marketing Principles"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Responsible Food Management",
+    "content": [
+      "(a) Responsibilities of a Food Safety Manager to Consumers",
+      "(b) Hygienic Food Management Strategies",
+      "(c) Effects of Hygienic and Unhygienic Food Handling to the Consumer"
+    ]
+  },
+    {
+      week:9,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week:10,
+      topics: "Examination",
+      content: ["JSS3 Home Economics Second Term Examination"],
+    },
+  ],
+  "Mathematics":[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in first term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Simultaneous Linear Equations",
+    "content": [
+      "(a) Graphs of Linear Equations (Revision)",
+      "(b) Compilations of Tables of Values",
+      "(c) Graphical Solution of Simultaneous Linear Equations in Two Variables"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Simultaneous Linear Equations",
+    "content": [
+      "(d) Solving by Substitution",
+      "(e) Solving by Elimination",
+      "(f) Word Problems"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Variations",
+    "content": [
+      "(a) Direct Variation",
+      "(b) Inverse Variation",
+      "(c) Joint Variation",
+      "(d) Partial Variation"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Construction",
+    "content": [
+      "(a) Bisection of a Line Segment – Using a Pair of Compasses and a Ruler",
+      "(b) Construction and Bisection of Angles",
+      "(c) Construction of Triangles and Quadrilaterals"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Similar Shapes",
+    "content": [
+      "(a) Similar Figures",
+      "(b) Similar Triangles",
+      "(c) Enlargement and Scale Factor"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Similar Shapes",
+    "content": [
+      "(d) Scale Factor in Calculating Lengths",
+      "(e) Areas and Volumes of Similar Figures"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Mensuration of Solids",
+    "content": [
+      "(a) Area of Solids: (i) Total Surface Area of Cube and Cuboid (ii) Curved Surface Area of Cylinder and Cone (iii) Total Surface Area of Cylinder and Cone",
+      "(b) Volume of Solids",
+      "(c) Relationship between Volume and Capacity"
+    ]
+  },
+    {
+      week:9,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week:10,
+      topics: "Examination",
+      content: ["JSS3 Mathematics Second Term Examination"],
+    },
+  ],
+  "Physical and Health Education (PHE)":[
+    
+  {
+    "week": 1,
+    "topics": "Revision of first term's work",
+    "content": [
+      "Revision of work done in first term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Non-contact Games",
+    "content": [
+      "(a) Swimming: Basic Swimming Styles – Crawl, breast stroke, butterfly, etc.) swimming skills, swimming equipment",
+      "(b) Gymnastics: E.g. stunts and tumbling, forward roll, head stand and crab walks, cat, wheel limp, frog"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Non-contact Games",
+    "content": [
+      "(c) Floor Activities: (i) Classification of Floor Activities (ii) Values of Floor Activities",
+      "(d) Officials and their Duties",
+      "(e) Safety Rules for Non-contact Games"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Personal, School and Community Health",
+    "content": [
+      "(a) Family Life Education: (i) Meaning and Types of Families (ii) Duties of Members of the Family",
+      "(b) Puberty in Boys and Girls",
+      "(c) Teenage Pregnancy and its Consequences"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Personal, School and Community Health",
+    "content": [
+      "(a) Assertiveness and Communication Skills – Meaning of Assertiveness and Non-assertiveness",
+      "(b) Sports Promotion Agencies and Bodies in Nigeria (i) Sport Association (ii) NAPHER SD (iii) Nigeria Institute of Sports",
+      "(c) Need for Promotion of Sports in Our Society",
+      "(d) Career Opportunities in Physical Education"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Personal, School and Community Health",
+    "content": [
+      "(a) Agencies/Organizations Promoting Health Education in Nigeria",
+      "(b) Career Opportunities in Health Education",
+      "(c) Supporting Dying, Grieving and Ageing Persons",
+      "(d) Life-enhancing Measures against Ageing"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Personal, School and Community Health",
+    "content": [
+      "(a) Meaning of Drug, Drug Use, Misuse and Abuse",
+      "(b) Categories of Drugs",
+      "(c) Health Consequences of Drug Misuse and Abuse",
+      "(d) Ways of Preventing Drug Misuse and Abuse among Young People"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Pathogens, Diseases and their Prevention",
+    "content": [
+      "(a) Nature of Communicable Diseases – Measles, mumps, pneumonia, etc.",
+      "(b) Mode of Transmission of Communicable Diseases",
+      "(c) Factors and Causative Agents",
+      "(d) Prevention and Management of Non-communicable Diseases – Sickle cell, obesity, kwashiorkor, etc."
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Family Health",
+    "content": [
+      "(a) Types of Diseases and Modes of Transfer",
+      "(b) Disease Vectors",
+      "(d) Life Cycle of the Mosquito and Other Vectors",
+      "(e) Control Measures – Water drainage, insecticides, oil spreading/ spraying, etc.",
+      "(a) Disease Transmission",
+      "(b) Consequences of Contracting Diseases on Individuals, Family, and Society",
+      "(c) Diseases Prevention – Sanitation, education, immunization, choice of life partner, etc."
+    ]
+  } ,
+    {
+      week:10,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week:11,
+      topics: "Examination",
+      content: ["JSS3 Physical and Health Education Second Term Examination"],
+    },
+  ],
+  "Social Studies":[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Managing and Resolving Conflict",
+    "content": [
+      "(a) Conflict Management and Resolution",
+      "(b) Attributes Required for Conflict Resolution"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Controlling Cultism in our Society",
+    "content": [
+      "(a) Meaning of Cultism",
+      "(b) Origin of Secret Cults in Nigerian Schools"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Controlling Cultism in our Society",
+    "content": [
+      "(c) Manifestation/Activities of Campus Secret Cults",
+      "(d) Causes of Cultism"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Controlling Cultism in our Society",
+    "content": [
+      "(e) Consequences of Cultism",
+      "(f) Solutions to Cultism"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Preventing Drug Trafficking",
+    "content": [
+      "(a) Meaning of Drug Trafficking",
+      "(b) Reasons for Trafficking in Drugs"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Preventing Drug Trafficking",
+    "content": [
+      "(c) Consequences of Drug Trafficking",
+      "(d) Prevention of Drug Trafficking"
+    ]
+  },
+    {
+      week:8,
+      topics: "Revision",
+      content: ["Revision of work done in Third Term"],
+    },
+    {
+      week:9,
+      topics: "Examination",
+      content: ["JSS3Social Studies Second Term Examination"],
+    },
   ]
 }
+  //JSS3 Third TERM
+
+
   }
 };
