@@ -6173,21 +6173,183 @@ export const SchemeOfWorkData = {
             topics: "Revision",
             content: ["Revision of work done in Third Term"],
           },
+          {
+            week: 13,
+            topics: "Examination",
+            content: ["JSS2 Music First Term Examination"],
+          },
         ],
+      ],
+      "Physical and Health Education (PHE)": [
         {
-          week: 12,
+          week: 1,
           topics: "Revision",
-          content: ["Revision of work done in First term"],
+          content: ["Revision of work done in the previous term(s)"],
         },
         {
-          week: 13,
+          week: 2,
+          topics: "Personal, School and Community Health",
+          content: [
+            "(a) Meaning and Components of School Health Programme",
+            "(b) Skill-based Education",
+            "(c) School Health Services",
+            "(d) Healthful School Living/School Environment",
+            "(e) School Feeding Services/Home and Community Relationship",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Environmental Pollution",
+          content: [
+            "(a) Meaning of Environmental Pollution",
+            "(b) Types of Environmental Pollution",
+            "(c) Effects of Environmental Pollution",
+            "Prevention of Environmental Pollution",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Effects of Pollution on Environment and Personal Health",
+          content: [
+            "(a) Effects of Air Pollution",
+            "(b) Effects of Water Pollution",
+            "(c) Effects of Noise Pollution",
+            "(d) Effects of Land Pollution",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Prevention of Environmental Pollution",
+          content: [
+            "(a) Prevention of Air Pollution",
+            "(b) Prevention of Water Pollution",
+            "(c) Prevention of Noise Pollution",
+            "(d) Prevention of Land Pollution",
+          ],
+        },
+        {
+          week: 6,
+          topics: "The Concept of (FRESH) Approach",
+          content: ["(a) Meaning of FRESH", "(b) Strategies of FRESH"],
+        },
+        {
+          week: 7,
+          topics: "Non-communicable Diseases and their Prevention",
+          content: [
+            "(a) Meaning of Non-communicable Diseases",
+            "(b) Causes of Non-communicable Diseases",
+            "(c) Examples/Nature of Non-communicable Diseases",
+            "(d) Prevention of Non-communicable Diseases",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Non-communicable Diseases and their Prevention",
+          content: [
+            "Nature of Some Non-communicable Diseases:",
+            "(i) Sickle Cell",
+            "(ii) Boils",
+            "(iii) Marasmus",
+            "(iv) Kwashiorkor",
+            "(v) Obesity",
+            "(vi) Rickets",
+            "(vii) Otitis Media",
+            "(viii) Dental Carries",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
           topics: "Examination",
-          content: ["JSS2 Music First Term Examination"],
+          content: [
+            "JSS2 Physical and Health Education (PHE) Third Term Examination",
+          ],
         },
       ],
-      "Physical and Health Education (PHE)":[
-        
-      ]
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"]
+        },
+        {
+          week: 2,
+          topics: "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          content: [
+            "(a) Ways of Discouraging Drug Abuse",
+            "    (i) Forming drug free clubs",
+            "    (ii) Acquiring coping skills",
+            "    (iii) Constructive use of time, e.g. sports, religious activities, etc."
+          ]
+        },
+        {
+          week: 3,
+          topics: "Dangers of Drug Trafficking",
+          content: [
+            "(a) Meaning of Drug Trafficking",
+            "(b) Illegal Activities in Drug Trafficking",
+            "(c) Reasons for Drug Trafficking"
+          ]
+        },
+        {
+          week: 4,
+          topics: "Prevalence of Drug Trafficking",
+          content: [
+            "(a) Countries/Continents with Prevalence of Drug Trafficking",
+            "(b) Frequently-trafficked Substances"
+          ]
+        },
+        {
+          week: 5,
+          topics: "Dangers of Drug Trafficking",
+          content: [
+            "(a) Dangers/Consequences of Drug Trafficking",
+            "(b) Ways of Preventing Drug Trafficking"
+          ]
+        },
+        {
+          week: 6,
+          topics: "Anti-drug Agencies",
+          content: [
+            "(a) Meaning of Anti-drug Agencies",
+            "(b) Anti-drug Agencies in Nigeria",
+            "(c) Other Anti-drug Agencies"
+          ]
+        },
+        {
+          week: 7,
+          topics: "Content of Social Studies",
+          content: [
+            "(a) Meaning of Content of Social Studies",
+            "(b) Social Studies Methods",
+            "(c) Components of Social Studies"
+          ]
+        },
+        {
+          week: 8,
+          topics: "Roles of the Extended Family in Child Development",
+          content: [
+            "(a) Meaning of Family",
+            "(b) Kinds of Family Members of the Extended Family",
+            "(c) Roles of the Extended Family Members in Child Development",
+            "(d) Advantages of Living Together in the Family"
+          ]
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Social Studies Third Term Examination"],
+        },
+      ],
     },
   },
 };
