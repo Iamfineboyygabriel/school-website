@@ -4779,6 +4779,370 @@ export const SchemeOfWorkData = {
           content: ["JSS2 Computer Studies  First Term Examination"],
         },
       ],
+      "English Studies": [
+        {
+          week: 1,
+          topics: {
+            "Speech Work": "Consonant Clusters",
+            Structure: "Adjectives (Comparative and Superlative)",
+            "Comprehension/Vocabulary Development": "Politics",
+            Composition: "My New Year Resolution",
+            Literature: "Introduction to Prose (Features of Prose)",
+          },
+        },
+        {
+          week: 2,
+          topics: {
+            "Speech Work": "Diphthongs",
+            Structure: "Tenses (Present, Past, Future)",
+            "Comprehension/Vocabulary Development": "Politics",
+            Summary: "Introduction to Summary Writing",
+            Composition: "Argumentative Essay (Arguing a Position)",
+            Literature: "Introduction to Drama (Elements of Drama)",
+          },
+        },
+        {
+          week: 3,
+          topics: {
+            "Speech Work": "Triphthongs",
+            Structure:
+              "Adverbials (Cause and Reason, Purpose, Condition, etc.)",
+            "Comprehension/Vocabulary Development": "Government",
+            Composition:
+              "Argumentative Essay (Guided Composition) 'Civilian Government is Far Better than Military Government'",
+            Literature: "Plot Structure in the Text",
+          },
+        },
+        {
+          week: 4,
+          topics: {
+            "Speech Work": "Consonant Sounds /h/, /w/ and /j/",
+            Structure: "Punctuation Marks (Full Stop)",
+            "Comprehension/Vocabulary Development": "The Postal Service",
+            Composition: "Formal Letters (Letter to the School Principal)",
+            Literature:
+              "Characters and Characterization in the Recommended Text",
+          },
+        },
+        {
+          week: 5,
+          topics: {
+            "Speech Work": "Consonant Sounds /p/, /b/, /t/, /d/",
+            Structure: "Punctuation Marks (The Comma)",
+            Composition:
+              "Narrative Essay (Guided Composition) 'My Last Birthday'",
+            Literature:
+              "Poetry (Structure, Themes and Literary Devices in the Recommended Poem)",
+          },
+        },
+        {
+          week: 6,
+          topics: {
+            "Speech Work": "Consonant Sounds /k/ and /g/",
+            Structure:
+              "Types of Sentences (Functional) Questions, Statements, and Commands",
+            "Comprehension/Vocabulary Development": "Mining",
+            Composition: "Informal Letters (Guided Composition)",
+            Literature:
+              "Poetry (Structure, Themes and Literary Devices in the Recommended Poem)",
+          },
+        },
+        {
+          week: 7,
+          topics: {
+            "Speech Work":
+              "Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/",
+            Structure: "Direct Speech",
+            "Comprehension/Vocabulary Development": "The Media – The Press",
+            Composition:
+              "Oral Expository Essay 'My Favourable Meal' (Class Discussion)",
+            Literature: "Setting of the Recommended Text",
+          },
+        },
+        {
+          week: 8,
+          topics: {
+            "Speech Work": "Intonation Patterns",
+            Structure: "Indirect/Direct Speeches",
+            "Comprehension/Vocabulary Development":
+              "The Media – Radio and Television",
+            Composition:
+              "Expository Essay (Guided Writing) 'My Favourable Meal'",
+            Literature: "Themes of the Recommended Text",
+          },
+        },
+        {
+          week: 9,
+          topics: {
+            "Speech Work": "The Rising Tone",
+            Structure: "Adverbials (Comparative and Superlative)",
+            Composition: "Story Writing (Structure and Style)",
+            Literature:
+              "Structure, Themes and Literary Devices in Recommended Text/Poem",
+          },
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 English Studies  First Term Examination"],
+        },
+      ],
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Basic Pattern Drafting Techniques and Fashion Designing",
+          content: ["(a) Meaning of Pattern Drafting and Fashion Designing"],
+        },
+        {
+          week: 3,
+          topics: "Basic Pattern Drafting Techniques and Fashion Designing",
+          content: ["(b) Basic Pattern Drafting Tools and Equipment"],
+        },
+        {
+          week: 4,
+          topics: "Basic Pattern Drafting Techniques and Fashion Designing",
+          content: ["(c) Using Instruction to Sketch the Style"],
+        },
+        {
+          week: 5,
+          topics: "Basic Pattern Drafting Techniques and Fashion Designing",
+          content: [
+            "(d) Taking Body Measurements",
+            "(Demonstration: Tools and Equipment for Taking Measurements and Parts to be Measured)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Basic Pattern Drafting Techniques and Fashion Designing",
+          content: ["(e) Drafting Basic Bodice and Skirt Patterns"],
+        },
+        {
+          week: 7,
+          topics: "Basic Pattern Drafting Techniques and Fashion Designing",
+          content: ["(Practicals)"],
+        },
+        {
+          week: 8,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "(a) Meaning of Food Purchasing, Processing, Preservation/Storage",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "(b) Bulk Purchase or Bulk Buying",
+            "(c) Food Processing and Preservation",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Home Economics First Term Examination"],
+        },
+      ],
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Algebraic Expressions",
+          content: [
+            "(a) Expansion and Simplification of Algebraic Expressions (Removing Brackets)",
+            "(b) Substitution",
+            "(c) LCM and HCF of Algebraic Terms",
+            "(d) Factorization of Algebraic Expressions",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Algebraic Expressions",
+          content: [
+            "(e) Expansion Leading to Quadratic Expressions",
+            "(f) Factorization of Simple Quadratic Expressions",
+            "(g) Difference of Two Squares",
+            "(h) Algebraic Expression of Fractions with Monomial Denominators",
+            "(i) Quantitative Reasoning",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Simple Linear Equations",
+          content: [
+            "(a) Solving Simple Equations (Balance Methods; Collecting Like Terms)",
+            "(b) Solving Equations Involving Brackets and Fractions",
+            "(c) Word Problems Leading to Simple Equations",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Linear Inequalities in One Variable",
+          content: [
+            "(a) Inequality Symbols and Meaning",
+            "(b) Solving Linear Inequalities in One Variable",
+            "(c) Multiplication and Division by Negative Numbers",
+            "(d) Combining Inequalities (Range of Values)",
+            "(e) Graphical Representation of Solutions on the Number Line",
+            "(f) Word Problems",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Graphs",
+          content: [
+            "(a) Cartesian Plane: Constructing Cartesian Plane; Coordinate/Ordered Pair; Choosing Scales; Plotting Points on a Cartesian Plane",
+            "(b) Graphs of Linear Equations",
+            "(c) Plotting Graphs from a Table of Values",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Graphs",
+          content: [
+            "(a) Interpreting Information Presented on a Graph: Gradient; Vertical and Horizontal Lines; Intercepts with Axes",
+            "(b) Description of Continuous and Discontinuous Graphs",
+            "(c) Linear Graphs in Real Life Situations: Distance-Time Graph; Travel Graph; Conversion Graph; Velocity-Time Graph",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Plane Figures",
+          content: [
+            "(a) Revision: Properties of Quadrilaterals – Parallelogram, Rhombus and Kite",
+            "(b) Areas of Circles, Quadrilaterals, Triangles (Pythagoras, Pythagorean Triple)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Scale Drawing and Patterns",
+          content: [
+            "(a) Scale Drawing of Plane Shapes",
+            "(b) Application of Scale Drawing to Solving Problems",
+            "(c) Maps and Drawing",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Mathematics First Term Examination"],
+        },
+      ],
+      Music: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Keyboard Setting",
+          content: [
+            "(i) Definition of Keyboard",
+            "(ii) Tones and Semitones",
+            "(iii) Enharmonic Notes",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Classification of Western Musical Instruments",
+          content: [
+            "(i) The String Family",
+            "(ii) The Woodwind Family",
+            "(iii) The Brass Family",
+            "(iv) The Percussion Family",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Intervals",
+          content: [
+            "(i) Definition of Interval",
+            "(ii) Kinds of Intervals – Major and Minor",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Intervals",
+          content: [
+            "(i) Perfect Interval",
+            "(ii) Augmented Interval",
+            "(iii) Diminished Interval",
+          ],
+        },
+        {
+          week: 6,
+          topics: "History of Music: Some Nigerian Art Musicians",
+          content: [
+            "(i) Echezona",
+            "(ii) Akin Euba",
+            "(iii) Nzewi",
+            "(iv) T.K.E. Philips",
+            "(v) Sam Ojukwu and others",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Triads and Chords",
+          content: [
+            "(i) Definition",
+            "(ii) Composition",
+            "(iii) Types – Primary (Major) and Secondary (Minor)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Inversion of Triads",
+          content: ["Inversion of Triads"],
+        },
+        {
+          week: 9,
+          topics: "Rudiments of Harmony in Two-part Writing",
+          content: [
+            "(i) Definition of Harmony",
+            "(ii) Features of Harmony",
+            "(iii) Meaning of Two-part Writing",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Ear Training (Practical)",
+          content: ["Exercises for Ear Training (Practicals)"],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Music First Term Examination"],
+        },
+      ],
     },
   },
 };
