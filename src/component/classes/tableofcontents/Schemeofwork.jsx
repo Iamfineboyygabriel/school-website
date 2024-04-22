@@ -39,6 +39,7 @@ const SchemeOfWork = () => {
 
     fetchSchemeOfWorkData();
   }, [classGrade, term, subject]);
+
   const handleOpenModal = (content) => {
     setSelectedContent(content);
     setShowModal(true);
@@ -110,9 +111,15 @@ const SchemeOfWork = () => {
                         <li>{weekData.content}</li>
                       )}
                     </ul>
-                    <button
+                    {/* <button
                       className={styles.readMoreButton}
                       onClick={() => handleOpenModal(weekData)}
+                    >
+                      View Content
+                    </button> */}
+                    <button
+                      className={styles.readMoreButton}
+                      onClick={() => weekData && handleOpenModal(weekData)}
                     >
                       View Content
                     </button>
@@ -122,8 +129,9 @@ const SchemeOfWork = () => {
           </tbody>
         </table>
 
+        {console.log("showModal:", showModal)} {/* Log showModal here */}
         {showModal && (
-          <Modal onCloseModal={handleCloseModal}>
+          <Modal isOpen={showModal}  onClose={handleCloseModal}>
             <h2 className={styles.modalheader}>
               Welcome! Unlock Your Learning Journey
             </h2>
@@ -143,7 +151,8 @@ const SchemeOfWork = () => {
               <div>
                 <input
                   type="checkbox"
-                  className={styles.box}
+                  // className={styles.box}
+                  style={{width:"2em"}}
                   id="audioOption"
                   checked={selectedOption === "audio" ? styles.selected : ""}
                   onChange={() => handleReadingOption("audio")}
@@ -153,7 +162,8 @@ const SchemeOfWork = () => {
               <div>
                 <input
                   type="checkbox"
-                  className={styles.box}
+                  // className={styles.box}
+                  style={{width:"2em"}}
                   id="videoOption"
                   checked={selectedOption === "video"}
                   onChange={() => handleReadingOption("video")}
@@ -163,7 +173,8 @@ const SchemeOfWork = () => {
               <div>
                 <input
                   type="checkbox"
-                  className={styles.box}
+                  // className={styles.box}
+                  style={{width:"2em"}}
                   id="textOption"
                   checked={selectedOption === "text"}
                   onChange={() => handleReadingOption("text")}

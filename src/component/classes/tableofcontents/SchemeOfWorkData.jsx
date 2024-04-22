@@ -8851,7 +8851,7 @@ FirstTerm:{
       content: ["SS1 Agricultural Science First Term Examination"],
     },
   ],
-  "Biology" :[
+  "Animal Husbandry" :[
     {
       week: 10,
       topics: "Revision",

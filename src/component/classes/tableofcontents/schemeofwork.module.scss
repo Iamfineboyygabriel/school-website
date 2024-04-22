@@ -182,9 +182,7 @@ li::marker {
   margin-bottom: 2em;
 }
 
-.selected {
-  color: #064e3b;
-}
+
 
 .box {
   cursor: pointer;
@@ -206,40 +204,4 @@ li::marker {
 .submit {
   display: flex;
   justify-content: flex-end;
-}
-
-/**RELATED CONTENT**/
-.relatedContent {
-  background-color: #f1f5f9;
-  border-radius: 2em;
-  display: block;
-  padding: 2em;
-  margin-top: 2em;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-.relatedText {
-  font-size: 1em;
-  font-weight: bolder;
-  margin-bottom: 10px;
-  color: #888888;
-}
-
-.relatedSubjects {
-  margin-top: 10px;
-  display: block;
-}
-
-.relatedSubjects ul {
-  padding: 0;
-}
-
-.relatedSubjects li {
-  margin-bottom: 5px;
-  color: #888888;
-}
-
-.relatedSubjects li::marker {
-  color: #888888;
 }

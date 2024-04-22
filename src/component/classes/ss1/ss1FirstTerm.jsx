@@ -11,7 +11,7 @@ const SS1FirstTerm = () => {
       class: "SS1",
       subject: "Agricultural Science",
     },
-    // { term: "FirstTerm", class: "SS1", subject: "Animal Husbandry" },
+    { term: "FirstTerm", class: "SS1", subject: "Animal Husbandry" },
     { term: "FirstTerm", class: "SS1", subject: "Biology" },
     { term: "FirstTerm", class: "SS1", subject: "Chemistry" },
     {
