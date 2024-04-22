@@ -6345,4 +6345,1216 @@ export const SchemeOfWorkData = {
       ],
     },
   },
+  //JSS3 FIRST TERM
+  JSS3:{
+    FirstTerm:{
+      "Agricultural Science":[
+        
+  {
+    week: 1,
+    topics: "Revision of last term's work",
+    content: ["Revision of work done in the previous term"]
+  },
+  {
+    week: 2,
+    topics: "Packaging and Packaging Criteria",
+    content: [
+      "(a) Packaging Criteria",
+      "    (i) Nature of the produce – Liquid or solid and shape",
+      "    (ii) Bulkiness (size)",
+      "    (iii) Live or frozen or dry stock",
+      "    (iv) Distance to market",
+      "(b) Examples of Packaging Items (Types of Packaging Materials in Agriculture) – Boxes, Drum/Barrels, Cages, Polythene, Trays, etc."
+    ]
+  },
+  {
+    week: 3,
+    topics: "Pricing and Advertising",
+    content: [
+      "(a) Definition of Pricing",
+      "(b) Price Determinants:",
+      "    (i) Cost of production",
+      "    (ii) Quality of produce",
+      "    (iii) Quantity of produce",
+      "    (iv) Forces of demand and supply",
+      "    (v) Market price",
+      "    (vi) Seasonal produce (Discuss What the price is composed of)"
+    ]
+  },
+  {
+    week: 4,
+    topics: "Records and Book Keeping",
+    content: [
+      "(a) Definition and Use of Farm Records",
+      "(b) Uses of Farm Records"
+    ]
+  },
+  {
+    week: 5,
+    topics: "Records and Book Keeping",
+    content: [
+      "(c) Types and Uses of Farm Records:",
+      "    (i) Farm diary",
+      "    (ii) Farm inventory",
+      "    (iii) Input records",
+      "    (iv) Production records",
+      "    (v) Consumption records",
+      "    (vi) Sales records",
+      "    (vii) Profit and loss account"
+    ]
+  },
+  {
+    week: 6,
+    topics: "Records and Book Keeping",
+    content: [
+      "(d) Computer Aided Farm Records and their Benefits",
+      "(e) Definition of Book Keeping:",
+      "    (i) Keeping account of financial activity of enterprise"
+    ]
+  },
+  {
+    week: 7,
+    topics: "Records and Book Keeping",
+    content: [
+      "(f) Source Documents:",
+      "    (i) Sales invoice",
+      "    (ii) Purchase invoice",
+      "    (iii) Returns inwards",
+      "    (iv) Returns outward"
+    ]
+  },
+  {
+    week: 8,
+    topics: "Records and Book Keeping",
+    content: [
+      "(g) Journal Preparation:",
+      "    Sales journal, Purchase journal, etc."
+    ]
+  },
+  {
+    week: 9,
+    topics: "Agriculture in Stock Exchange",
+    content: [
+      "(a) Meaning of Stock:",
+      "    Buying and selling of goods and services available now and in the future",
+      "(b) People involved in stock exchange:",
+      "    Buyers, sellers, buyers and sellers, farmers’ agents.",
+      "(c) Importance of Stock Exchange in Agriculture:",
+      "    Encourages investment in agriculture, encourages contract farming."
+    ]
+  },
+  {
+    week: 10,
+    topics: "Export Promotion in Agriculture",
+    content: [
+      "(a) Meaning of Export Promotion:",
+      "    Encouraging sale of Nigerian produce in other countries;",
+      "(b) Examples of Nigerian Export Produce:",
+      "    Cocoa, palm produce, hides & skin, cassava crop, groundnut, pepper, etc.",
+      "(c) Benefits of Export Promotion:",
+      "    Attracts foreign money (exchange), serves as additional market to farmers to earn income, etc."
+    ]
+  },
+    {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["JSS3 Agricultural Science First Term Examination"],
+        },
+      ],
+      "Basic Science":[
+        
+  {
+    week: 1,
+    topics: "Revision of last term's work",
+    content: ["Revision of work done in the previous term"]
+  },
+  {
+    week: 2,
+    topics: "The Sense Organs",
+    content: [
+      "(a) The Eye: (i) Description and Structure of the Eye",
+      "(b) The Ear: (i) Description and Structure of the Ear",
+      "(c) The Nose: (i) Description and Structure of the Nose",
+      "(d) The Tongue: (i) Description and Structure of the Tongue",
+      "(e) The Skin: (i) Description and Structure of the Skin",
+      "(f) The Nervous System"
+    ]
+  },
+  {
+    week: 3,
+    topics: "Light Energy",
+    content: [
+      "(i) Review of the Concepts of Reflection and Refraction of Light",
+      "(ii) Apparent Depth and its Dangers to Swimmers",
+      "(iii) Vision",
+      "(iv) Dispersion of Light",
+      "(v) Dispersion and Rainbow"
+    ]
+  },
+  {
+    week: 4,
+    topics: "Sound Energy",
+    content: [
+      "(i) Meaning of Sound",
+      "(ii) Production of Sound",
+      "(iii) Properties of Sound Energy",
+      "(iv) Transmission of Sound",
+      "(v) Reflection of Sounds (Echoes)",
+      "(vi) Hearing"
+    ]
+  },
+  {
+    week: 5,
+    topics: "Magnetism",
+    content: [
+      "(i) Meaning of Magnet",
+      "(ii) The Law of Magnetism",
+      "(iii) Magnetic Poles and Magnetic Fields",
+      "(iv) Care of Magnets"
+    ]
+  },
+  {
+    week: 6,
+    topics: "Electrical Energy",
+    content: [
+      "(i) Meaning of Electrical Energy",
+      "(ii) The Concept of Electron Flow",
+      "(iii) Electrical Circuits",
+      "(iv) Ammeter and Voltmeter",
+      "(v) House Circuits: Fuse and Circuit Breaker",
+      "(vi) Electric Meter Reading and Billing"
+    ]
+  },
+  {
+    week: 7,
+    topics: "Radioactivity",
+    content: [
+      "(i) Meaning of Definition of Radioactivity",
+      "(ii) Brief History of Radioactivity",
+      "(iii) Some Radioactive Elements",
+      "(iv) Types of Radiation",
+      "(v) Uses of Radioactivity",
+      "(vi) Dangers in the Use of Radioactive Rays"
+    ]
+  },
+  {
+    week: 8,
+    topics: "Skills Acquisition",
+    content: [
+      "(i) Meaning of Skill and Skill Acquisition",
+      "(ii) Reasons for Skills Acquisition",
+      "(iii) Types of Skills",
+      "(iv) Importance of Skills Acquisition"
+    ]
+  },
+  {
+    week: 9,
+    topics: "Ethical Issues in Science and Development",
+    content: [
+      "(i) Introduction",
+      "(ii) Meaning of Right and Wrong Applications of Science",
+      "(iii) Implications of Science to the Development of the Society"
+    ]
+  },
+    {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Basic Science First Term Examination"],
+        },
+      ],
+      "Basic Technology" :[
+        
+  {
+    week: 1,
+    topics: "Revision of last session's work",
+    content: ["Revision of work done in the previous term/session"]
+  },
+  {
+    week: 2,
+    topics: "Isometric Drawing",
+    content: [
+      "(a) (i) Examples of Isometric Drawings",
+      "(ii) Isometric Drawing of Simple Shape Blocks without Curves",
+      "(b) (i) Examples of Oblique Drawings",
+      "(ii) Simple Oblique Drawings"
+    ]
+  },
+  {
+    week: 3,
+    topics: "Orthographic Projection",
+    content: [
+      "(i) Principal Planes – Vertical and Horizontal",
+      "(ii) Angles of Projection – First Angle and Third Angle",
+      "(iii) Principal Views – Front, Side, Plan",
+      "(iv) Placing Principal Views in the Quadrants",
+      "(v) Dimensioning Techniques"
+    ]
+  },
+  {
+    week: 4,
+    topics: "Perspective Drawing",
+    content: [
+      "(a) One-point Perspective Drawing:",
+      "(i) Definition of One-point Perspective Drawing",
+      "(ii) Principles of One-point Perspective Drawing",
+      "(iii) Practice of One-point Perspective Drawing",
+      "(iv) Examples and Principles",
+      "(b) Scales and Scale Drawing:",
+      "(i) Measuring and Comparing Given Sizes",
+      "(ii) Scale Drawing – Full Size, 1:1, Scale Reduction e.g. 1:5, 1:10, 1:20, 1:100, etc.",
+      "(iii) Scale Enlargement e.g. 2:1, 3:1, etc."
+    ]
+  },
+  {
+    week: 5,
+    topics: "Drawing of Plans and Blueprints",
+    content: [
+      "(a) Common Symbols Used in Plans and Blueprints and their Interpretation",
+      "(b) Identification of Building Components (Fittings; Building Plans)",
+      "(c) Blueprint Drawing Techniques"
+    ]
+  },
+  {
+    week: 6,
+    topics: "TOOLS AND MACHINES: Woodwork Projects",
+    content: [
+      "(a) Woodwork Projects:",
+      "(i) Production of Various Objects using Simple Woodwork Machines and Tools e.g. Wooden tables, stools, boxes, photo frames, tee square, pot stand, book rack, book stand, shelf, etc."
+    ]
+  },
+  {
+    week: 6,
+    topics: "TOOLS AND MACHINES: Metalwork Project",
+    content: [
+      "(b) Metalwork Projects:",
+      "(i) Production of bottle openers",
+      "(ii) Production of Trash bin/cans, coal pots, etc.",
+      "(iii) Production of metal stools, chair and benches."
+    ]
+  },
+  {
+    week: 7,
+    topics: "TOOLS AND MACHINES: Soldering and Brazing",
+    content: [
+      "(a) Meaning of Soldering and Brazing",
+      "(b) Soldering and Brazing Tools and Materials",
+      "(c) Operations, Types and Uses"
+    ]
+  },
+  {
+    week: 8,
+    topics: "TOOLS AND MACHINES: Machine Motions",
+    content: [
+      "(a) Line Motion",
+      "(b) Lever Arrangement to Produce Linear Motion",
+      "(c) Uses of Slides and Slots in Mechanical Systems"
+    ]
+  },
+  {
+    week: 9,
+    topics: "TOOLS AND MACHINES: Rotary Motion",
+    content: [
+      "(a) (i) One-way Rotary Motion e.g Shaft of running car (ii) Reversible Rotary Motion e.g. Load drum of cranes, brakes, ditches and ratchets.",
+      "(b) Principles of Application of Rotary Motion",
+      "(c) Conversion of Rotary Motion to Linear Motion – Rack and pinion, screw, crank and slider, connecting rod and piston"
+    ]
+  },
+  {
+    week: 10,
+    topics: "TOOLS AND MACHINES: Simple Electrical Wiring",
+    content: [
+      "(a) Electrical Circuit – Series and Parallel Circuits",
+      "(b) Wiring Tools and Materials – Pliers, hammer, screw driver, clips, wooden blocks, cables, etc.",
+      "(c) Accessories – Switches, lamp holders, etc"
+    ]
+  }  ,
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["JSS3 Basic Technology First Term Examination"],
+        },
+      ],
+      "Business Studies":[
+        {
+          "week": 1,
+          "topics": "Revision of last term's work",
+          "content": [
+            "Revision of work done in the previous term/session"
+          ]
+        },
+        {
+          "week": 2,
+          "topics": "Office Procedures",
+          "content": [
+            "(a) (i) Meaning of Office Procedure (ii) Importance of Office Procedure",
+            "(b) Procedure for Preparing Bills, Invoice and Receipts",
+            "(c) Procedure and Methods for Making Payments by: cash, cheque, bank transfer, bank draft, e-payment",
+            "(d) Imprest Account Balance and Restoration of Imprest"
+          ]
+        },
+        {
+          "week": 3,
+          "topics": "Office Procedure: Store and Stock Taking",
+          "content": [
+            "(a) (i) Meaning of Store (ii) Type of Goods in the Store",
+            "(b) (i) Meaning of Store Record (ii) Type of Store Record",
+            "(c) Importance of Store Record",
+            "(d) Procedure for Store Procurement",
+            "(e) Stock Taking: (i) Meaning of Stock Taking (ii) Importance of Stock Taking"
+          ]
+        },
+        {
+          "week": 4,
+          "topics": "Office Equipment",
+          "content": [
+            "(a) Meaning of Office Equipment",
+            "(b) Identification of Office Equipment",
+            "(c) Types of Office Equipment",
+            "(d) Importance and Uses of Office Equipment",
+            "(e) Care of Office Equipment"
+          ]
+        },
+        {
+          "week": 5,
+          "topics": "Advertising",
+          "content": [
+            "(a) Meaning of Advertising",
+            "(b) Types of Advertising",
+            "(c) Functions of Advertising",
+            "(d) Forms of Advertising Media – Radio, Television, Newspaper, Magazines, Handbills, Internet, BillBoards, etc.",
+            "(c) Advertising Ethics"
+          ]
+        },
+        {
+          "week": 6,
+          "topics": "Transportation",
+          "content": [
+            "(a) Meaning of Transportation",
+            "(b) Importance of Transportation in Commerce",
+            "(c) Types of Transportation – Road, Air, Rail, Water, Pipeline",
+            "(d) Advantages and Disadvantages of Each Type of Transportation"
+          ]
+        },
+        {
+          "week": 7,
+          "topics": "Communication",
+          "content": [
+            "(a) Meaning of Communication",
+            "(b) Types or Methods of Communication",
+            "(c) Means of Communication – Post, Telephone, World Wide Web and Courier Services",
+            "(d) Importance of Communication in Business",
+            "(e) Services Provided by Communication Agencies"
+          ]
+        },
+        {
+          "week": 8,
+          "topics": "Setting Simple Business Goals and Business Plan",
+          "content": [
+            "(a) Simple Business Goals: (i) Meaning of Business Goal (ii) Analysis of Business Goals (SWOT) (iii) Limitations of SWOT Analysis",
+            "(b) Simple Business Plan: (i) Meaning of Simple Business Plan (ii) Characteristics of a Simple Business Plan (iii) Procedure for Drawing Up a Simple Business Plan (iv) Sample of a Simple Business Plan"
+          ]
+        },
+        {
+          "week": 9,
+          "topics": "Business Letters and Simple Tabulation",
+          "content": [
+            "(a) Business Letters: (i) Meaning of Business Letter (ii) Types of Business Letters (iii) Parts of a Business Letter (iv) Production or Printing of Business Letters",
+            "(b) Simple Tabulation: (i) Creation of Simple Tabulation (ii) Tabulation or Centering"
+          ]
+        },
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["JSS3 Business Studies First Term Examination"],
+        },
+      ],
+      "Christian Religious Studies":[
+        
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "The Promise of the Holy Spirit",
+    "content": [
+      "(a) The Promise\n(John 14; 16:5-16; Acts 1:3-5,8)",
+      "(b) The Coming of the Holy Spirit\n(Acts 2:1-13)"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Peter’s First Speech on Pentecost Day and its Effect",
+    "content": [
+      "(i) Peter’s First speech",
+      "(ii) The Effect of Peter’s First Speech\n(Acts 2:14-41)"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Fellowship in the Early Church",
+    "content": [
+      "(a) Togetherness in the Early Church\n(Acts 2:41-47)",
+      "(b) Fraud in the Church\n(Acts 5:1-11)"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Fellowship in the Early Church",
+    "content": [
+      "(c) Murmuring in the Early Church\n(Acts 6:1,2)",
+      "(d) Selection of Deacons\n(Acts 6:1-7)\n(Equitable Distribution)"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Persecution of the Early Believer",
+    "content": [
+      "(a) The Arrest of Peter and John\n(Acts 3:1-44; 4:5-31)"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Persecution of the Early Believer",
+    "content": [
+      "(b) The Arrest and Martyrdom of Stephen\n(Acts 6:8-17; 17:1-60)"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Persecution of the Early Believer",
+    "content": [
+      "(c) Persecution of the Church by Saul\n(Acts 8:1-3;9:1-6)"
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Persecution of the Early Believer",
+    "content": [
+      "(d) The Martyrdom of James\n(Acts 12:1-3)"
+    ]
+  },
+  {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 christian Religious Studies First Term Examination"],
+        },
+      ],
+      "Civic Education":[
+        
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Right Attitude to Work",
+    "content": [
+      "(a) Meaning of Right Attitude to Work",
+      "(b) Attributes of the Right Attitude to Work – Honesty, discipline, integrity, commitment, punctuality, regularity, consistency, diligence and transparency."
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Right Attitude to Work",
+    "content": [
+      "(c) Rewards/Importance of the Right Attitude to Work – Higher productivity, efficiency, progress, recognition, improved national image, etc.",
+      "(d) Consequences of Not Having the Right Attitude to Work – Declining productivity, lack of motivation, indiscipline, national disasters – air/sea/road, etc."
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Negative Behaviour",
+    "content": [
+      "(a) Meaning of Negative Behaviour",
+      "(b) Types of Negative Behaviour – Dishonesty, excessive love of money, ostentatious living, disregard of time (African time), drug trafficking, examination malpractice, cultism, etc."
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Negative Behaviour",
+    "content": [
+      "(c) Effects of Negative Behaviour on Society – Value disorientation, inefficiency, high crime rate, etc.",
+      "(d) Promoting Positive Behavioural Change"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "National Population Census",
+    "content": [
+      "(a) Meaning of Population Census",
+      "(b) Importance of Accurate National Population Census"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "National Population Census",
+    "content": [
+      "(c) Problems Associated with the Conduct of Population Census in Nigeria",
+      "(d) How to Conduct Acceptable Census in Nigeria"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Protection of Human Rights",
+    "content": [
+      "(a) Meaning of Human Rights",
+      "(b) Types of Human Rights (social, political, economic, cultural, civic, etc.)",
+      "(c) Steps for the Protection of Human Rights"
+    ]
+  },
+  {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS3 Civic Education First Term Examination"],
+        },
+      ],
+      "Computer Studies":[
+        {
+          "week": 1,
+          "topics": "Revision",
+          "content": [
+            "Revision of work done in the previous term/session"
+          ]
+        },
+        {
+          "week": 2,
+          "topics": "The Internet: Search Engines",
+          "content": [
+            "(a) Meaning of Search Engine",
+            "(b) Examples of Search Engines\n(i) Google.com\n(ii) Bing.com\n(iii) Ask.com\n(iv) Yahoo.com, etc.",
+            "(c) Uses of Search Engines"
+          ]
+        },
+        {
+          "week": 3,
+          "topics": "The Internet: Search Engines",
+          "content": [
+            "Practical Uses of Search Engine"
+          ]
+        },
+        {
+          "week": 4,
+          "topics": "Digital Divide",
+          "content": [
+            "(a) The Concept of Digital Divide"
+          ]
+        },
+        {
+          "week": 5,
+          "topics": "Digital Divide",
+          "content": [
+            "(b) Features of the Old Economy i.e.\n(i) Time consuming\n(ii) Labour-based\n(iii) Mechanical\n(iv) Constrained by space, time and distance",
+            "(c) Features of the New Economy   i.e.\n(i) Digital gadgets\n(ii) Time, space and distance is irrelevant\n(iii) New economy is technology driven\n(iv) knowledge-based\n(v) Technological innovation is the key cornerstone to the limitation of the old economy"
+          ]
+        },
+        {
+          "week": 6,
+          "topics": "Digital Divide",
+          "content": [
+            "(d) Limitations of the Old Economy",
+            "(e) Benefits of the New Economy –\n(i) Low capital to start business\n(ii) Low unemployment\n(iii) Immunity to boom macroeconomic cycle\n(iv) Creation of new jobs"
+          ]
+        },
+        {
+          "week": 7,
+          "topics": "Database",
+          "content": [
+            "(a) Definition of Database",
+            "(b) Database Terminologies"
+          ]
+        },
+        {
+          "week": 8,
+          "topics": "Database",
+          "content": [
+            "(c) Forms of Database –\n(i) Flat file\n(ii) Hierarchical\n(iii) Relational, etc"
+          ]
+        },
+        {
+          "week": 9,
+          "topics": "Database",
+          "content": [
+            "Database Practical (MS Access)"
+          ]
+        }
+        ,
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Computer Studies First Term Examination"],
+        },
+      ],
+
+      "English Studies":[
+        
+  {
+    "week": 1,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Long and Short Vowel Contrasts\n/i:/ and /i/;  /a:/ and /æ/; /ɔ:/ and /ɒ/",
+      "(b) Vocabulary Development: Adjectives of Colour and Sound",
+      "(c) Reading Comprehension: ‘The More You Look’\n(NOSEC, pages 8 – 10)",
+      "(d) Structure: Prepositions",
+      "(e) Composition: Narrative Essay\n(Writing an Outline of an Essay)\n‘The Happiest Day of My Life’",
+      "(f) Literature: Elements of Fiction and Non-fiction\n(Character, mood, style, plot, etc.)"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Long and Short Vowel Contrasts\n/u:/ and /ʊ/; /ɜ:/ and /ə/,  /e/;  /ɒ/ and /ɔ:/",
+      "(b) Vocabulary Development: Adjectives of Smell, Taste, Shape;\ne.g. aromatic acrid, etc.",
+      "(c) Reading Comprehension: ‘Cooperation’\n(NOSEC, page 18)",
+      "(d) Structure: Expressing/Describing Emotions\n(Verb + Preposition; V + to-infinite e.g. I want to shout. Verb + that clause e.g. We are surprised that you came)",
+      "(e) Composition: Descriptive Essay\n(Developing Your Paragraphs) “My School Compound”",
+      "(f) Literature: Revising Elements of Prose\n(Use the recommended text.)"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Diphthongs\n/ei/, /ai/, /ɔi/, /əʊ/",
+      "(b) Vocabulary Development: Antonyms\n(Words Nearly Opposite in Meaning)",
+      "(c) Reading Comprehension: ‘The Fruit of Perseverance’\n(NOSEC, page 29)",
+      "(d) Structure: Describing Emotions\n(Liking, Disliking and Preferring;\nVerb + to-infinitive (e.g. She loves to sing.);\nWould prefer + to infinitive (e.g. I would prefer to sing rather than dance);\nPrefer; to (e.g. She prefers bikes to cars .)",
+      "(e) Composition: Formal Letter Writing\n(Introduction, Essential Tips and Differences between Formal and Informal Letters)",
+      "(f) Literature: Revising Elements of Prose\n(Use the recommended text.)"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Consonant Contrasts\n/aʊ/, /əʊ/, /iə/, /eə/ and /ʊə/",
+      "(b) Vocabulary Development: Antonyms",
+      "(c) Reading Comprehension: ‘The Making of New Millionaires’\n(NOSEC, pages 40 – 42)",
+      "(d) Structure: Expressing Willingness/Unwillingness\n– Using modal verb +  adverbials (e.g. I will come if I’m invited; She will not come if she’s not invited)",
+      "(e) Composition: Formal Letters\n(Guided Writing)\n“A Letter to the Local Government Chairman asking him to tar the road to your school”",
+      "(f) Literature: Revising Elements of Poetry\n(Use recommended poem.)"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Diphthongs and Monophthongs in Contrast",
+      "(b) Vocabulary Development: Antonyms",
+      "(c) Reading Comprehension: ‘This is Lagos’\n(NOSEC, 48 – 50)",
+      "(d) English Structure: Expressing Intention and Permission\n(Using intend, aim + to infinitive; can, could, may, might, mind\nIntention: I intend to go home;\nWe aim to reach our goal;\nPermission: Could you please help me?;\nWould you mind my coming along?)",
+      "(e) Composition: Descriptive Essay\n(Guided Writing)\n‘Traveling By Air’",
+      "(f) Literature: Revising Poetry\n(Use recommended text.)"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Speech Work",
+    "content": [
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Consonant Contrasts\n/s/ and /z/; /d/ and / ð/; /ʃ/ and /s/; /f/ and /v/",
+      "(b) Reading Comprehension: Reading for Critical Evaluation\n‘Real Facts and Imagined facts’\n(NOSEC, pages 65 – 67)",
+      "(c) Structure:\n(i) Order of Adjectives;\n(ii) Direct and Indirect Speeches",
+      "(d) Composition: Semi-formal Letter\n(Guided Writing)\nWrite to your class teacher on your absence from school;",
+      "(e) Literature: Revising Poetry\n(Use recommended poem.)"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Consonant Contrast\n/p/ and /f/; /Ʒ/ and /ʃ/; /t/ and /θ/; /l/ and /r/; /s/ and /θ/; /ʃ/ and /ʧ/",
+      "(b) Vocabulary Development: Prefixes and Suffixes",
+      "(c) Reading Comprehension: It’s so Unfair’\n(NOSEC, pages 75 – 77)",
+      "(d) English Structure: Expressing Obligation and Necessity\n(using must, have to, need, ought to etc. e.g. I ought to have done my assignment. I need to go now.)",
+      "(e) Composition: Debate (Oral)\n“Corruption is worse than armed robbery.”",
+      "(f) Literature: Revising Drama\n(Use recommended text.)"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Intonation Patterns\n(Statements, Questions and Commands)",
+      "(b) Vocabulary Development: Words Expressing ‘Value’ and ‘Moral Value’",
+      "(c) Reading Comprehension: ‘Character Assassination as a Political Weapon’\n(NOSEC, pages 86 – 89)",
+      "(d) English Structure: Expressing Probability and Possibility\n(using may, can, might, could e.g. she couldn’t have left like that, they may not travel again",
+      "(e) Composition: Letter Writing\n– Informal Letters (Guided Writing)\n“A letter to my best friend on my plans for this academic session”",
+      "(f) Literature: Revising Drama\n(Use recommended text.)"
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Speech Work",
+    "content": [
+      "Vocabulary Development",
+      "Reading Comprehension",
+      "Structure",
+      "Composition",
+      "Literature",
+      "(a) Speech Work: Consonant Sound /h/\n(Where h is voiced e.g. house, help, hen, etc.;\nvoiceless e.g. hour, honor, hones, etc.)",
+      "(b) Vocabulary Development: Prefixes\n(Word Building Using Antonyms\ne.g inform – misinform, engage – disengage, manage – mismanage, etc.)",
+      "(c) Reading Comprehension: ‘Before you Build your House’\n(NOSEC, pages 101 – 102)",
+      "(d) Structure: Expressing Ability\n(using can, be able, to be capable of e.g.\n(i) She can do the job.\n(ii) I am able to jump three meters.\n(iii) They are capable of representing the school.)",
+      "(e) Composition: Descriptive Essay\n(Guided Writing)\n‘My Best Friend’",
+      "(f) Literature: Revising Drama\n(Use recommended text.)"
+    ]
+  } 
+  ,   {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 English Studies First Term Examination"],
+        },
+      ],
+      "Home Economics":[
+        
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Consumer Challenges and Rights",
+    "content": [
+      "(d) Redress Options for the Consumer",
+      "(e) Procedure for Seeking Redress"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Child Development and Care",
+    "content": [
+      "(a) Meaning and Stages of Child Development",
+      "(b) Factors that Influence Child Development",
+      "(c) Conditions Necessary for Child Development"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Child Development and Care",
+    "content": [
+      "(d) Care of the Child",
+      "(e) Common Childhood Ailments",
+      "(f) Immunization for Children"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
+    "content": [
+      "(a) Definition of Textiles with Examples",
+      "(b) Basic Textile Terms\nE.g. fiber, yarn, warp, and weft",
+      "(c) Reasons for Studying Textiles"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
+    "content": [
+      "(d) Importance of Textiles",
+      "(e) Differences between Natural and Synthetic Fibers"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
+    "content": [
+      "(f) Properties of Fibers",
+      "(g) Care and Uses of Fibers"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
+    "content": [
+      "(h) Production of Textiles",
+      "(i) Manufacture of Fabrics"
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
+    "content": [
+      "(j) Production of Synthetic Fabrics",
+      "(k) Laundering of Fabrics"
+    ]
+  },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Home Economics First Term Examination"],
+        },
+      ],
+ "Mathematics":[
+
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Number Bases",
+    "content": [
+      "(a) Conversion from Base Ten to Other Bases",
+      "(b) Conversion from Other Bases to Base Ten",
+      "(c) Conversion from One Base to Another Other than Base Ten",
+      "(d) Number Base Arithmetic"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Number System",
+    "content": [
+      "(a) Types of Numbers",
+      "(b) (i) Rational and Irrational Numbers",
+      "(ii) The Concept of Pi",
+      "(iii) Recurring and Terminating Decimals",
+      "(c) Proportion:\n(Direct and Inverse Proportion, Reciprocals)",
+      "(d) Word Problems"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Compound Interest",
+    "content": [
+      "(a) Revision of Simple Interest",
+      "(b) Compound Interest",
+      "(c) Word Problems"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Factorization",
+    "content": [
+      "(a) Factorizing Algebraic Expressions –\n3m + pq +3p +mp; a2 – b2;\na2 – 2ab + b2;\na2 + 2ab + b2",
+      "(b) Factorizing Expressions with a Common Factor, Brackets and by Grouping",
+      "(c) Special Cases of Factorization",
+      "(d) Using Factorization to Simplify Calculation and Coefficient of Term",
+      "(e) Word Problems Involving Factorization"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Equations Involving Fractions",
+    "content": [
+      "(a) Clearing Fractions\n(Revision)",
+      "(b) Algebraic Fractions with:\n(i) Unknown at the Numerator\n(ii) Unknown at the Denominator\n(iii) Unknown at the Numerator and Denominator",
+      "(c) Change of Subject of Formulae and Substitution"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Trigonometry",
+    "content": [
+      "(a) Right-angled Triangles\n(Revision)",
+      "(b) Relationship between Right-angled Triangle and Trigonometric Ratios",
+      "(c) Sine, Cosine and Tangent of Acute Angles Using Tables",
+      "(d) Applications of Trigonometric Ratios"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Statistics",
+    "content": [
+      "(a) Data Presentation\n(Revision)",
+      "(b) The Range"
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Statistics",
+    "content": [
+      "Measures of Central Tendency"
+    ]
+  }
+  ,
+  {
+    week: 10,
+    topics: "Revision",
+    content: ["Revision of work done in Third Term"],
+  },
+  {
+    week: 11,
+    topics: "Examination",
+    content: ["JSS3 Mathematics First Term Examination"],
+  },
+ ],
+ "Physical and Health Education (PHE)":[
+  
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Physical Fitness and Body Conditioning Programme",
+    "content": [
+      "(a) Meaning of Physical Exercise, Physical Fitness and Body Conditioning",
+      "(b) Benefits Derived from Physical Fitness\n– Health-related Benefits and Performance-related Benefits",
+      "(c) Factors that Influence Physical Fitness"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Recreation, Leisure and Dance Activities",
+    "content": [
+      "(a) Pre-colonial or Folk Traditional Dances\nlike – Atilogwe (Ibo), Bata, Agidigbo (Yoruba), Sharo (Fulani), Langa (Hausa)",
+      "(b) Social Dances",
+      "(c) Foreign and Modern Dance\nE.g. Reggae, disco, high life, rumba, classical",
+      "(d) Types of Computer Games\nE.g. Cricket and soccer",
+      "(e) Values of Computer Games"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Track and Field: Pole Vault and Javelin",
+    "content": [
+      "(a) Pole Vault Skills\n– Grip, run-up, pole carrying, take off, hang,swing, pull up and bar clearance, landing, recovery",
+      "(b) Basic Javelin Skills\n– Grip, carriage, run up, release, follow through, recovery"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Ball Games",
+    "content": [
+      "(a) Hockey Game",
+      "(b) Basic Skills and Techniques in Hockey\nE.g. hit, stop, drive, dribble, pass, flick, push, bully/centre pass",
+      "(c) Rules and Safety Regulations in Hockey",
+      "(d) Hockey Officials and their Duties",
+      "(d) Facilities and Equipment Used in Hockey",
+      "(e) Values of the Games",
+      "(f) Activity: Draw and label the\n(i) Hockey pitch\n(ii) Hockey stick"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Group/Combined Events",
+    "content": [
+      "(a) Classification as\n(i) Pentathlon\n(ii) Decathlon",
+      "(b) List of Various Events Under\n(i) Decathlon\n(ii) Pentathlon",
+      "(c) The Duration of the Completion of Decathlon and Pentathlon"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Group/Combined Events",
+    "content": [
+      "(d) Scoring the Events",
+      "(e) Facilities and Equipment",
+      "(f) Rules and Regulations",
+      "(g) Officiating",
+      "(h) Safety Rules"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Nigerian Sports Heroes",
+    "content": [
+      "(a) Career Guidance in Physical Education",
+      "(b) Past and Present Sports Heroes and their Contributions in Nigeria",
+      "(c) Professionals in Physical Education in Nigeria"
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Contact Games",
+    "content": [
+      "(a) Taekwondo and Basic Techniques",
+      "(b) Importance of Taekwondo",
+      "(c) Safety Rules, Regulations and Officiating in Taekwondo",
+      "(d) Boxing and Basic Techniques",
+      "(e) Safety Rules, Regulations and Officiating in Boxing"
+    ]
+  }
+  ,
+  {
+    week: 10,
+    topics: "Revision",
+    content: ["Revision of work done in Third Term"],
+  },
+  {
+    week: 11,
+    topics: "Examination",
+    content: ["JSS3 Physical and Health Education (PHE) First Term Examination"],
+  },
+ ],
+ "Social Studies":[
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in the previous term/session"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Human Trafficking",
+    "content": [
+      "(a) Meaning of Human Trafficking",
+      "(b) Factors Responsible for Children and Women Trafficking",
+      "(c) Consequences of Human Trafficking:\n(i) Physical consequences\n(ii) Psychological consequences\n(iii) Social consequences"
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Human Trafficking",
+    "content": [
+      "(d) Preventive Measures against Human Trafficking"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Harmful Traditional Practices",
+    "content": [
+      "(a) Meaning of Harmful Traditional Practices",
+      "(b) Examples of Harmful Traditional Practices"
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Harmful Traditional Practices",
+    "content": [
+      "(c) Consequences of Harmful Traditional Practices:\n(i) Social Consequences\n(ii) Economic consequences\n(iii) Psychological consequences\n(iv) Physical consequences",
+      "(d) Prevention of Harmful Traditional Practices:\n(i) Awareness raising\n(ii) Education\n(iii) Advocacy and legislation, etc."
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Promoting Peaceful Living in our Society",
+    "content": [
+      "(a) Meaning of Peace – Cordial and friendly living among different groups of people",
+      "(b) Types of Peace:\n(i) Positive peace\n(ii) Negative/uneasy peace",
+      "(c) Importance of Peace",
+      "(d) Ways of Promoting Peace"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Social Conflicts",
+    "content": [
+      "(a) Meaning of Conflict as Interpersonal Misunderstanding",
+      "(b) Types of Conflicts – Violent and Non-violent"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Social Conflicts",
+    "content": [
+      "(c) Examples of Conflict:\n(i) Inter-ethnic Conflicts\n(ii) Communal/Intra-ethnic Conflicts, etc.",
+      "(d) Causes and Consequences of Conflicts"
+    ]
+  },
+  {
+    week: 9,
+    topics: "Revision",
+    content: ["Revision of work done in Third Term"],
+  },
+  {
+    week: 10,
+    topics: "Examination",
+    content: ["JSS3 Social Studies First Term Examination"],
+  },
+ ]
+    }
+
+  }
 };
