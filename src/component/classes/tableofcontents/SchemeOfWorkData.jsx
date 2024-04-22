@@ -3125,6 +3125,7 @@ export const SchemeOfWorkData = {
       ],
     },
   },
+
   //JSS2
   JSS2: {
     FirstTerm: {
@@ -5292,7 +5293,7 @@ export const SchemeOfWorkData = {
         {
           week: 10,
           topics: "Examination",
-          content: ["JSS2 Social Studies First Term Examination"],
+          content: ["JSS2 Social Studies Third Term Examination"],
         },
       ],
     },
@@ -5387,7 +5388,7 @@ export const SchemeOfWorkData = {
         {
           week: 11,
           topics: "Examination",
-          content: ["JSS2 Agricultural Science First Term Examination"],
+          content: ["JSS2 Agricultural Science Third Term Examination"],
         },
       ],
       "Basic Science": [
@@ -5465,7 +5466,7 @@ export const SchemeOfWorkData = {
         {
           week: 11,
           topics: "Examination",
-          content: ["JSS2 Basic Science First Term Examination"],
+          content: ["JSS2 Basic Science Third Term Examination"],
         },
       ],
       "Basic Technology": [
@@ -5559,11 +5560,10 @@ export const SchemeOfWorkData = {
         {
           week: 11,
           topics: "Examination",
-          content: ["JSS2 Basic TechnologyFirst Term Examination"],
+          content: ["JSS2 Basic Technology Third Term Examination"],
         },
       ],
       "Christian Religious Studies": [
-        [
           {
             week: 1,
             topics: "Revision",
@@ -5630,7 +5630,6 @@ export const SchemeOfWorkData = {
               "The Resurrection and Appearance of Jesus: The Roles of Women in the Ministry of Jesus",
             content: [],
           },
-        ],
         {
           week: 9,
           topics: "Revision",
@@ -5639,11 +5638,11 @@ export const SchemeOfWorkData = {
         {
           week: 10,
           topics: "Examination",
-          content: ["JSS2 Christian Religious Studies First Term Examination"],
+          content: ["JSS2 Christian Religious Studies Third Term Examination"],
         },
       ],
       "Civic Education": [
-        [
+        
           {
             week: 1,
             topics: "Revision",
@@ -5716,7 +5715,6 @@ export const SchemeOfWorkData = {
               "(d) Appropriate Actions to Emergency Management",
             ],
           },
-        ],
         {
           week: 9,
           topics: "Revision",
@@ -5725,12 +5723,11 @@ export const SchemeOfWorkData = {
         {
           week: 10,
           topics: "Examination",
-          content: ["JSS2 Civic EducationFirst Term Examination"],
+          content: ["JSS2 Civic Education Third Term Examination"],
         },
       ],
       "Computer Studies": [
-        [
-          {
+         {
             week: 1,
             topics: "Revision",
             content: ["Revision of work done in the previous term"],
@@ -5798,7 +5795,6 @@ export const SchemeOfWorkData = {
               "(d) Newsgroups",
             ],
           },
-        ],
         {
           week: 9,
           topics: "Revision",
@@ -5811,7 +5807,6 @@ export const SchemeOfWorkData = {
         },
       ],
       "English Studies": [
-        [
           {
             week: 1,
             topics:
@@ -5917,9 +5912,8 @@ export const SchemeOfWorkData = {
               "(b) Structure: Adverbials (Comparative and Superlative)",
               "(c) Composition: Story Writing – (Structure and Style)",
               "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem",
-            ],
+            ]
           },
-        ],
         {
           week: 10,
           topics: "Revision",
@@ -5932,7 +5926,7 @@ export const SchemeOfWorkData = {
         },
       ],
       "Home Economics": [
-        [
+        
           {
             week: 1,
             topics: "Revision",
@@ -5992,7 +5986,6 @@ export const SchemeOfWorkData = {
               "(c) Challenges of the Consumer",
             ],
           },
-        ],
         {
           week: 9,
           topics: "Revision",
@@ -6001,11 +5994,11 @@ export const SchemeOfWorkData = {
         {
           week: 10,
           topics: "Examination",
-          content: ["JSS2 Home Economics First Term Examination"],
+          content: ["JSS2 Home Economics Third Term Examination"],
         },
       ],
       Mathematics: [
-        [
+        
           {
             week: 1,
             topics: "Revision",
@@ -6084,7 +6077,7 @@ export const SchemeOfWorkData = {
               "(c) Theoretical Probability",
             ],
           },
-        ],
+        
         {
           week: 10,
           topics: "Revision",
@@ -6093,11 +6086,11 @@ export const SchemeOfWorkData = {
         {
           week: 11,
           topics: "Examination",
-          content: ["JSS2   Mathematics First Term Examination"],
+          content: ["JSS2   Mathematics Third Term Examination"],
         },
       ],
       Music: [
-        [
+      
           {
             week: 1,
             topics: "Revision",
@@ -6176,9 +6169,9 @@ export const SchemeOfWorkData = {
           {
             week: 13,
             topics: "Examination",
-            content: ["JSS2 Music First Term Examination"],
+            content: ["JSS2 Music Third Term Examination"],
           },
-        ],
+      
       ],
       "Physical and Health Education (PHE)": [
         {
