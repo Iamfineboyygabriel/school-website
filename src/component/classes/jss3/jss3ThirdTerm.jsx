@@ -20,12 +20,12 @@ const Jss3ThirdTerm = () => {
     //   subject: "Business Studies",
     // },
     {
-      term: "Third",
+      term: "ThirdTerm",
       class: "JSS3",
       subject: "Christian Religious Studies",
     },
     // { term: "Third", class: "JSS3", subject: "Civic Education" },
-    { term: "Third", class: "JSS3", subject: "Computer Studies" },
+    { term: "ThirdTerm", class: "JSS3", subject: "Computer Studies" },
     // { term: "Third", class: "JSS3", subject: "English Studies" },
     // { term: "Third", class: "JSS3", subject: "Home Economics" },
     // { term: "Third", class: "JSS3", subject: "Mathematics" },
@@ -37,7 +37,7 @@ const Jss3ThirdTerm = () => {
     // },
     // { term: "Third", class: "JSS3", subject: "Social Studies" },
   ];
-  const selectedTerm = "Third";
+  const selectedTerm = "ThirdTerm";
   const selectedClass = "JSS3";
 
   const [selectedSubject, setSelectedSubject] = useState(null);
@@ -56,7 +56,7 @@ const Jss3ThirdTerm = () => {
     <StudentSideBar>
       <div className={styles.header}>
         <div>
-          <h2>Subject(s) For JSS3 Second Term</h2>
+          <h2>Subject(s) For JSS3 Thirdn Term</h2>
         </div>
       </div>
       <TableContent
