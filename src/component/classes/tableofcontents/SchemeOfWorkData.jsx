@@ -5143,6 +5143,287 @@ export const SchemeOfWorkData = {
           content: ["JSS2 Music First Term Examination"],
         },
       ],
+      "Physical and Health Education (PHE)": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Recreation, Leisure and Dance Activities: Dance",
+          content: [
+            "(a) Types of Dance Activities",
+            "(b) Demonstrations of Different Dance Activities Examples – bata, mkpokiti/atiliogwe.",
+            "(c) Social Dances – Foreign Dances and Traditional Dances",
+            "(d) Some Notable Nigerian Musicians",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Computer Games as Leisure Activities",
+          content: [
+            "(a) Meaning of Computer Game",
+            "(b) Types of Computer Games",
+            "(c) Reasons for Playing Computer Games",
+            "(d) Demonstration of How to Play Computer Games as Leisure Activities",
+            "(e) Types of Computer Games as Leisure Activities",
+            "(f) Stages of Computer Games",
+            "(g) Advantages of Computer Games",
+          ],
+        },
+        {
+          week: 4,
+          topics: "The Striking Games: (Table Tennis and Tennis)",
+          content: [
+            "(a) History and Development of Table Tennis",
+            "(b) Basic Skills and Techniques of Striking Games for Example grip, service, drive, chop and smash",
+            "(c) Equipment and Facilities Used in Striking Games",
+            "(d) Rules and Regulations of Striking Games",
+            "(e) Officials in Striking Games",
+          ],
+        },
+        {
+          week: 5,
+          topics: "The Striking Games: (Table Tennis and Tennis)",
+          content: [
+            "(f) Sports Injuries:",
+            "    (i) Meaning of Sports Injuries",
+            "    (ii) Common Sports Injuries – Dislocation, strain, fracture",
+            "    (iii) Causes of Each Sports Injury",
+            "    (iv) Description of Common Sports Injuries",
+            "    (v) First Aid Treatment of Each Sports Injury",
+          ],
+        },
+        {
+          week: 6,
+          topics: "First Aid and Safety Education",
+          content: [
+            "(a) Meaning of Safety and Safety Education",
+            "(b) Definition of Accident and Injuries",
+            "(c) Classification of Accidents",
+            "(d) Causes of Accidents",
+            "(e) Safety Measures at Home, on the Playground, and on the Road",
+          ],
+        },
+        {
+          week: 7,
+          topics: "First Aid and Safety Education",
+          content: [
+            "(g) Domestic Accidents:",
+            "    (i) Causes of Domestic Accidents",
+            "    (ii) First Aid Treatment of Domestic Accidents",
+          ],
+        },
+        {
+          week: 8,
+          topics: "First Aid and Safety Education",
+          content: [
+            "(h) Road Traffic Accidents:",
+            "    (i) Causes of Road Accidents",
+            "    (ii) First Aid Treatment of Road Accidents",
+          ],
+        },
+        {
+          week: 9,
+          topics: "First Aid and Safety Education",
+          content: [
+            "(i) Measures for Preventing Sport Injuries",
+            "(ii) Measures for Preventing Domestic Injuries",
+            "(iii) Measures for Preventing Road Traffic Accidents",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: [
+            "JSS2 Physical and Health Education (PHE) First Term Examination",
+          ],
+        },
+      ],
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Positive Group Behaviour",
+          content: [
+            "(a) Meaning and Types of Group Behaviour",
+            "(b) Characteristics of the Different Types of Group Behaviour",
+            "(c) Constructive Group Behaviour versus Destructive Group Behaviour",
+            "(d) Benefits of Positive Group Behaviour",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          content: [
+            "(a) Meaning of Drug, Drug Use, Drug Misuse and Drug Abuse",
+            "(b) Categories of Drugs that are Abused",
+            "(c) Government-controlled Substances/Drugs",
+            "(d) Forms of Drug Abuse and Methods of Drug Abuse",
+          ],
+        },
+        {
+          week: 4,
+          topics:
+            "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          content: ["(d) Causes of Drug Abuse"],
+        },
+        {
+          week: 5,
+          topics:
+            "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          content: ["(e) Meaning and Examples of Harmful Substances"],
+        },
+        {
+          week: "6-7",
+          topics:
+            "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          content: [
+            "(f) Consequences of Drug Abuse on",
+            "    (i) Individuals",
+            "    (ii) the Community",
+            "    (iii) the Nation",
+            "    (iv) the International Community",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          content: [],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Social Studies First Term Examination"],
+        },
+      ],
+    },
+  },
+
+  JSS2: {
+    ThirdTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term(s)"],
+        },
+        {
+          week: 2,
+          topics: "Fishery",
+          content: [
+            "(a) (i) Definition of Fishery",
+            "    (ii) Morphology of Fish and their Functions",
+            "    (iii) Terminologies Used in Fish Farming",
+            "(b) Classification of Fish based on;",
+            "    (i) Habitat – Fresh Water and Salt Water Fish",
+            "    (ii) Morphology – Bony and Cartilaginous Fish",
+            "    (iii) Other Types of Aquatic Organisms – shell fish, crab, prawn, reptiles (turtle, crocodile, iguana, alligator), mammals (hippopotamus, whale)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Fishery",
+          content: [
+            "(c) Uses of Fish and Fish Products/Other Aquatic Organisms",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Fishery",
+          content: [
+            "(d) (i) Systems of Fishery",
+            "    (ii) Methods of Fishing",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Fishery",
+          content: [
+            "(e) (i) Fish Processing and Preservation Methods: Salting, Sun-drying, etc.",
+            "    (ii) Risk Factors in Water and Fish Farming: Discharge of pesticides and fertilizers, oil spillage, industrial effluents and sewage discharge, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Forests and Forest Uses",
+          content: [
+            "(a) Types of Forests/Nigerian Vegetation Belts:",
+            "    (i) Forest Zones – Mangrove/Swamp forest, Rain forest",
+            "    (ii) Savanna Zones – Derived, Guinea, Sudan and Sahel savannas",
+            "    (iii) Montanes",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Forests and Forest Uses",
+          content: [
+            "(b) Forest Resources:",
+            "    (i) Trees",
+            "    (ii) Fruits (food stuffs)",
+            "    (iii) Various herbs",
+            "    (iv) Shelter",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Forests and Forest Uses",
+          content: [
+            "(c) Uses of Forest Resources",
+            "(d) Effects of Forest on the Environment",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Forests and Forest Uses",
+          content: [
+            "(e) Human Activities that Affect the Forest:",
+            "    (i) Clearing or deforestation",
+            "    (ii) Depletion of wild life/Hunting",
+            "    (iii) Bush burning",
+            "    (iv) Farming",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Agricultural Science First Term Examination"],
+        },
+      ],
+      "Basic Science": [
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Basic Science First Term Examination"],
+        },
+      ],
     },
   },
 };

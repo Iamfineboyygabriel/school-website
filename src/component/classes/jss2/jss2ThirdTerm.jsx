@@ -8,41 +8,41 @@ import ReactLoading from "react-loading";
 const Jss2ThirdTerm = () => {
   const data = [
     {
-      term: "Third Term",
+      term: "ThirdTerm",
       class: "JSS2",
       subject: "Agricultural Science",
     },
-    { term: "Third Term", class: "JSS2", subject: "Basic Science" },
-    { term: "Third Term", class: "JSS2", subject: "Basic Technology" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Basic Science" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Basic Technology" },
     {
-      term: "Third Term",
+      term: "ThirdTerm",
       class: "JSS2",
       subject: "Business Studies",
     },
     {
-      term: "Third Term",
+      term: "ThirdTerm",
       class: "JSS2",
       subject: "Christian Religious Studies",
     },
-    { term: "Third Term", class: "JSS2", subject: "Civic Education" },
-    { term: "Third Term", class: "JSS2", subject: "Computer Studies" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Civic Education" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Computer Studies" },
     {
-      term: "Third Term",
+      term: "ThirdTerm",
       class: "JSS2",
       subject: "Cultural and Creative Arts",
     },
-    { term: "Third Term", class: "JSS2", subject: "English Studies" },
-    { term: "Third Term", class: "JSS2", subject: "Home Economics" },
-    { term: "Third Term", class: "JSS2", subject: "Mathematics" },
-    { term: "Third Term", class: "JSS2", subject: "Music" },
+    { term: "ThirdTerm", class: "JSS2", subject: "English Studies" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Home Economics" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Mathematics" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Music" },
     {
-      term: "Third Term",
+      term: "ThirdTerm",
       class: "JSS2",
       subject: "Physical and Health Education (PHE)",
     },
-    { term: "Third Term", class: "JSS2", subject: "Social Studies" },
+    { term: "ThirdTerm", class: "JSS2", subject: "Social Studies" },
   ];
-  const selectedTerm = "Third Term";
+  const selectedTerm = "ThirdTerm";
   const selectedClass = "JSS2";
 
   const [selectedSubject, setSelectedSubject] = useState(null);
