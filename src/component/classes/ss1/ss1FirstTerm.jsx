@@ -17,11 +17,6 @@ const SS1FirstTerm = () => {
     {
       term: "FirstTerm",
       class: "SS1",
-      subject: "Catering and craft Practice",
-    },
-    {
-      term: "FirstTerm",
-      class: "SS1",
       subject: "Christian Religious Studies (CRS)",
     },
     { term: "FirstTerm", class: "SS1", subject: "Civic Education" },
@@ -31,7 +26,6 @@ const SS1FirstTerm = () => {
       subject: "Commerce",
     },
     { term: "FirstTerm", class: "SS1", subject: "Computer Science/ICT" },
-    { term: "FirstTerm", class: "SS1", subject: "Data Processing" },
     { term: "FirstTerm", class: "SS1", subject: "Economics" },
     { term: "FirstTerm", class: "SS1", subject: "English Language" },
     {

@@ -8925,9 +8925,377 @@ FirstTerm:{
       content: ["Kingdom Plantae","Kingdom Animalia"],
     },
     {
+      week: 4,
+      topics: "THE CELL",
+      content: ["The Cell as a Living Unit of an Organism","Forms in Which Cells Exist","The Structure and Functions of the Cell","Cell Theory"],
+    },
+    {
+      week: 5,
+      topics: "THE CELL AND ITS ENVIRONMENT",
+      content: ["Introduction","Diffusion","Osmosis","Plant Nutrition","Micro and Macro Elements"],
+    },
+    {
+      week: 6,
+      topics: "PROPERTIES AND FUNCTIONS OF  THE CELL 1",
+      content: ["Animal Nutrition","Balanced Diet","Heterotrophic Nutrition","Enzymes","Practical Guide on Food Tests"],
+    },
+    {
+      week: 7,
+      topics: "PROPERTIES AND FUNCTIONS OF  THE CELL 2",
+      content: ["Cellular Respiration","Excretion","Growth"],
+    },
+    {
+      week: 8,
+      topics: "PROPERTIES AND FUNCTIONS OF  THE CELL",
+      content: ["The Cell’s Reactions to its Environment","Movement","Reproduction"],
+    },
+    {
+      week: 9,
+      topics: "TISSUES AND SUPPORTING SYSTEMS – SKELETONS AND SUPPORTING SYSTEMS IN ANIMALS",
+      content: ["Biological Significance of the Skeleton (Importance of the Skeleton)","Forms of Skeletons","Types of Skeletons","Bones of the Vertebral Column","Joints","Functions of Skeleton in Animals"],
+    },
+    {
+      week: 10,
+      topics: "Examination",
+      content: ["SS1 Biology First Term Examination"],
+    },
+  ],
+  "Chemistry":[
+    {
+      week: 1,
+      topics: "INTRODUCTION TO CHEMISTRY",
+      content: ["define chemistry and state its branches.","explain scientific method and its importance.","enumerate the uses of chemistry.","describe some adverse effects of chemistry.","identify at least five (5) careers related to chemistry."],
+    },
+    {
+      week: 2,
+      topics: "PARTICULATE NATURE OF MATTER",
+      content: ["Define matter.","List and describe the states of matter.","Mention and describe the movement of matter.","Describe with examples physical and chemical properties.","Differentiate between physical and chemical changes."],
+    },
+    {
+      week: 3,
+      topics: "PARTICULATE NATURE OF MATTER",
+      content: ["ELECTRONIC CONFIGURATION"],
+    },
+    {
+      week: 4,
+      topics: "VALENCY, OXIDATION NUMBER, IONS AND RADICALS",
+      content: ["VALENCY"],
+    },
+    {
+      week: 5,
+      topics: "FORMULAE AND EQUATIONS",
+      content: ["CHEMICAL FORMULAE"],
+    },
+    {
+      week: 6,
+      topics: "CHEMICAL LAWS OF COMBINATIONS",
+      content: ["Experiment to verify the law of conservation of matter (mass)"],
+    },
+    {
+      week: 7,
+      topics: "CHEMICAL COMBINATION",
+      content: ["THE PERIODIC TABLE (THE FIRST 20 ELEMENTS)"],
+    },
+    {
+      week: 8,
+      topics: "CHEMICAL  INDUSTRIES",
+      content: ["Meaning of Chemical Industry","Factors to be Considered in Siting Chemical Industry","Categories of Chemical Industries...."],
+    },
+    {
+      week: 9,
+      topics: "Examination",
+      content: ["SS1 Chemistry First Term Examination"],
+    },
+  ],
+  "Christian Religious Studies (CRS)":[
+    {
+      week: 1,
+      topics: "JESUS AS THE LAMB, THE DOOR AND GOOD SHEPHERD",
+      content: ["Jesus as the Lamb (John 1 : 29 - 34)","Jesus as the Door","Jesus as the Good Shepherd"],
+    },
+    {
+      week: 2,
+      topics: "JESUS AS THE LIGHT OF THE WORLD",
+      content: ["The Light of the World (John 3:19; 8:12; 9:4-5;)","Walking in the Light (John 12:35-36)","Consequences of Walking in Darkness (John 12:35-36; 1 John 1:5-7)","Social Vices as Evidence of Walking in Darkness","Jesus as the Vine (John 15:1-11)","Significance"],
+    },
+    {
+      week: 3,
+      topics: "JESUS AS THE LIVING BREAD AND WATER",
+      content: ["Jesus as the Living Bread (John 6:25-40)","esus as the Living Water (John 4:7-15)","Values Beside Food and Water that are Necessary for Growth and Happiness"],
+    },
+    {
+      week: 4,
+      topics: "GOD’S LOVE FOR MAN",
+      content: ["Meaning of Love","Types of Love","Demonstration of God's Love to Human Beings","The Need for Human Beings to Respond to God's Love"],
+    },
+    {
+      week: 5,
+      topics: "LOVE FOR ONE ANOTHER",
+      content: ["To Know God is to Love One Another (John 4:7-8,21)","The Qualities of Love (1 Cor. 13:1-13)","Various Ways to Demonstrate Love for One Another (John 3:17-18)"],
+    },
+    {
+      week: 6,
+      topics: "JUSTIFICATION BY FAITH",
+      content: ["Meaning and Need for Justification (Rom. 3: 23; Gal. 3: 19-21)","Work and Law do not Justify Anybody (Rom.4:1-5; Gal.2: 16-21)","Faith in Jesus as a Condition for Justification (Rom. 1:16-17; 4:1-5)","The Fruit of Justification (Gal. 2:19-21; 5:22)"],
+    },
+    {
+      week: 7,
+      topics: "NEW LIFE IN CHRIST",
+      content: ["Meaning of Old Life as Living in Sin","Characteristics of the Old Life (Gal. 5:19-21, Col. 3:5-7)"],
+    },
+    {
+      week: 8,
+      topics: "NEW LIFE IN CHRIST",
+      content: ["Meaning of New Life in Christ","The Need for Change (Rom. 6:1-4; 15:18-19)","Characteristics of the New Life","The Need to Stick to the New Life"],
+    },
+    {
+      week: 10,
+      topics: "SONSHIP",
+      content: ["Jesus Christ the Son of God (Rom. 8:3, 17, 32)","Christians are Also Children of God (Rom. 8:1-39, 4:6, 7; Eph. 5:3)"],
+    },
+    {
+      week: 11,
+      topics: "Sonship II",
+      content: ["Right and responsibilities as children of God","Right as citizens of Nigeria."],
+    },
+    {
+      week: 12,
+      topics: "Examination",
+      content: ["SS1 Christian Religious Studies (CRS) First Term Examination"],
+    },
+  ],
+  "Civic Education":[
+    {
+      week: 1,
+      topics: "VALUES",
+      content: ["The Meaning of Values","The Kinds of Values","The Types of Values","Honesty"],
+    },
+    {
+      week: 2,
+      topics: "JUSTICE AND SELFLESSNESS",
+      content: ["The Meaning of Justice","Types of Justice","The Meaning of Selflessness","Qualities of Selflessness","Incidences of Selflessness"],
+    },
+    {
+      week: 3,
+      topics: "THE OPPORTUNITY TO DEFEND ONESELF",
+      content: ["Meaning of the Opportunity to Defend Oneself","Opportunities to Defend Oneself"],
+    },
+    {
+      week: 4,
+      topics: "INVOLVEMENT IN COMMUNITY SERVICE",
+      content: ["Meaning of Community Service","Examples of Community Service Projects","The National Youth Service Corps (NYSC)","The Importance of Community Service"],
+    },
+    {
+      week: 5,
+      topics: "HIV/AIDS",
+      content: ["Introduction","The Meaning of HIV","The Meaning of AIDS","Causes of HIV/AIDS","Symptoms of AIDS","Effects of HIV/AIDS"],
+    },
+    {
+      week: 6,
+      topics: "PREVENTION AND CONTROL OF HIV/AIDS; STIGMATIZATION",
+      content: ["Prevention of HIV/AIDS","Stigmatization of People Living with HIV/AIDS","The People Living with HIV/AIDS (PLWHA)","The Roles of the PLWHA","How the Community Can Help People Living with HIV/AIDS (PLWHA","The Nine Canons of the PLWHA"],
+    },
+    {
+      week: 7,
+      topics: "EMPOWERMENT",
+      content: ["The Concept of Empowerment","Empowerment Strategies","The Objectives of Empowerment"],
+    },
+    {
+      week: 8,
+      topics: "YOUTH EMPOWERMENT",
+      content: ["The Meaning of Youth and Youth Empowerment","The Importance of Youth Empowerment","Types of Youth Empowerment Skills","The Hindrance to Youth Empowerment"],
+    },
+    {
+      week: 9,
+      topics: "CITIZENSHIP EDUCATION",
+      content: ["The Meaning of Citizenship and Citizen","The Means of Acquiring Citizenship","Withdrawal of Citizenship","Goals of Citizenship Education"],
+    },
+    {
+      week: 10,
+      topics: "LAW",
+      content: ["The Meaning of Law","Types of Laws","Laws and Rights of Individuals"],
+    },
+    {
+      week: 11,
+      topics: "NATIONALISM",
+      content: ["The Meaning of Nationalism","Nationalistic Roles of Individuals","Nationalistic Roles of Groups"],
+    },
+    {
+      week: 12,
+      topics: "MAJOR LOCAL AND GLOBAL CIVIC PROBLEMS",
+      content: ["Major Local Civic Problems","Major World Civic Problems"],
+    },
+    {
+      week: 12,
+      topics: "Examination",
+      content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
+    },
+  ],
+  "Commerce":[
+    {
+      week: 1,
+      topics: " INTRODUCTION TO COMMERCE ",
+      content: ["Meaning of Commerce","Scope of Commerce","Functions of Commerce","Characteristics of Commerce","Meaning and Functions of E-commerce","Types of E-commerce"],
+    },
+    {
+      week: 2,
+      topics: "HISTORY OF COMMERCE ",
+      content: ["Historical Background of Commerce","Factors Affecting the Growth of Commerce in West Africa","The Barter System"],
+    },
+    {
+      week: 3,
+      topics: "OCCUPATION",
+      content: ["Meaning of Employment","Meaning of Occupation"," Classification of Occupation","Factors that Determine the Types of Occupation ","Factors that Determine Employment"],
+    },
+    {
+      week: 4,
+      topics: "PRODUCTION",
+      content: [" Meaning of Production","Classification of Production"," The Factors of Production ","The Importance of Production"],
+    },
+    {
+      week: 5,
+      topics: "TRADE",
+      content: ["Meaning of Trade","Types of Trade","Relationship between Home Trade and Foreign Trade","Differences between Home Trade and Foreign Trade","Relationship between/among the Different Types of Trade"],
+    },
+    {
+      week: 6,
+      topics: "RETAIL TRADE",
+      content: ["Meaning of Home Trade","Retail trade.","Large scale retailing.","Mail order business.","Modern trends of retailing.","Reasons Why  Retail businesses fail."],
+    },
+    {
+      week: 7,
+      topics: "Examination",
+      content: ["SS1 Commerce First Term Examination"],
+    },
+  ],
+  "Computer Science/ICT":[
+    {
+      week: 1,
+      topics: "OVERVIEW OF THE COMPUTER SYSTEM",
+      content: ["Definitions of computer.","The three basic operations of the computer.","The main constituents of a computer."],
+    },
+    {
+      week: 2,
+      topics: "OVERVIEW OF THE COMPUTER SYSTEM",
+      content: ["Computer hardware.","Computer software.","Characteristicsfor your computer."],
+    },
+    {
+      week: 3,
+      topics: "DATA AND INFORMATION",
+      content: ["Definition of Data and Information","Examples of Data and Information","Differences between Data and Information","Examples of Data and Information"],
+    },
+    {
+      week: 4,
+      topics: "COMPUTING DEVICES: PRE-COMPUTER AGE TO THE 19TH CENTURY",
+      content: ["The Abacus","The Slide Rule",
+   "   Napier’s Bone",
+"      Pascal’s Calculator",
+"      Leibniz Multiplier",
+"      The Jacquard Loom",
+"      The Difference Engine",
+     " Hollerith Census Machine",
+  "    The Analytical Engine",
+      "Burrough’s Machine"],
+    },
+    {
+      week: 5,
+      topics: "COMPUTING DEVICES: 20TH CENTURY TO DATE",
+      content: ["Features, Components and Uses of ENIAC",
+"      Features, Components and Uses of EDVAC",
+"      Features, Components and Uses of UNIVAC 1",
+  "    Features, Components and Uses of Desktop Personal Computer",
+ "     Features, Components and Uses of Laptop and Notebook Computers",
+"      Features, Components and Uses of Palmtop Computers",
+],
+    },
+    {
+      week: 6,
+      topics: "INPUT DEVICES",
+      content: ["Definition of Input Devices",
+      "Types of Input Devices"],
+    },
+    {
+      week: 7,
+      topics: "INPUT DEVICES",
+      content: ["Keyboard – Structure and Functions","Mouse – Features, Functions and Operations"],
+    },
+    {
+      week: 9,
+      topics: "OUTPUT DEVICES",
+      content: ["Definition of Output Devices","Features and Uses of Output Devices"],
+    },
+    {
+      week: 10,
+      topics: "OUTPUT DEVICES:PRINTERS",
+      content: ["Types of Printers","Comparative Study of Common Printers"],
+    },
+
+    {
       week: 11,
       topics: "Examination",
-      content: ["SS1 Animal Husbandry First Term Examination"],
+      content: ["SS1 Computer Science/ICTFirst Term Examination"],
+    },
+  ],
+  "Economics" :[
+    {
+      week: 1,
+      topics: "MEANING OF ECONOMICS AND RELATED CONCEPTS",
+      content: ["Meaning of Economics",
+  "    The Scope of Economics",
+  "    The Importance of Studying Economics",
+    "  Economics as a Social Science"],
+    },
+    {
+      week: 2,
+      topics: "BASIC CONCEPTS IN ECONOMICS",
+      content: ["Wants",
+"      Scarcity",
+"      Scale of Preference",
+"      Choice",
+"      Opportunity Cost",
+  "    Resources"],
+    },
+    {
+      week: 3,
+      topics: ["BASIC TOOLS OF ECONOMIC ANALYSIS"],
+      content: ["Introduction to Graphs, Charts and Tables",
+"      Tables",
+"      Graphs",
+      "Charts"],
+    },
+    {
+      week: 4,
+      topics: ["BASIC TOOLS OF ECONOMIC ANALYSIS"],
+      content: ["Meaning of Measures of Central Tendencies",
+      "Mean",
+      "Median",
+      "Mode"],
+    },
+    {
+      week: 5,
+      topics: ["THE CONCEPT OF DEMAND"],
+      content: ["The Price System",
+  "    The Concept of Demand",
+  "    The Demand Schedule",
+"      The Demand Curve",
+   "   The Law of Demand",
+    "Factors Affecting Demand"],
+    },
+    {
+      week: 6,
+      topics: ["THE CONCEPT OF SUPPLY"],
+      content: ["Definition of Supply",
+    "  The Supply Schedule",
+"      The Supply Curv",
+  "    The Law of Supply",
+"      Factors Affecting Supply",
+"      Determination of Equilibrium Price and Quantity"],
+    },
+
+    {
+      week: 2,
+      topics: "Examination",
+      content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
     },
   ]
 
