@@ -8015,6 +8015,117 @@ SecondTerm:{
     },
   ],
   "Computer Studies":[
+    
+  {
+    "week": 1,
+    "topics": "Revision",
+    "content": [
+      "Revision of work done in first term"
+    ]
+  },
+  {
+    "week": 2,
+    "topics": "Spreadsheet Packages",
+    "content": [
+      "(a) Meaning of Spreadsheet Packages",
+      "(b) Examples of Spreadsheet Packages –",
+      "(i) Excel",
+      "(ii) LOTUS 1, 2, 3",
+      "(iii) StartView, etc.",
+      "(c) Uses of Spreadsheet Packages –",
+      "(i) Preparation of daily sales",
+      "(ii) Budget",
+      "(iii) Examination result, etc."
+    ]
+  },
+  {
+    "week": 3,
+    "topics": "Spreadsheet Packages",
+    "content": [
+      "(a) Spreadsheet Features and Terminologies –",
+      "(i) Row",
+      "(ii) Column",
+      "(iii) Cell",
+      "(iv) Worksheet",
+      "(v) Chart",
+      "(vi) Data range, etc.",
+      "(b) Loading and Exiting Spreadsheet Packages"
+    ]
+  },
+  {
+    "week": 4,
+    "topics": "Worksheets",
+    "content": [
+      "(a) Starting Excel Worksheet i.e.",
+      "(i) Opening a worksheet",
+      "(ii) Data entry",
+      "(iii) Editing",
+      "(iv) Saving",
+      "(v) Retrieving worksheet",
+      "(b) Formatting Worksheet i.e. text, cell and column, naming, etc."
+    ]
+  },
+  {
+    "week": 5,
+    "topics": "Worksheets",
+    "content": [
+      "(c) Excel Calculations –",
+      "(i) Addition",
+      "(ii) Subtraction",
+      "(iii) Average",
+      "(iv) Counting",
+      "(v) Multiplication",
+      "(vi) Division, etc.",
+      "(d) Printing of Worksheets"
+    ]
+  },
+  {
+    "week": 6,
+    "topics": "Practical on Excel Calculations",
+    "content": [
+      "(a) Creating Graphs –",
+      "(i) Line graph",
+      "(ii) Histograms",
+      "(iii) Pie-charts",
+      "(iv) Legends, etc.",
+      "(b) Editing Graphs"
+    ]
+  },
+  {
+    "week": 7,
+    "topics": "Practical on Excel Calculations",
+    "content": [
+      "(c) Formatting Graphs –",
+      "(i) Line graphs",
+      "(ii) Histograms",
+      "(iii) Pie-charts",
+      "(iv) Legends"
+    ]
+  },
+  {
+    "week": 8,
+    "topics": "Practical on Excel Graphs",
+    "content": [
+      "Practical on Excel Graphs"
+    ]
+  },
+  {
+    "week": 9,
+    "topics": "Computer Games",
+    "content": [
+      "(a) Meaning of Computer Games",
+      "(b) Meaning of Video Game",
+      "(c) Examples of Computer Games –",
+      "Spider Solitaire, Pacman, Space Commander, Digger, Pinball, Chess, etc.",
+      "(d) Reasons for Playing Computer Games",
+      "(e) Types of Computer Games –",
+      "(i) Recreational games",
+      "(ii) Skill enhancement games",
+      "(iii) Entertainment games",
+      "(f) Advantages and Disadvantages of Computer Games"
+    ]
+  }
+    ,
     {
       week:10,
       topics: "Revision",
