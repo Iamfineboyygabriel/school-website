@@ -4117,16 +4117,666 @@ export const SchemeOfWorkData = {
       ],
       "Physical and Health Education (PHE)": [
         {
-          week: 11,
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Posture and Postural Defects",
+          content: [
+            "(a) Meaning of Posture and Postural Defect",
+            "(b) Factors that Influence Posture",
+            "(c) Characteristics of Good Posture",
+            "(d) Values or Importance of Good Posture",
+            "(e) Kinds of Posture – Sitting, writing, lifting",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Posture and Posture Defects",
+          content: [
+            "(f) Meaning of Postural Defects/Deviation",
+            "(g) Aiding Factors of Postural Defects",
+            "(h) Kinds of Postural Defects – Kyphosis, lordosis, scoliosis, flat feet, bow legs",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Posture and Postural Defects",
+          content: [
+            "(i) Causes of Postural Defects",
+            "(j) Effects of Poor Posture in the Body",
+            "(k) Ways of Maintaining Good Posture",
+            "(l) Demonstration of Appropriate Posture",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "Issues and Challenges in Physical and Health Education: Human Trafficking",
+          content: [
+            "(a) Meaning of Human Trafficking",
+            "(b) Groups of Human Trafficking",
+            "(c) Causes of Human Trafficking",
+            "(d) Health Implications of Human Trafficking",
+            "(e) Solutions to Human Trafficking",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Sports Laws",
+          content: [
+            "(a) Tort, Negligence and Legal Liability",
+            "(b) Precautions against Liability",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Recreation, Leisure and Dance Activities",
+          content: [
+            "(a) Indoor Recreation:",
+            "   (i) Meaning of Indoor Recreation",
+            "   (ii) Types of Indoor Recreation",
+            "(b) Outdoor Recreation:",
+            "   (i) Meaning of Outdoor Recreation",
+            "   (ii) Importance of Outdoor Recreation",
+            "   (iii) Types of Outdoor Recreational Activities",
+            "(c) Demonstration of Recreation Activities by the Teacher, for Example Table Tennis",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Recreation, Leisure and Dance Activities",
+          content: [
+            "Description of Outdoor Recreational Activities",
+            "– Explanation and Demonstration of Dramatic and Creative Rhythms, for Example Gymnastics and Aerobics",
+          ],
+        },
+        {
+          week: 9,
           topics: "Revision",
           content: ["Revision of work done in First term"],
         },
         {
-          week: 12,
+          week: 10,
           topics: "Examination",
           content: [
             "JSS2 Physical and Health Education  First Term Examination",
           ],
+        },
+      ],
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of JSS1 lessons and examinations"],
+        },
+        {
+          week: 2,
+          topics: "General Objectives of Social Studies",
+          content: [
+            "(a) General Objectives of Social Studies",
+            "(b) Importance of Social Studies",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Family Bond and Living Together as One Family",
+          content: ["(a) Advantages of Living Together in the Family"],
+        },
+        {
+          week: 4,
+          topics: "Family Bond and Living Together as One Family",
+          content: [
+            "(b) Meaning of Family Bond and Cohesion",
+            "(c) Need for Bond and Cohesion in a Family Set Up",
+            "(d) Factors that Strengthen Family Bond",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Family Bond and Living Together as One Family",
+          content: ["(a) Importance/Advantages of Good Family Reputation"],
+        },
+        {
+          week: 6,
+          topics: "Purposes of Marriage",
+          content: [
+            "(a) Meaning of Marriage",
+            "(b) Purposes of Marriage:",
+            "   (i) Procreation",
+            "   (ii) Satisfying economic and social needs",
+            "   (iii) Sexual satisfaction and purity",
+            "   (iv) Growth in mutual love, etc.",
+            "(c) Marriage-related Terms or Concepts",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Readiness in Marriage",
+          content: ["(a) Conditions for Marriage"],
+        },
+        {
+          week: 8,
+          topics: "Readiness in Marriage",
+          content: [
+            "(b) Effects of Lack of Readiness on Marriage Relationship",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Social Studies  First Term Examination"],
+        },
+      ],
+    },
+  },
+
+  JSS2: {
+    SecondTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Animal Feeds and Feeding",
+          content: [
+            "(a) Meaning of Feeds",
+            "(b) Types of Feeds:",
+            "   (i) Energy yielding feeds",
+            "   (ii) Protein yielding feeds, etc.",
+            "   (iii) Water",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Animal Feeds and Feeding",
+          content: [
+            "(c) Ration and Types",
+            "(d) Malnutrition: Meaning, Causes and Symptoms",
+            "(e) Factors that Affect Feed Requirements of Farm Animals",
+            "(f) Feeding Tools:",
+            "   (i) Trough",
+            "   (ii) Drinkers set, etc.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Animal Pests and Disease Control",
+          content: [
+            "Farm Animal Diseases:",
+            "(a) (i) Bacterial: Mastitis – contagious abortion in ruminants, pigs, etc.",
+            "   (ii) Fungal: Ringworm (all farm animals)",
+            "   (iii) Viral: Foot and mouth disease (all animals except poultry)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Animal Pests and Disease Control",
+          content: [
+            "(a) Farm Animal Diseases",
+            "   (iv) Protozoan: Coccidiosis in Poultry and Rabbit, Trypanosomiasis (nagana) in Cattle",
+            "   (v) Worms (all farm animals)",
+            "   (vi) Nutritional: Bloat (cattle)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Animal Pests and Disease Control",
+          content: [
+            "Farm Animal Diseases:",
+            "(b) Modes of Transmission of Farm Animal Diseases",
+            "   (i) Contact with infected animals, or discharges, or vectors (tsetse fly), etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Animal Pests and Disease Control",
+          content: [
+            "Farm Animal Diseases:",
+            "(ii) Bacteria",
+            "(iii) Fungi",
+            "(Modes of transmission and symptoms of farm animal diseases is very important).",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Animal Pests and Disease Control",
+          content: [
+            "(c) (i) Symptoms/Signs of Diseases of Farm Animals",
+            "(ii) Effects of Diseases on Farm Animals:",
+            "   (i) Reduces productivity",
+            "   (ii) Loss of appetite",
+            "   (iii) Loss of weight",
+            "   (iv) Death, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Animal Pests and Disease Control",
+          content: [
+            "(d) Methods of Prevention and Control of Farm Animal Diseases:",
+            "   (i) Adopting good sanitation practices",
+            "   (ii) Medication/immunization",
+            "   (iii) Isolation/disposal, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Agricultural Science  First Term Examination"],
+        },
+      ],
+      "Basic Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Work, Energy and Power",
+          content: [
+            "(i) Meaning of Work, Energy and Power",
+            "(ii) Potential and Kinetic Energy",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Work, Energy and Power",
+          content: ["Calculations Involving Work Done"],
+        },
+        {
+          week: 4,
+          topics: "Work, Energy and Power",
+          content: [
+            "Energy Transfer When Work is Done:",
+            "   (i) Principle of Conservation of Energy",
+            "   (ii) Forms of Energy",
+            "   (iii) Other Forms of Energy Transfer",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Types of Energy",
+          content: [
+            "Kinetic Energy:",
+            "   (i) Assumptions",
+            "   (ii) Explanation of Some Phenomena Using Kinetic Theory",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Types of Energy",
+          content: [
+            "Explanation of Boiling and Evaporation Using Kinetic Theory",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Measurement and Chemical Formulae",
+          content: [
+            "(i) Meaning of Measurement",
+            "(ii) Instruments for Measurement",
+            "(iii) Chemical Formulae",
+            "(iv) Valency",
+            "(v) Ions",
+            "(vi) Formulae and Ions of Some Substances",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS2 Basic Science  First Term Examination"],
+        },
+      ],
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in first term"],
+        },
+        {
+          week: 2,
+          topics: "Geometric Construction",
+          content: [
+            "Triangles:",
+            "   (i) Right Angled, Equilateral, Isosceles and Scalene Triangles",
+            "   (ii) Inscribed and Circumscribed Circles to Given Triangles",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Geometric Construction",
+          content: [
+            "Quadrilateral and Polygons:",
+            "   (i) Definitions and Construction of Regular Quadrilaterals –  Rectangles, square, rhombus, parallelogram and trapezium, etc.",
+            "   (ii) Definitions and Construction of Regular and Irregular Polygons – Pentagon, hexagon, heptagon, octagon; Using General and Specific Methods",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Plane Figures",
+          content: [
+            "(a) Examples of Plane Figures",
+            "(b) Construction of Regular Plane Figures",
+            "(c) Determination of Area of Regular Plane Figures, e.g.",
+            "   (i) triangles and rectangles of equal areas",
+            "   (ii) square and rectangles of equal areas, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Plane Figures",
+          content: [
+            "(d) Enlargement and Reduction of Plane Figures: Triangles, Rectangles and Squares in Given Ratios by",
+            "   (a) Length of Sides",
+            "   (b) Radial Line Method",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Tools, Machines and Processes",
+          content: [
+            "(a) Portable Power Tools: Belt sander, hand drill, fret saw, etc.",
+            "(b) Stationary Woodwork Machines: Circular saw, band saw, wood lathe, surface planer, thicknesses, sanders, drill, etc.",
+            "(c) Woodwork Materials",
+            "(d) Care and Maintenance of Woodwork Machines",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Tools, Machines and Processes",
+          content: [
+            "Woodwork Materials:",
+            "   (i) Common Woodwork Joints",
+            "   (ii) Uses of Non-wood Materials",
+            "   (iii) Care and Maintenance of Woodwork Machines",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Tools, Machines and Processes",
+          content: [
+            "Metalwork Machines:",
+            "   (i) Types of Metalwork Machines",
+            "   (ii) Functions of Different Types of Machines",
+            "   (iii) Simple Metal Work Tools and Cutting",
+            "   (iv) Care and Maintenance of Metalwork Machines",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS2 Basic Technology  First Term Examination"],
+        },
+      ],
+      "Business Studies": [],
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of first term’s work"],
+        },
+        {
+          week: 2,
+          topics: "Call of the Disciples",
+          content: [
+            "(a) Jesus Calls His Four Disciples",
+            "    (Matt. 4:18-22. Mark 1:14-20. Luke 5:1-11",
+            "(b) Jesus Calls the Twelve Disciples/Apostles",
+            "    (Mark 3:13-19)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Call of the Disciples",
+          content: [
+            "The Demands of Discipleship",
+            "    (Matt. 8:18-22. Luke 9:57-62. Luke 14:25-34)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Sermon on the Mount",
+          content: [
+            "(a) The Beatitudes",
+            "    (Matt. 5:1-12)",
+            "(b) Christians as Salt and Light of the World",
+            "    (Matt. 5:13-16)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Sermon on the Mount",
+          content: [
+            "(c) Forgiveness",
+            "    (Matt. 6:14-15)",
+            "(d) Revenge",
+            "    (Matt. 5:38-42)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Sermon on the Mount",
+          content: [
+            "(e) Prayer and Fasting",
+            "    (Matt. 6:5-1)",
+            "(f) Love of Money",
+            "    (Matt. 6:19-24)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Some Parables of Jesus",
+          content: [
+            "(a) (i) Meaning of Parable (ii) Why Jesus Taught in Parables",
+            "    (Matt. 13:34-35)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Some Parables of Jesus",
+          content: [
+            "(b) Parables about the Kingdom (i) The Sower",
+            "    (Matt 13:1-9, 18-23)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Some Parables of Jesus",
+          content: [
+            "(b) (ii) The Wheat and Tares",
+            "    (Matt. 13:24-30, 36-43)",
+            "Read the following:",
+            "    (Luke 15:11-34, 15:3-7, 15:8-10)",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Christian Religious Studies  First Term Examination"],
+        },
+      ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 2,
+          topics: "The Rule of Law",
+          content: [
+            "(a) The Meaning of Law and Rule of Law",
+            "(b) The Benefits of the Rule of Law as Against Arbitrary Rule",
+          ],
+        },
+        {
+          week: 3,
+          topics: "The Rule of Law",
+          content: [
+            "(c) Punishment for Breaking the Law",
+            "(d) Equality of All Citizens Before the Law",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Protection of Human Rights and the Rule of Law",
+          content: [
+            "(a) Ways of Protecting Human Rights by;",
+            "    (i) representing the affected person in court",
+            "    (ii) drawing attention to cases of human rights violations through: *protests, marches*, media coverage*, hunger strikes, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Protection of Human Rights and the Rule of Law",
+          content: [
+            "Groups that Assist in Protecting Human Rights of Citizens e.g.",
+            "    (i) Civil Society Organizations such as CLO, CDHR, CRP, etc.",
+            "    (ii) Trade unions",
+            "    (iii) Students’ unions",
+            "    (iv) Ethnic associations",
+            "    (v) Legal Aids Council",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Consumer Rights and Responsibilities",
+          content: [
+            "(a) Universal Rights of a Consumer",
+            "(b) The Responsibilities of a Consumer",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Democracy",
+          content: [
+            "(a) Meaning of Democracy",
+            "(b) Features of Democracy",
+            "(c) Importance of Democracy",
+            "(d) Democratic Institutions and their Functions –",
+            "    (i) INEC",
+            "    (ii) Political parties",
+            "    (iii) Pressure groups",
+            "    (iv) The arms of government",
+          ],
+        },
+        {
+          week: 8,
+          topics: "The Pillars of Democracy",
+          content: [
+            "(a) Meaning of Pillars of Democracy",
+            "(b) Explanation of Pillars of Democracy",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Civic Education First Term Examination"],
+        },
+      ],
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Computer Ethics",
+          content: [
+            "(a) Introduction",
+            "(b) Meaning of Computer Ethics",
+            "(c) Responsible Use of the Computer",
+            "(d) Responsible Use of the Internet",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Computer Ethics",
+          content: ["(e) Areas of Misuse of Computers and the Internet"],
+        },
+        {
+          week: 4,
+          topics: "Computer Safety Measures",
+          content: [
+            "(a) Introduction",
+            "(b) Definition of Safety",
+            "(c) Safety Measures in Using the Computer",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Graphic Packages",
+          content: [
+            "(a) Meaning of Graphic Package",
+            "(b) Examples of Graphic Packages – Paint, Corel DRAW, Instant Artist, Harvard Graphics, Photoshop, Log graphic, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Graphic Packages",
+          content: [
+            "(c) Features of Graphic Packages – Tool bar, Menu bar, Printable area, Colour Palette, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Graphic Packages: The Paint",
+          content: [
+            "(a) The Paint Environment – Identification of Features of the Paint Environment",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Graphic Packages: The Paint",
+          content: ["(b) Loading Paint", "(c) Paint Tools and their Functions"],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Computer Studies  First Term Examination"],
         },
       ],
     },

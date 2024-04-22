@@ -8,41 +8,41 @@ import ReactLoading from "react-loading";
 const Jss2SecondTerm = () => {
   const data = [
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "JSS2",
       subject: "Agricultural Science",
     },
-    { term: "Second Term", class: "JSS2", subject: "Basic Science" },
-    { term: "Second Term", class: "JSS2", subject: "Basic Technology" },
+    { term: "SecondTerm", class: "JSS2", subject: "Basic Science" },
+    { term: "SecondTerm", class: "JSS2", subject: "Basic Technology" },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "JSS2",
       subject: "Business Studies",
     },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "JSS2",
       subject: "Christian Religious Studies",
     },
-    { term: "Second Term", class: "JSS2", subject: "Civic Education" },
-    { term: "Second Term", class: "JSS2", subject: "Computer Studies" },
+    { term: "SecondTerm", class: "JSS2", subject: "Civic Education" },
+    { term: "SecondTerm", class: "JSS2", subject: "Computer Studies" },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "JSS2",
       subject: "Cultural and Creative Arts",
     },
-    { term: "Second Term", class: "JSS2", subject: "English Studies" },
-    { term: "Second Term", class: "JSS2", subject: "Home Economics" },
-    { term: "Second Term", class: "JSS2", subject: "Mathematics" },
-    { term: "Second Term", class: "JSS2", subject: "Music" },
+    { term: "SecondTerm", class: "JSS2", subject: "English Studies" },
+    { term: "SecondTerm", class: "JSS2", subject: "Home Economics" },
+    { term: "SecondTerm", class: "JSS2", subject: "Mathematics" },
+    { term: "SecondTerm", class: "JSS2", subject: "Music" },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "JSS2",
       subject: "Physical and Health Education (PHE)",
     },
-    { term: "Second Term", class: "JSS2", subject: "Social Studies" },
+    { term: "SecondTerm", class: "JSS2", subject: "Social Studies" },
   ];
-  const selectedTerm = "Second Term";
+  const selectedTerm = "SecondTerm";
   const selectedClass = "JSS2";
 
   const [selectedSubject, setSelectedSubject] = useState(null);
