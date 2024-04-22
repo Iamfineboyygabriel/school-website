@@ -506,15 +506,7 @@ export const SchemeOfWorkData = {
           content: ["JSS1 Computer Studies First Term Examination"],
         },
       ],
-      // "Cultural and Creative Arts": [
-      //   {
-      //     week: 1,
-      //     topics: "Historical Development of Computers",
-      //     content: [
-      //       "(a) Early Counting Devices – Fingers, stones, sticks, pebbles, cowries, etc..",
-      //     ],
-      //   },
-      // ],
+
       "English Studies": [
         {
           week: 1,
@@ -1018,9 +1010,6 @@ export const SchemeOfWorkData = {
         },
       ],
     },
-  },
-
-  JSS1: {
     SecondTerm: {
       "Agricultural Science": [
         {
@@ -2110,9 +2099,6 @@ export const SchemeOfWorkData = {
         },
       ],
     },
-  },
-
-  JSS1: {
     ThirdTerm: {
       "Agricultural Science": [
         {
@@ -3139,7 +3125,7 @@ export const SchemeOfWorkData = {
       ],
     },
   },
-
+  //JSS2
   JSS2: {
     FirstTerm: {
       "Agricultural Science": [
@@ -3232,7 +3218,6 @@ export const SchemeOfWorkData = {
           content: ["JSS2 Agricultural Science First Term Examination"],
         },
       ],
-      "Basic Science": [],
       "Basic Technology": [
         {
           week: 1,
@@ -4276,9 +4261,6 @@ export const SchemeOfWorkData = {
         },
       ],
     },
-  },
-
-  JSS2: {
     SecondTerm: {
       "Agricultural Science": [
         {
@@ -4535,7 +4517,6 @@ export const SchemeOfWorkData = {
           content: ["JSS2 Basic Technology  First Term Examination"],
         },
       ],
-      "Business Studies": [],
       "Christian Religious Studies": [
         {
           week: 1,
@@ -5315,9 +5296,6 @@ export const SchemeOfWorkData = {
         },
       ],
     },
-  },
-
-  JSS2: {
     ThirdTerm: {
       "Agricultural Science": [
         {

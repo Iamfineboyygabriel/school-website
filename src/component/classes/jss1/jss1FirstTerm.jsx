@@ -95,7 +95,7 @@ const Jss1FirstTerm = () => {
     <StudentSideBar>
       <div className={styles.header}>
         <div>
-          <h2>Subject(s) For JSS1 First-Term</h2>
+          <h2>Subject(s) For JSS1 First Term</h2>
         </div>
       </div>
       <TableContent

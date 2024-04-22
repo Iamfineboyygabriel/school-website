@@ -6,7 +6,7 @@ import ReactLoading from "react-loading";
 import Modal from "../modal/Modal";
 import { SchemeOfWorkData } from "./SchemeOfWorkData.jsx";
 
-const SchemeOfWork = ({ selectedSubject, selectedTerm }) => {
+const SchemeOfWork = () => {
   const { classGrade, term, subject } = useParams();
   const [schemeOfWorkContent, setSchemeOfWorkContent] = useState(null);
   const [showModal, setShowModal] = useState(false);
@@ -15,23 +15,22 @@ const SchemeOfWork = ({ selectedSubject, selectedTerm }) => {
   const [isLoading, setIsLoading] = useState(false);
 
   const navigate = useNavigate();
+
   useEffect(() => {
     const fetchSchemeOfWorkData = () => {
       const classData = SchemeOfWorkData[classGrade];
       if (classData) {
-        const termData = classData[term.replace(/ /g, "")]; // Replace spaces with empty string
+        const termData = classData[term];
         if (termData) {
           const subjectData = termData[subject];
           if (subjectData) {
             console.log("Scheme of work data:", subjectData);
             setSchemeOfWorkContent(subjectData);
           } else {
-            console.error(
-              `Scheme of work data not found for ${classGrade}, ${term}, ${subject}`
-            );
+            console.error(`Scheme of work data not found for ${subject}`);
           }
         } else {
-          console.error(`Term data not found for ${classGrade}, ${term}`);
+          console.error(`Term data not found for ${term}`);
         }
       } else {
         console.error(`Class data not found for ${classGrade}`);
@@ -40,7 +39,6 @@ const SchemeOfWork = ({ selectedSubject, selectedTerm }) => {
 
     fetchSchemeOfWorkData();
   }, [classGrade, term, subject]);
-
   const handleOpenModal = (content) => {
     setSelectedContent(content);
     setShowModal(true);
@@ -176,8 +174,7 @@ const SchemeOfWork = ({ selectedSubject, selectedTerm }) => {
             <div className={styles.submit}>
               {isLoading ? (
                 <ReactLoading
-                  color="{
-                  color: #064e3b"
+                  color="#064e3b"
                   width={25}
                   height={25}
                   type="spin"
