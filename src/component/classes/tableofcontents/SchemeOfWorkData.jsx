@@ -5392,6 +5392,72 @@ export const SchemeOfWorkData = {
       ],
       "Basic Science": [
         {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Thermal Energy",
+          content: [
+            "Heat Transfer:",
+            "(i) Meaning of Heat Transfer",
+            "(ii) Conduction, Convection and Radiation",
+            "(iii) Good and Bad Conductors",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Thermal Energy",
+          content: [
+            "Application of Conduction, Convection and Radiation:",
+            "(i) Geothermal Plant",
+            "(ii) Application of Conduction",
+            "(iii) Application of Convection",
+            "(iv) Application of Radiation",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Crude Oil and Petrochemicals",
+          content: [
+            "(i) Meaning of Crude Oil",
+            "(ii) Meaning of Petrochemicals",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Crude Oil and Petrochemicals",
+          content: [
+            "Refining of Crude Oil and Petrochemicals:",
+            "(i) Meaning of Refining",
+            "(ii) Some Organic Compounds Produced from Petroleum",
+            "(iii) Meaning of Oil Refinery",
+            "(iv) Oil Refining and Fractional Distillation",
+            "(v) Products of Fractional Distillation of Crude Oil",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Crude Oil and Petrochemicals",
+          content: [
+            "Refining of Crude Oil and Petrochemicals:",
+            "(vi) Products of Fractional Distillation",
+            "(vii) Crude Oil Fractionates",
+            "(viii) Uses of Crude Oil",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Crude Oil and Petrochemicals",
+          content: [
+            "Petrochemicals and Uses:",
+            "(i) Meaning of Petrochemicals",
+            "(ii) Petrochemical Products and their Uses",
+            "(iii) Importance of Crude Oil and Petrochemicals",
+          ],
+        },
+        {
           week: 10,
           topics: "Revision",
           content: ["Revision of work done in First term"],
@@ -5402,6 +5468,724 @@ export const SchemeOfWorkData = {
           content: ["JSS2 Basic Science First Term Examination"],
         },
       ],
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "TOOLS, MACHINES AND PROCESSES: Belt and Chain Drives",
+          content: [
+            "(a) Examples of Belt Drives",
+            "(b) Application of Belt and Chain Drives",
+            "(c) Advantages and Disadvantages of Belt and Chain Drives",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "TOOLS, MACHINES AND PROCESSES: Air flow, Hydraulic and Pneumatic Machines",
+          content: [
+            "(a) Definition and Types of Air Flow",
+            "(b) Examples of Hydraulic and Pneumatic Drives",
+            "(c) Components of the Machines",
+            "(d) Operation and Uses of Hydraulic and Pneumatic",
+            "(e) Advantages of Pneumatics and Hydraulic Devices",
+          ],
+        },
+        {
+          week: 4,
+          topics: "TOOLS, MACHINES AND PROCESSES: Gear",
+          content: [
+            "(a) Types of Gear – Internal Gear, External Gear and Level Gear",
+            "(b) Uses of Gears – For power transmission, changing of direction, selecting speed, etc.",
+            "(c) Gear Ratio and Speed Rotation",
+            "(d) Function of Lubricants in Gears",
+          ],
+        },
+        {
+          week: 5,
+          topics: "PROCESSING OF MATERIALS: Wood",
+          content: [
+            "(a) Wood:",
+            "(i) Timber Growth, Felling, Conversion and Seasoning",
+            "(ii) Properties of Good Timber Preservatives",
+            "(iii) Common Timber Defects – Twist, bowing, cupping, etc.",
+            "(iv) Methods of Cutting Veneers, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "PROCESSING OF MATERIALS: Wood",
+          content: [
+            "(a) Wood:",
+            "(v) Types of Manufactured Boards – Plywood, chip board, block board, etc.",
+            "(vi) Timber – Treatment and Timber Preservation Methods",
+            "(vii) Importance of Timber Treatment",
+          ],
+        },
+        {
+          week: 7,
+          topics: "PROCESSING OF MATERIALS: Metals, Clay, Ceramics and Glass",
+          content: [
+            "(b) Metals:",
+            "(i) Production of Metals – Smelting, Casting, etc.",
+            "(ii) Carbon Properties of Steels",
+            "(iii) Types of Metal Alloys",
+            "(c) Clay, Ceramics and Glass:",
+            "(i) Methods of Making Clay",
+            "(ii) Stages in Producing Ceramics and Glass Materials – Shaping, Blowing, Firing, etc.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "PROCESSING OF MATERIALS: Plastics and Rubber",
+          content: [
+            "(d) Plastics and Rubber:",
+            "(i) Methods of Production of Plastics – Injection Molding, Calendaring, etc.",
+            "(ii) Methods of Producing Rubber Materials – Natural and Synthetic",
+            "(iii) Examples of Plastics and Rubber Products",
+            "(iv) Advantages and Disadvantages of the Different Processing Methods",
+            "(v) Uses of Plastic and Rubber",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 Basic TechnologyFirst Term Examination"],
+        },
+      ],
+      "Christian Religious Studies": [
+        [
+          {
+            week: 1,
+            topics: "Revision",
+            content: ["Revision of work done in second term"],
+          },
+          {
+            week: 2,
+            topics:
+              "The Passion of Jesus: The Triumphant Entry, The Last Supper",
+            content: [
+              "(a) The Triumphant Entry (Matt. 21:1-11; Mark 11:1-11; Luke 19:28-44)",
+              "(b) The Last Supper (Matt. 26:17-30)",
+            ],
+          },
+          {
+            week: 3,
+            topics:
+              "The Passion of Jesus: The Betrayal and Arrest, The Trial and Peter’s Denial",
+            content: [
+              "(c) The Betrayal and Arrest (Mark 14:43-52; Matt. 26:47-56)",
+              "(d) The Trial and Peter’s Denial (Matt. 26:47-68, 69-75)",
+            ],
+          },
+          {
+            week: 4,
+            topics:
+              "The Passion of Jesus: Instances which can Lead to a Christian’s Denial of Christ and His/Her Neighbour",
+            content: [],
+          },
+          {
+            week: 5,
+            topics:
+              "The Death and Burial of Jesus: The Crucifixion, The Death, The Burial",
+            content: [
+              "(a) The Crucifixion (Matt. 27:32-44)",
+              "(b) The Death (Matt. 27:45-56)",
+              "(c) The Burial (Matt. 27:57-61)",
+            ],
+          },
+          {
+            week: 6,
+            topics:
+              "The Resurrection and Appearance of Jesus: The Resurrection, The Significance of the Resurrection to Christians Today",
+            content: [
+              "(a) The Resurrection (Matt. 28:1-10; Mark 16:1-8; Luke 24:1-12)",
+              "(b) The Significance of the Resurrection to Christians Today",
+            ],
+          },
+          {
+            week: 7,
+            topics:
+              "The Resurrection and Appearance of Jesus: The Appearances of Jesus After the Resurrection",
+            content: [
+              "(c) (i) The Appearances of Jesus After the Resurrection (Matt. 28:16-20; Mark 16:9-18; John 21:1-14 and Luke 24:13-49, 50-53)",
+              "(ii) Appearance in Matthew’s Gospel (Matt 28:16-20)",
+              "(iii) Appearance in Mark’s Gospel (Mark 16:9-18)",
+              "(iv) Appearance in Luke’s Gospel (Luke 24:1-49)",
+              "(v) Appearance in John’s Gospel (John 21:1-1, 20:19-29)",
+            ],
+          },
+          {
+            week: 8,
+            topics:
+              "The Resurrection and Appearance of Jesus: The Roles of Women in the Ministry of Jesus",
+            content: [],
+          },
+        ],
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Christian Religious Studies First Term Examination"],
+        },
+      ],
+      "Civic Education": [
+        [
+          {
+            week: 1,
+            topics: "Revision",
+            content: ["Revision of work done in the previous term(s)"],
+          },
+          {
+            week: 2,
+            topics:
+              "Election and Voter's Responsibilities: The Concepts of Election, Voter and Voting, Differences between Various Types of Election",
+            content: [
+              "(a) The Concepts of Election, Voter and Voting",
+              "(b) Differences between Various Types of Election",
+            ],
+          },
+          {
+            week: 3,
+            topics:
+              "Election and Voters' Responsibilities: Basic Qualifications for Election, Responsibilities of a Voter",
+            content: [
+              "(c) Basic Qualifications for Election",
+              "(d) Responsibilities of a Voter",
+            ],
+          },
+          {
+            week: 4,
+            topics:
+              "Election and Voters' Responsibilities: The Procedure for Voting, Importance of Election",
+            content: [
+              "(e) The Procedure for Voting",
+              "(f) Importance of Election",
+            ],
+          },
+          {
+            week: 5,
+            topics:
+              "Electoral Malpractice: Meaning of Electoral Malpractice, Forms of Electoral Malpractices, Causes of Electoral Malpractices",
+            content: [
+              "(a) Meaning of Electoral Malpractice",
+              "(b) Forms of Electoral Malpractices – Fake ballot papers, manipulation of votes, artificial scarcity of electoral materials, underage voting, thuggery, financial inducement and other corrupt practices, fake manifestoes",
+              "(c) Causes of Electoral Malpractices",
+            ],
+          },
+          {
+            week: 6,
+            topics:
+              "Electoral Malpractice: Consequences of Electoral Malpractices, Preventing Electoral Malpractices",
+            content: [
+              "(d) Consequences of Electoral Malpractices",
+              "(e) Preventing Electoral Malpractices",
+            ],
+          },
+          {
+            week: 7,
+            topics:
+              "Observing and Reporting Common Crimes: Different Ways of Observing and Reporting Common Crimes, Types of Report Writing, Appropriate Response to Any Crime Committed",
+            content: [
+              "(a) Different Ways of Observing and Reporting Common Crimes",
+              "(b) Types of Report Writing",
+              "(c) Appropriate Response to Any Crime Committed",
+            ],
+          },
+          {
+            week: 8,
+            topics:
+              "Emergency Management: Meaning of Emergency Management, Types of Emergency Management, Appropriate Responses to Emergency Management, Appropriate Actions to Emergency Management",
+            content: [
+              "(a) Meaning of Emergency Management",
+              "(b) Types of Emergency Management",
+              "(c) Appropriate Responses to Emergency Management",
+              "(d) Appropriate Actions to Emergency Management",
+            ],
+          },
+        ],
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Civic EducationFirst Term Examination"],
+        },
+      ],
+      "Computer Studies": [
+        [
+          {
+            week: 1,
+            topics: "Revision",
+            content: ["Revision of work done in the previous term"],
+          },
+          {
+            week: 2,
+            topics:
+              "ICT as a Transformational Tool: Meaning of ICT, Examples of ICT Gadgets",
+            content: ["(a) Meaning of ICT", "(b) Examples of ICT Gadgets"],
+          },
+          {
+            week: 3,
+            topics:
+              "ICT as a Transformational Tool: Benefits of ICT, Disadvantages of ICT",
+            content: ["(c) Benefits of ICT", "(d) Disadvantages of ICT"],
+          },
+          {
+            week: 4,
+            topics:
+              "ICT Gadgets: The GSM, Fax Machine, Telephone, etc., The Differences between GSM, Fax Machine and Telephone",
+            content: [
+              "(a) The GSM, Fax Machine, Telephone, etc.",
+              "(b) The Differences between GSM, Fax Machine and Telephone",
+              "(c) Creating and Sending Messages Using GSM and Fax",
+              "(d) Storing and Retrieving Information on a GSM Handset",
+            ],
+          },
+          {
+            week: 5,
+            topics:
+              "The Internet: Definitions of Internet, E-mail Address, World Wide Web, Internet Browsers, Creating an E-mail Account, Samples of E-mail Addresses, Chatting on the Internet",
+            content: [
+              "(a) Definitions of Internet, E-mail Address, World Wide Web",
+              "(b) Internet Browsers",
+              "(c) Creating an E-mail Account",
+              "(d) Samples of E-mail Addresses",
+              "(e) Chatting on the Internet",
+            ],
+          },
+          {
+            week: 6,
+            topics:
+              "The Internet: Benefits of the Internet, Abuses of the Internet",
+            content: [
+              "(f) Benefits of the Internet",
+              "(g) Abuses of the Internet",
+            ],
+          },
+          {
+            week: 7,
+            topics: "The Internet: Internet Environment, Uses of the Internet",
+            content: [
+              "(a) Internet Environment: Recognizing and Naming the Icons in the Internet Environment",
+              "(b) Uses of the Internet",
+            ],
+          },
+          {
+            week: 8,
+            topics:
+              "The Internet: Network Groups, Meaning of Network Groups, Meaning of Mailing Lists, Types of Mailing Lists, Newsgroups",
+            content: [
+              "(a) Meaning of Network Groups",
+              "(b) Meaning of Mailing Lists",
+              "(c) Types of Mailing Lists",
+              "(d) Newsgroups",
+            ],
+          },
+        ],
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Computer Studies First Term Examination"],
+        },
+      ],
+      "English Studies": [
+        [
+          {
+            week: 1,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Consonant Clusters",
+              "(b) Structure: Adjectives (Comparative and Superlative)",
+              "(c) Comprehension/Vocabulary Development: Politics; Reading to Understand the Writer’s Purpose",
+              "(d) Composition: My New Year Resolution",
+              "(e) Literature: Introduction to Prose (Features of Prose)",
+            ],
+          },
+          {
+            week: 2,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Summary, Composition, Literature",
+            content: [
+              "(a) Speech Work: Diphthongs",
+              "(b) Structure: Tenses (Present, Past, Future)",
+              "(c) Comprehension/Vocabulary Development: Politics; Reading Speech",
+              "(d) Summary: Introduction to Summary Writing",
+              "(e) Composition: Argumentative Essay (Arguing a Position)",
+              "(f) Literature: Introduction to Drama (Elements of Drama)",
+            ],
+          },
+          {
+            week: 3,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Triphthongs",
+              "(b) Structure: Adverbials: Types of Adverbials (Cause and Reason, Purpose, Condition, etc.)",
+              "(c) Comprehension/Vocabulary Development: Government; Reading to Understand the Writer’s Purpose",
+              "(d) Composition: Argumentative Essay – (Guided Composition) “Civilian Government is Far Better than Military Government”",
+              "(e) Literature: Plot Structure in the Text",
+            ],
+          },
+          {
+            week: 4,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Consonant Sounds /h/, /w/ and /j/",
+              "(b) Structure: Punctuation Marks (Full Stop)",
+              "(c) Comprehension/Vocabulary Development: The Postal Service; Reading to Understand the Writer’s Purpose",
+              "(d) Composition: Formal Letters – (Letter to the School Principal)",
+              "(e) Literature: Characters and Characterization in the Recommended Text",
+            ],
+          },
+          {
+            week: 5,
+            topics:
+              "Speech Work, Structure, Summary/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Consonant Sounds /p/, /b/, /t/, /d/",
+              "(b) Structure: Punctuation Marks (The Comma)",
+              "(c) Summary/Vocabulary Development:",
+              "(d) Composition: Narrative Essay – (Guided Composition) “My Last Birthday”",
+              "(e) Literature: Poetry – Structure, Themes and Literary Devices in the Recommended Poem",
+            ],
+          },
+          {
+            week: 6,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Consonant Sounds /k/ and /g/",
+              "(b) Structure: Types of Sentences (Functional) Questions, Statements, and Commands",
+              "(c) Comprehension/Vocabulary Development: Mining; Reading to Identify the Meaning of Words in the Context",
+              "(d) Composition: Informal Letters – (Guided Composition)",
+              "(e) Literature: Poetry – Structure, Themes and Literary Devices in the Recommended Poem",
+            ],
+          },
+          {
+            week: 7,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/",
+              "(b) Structure: Direct Speech",
+              "(c) Comprehension/Vocabulary Development: The Media – The Press; Reading for Summary",
+              "(d) Composition: Oral – Expository Essay ‘My Favourable Meal’ (Class Discussion)",
+              "(e) Literature: Setting of the Recommended Text",
+            ],
+          },
+          {
+            week: 8,
+            topics:
+              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+            content: [
+              "(a) Speech Work: Intonation Patterns",
+              "(b) Structure: Indirect/Direct Speeches",
+              "(c) Comprehension/Vocabulary Development: The Media – Radio and Television; Reading for Summary",
+              "(d) Composition: Expository Essay – (Guided Writing) ‘My Favourable Meal’",
+              "(e) Literature: Themes of the Recommended Text",
+            ],
+          },
+          {
+            week: 9,
+            topics: "Speech Work, Structure, Composition, Literature",
+            content: [
+              "(a) Speech Work: The Rising Tone",
+              "(b) Structure: Adverbials (Comparative and Superlative)",
+              "(c) Composition: Story Writing – (Structure and Style)",
+              "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem",
+            ],
+          },
+        ],
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2 English Studies First Term Examination"],
+        },
+      ],
+      "Home Economics": [
+        [
+          {
+            week: 1,
+            topics: "Revision",
+            content: ["Revision of work done in the previous term"],
+          },
+          {
+            week: 2,
+            topics: "Food Purchasing, Processing, Preservation and Safety",
+            content: [
+              "(a) Perishable and Non-perishable Foods",
+              "(b) Food Storage Facilities",
+            ],
+          },
+          {
+            week: 3,
+            topics: "Food Purchasing, Processing, Preservation and Safety",
+            content: [
+              "(a) Risk Factors in Purchasing",
+              "(b) Precautions to Ensure Safety in Food Purchase",
+            ],
+          },
+          {
+            week: 4,
+            topics: "Food Purchasing, Processing, Preservation and Safety",
+            content: [
+              "Food Processing Methods E.g. (i) milling (ii) fermentation, etc. (Effects of inappropriate processing should be discussed)",
+            ],
+          },
+          {
+            week: 5,
+            topics: "Food Purchasing, Processing, Preservation and Safety",
+            content: [
+              "(a) Food Preservation Methods",
+              "(b) Guidelines to Keep Food Safe",
+            ],
+          },
+          {
+            week: 6,
+            topics: "Food Purchasing, Processing, Preservation and Safety",
+            content: [
+              "Practicals on Food Processing E.g. cassava into garri, corn into paste (pap), wheat mill into flour",
+            ],
+          },
+          {
+            week: 7,
+            topics: "Food Purchasing, Processing, Preservation and Safety",
+            content: [
+              "Practicals on Food Processing E.g. fermentation of milk (yoghurt)",
+            ],
+          },
+          {
+            week: 8,
+            topics: "Consumer Challenges and Rights",
+            content: [
+              "(a) Definition of Consumer",
+              "(b) Rights of the Consumer",
+              "(c) Challenges of the Consumer",
+            ],
+          },
+        ],
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS2 Home Economics First Term Examination"],
+        },
+      ],
+      Mathematics: [
+        [
+          {
+            week: 1,
+            topics: "Revision",
+            content: ["Revision of work done in second term"],
+          },
+          {
+            week: 2,
+            topics: "Angles in a Polygon",
+            content: [
+              "(a) Types of Polygons: Convex, Concave, Regular, Irregular",
+              "(b) Sum of Interior Angles in a Polygon (Number of Triangles in a Polygon)",
+              "(c) Sum of Exterior Angles of a Polygon",
+            ],
+          },
+          {
+            week: 3,
+            topics: "Angles of Elevation and Depression",
+            content: [
+              "(a) Horizontal and Vertical Planes",
+              "(b) Angles of Elevation and Depression",
+              "(c) Relationship between Angles of Elevation and Depression",
+              "(d) Scale Drawing",
+              "(e) Pythagoras",
+            ],
+          },
+          {
+            week: 4,
+            topics: "Bearing and Distances",
+            content: [
+              "(a) The Compass Directions (Major and Minor)",
+              "(b) Types of Bearing: Compass, Acute-angle, Three Figure",
+              "(c) Converting Acute-angle Bearing to Three Figure Bearing and Vice versa",
+              "(d) Reciprocal/Back Bearing",
+              "(e) Scale Drawing to Find Bearing and Distances",
+            ],
+          },
+          {
+            week: 5,
+            topics: "Use of ICT in Mathematics",
+            content: [
+              "(a) Using Computers to Solve Simple Mathematical Calculations (Using EXCEL)",
+              "(b) Translation of Word Problems into Mathematical Expressions",
+              "(c) Flow Charts",
+            ],
+          },
+          {
+            week: 6,
+            topics: "Computer Application",
+            content: [
+              "(a) Use of Punch Cards to Store Information",
+              "(b) Writing Familiar Words in Coded Form",
+            ],
+          },
+          {
+            week: 7,
+            topics: "Construction",
+            content: [
+              "(a) Construction of Special Angles (Revision)",
+              "(b) Constructing Triangles: (i) 2 Sides and Included Angles (ii) Two Angles and a Side between Them (iii) All the 3 Sides (c) Bisecting Angles: Bisecting Angle 90, 60 and Bisecting Any Given Angles",
+            ],
+          },
+          {
+            week: 8,
+            topics: "Data Presentation",
+            content: [
+              "(a) Frequency Tables: (Ungrouped and Grouped)",
+              "(b) Construction and Interpretation of Pie Charts",
+            ],
+          },
+          {
+            week: 9,
+            topics: "Probability",
+            content: [
+              "(a) Definition of Terms in Probability",
+              "(b) Experimental Probability",
+              "(c) Theoretical Probability",
+            ],
+          },
+        ],
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS2   Mathematics First Term Examination"],
+        },
+      ],
+      Music: [
+        [
+          {
+            week: 1,
+            topics: "Revision",
+            content: ["Revision of work done in the previous term(s)"],
+          },
+          {
+            week: 2,
+            topics: "Transposition",
+            content: [
+              "(i) Definition of Transposition",
+              "(ii) Types of Transposition – Clef and Octave Transpositions only",
+            ],
+          },
+          {
+            week: 3,
+            topics: "History of Music II",
+            content: [
+              "(a) Musical Periods: Baroque, Classical, Romantic and Modern Periods",
+              "(b) Major Composers of These Periods",
+            ],
+          },
+          {
+            week: 4,
+            topics: "History of Music III",
+            content: ["Music before the 17th Century (Renaissance Period)"],
+          },
+          {
+            week: 5,
+            topics: "Cadences",
+            content: [
+              "(i) Definition of Cadences",
+              "(ii) Imperfect, Perfect, Plagal and Interrupted Cadences",
+            ],
+          },
+          {
+            week: 6,
+            topics: "Minor Scales",
+            content: ["Natural, Harmonic and Melodic"],
+          },
+          {
+            week: 7,
+            topics: "Major/Minor Keys Relationship",
+            content: ["Sharp and Flat Keys"],
+          },
+          {
+            week: 8,
+            topics: "History of Music IV",
+            content: [
+              "(i) Baroque, Classical, and Romantic Periods",
+              "(ii) Some Major Composers",
+            ],
+          },
+          {
+            week: 9,
+            topics: "Four-part Harmony",
+            content: ["Four-part Harmony"],
+          },
+          {
+            week: 10,
+            topics: "African Music",
+            content: [
+              "(i) Characteristics of African Music",
+              "(ii) Forms of African Music (Vocal Forms)",
+            ],
+          },
+          {
+            week: 11,
+            topics: "Musical Terms",
+            content: ["Musical Signs and Abbreviations"],
+          },
+          {
+            week: 12,
+            topics: "Revision",
+            content: ["Revision of work done in Third Term"],
+          },
+        ],
+        {
+          week: 12,
+          topics: "Revision",
+          content: ["Revision of work done in First term"],
+        },
+        {
+          week: 13,
+          topics: "Examination",
+          content: ["JSS2 Music First Term Examination"],
+        },
+      ],
+      
     },
   },
 };
