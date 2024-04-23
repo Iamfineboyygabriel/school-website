@@ -4789,30 +4789,31 @@ export const SchemeOfWorkData = {
         },
         {
           week: 6,
-          topics: "",
-          content: [""],
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Consonant Sounds /k/ and /g/","(b) Structure: Types of Sentences","(Functional) Questions, Statements, and Commands","(c) Comprehension/ Vocabulary Development: Mining Reading to Identify the Meaning of Words in the Context ","(d) Composition: Informal Letters – (Guided Composition)","(e) Literature: Poetry","– Structure, Themes and Literary Devices in the Recommended Poem"],
         },
         {
-          week: 1,
-          topics: "",
-          content: [""],
+          week: 7,
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/","(b) Structure: Direct Speech",
+         " c) Comprehension/ Vocabulary Development: The Media – The Press Reading for Summary", "(d) Composition: Oral – Expository Essay ‘My Favourable Meal’ (Class Discussion)","(e) Literature: Setting of the Recommended Text"],
         },
         {
-          week: 1,
-          topics: "",
-          content: [""],
+          week: 8,
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Intonation Patterns",
+     "     (b) Structure: Indirect/Direct Speeches",
+         " (c) Comprehension/ Vocabulary Development: The Media – Radio and Television; Reading for Summary",
+          "(d) Composition:  Expository Essay – (Guided Writing)‘My Favourable Meal’",
+          "(e) Literature: Themes of the Recommended Text"],
         },
         {
-          week: 1,
-          topics: "",
-          content: [""],
+          week: 9,
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: The Rising Tone",
+         " (b) Structure: Adverbials(Comparative and Superlative)","(c) Composition: Story Writing – (Structure and Style)",
+          "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem"]
         },
-        {
-          week: 1,
-          topics: "",
-          content: [""],
-        },
-        
         {
           week: 10,
           topics: "Examination",
