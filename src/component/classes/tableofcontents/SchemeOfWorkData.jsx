@@ -369,7 +369,7 @@ export const SchemeOfWorkData = {
       ],
       "Civic Education": [
         {
-          week: 2,
+          week: 1,
           topics: "National values.",
           content: [
             "(a)Meaning of values. e.g Likes and Dislikes(ii)Levels of manifestation of values-(i)Individual. (ii)Society.",
@@ -1095,7 +1095,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Science": [
         {
-          week: 2,
+          week: 1,
           topics: "Revision of last term's work",
           content: ["Revision of work done in the previous term/session"],
         },
@@ -1181,7 +1181,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Technology": [
         {
-          week: 2,
+          week: 1,
           topics: "Revision of last term's work",
           content: ["Revision of work done in the previous term"],
         },
@@ -1252,7 +1252,7 @@ export const SchemeOfWorkData = {
       ],
       "Business Studies": [
         {
-          week: 2,
+          week: 1,
           topics: "Revision of last term's work",
           content: ["Revision of work done in the previous term"],
         },
@@ -1365,7 +1365,7 @@ export const SchemeOfWorkData = {
       ],
       "Christian Religious Studies": [
         {
-          week: 2,
+          week: 1,
           topics: "Revision of First Term work",
           content: ["Revision of work done in the previous term"],
         },
@@ -4764,114 +4764,59 @@ export const SchemeOfWorkData = {
       "English Studies": [
         {
           week: 1,
-          topics: {
-            "Speech Work": "Consonant Clusters",
-            Structure: "Adjectives (Comparative and Superlative)",
-            "Comprehension/Vocabulary Development": "Politics",
-            Composition: "My New Year Resolution",
-            Literature: "Introduction to Prose (Features of Prose)",
-          },
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Consonant Clusters","(b) Structure: Adjectives (Comparative and Superlative)","(c) Comprehension/Vocabulary Development: Politics Reading to Understand the Writer’s Purpose","(d) Composition: My New Year Resolution","(e) Literature: Introduction to Prose (Features of Prose)"],
         },
         {
           week: 2,
-          topics: {
-            "Speech Work": "Diphthongs",
-            Structure: "Tenses (Present, Past, Future)",
-            "Comprehension/Vocabulary Development": "Politics",
-            Summary: "Introduction to Summary Writing",
-            Composition: "Argumentative Essay (Arguing a Position)",
-            Literature: "Introduction to Drama (Elements of Drama)",
-          },
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Diphthongs","(b) Structure: Tenses (Present, Past, Future)","(c) Comprehension/ Vocabulary Development: Politics Reading Speech","(d) Summary: Introduction to Summary Writing","(e) Composition: Argumentative Essay (Arguing a Position)","(e) Literature: Introduction to Drama","(Elements of Drama)"],
         },
         {
           week: 3,
-          topics: {
-            "Speech Work": "Triphthongs",
-            Structure:
-              "Adverbials (Cause and Reason, Purpose, Condition, etc.)",
-            "Comprehension/Vocabulary Development": "Government",
-            Composition:
-              "Argumentative Essay (Guided Composition) 'Civilian Government is Far Better than Military Government'",
-            Literature: "Plot Structure in the Text",
-          },
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Triphthongs","(b) Structure: Adverbials:Types of Adverbials (Cause and Reason, Purpose, Condition, etc.)","(c) Comprehension/Vocabulary Development: Government","Reading to Understand the Writer’s Purpose","(d) Composition: Argumentative Essay – (Guided Composition) “Civilian Government is Far Better than MilitaryGovernment","(e) Literature: Plot Structure in the Text"],
         },
         {
           week: 4,
-          topics: {
-            "Speech Work": "Consonant Sounds /h/, /w/ and /j/",
-            Structure: "Punctuation Marks (Full Stop)",
-            "Comprehension/Vocabulary Development": "The Postal Service",
-            Composition: "Formal Letters (Letter to the School Principal)",
-            Literature:
-              "Characters and Characterization in the Recommended Text",
-          },
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Consonant Sounds /h/, /w/ and /j/","(b) Structure: Punctuation Marks (Full Stop) ","(c) Comprehension/ Vocabulary Development: The Postal Service; Reading to Understand the Writer’s Purpose","(d) Composition: Formal Letters","– (Letter to the School Principal)","(e) Literature: Characters and Characterization in the Recommended Text"],
         },
         {
           week: 5,
-          topics: {
-            "Speech Work": "Consonant Sounds /p/, /b/, /t/, /d/",
-            Structure: "Punctuation Marks (The Comma)",
-            Composition:
-              "Narrative Essay (Guided Composition) 'My Last Birthday'",
-            Literature:
-              "Poetry (Structure, Themes and Literary Devices in the Recommended Poem)",
-          },
+          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: ["(a) Speech Work: Consonant Sounds /p/, /b/, /t/, /d/","(b) Structure:  Punctuation Marks (The Comma)","(c) Summary/Vocabulary Development:","(d) Composition: Narrative Essay (Guided Composition) My Last Birthday","(e) Literature: Poetry– Structure, Themes and Literary Devices in the Recommended Poem"],
         },
         {
           week: 6,
-          topics: {
-            "Speech Work": "Consonant Sounds /k/ and /g/",
-            Structure:
-              "Types of Sentences (Functional) Questions, Statements, and Commands",
-            "Comprehension/Vocabulary Development": "Mining",
-            Composition: "Informal Letters (Guided Composition)",
-            Literature:
-              "Poetry (Structure, Themes and Literary Devices in the Recommended Poem)",
-          },
+          topics: "",
+          content: [""],
         },
         {
-          week: 7,
-          topics: {
-            "Speech Work":
-              "Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/",
-            Structure: "Direct Speech",
-            "Comprehension/Vocabulary Development": "The Media – The Press",
-            Composition:
-              "Oral Expository Essay 'My Favourable Meal' (Class Discussion)",
-            Literature: "Setting of the Recommended Text",
-          },
+          week: 1,
+          topics: "",
+          content: [""],
         },
         {
-          week: 8,
-          topics: {
-            "Speech Work": "Intonation Patterns",
-            Structure: "Indirect/Direct Speeches",
-            "Comprehension/Vocabulary Development":
-              "The Media – Radio and Television",
-            Composition:
-              "Expository Essay (Guided Writing) 'My Favourable Meal'",
-            Literature: "Themes of the Recommended Text",
-          },
+          week: 1,
+          topics: "",
+          content: [""],
         },
         {
-          week: 9,
-          topics: {
-            "Speech Work": "The Rising Tone",
-            Structure: "Adverbials (Comparative and Superlative)",
-            Composition: "Story Writing (Structure and Style)",
-            Literature:
-              "Structure, Themes and Literary Devices in Recommended Text/Poem",
-          },
+          week: 1,
+          topics: "",
+          content: [""],
         },
+        {
+          week: 1,
+          topics: "",
+          content: [""],
+        },
+        
         {
           week: 10,
-          topics: "Revision",
-          content: ["Revision of work done in First term"],
-        },
-        {
-          week: 11,
           topics: "Examination",
-          content: ["JSS2 English Studies  First Term Examination"],
+          content: ["JSS2 English Studies Second Term Examination"],
         },
       ],
       "Home Economics": [
