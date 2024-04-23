@@ -3,7 +3,7 @@ export const SchemeOfWorkData = {
     FirstTerm: {
       "Agricultural Science": [
         {
-          week: 1,
+          week: 2,
           topics: "Importance and Forms of Agriculture",
           content: [
             "Importance anf Forms of Agriculture, Society and the Nation",
@@ -79,7 +79,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Science": [
         {
-          week: 1,
+          week: 2,
           topics: "Introduction to Basic science.",
           content:
             "(i)Definition of science. (ii)Methods of Science study.(iii)Branches of science.(iv)Usefulness of science.",
@@ -142,7 +142,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Technology": [
         {
-          week: 1,
+          week: 2,
           topics: "Understanding technology:Introduction to Technology.",
           content: [
             "(i)Meaning and definition of technology",
@@ -232,7 +232,7 @@ export const SchemeOfWorkData = {
       ],
       "Business Studies": [
         {
-          week: 1,
+          week: 2,
           topics: "Introduction to Business Studies.",
           content: [
             "(i)Meaning and scope of business studies. (ii)Elements of Integrated Business Studies E dot G's account, Commerce Office Practice etc.(iii)Importance of business studies.(iv)Components of business studies-Bookkeeping, keyboarding(v)Career opportunities in business studies.",
@@ -310,7 +310,7 @@ export const SchemeOfWorkData = {
       ],
       "Christian Religious Studies": [
         {
-          week: 1,
+          week: 2,
           topics: " Who is God?",
           content: [
             "(i)Who is God?(ii)Attributes of God.(iii)Names of God in Nigerian languages.",
@@ -369,7 +369,7 @@ export const SchemeOfWorkData = {
       ],
       "Civic Education": [
         {
-          week: 1,
+          week: 2,
           topics: "National values.",
           content: [
             "(a)Meaning of values. e.g Likes and Dislikes(ii)Levels of manifestation of values-(i)Individual. (ii)Society.",
@@ -437,7 +437,7 @@ export const SchemeOfWorkData = {
       ],
       "Computer Studies": [
         {
-          week: 1,
+          week: 2,
           topics: "Historical Development of Computers",
           content: [
             "(a) Early Counting Devices – Fingers, stones, sticks, pebbles, cowries, etc..",
@@ -509,7 +509,7 @@ export const SchemeOfWorkData = {
 
       "English Studies": [
         {
-          week: 1,
+          week: 2,
           topics:
             "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
           content: [
@@ -616,7 +616,7 @@ export const SchemeOfWorkData = {
       ],
       "Home Economics": [
         {
-          week: 1,
+          week: 2,
           topics: "Introduction to Home Economics",
           content: [
             "(a) Meaning of Home Economics",
@@ -686,7 +686,7 @@ export const SchemeOfWorkData = {
       ],
       Mathematics: [
         {
-          week: 1,
+          week: 2,
           topics: "Whole Numbers",
           content: [
             "(a)Development of Number System: (Roman numerals, counting boards, abacus, etc.)",
@@ -771,7 +771,7 @@ export const SchemeOfWorkData = {
       ],
       Music: [
         {
-          week: 1,
+          week: 2,
           topics: "Whole Numbers",
           content: [
             "(a)Development of Number System: (Roman numerals, counting boards, abacus, etc.)",
@@ -861,7 +861,7 @@ export const SchemeOfWorkData = {
       ],
       "Physical and Health Education (PHE)": [
         {
-          week: 1,
+          week: 2,
           topics: "Introduction to Physical and Health Education",
           content: [
             "(a) Physical Education (i) Meaning of Physical Education (ii) Scope/Branches of Physical Education (iii) Objectives of Physical Education ",
@@ -937,7 +937,7 @@ export const SchemeOfWorkData = {
       ],
       "Social Studies": [
         {
-          week: 1,
+          week: 2,
           topics: "Meaning and Scope of Social Studies Education",
           content: [
             "(a) Meaning of Social Studies",
@@ -1013,7 +1013,7 @@ export const SchemeOfWorkData = {
     SecondTerm: {
       "Agricultural Science": [
         {
-          week: 1,
+          week: 2,
           topics: "Revision of last term's work",
           content: [
             "Revision of the lessons and assessments of the previous term",
@@ -1095,7 +1095,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Science": [
         {
-          week: 1,
+          week: 2,
           topics: "Revision of last term's work",
           content: ["Revision of work done in the previous term/session"],
         },
@@ -1181,7 +1181,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Technology": [
         {
-          week: 1,
+          week: 2,
           topics: "Revision of last term's work",
           content: ["Revision of work done in the previous term"],
         },
@@ -1252,7 +1252,7 @@ export const SchemeOfWorkData = {
       ],
       "Business Studies": [
         {
-          week: 1,
+          week: 2,
           topics: "Revision of last term's work",
           content: ["Revision of work done in the previous term"],
         },
@@ -1365,7 +1365,7 @@ export const SchemeOfWorkData = {
       ],
       "Christian Religious Studies": [
         {
-          week: 1,
+          week: 2,
           topics: "Revision of First Term work",
           content: ["Revision of work done in the previous term"],
         },
@@ -1374,23 +1374,23 @@ export const SchemeOfWorkData = {
           topics: "Call to Repentance",
           content: [
             "(a) The Meaning of Repentance",
-            "(b) King David Obeys God’s Call to Repentance (2 Sam. 12:7-13, Ps. 51:1-19)",
-            "(c) Zacchaeus Responds to the Call to Repentance (Luke 19:1-9)",
+            "(b) King David Obeys God’s Call to Repentance (2 Sam. 12:7-13, Ps. 51:2-19)",
+            "(c) Zacchaeus Responds to the Call to Repentance (Luke 19:2-9)",
           ],
         },
         {
           week: 3,
           topics: "Call to Repentance",
           content: [
-            "(d) The People of Nineveh Repent of their Sins (Jonah 3:1-10)",
-            "(e) John the Baptist Calls for Repentance (Luke 3:1-14)",
+            "(d) The People of Nineveh Repent of their Sins (Jonah 3:2-10)",
+            "(e) John the Baptist Calls for Repentance (Luke 3:2-14)",
           ],
         },
         {
           week: 4,
           topics: "Call to Repentance",
           content: [
-            "(e) Consequences of Lack of Repentance (1 Sam. 3:18, 4:10-21)",
+            "(e) Consequences of Lack of Repentance (2 Sam. 3:18, 4:10-21)",
           ],
         },
         {
@@ -1399,7 +1399,7 @@ export const SchemeOfWorkData = {
           content: [
             "(a) Meaning of Obedience",
             "(b) The Call of Abraham",
-            "(c) Blessings from Obeying God’s Call (Gen. 12:1-9)",
+            "(c) Blessings from Obeying God’s Call (Gen. 12:2-9)",
           ],
         },
         {
@@ -9291,11 +9291,340 @@ FirstTerm:{
 "      Factors Affecting Supply",
 "      Determination of Equilibrium Price and Quantity"],
     },
+    {
+      week: 7,
+      topics: ["PRODUCTION"],
+      content: ["Meaning of Production",
+"      Types of Production",
+    "  Stages of Production",
+      "Factors Affecting Production"],
+    },
+    {
+      week: 8,
+      topics: ["DIVISION OF LABOUR AND SPECIALIZATION"],
+      content: ["The Origin of Modern Division of Labour",
+"      Definition of Division of Labour",
+"      Specialization",
+     " Limitations or Factors that Encourage or Discourage Division of Labour"],
+    },
+    {
+      week: 9,
+      topics: ["SCALE OF PRODUCTION/ECONOMIES OF SCALE"],
+      content: ["Meaning of of Economies of Scale",
+"      Types of Economies of Scale",
+ "     Internal Economies and Internal Diseconomies",
+   "External Economies and External Diseconomies"],
+    },
 
     {
-      week: 2,
+      week: 10,
       topics: "Examination",
       content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
+    },
+  ],
+  "English Language":[
+    {
+      week: 1,
+      topics: ["ntroduction to Speech Sound (Organs of Speech)"],
+      content: ["Speech Work: Introduction to Speech Sound (Organs of Speech)",
+"      Comprehension: Argungu Cultural Festival",
+ "     Vocabulary Development: (Registers on Family)",
+"      Structure: Nouns – (Introduction – Definition and Kinds of Nouns)",
+      "Writing Skills: Narrative – Introduction to Narrative Essay"],
+    },
+    {
+      week: 2,
+      topics: ["Monophthongs"],
+      content: ["Speech Work: Monophthongs (Introduction)",
+"      Comprehension/Summary: (Introduction to Summary)",
+"      Vocabulary Development: (Words Associated with Agriculture)",
+"      Structure: Nouns – Countable and Uncountable Nouns (Regular and Irregular Plurals)",
+      "Writing Skills: Narrative – Linking Paragraphs"],
+    },
+    {
+      week: 3,
+      topics: ["Vowels /i/,/i:/; /æ/,/a:/"],
+      content: ["Speech Work: Vowel Sounds /i/, /i:/, /æ/ and /a:/",
+"      Comprehension: Mac",
+"      Vocabulary Development: Words Associated with Agriculture (Fishing)",
+ "  Structure: Nouns – Nouns and Determiners/Articles",
+   "   Writing Skills: Narrative (Writing Introductory Paragraphs)"],
+    },
+       {
+      week: 4,
+      topics: ["Vowels /ͻ/ and /ͻ:/; /u/ and /u:/"],
+      content: ["Speech Work: Vowel Sounds /ͻ/, /ͻ:/, /u/ and /u:/",
+"      Comprehension/Summary: Identifying the Topic Sentence in a Passage",
+"      Vocabulary Development: Words Associated with Animal Husbandry (Livestock)",
+"      Structure: Noun – The Structure of Noun Phrase",
+      "Writing Skills: Letter Writing – Informal Letters (Introduction)"],
+    },
+    {
+      week: 5,
+      topics: [" Vowel sounds: /е/, /ʌ/, /ɜ:/ and /ə/"],
+      content: ["Speech Work: Vowel sounds /е/, /ʌ/, /ɜ:/, /ə/",
+"      Comprehension: Sickle Cell Disease",
+  "    Vocabulary Development: Words Associated with Animal Husbandry (Poultry)",
+"      Structure: Phrase – Verb Phrases",
+"      Writing Skills: Letter Writing – Informal Letter (Formats)",
+       ],
+    },
+    {
+      week: 6,
+      topics: ["Consonants /p/, /b/, /t/ and /d/"],
+      content: ["Speech work: /p/, /b/, /t/ and /d/","Comprehension/Summary: Summarising in a Specific Number of Sentences","Vocabulary Development: (Words Associated with Traditional Religion)","Structure: Nominalization of Adjectives","Writing Skills: Letter Writing – Semi-Formal Letters (Introduction)"],
+    },
+    {
+      week: 7,
+      topics: ["Consonants /k/, /g/, /s/ and /z/"],
+      content: ["Speech Work: Consonants /k/, /g/, /s/ and /z/","Comprehension: Oliha’s Embarrassment","Vocabulary Development (Words Associated with Home and Family)","Structure: Nominalization of Verbs","Writing Skills: Letter Writing – Semi-Formal Letters (Language)"],
+    },
+    {
+      week: 8,
+      topics: [" Consonants /ʃ/, /ʒ/, /θ/ and /ð/ /"],
+      content: ["Speech Work: Consonant Sounds /ʃ/, /ʒ/, /θ/ and /ð/","Comprehension/Summary: More about Identifying the Topic Sentence in a Passage","Vocabulary Development: Words Associated with Religion (Christianity)","Structure: Introduction to Irregular Verbs"," Writing Skills: Record Keeping (Introduction)"],
+    },
+    {
+      week: 9,
+      topics: ["Consonants /j/, /w/ and /l/"],
+      content: ["Speech Work: Consonants /j/ /w/ and /l/","Structure: Regular Verbs","Comprehension: The Yam Festival","Writing Skills: Record Keeping","Vocabulary Development: Words Associated with Religion (Islam)"],
+    },
+    {
+      week: 11,
+      topics: "Examination",
+      content: ["SS1 English Language First Term Examination"],
+    },
+  ],
+  "Financial Accounting":[
+    {
+      week: 1,
+      topics: [" BOOK KEEPING AND ACCOUNTING"],
+      content: ["Meaning of Book Keeping",
+ "     Meaning of Accounting",
+   "   History of Accounting in Nigeria",
+ "     Definition of Accountant",
+  "    Roles of an Accountant",
+"      Types of Accountants",
+   "Accounting as a Profession"],
+    },
+    {
+      week: 2,
+      topics: ["BOOK KEEPING AND ACCOUNTING"],
+      content: ["The Need for Book-keeping and Accounting",
+ "     The Need/Importance of Book-keeping",
+    "  Users of Accounting Information",
+  "    Qualities of Accounting Information",
+     " Limitations of Accounting Information"],
+    },
+    {
+      week: 3,
+      topics: ["ETHICS OF ACCOUNTING"],
+      content: ["Meaning of Ethics",
+   "   Meaning of Accounting Ethics",
+   "   Qualities of Accountants and Accounting Ethics",
+      "Benefits of Accounting Ethics to the Accounting Profession and the Public (Society)"],
+    },
+    {
+      week: 4,
+      topics: ["PRINCIPLES AND PRACTICE OF DOUBLE ENTRY"],
+      content: ["The Concept of Double Entry System","Review of Double Entry With Comprehensive Illustrations"],
+    },
+    {
+      week: 5,
+      topics: ["ACCOUNTING CONCEPTS AND CONVENTIONS"],
+      content: ["Meaning of Accounting Concepts",
+"      Major Accounting Concepts",
+     " Accounting Conventions"],
+    },
+    {
+      week: 6,
+      topics: ["JOURNALS AND CASH ACCOUNT"],
+      content: ["General Journal",
+"      Classes of Entries",
+"      Errors Affecting the Agreement of the Trial Balance",
+      "Introduction to Cash Book"],
+    },
+    {
+      week: 7,
+      topics: ["ANALYTICAL CASH BOOK"],
+      content: ["Two Column Cash Book",
+      "Contra Entries",
+  "    Three Column Cash Book",
+    "  Discount",
+    " Analytical Petty cash Book"],
+    },
+    {
+      week: 8,
+      topics: ["BANK RECONCILIATION STATEMENT"],
+      content: ["Introduction to Bank Documents",
+"      Definition of Bank Statement",
+   "   Meaning of Bank Reconciliation Statement",
+   "   Causes of Discrepancies/Disagreement between Cash Book and Bank Statement",
+     " Interpretation of Bank Statements"],
+    },
+      {
+      week: 9,
+      topics: "Examination",
+      content: ["SS1 Financial Accounting First Term Examination"],
+    },
+  ],
+  "General Mathematics":[
+    {
+      week: 1,
+      topics: "INDICES",
+      content: ["Revision of Standard Form",
+"      Laws Of Indices and Application of Indices",
+   "   Simple Indicial Equations"],
+    },
+    {
+      week: 2,
+      topics: " LOGARITHMS",
+      content: ["Deducing logarithm from indices and standard form",
+"      Definition of Logarithms",
+    "  Definition of Antilogarithms",
+     " The graph of y = 10x",
+ "     Reading logarithm and Antilogarithm tables"],
+    },
+    {
+      week: 3,
+      topics: "LOGARITHMS",
+      content: [" Use Of Logarithm Table And Antilogarithm Table In Calculations Involving",". Application of logarithm in capital market and other real life problems"],
+    },
+    {
+      week: 4,
+      topics: "SETS",
+      content: ["Definition of set",
+     " Set Notations",
+  " Types of Sets"],
+    },
+    {
+      week: 5,
+      topics: "SETS",
+      content: ["Set Operations",
+ "     Union of Sets",
+ "     Intersection of Sets",
+     " Complement of a Set",
+   "   Venn Diagrams",
+     "Application of Venn Diagram up to 3 Set Problems"],
+    },
+    {
+      week: 6,
+      topics: "NUMBER BASE SYSTEM",
+      content: ["Conversion from other bases to base 10 and vice versa",
+    "  Conversion of decimal fraction in other bases to base 10 and vice versa."],
+    },
+    {
+      week: 7,
+      topics: "NUMBER BASE SYSTEM",
+      content: ["Conversion of numbers from one base to another",
+      "Addition, subtraction, division and multiplication of number bases",
+      "Application to computer programming"],
+    },
+    {
+      week: 8,
+      topics: "SIMPLE EQUATIONS AND VARIATIONS",
+      content: ["Formulae, substitution and change of subject of formulae",
+     " simple binary operations",
+      "Variations (i) Direct and inverse, (ii) joint and partial",
+      "Application of variation."],
+    },
+    {
+      week: 10,
+      topics: "Examination",
+      content: ["SS1 General Mathematics First Term Examination"],
+    },
+  ],
+  "Geography":[
+    {
+      week: 1,
+      topics: "MEANING, SCOPE AND IMPORTANCE OF GEOGRAPHY",
+      content: ["Meaning of Geography",
+   "   Scope and Nature of Geography",
+     " Branches of Geography"],
+    },
+    {
+      week: 2,
+      topics: "TOWN/VILLAGE: PHYSICAL AND CULTURAL FEATURES",
+      content: ["Meaning of Local Geography",
+   "   The Village",
+    "  The Town",
+    "  Physical and Cultural Features of a Town/Village",
+    "  Direction and Location of Physical and Cultural Features within the Town/Village",
+      "Influences of Physical Features on Human Activities"],
+    },
+    {
+      week: 3,
+      topics: "STATES AND LOCAL GOVERNMENT AREAS",
+      content: ["State Geography",
+   "   Local Government Headquarters",
+   "   Locational Relationship",
+     " Physical Characteristics of Local Government",
+   "   Economic Activities in Local Governments",
+       ],
+    },
+    {
+      week: 4,
+      topics: "THE EARTH AND OTHER PLANETS",
+      content: ["Components of the Solar System",
+   "   Classification of Planets",
+   "   The Sun",
+   "   The Nine Planets and their Characteristics",
+   "   The Earth – Size, Shape and Position in Relation to the Sun and Other Planets",
+     "Evidence/Proofs to Show that the Earth is Spherical"],
+    },
+    {
+      week: 5,
+      topics: "EARTH’S MOVEMENTS",
+      content: ["Earth’s Movements",
+"      Meaning and Effects of Rotation of the Earth",
+    "  Meaning and Effects of Revolution of the Earth",
+    "  Differences between Rotation and Revolution of the Earth"],
+    },
+    {
+      week: 6,
+      topics: "LATITUDES AND LONGITUDES",
+      content: ["Meaning and Uses of Latitude",
+"      Latitude and Distance",
+ "     Meaning and Uses of Longitude",
+   "   The Great Circle",
+   "   Differences and Similarities between Lines of Latitude and Longitude",
+   "   Time and Time Zones",
+     " Standard Time and World Time Zones",
+      "International Dateline and Grid References"],
+    },
+    {
+      week: 7,
+      topics: "THE EARTH’S STRUCTURE",
+      content: ["Major Spheres of the Earth",
+      "Relationship between the Three Major Spheres",
+     " Relevance to Human Activities",
+      ],
+    },
+    {
+      week: 8,
+      topics: "ROCKS",
+      content: ["Definition of Rock",
+      "Types of Rock",
+      "Mode of Formation of Rock Types",
+      "Characteristics of Rock Types",
+      "Economic Importance of Rocks to Man"],
+    },
+    {
+      week: 9,
+      topics: "MOUNTAINS",
+      content: ["Definition of Mountains",
+      "Types of Mountains",
+      "Mode of Formation of Mountains",
+      "Characteristics of the Types of Mountains",
+      "Examples of Each Type of Mountain",
+      "Importance of Mountains",
+      "Disadvantages of Mountains",
+      ],
+    },
+    {
+      week: 10,
+      topics: "Examination",
+      content: ["SS1 Geography First Term Examination"],
     },
   ]
 
