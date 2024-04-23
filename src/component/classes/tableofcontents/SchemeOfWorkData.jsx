@@ -11026,16 +11026,94 @@ FirstTerm:{
     "Physics" :[
       {
         week: 1,
-        topics: "",
-        content: [""],
+        topics: "ENERGY ",
+        content: ["The Concept of Energy",
+        "Types of Energy",
+        "The Law of Conservation of Energy",
+        "Sources of Energy",
+        "Classification of the Sources of Energy",
+        "Uses of Energy",
+        "Energy and Social Environment",
+        "The Impact of Energy Usage on the Environment",
+        "Energy Crises",
+        "Oil Spillage"],
       },
       {
-        week: 11,
+        week: 2,
+        topics: "WORK AND POWER",
+        content: ["Work Done in a Force Field",
+        "Power",
+     "   Interchangeability of Work and Energy",
+     "   Calculations on Work and Power"],
+      },
+      {
+        week: 3,
+        topics: "HEAT ENERGY: THERMAL EXPANSIVITY",
+        content: ["The Concept of Heat and Temperature",
+    "    The Differences between Heat and Temperature",
+        "The Kinetic Theory of Matter",
+       " The Effects of Heat on Substances (Expansion, Vaporization)",
+        "Using Kinetic Theory to Explain the Temperature of a Body",
+     "   Linear Expansion, Coefficient of Linear Expansivity",
+       " Expansion in Liquids",
+       "Applications of Expansion"],
+      },
+      {
+        week: 4,
+        topics: "THE ELASTIC PROPERTIES OF SOLID",
+        content: ["The Concept of Elasticity",
+     "   Definitions of Elasticity",
+       " Hooke’s Law",
+       " Definition of Elastic Constant",
+     "   Verification or Demonstration of Hooke’s Law",
+    "    Definition of (i) Elastic Limit (ii) Yield Point (iii) Breaking Point (iv) Tensile Stress (v) Tensile Strain (vi) Young’s Modulus",
+        "Worked Examples",
+       "Work Done in an Elastic Material"],
+      },
+      {
+        week: 5,
+        topics: "ELASTIC PROPERTIES OF SOLID",
+        content: ["Young’s Modulus Law of Elasticity",
+        "Work Done in Springs and Elastic String",
+        "Elastic Potential Energy"],
+      },
+      {
+        week: 6,
+        topics: "HEAT ENERGY: TRANSFER OF HEAT",
+        content: ["Conduction of Heat",
+
+     "  ( Meaning of Heat Conduction)",
+     "   Using Kinetic Molecular Theory to Explain Conduction in Solids",
+      "  Conduction of Heat in Liquids",
+     "   Experiment to Show that Water is a Poor Conductor of Heat",
+     "   Applications of Conductors and Insulators",
+      "  (Convection of Heat)",
+
+"Meaning of Convection of Heat",
+"Using Kinetic Molecular Theory to Explain Convection in Liquids",
+"Applications of Convection"],
+      },
+      {
+        week: 7,
+        topics: "ELECTROSTATICS",
+        content: ["Types of Charges",
+   "     The Law of Electrostatics",
+      "  Gold leaf Electroscope",
+        "Ways of Producing Charges",
+       " Charge Distribution in a Conductor",
+     "   Lightning Conductors",
+        "Electrophorus"],
+      },
+      {
+        week: 8,
         topics: "Examination",
-        content: ["SS1 Financial Accounting Second Term Examination"],
+        content: ["SS1 Physics Second Term Examination"],
       },
     ]
 
+
+  },
+  ThirdTerm:{
 
   }
 }
