@@ -10087,43 +10087,202 @@ FirstTerm:{
     "Biology" :[
       {
         week: 1,
-        topics: "",
-        content: [""],
+        topics: "TISSUES AND SUPPORTING SYSTEMS",
+        content: ["Different Types of Supporting Tissues",
+       " Functions of Supporting Tissues in Plants"],
       },
       {
-        week: 1,
-        topics: "",
-        content: [""],
+        week: 2,
+        topics: "BASIC ECOLOGICAL CONCEPTS",
+        content: ["Meaning of Ecology",
+       " Ecological Concepts",
+      "  Components of an Ecosystem",
+        "Local Biotic Communities or Biomes"],
       },
       {
-        week: 1,
-        topics: "",
-        content: [""],
+        week: 3,
+        topics: "BASIC ECOLOGICAL CONCEPTS",
+        content: ["(Major Biomes of the World)",
+  "      Population Studies by Sampling Method",
+       " Ecological Factors",
+      "  Simple Measurement of Ecological Factors",
+       " Relationship between Soil Types and Water Holding Effects of Soil on Vegetation",
+        "Practical Guides on Soil"],
       },
       {
-        week: 1,
-        topics: "",
-        content: [""],
+        week: 4,
+        topics: "FUNCTIONAL ECOSYSTEM: AUTOTROPHY AND HETEROTROPHY",
+        content: ["Producers",
+       " Consumers",
+        "Aquatic and Terrestrial"],
       },
       {
-        week: 1,
-        topics: "",
-        content: [""],
+        week: 5,
+        topics: "ENERGY TRANSFORMATION IN NATURE",
+        content: ["Energy Loss in the Ecosystem (i) Solar Radiation (ii) Energy Loss in the Biosphere (iii) Measure of Primary Production",
+       "Laws of Thermodynamics"],
       },
       {
-        week: 1,
-        topics: "",
-        content: [""],
+        week: 6,
+        topics: "THE RELEVANCE OF BIOLOGY TO AGRICULTURE",
+        content: ["1. (Classification of Plants)",
+
+      "  (a) Botanical Classification of Plants",
+        
+        "(b) Agricultural Classification of Plants",
+        
+       " (c) Classification of Plants based on Life Cycle",
+        
+      "  2. Effects of Agricultural Activities on Ecological system",
+        
+        "3. Pests and Diseases of Agricultural Importance"],
       },
       {
-        week: 1,
-        topics: "",
-        content: [""],
+        week: 7,
+        topics: "THE RELEVANCE OF BIOLOGY TO AGRICULTURE",
+        content: ["1. Food Production and Storage",
+
+"        (a) Ways of Improving Crop Yield",
+        
+      "  (b) Causes of Wastage",
+        
+       " (c) Methods of Preserving and Storing Food",
+        
+       " 2. Population Growth and Food Supply",
+        
+      "  3. Relationship between Availability of Food and Human Population (Effects of Storage)",
+       
+        "4. Government Efforts to Increase Food Production (e.g.) Agricultural Revolution",
+        ],
+      },
+      {
+        week: 8,
+        topics: "MICRO-ORGANISMS AROUND US",
+        content: ["1. Micro-organisms in Air and Water",
+        "(i) Group of Micro-organisms: Bacteria, Viruses, Some algae, Protozoa, Fungi",
+        
+        "(ii) The Concept of Culturing",
+        
+        "2. Identification of Micro-organisms in (i) Air (ii) Pond Water (iii) River (iv) The Concept of Culturing", "3. Micro-organisms in Our Bodies and Food",
+        "4. Carriers of Micro-organisms: Examples, Location of the Micro-organism in Carriers and Types of Micro-organism"],
+      },
+      {
+        week: 9,
+        topics: "MICRO-ORGANISMS IN ACTION",
+        content: ["Meaning of Micro-organisms",
+        "Types of Micro-organisms",
+        "Growth of Micro-organisms: Ways of Measuring the Growth of Microorganisms",
+        "Beneficial Effects of Micro-organisms in Nature, Medicine and Industries",
+        "Harmful Effects of Some Microbes",
+         ],
+      },
+      {
+        week: 9,
+        topics: "MICRO-ORGANISMS AND BETTER HEALTH",
+        content: ["Control of Harmful Micro-organisms",
+"Vectors (i) Definition of Vectors (ii) Ways of Controlling Mosquitoes (iii) Ways of Controlling Vectors","Student’s Health: Maintenance of Good Health"],
       },
       {
         week: 12,
         topics: "Examination",
-        content: ["SS1 Animal Huasbandry Second Term Examination"],
+        content: ["SS1 Biology Second Term Examination"],
+      },
+    ],
+    "Chemistry" :[
+      {
+        week: 1,
+        topics: "Gaseous State and Gas Laws",
+        content: ["STATES OF MATTER"],
+      },
+      {
+        week: 2,
+        topics: "Gaseous State and Gas Laws II",
+        content: ["BOYLE’S LAW"],
+      },
+      {
+        week: 3,
+        topics: " Gaseous State and Gas Laws III",
+        content: ["GAY- LUSSAC’S LAW AND AVOGADRO’S LAW"],
+      },
+      {
+        week: 4,
+        topics: "Standard Separation Techniques for Mixtures ",
+        content: ["COMPOUNDS AND MIXTURES"],
+      },
+      {
+        week: 5,
+        topics: "Chemistry Practicals",
+        content: ["Chemistry Practicals"],
+      },
+      {
+        week: 6,
+        topics: "Examination",
+        content: ["SS1 Chemistry Second Term Examination"],
+      },
+    ],
+    "Christian Religious Studies (CRS)":[
+       {
+        week: 1,
+        topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
+        content: ["Introduction",
+        "Peter’s Message on Christian Living (1 Pet. 1:13-17; 2:9-25; 4:1-19)",
+        "The Roles of Christians in the Community",
+        "Paul’s Statements on Children of Light (Rom. 13:11-14)"],
+      },
+      {
+        week: 2,
+        topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
+        content: ["Social Vices and Witnessing to Christ",
+        "Tolerance and Peaceful Co-existence",
+        "Civic Responsibilities (1 Pet. 2:13-17)"],
+      },
+      {
+        week: 3,
+        topics: "CHRISTIAN ATTITUDE TOWARDS PERSECUTION",
+        content: ["Meaning of Persecution",
+        "Forms of Persecution",
+        "Peter’s Message to Christian under Persecution (1 Pet. 1:5-9; 4:12-19)",
+        "Jesus’ Message on Love of Enemies (Matthew 5:43-48)",
+        "The Persecution of Christ",
+        "Suffering and the Christian Faith",
+        "Christian Attitude to Persecution (1 Peter 4:12-19)"],
+      },
+      {
+        week: 4,
+        topics: "IMPARTIALITY",
+        content: ["Meaning of Impartiality",
+        "All Human Beings are Equal before God",
+        "Warning against Prejudice/James’ Teaching on Partiality (James 2: 1-13)",
+        "The “Golden Rule” (Matt. 7:12; Luke 6:31)",
+        "Negative Effects of Nepotism, Fabouritism and Tribalism in the Society",
+         ],
+      },
+      {
+        week: 5,
+        topics: "THE RESURRECTION AND SECOND COMING",
+        content: ["Meaning of Resurrection",
+        "The Account of the Resurrection in Matthew (Matthew 28:1-8)",
+        "Mark’s Account of the Resurrection (Mark 16:1-8)",
+        "Luke’s Account of the Resurrection (Luke 24:1-11)",
+        "Significance of the Resurrection to the Christian Faith"],
+      },
+      {
+        week: 6,
+        topics: "RESURRECTION",
+        content: ["The Role of Women in the Resurrection Story of Jesus",
+        "Comparison of the Three Accounts of Resurrection in the Synoptic Gospels"],
+      },
+      {
+        week: 6,
+        topics: "THE SECOND COMING OF CHRIST",
+        content: ["Jesus Talks of the Last Judgment When He Comes (Matthew 25:31-36)",
+        "Paul’s Teaching on Jesus’ Second Coming (I Thess. 4:13-18, 5:1-11)",
+        "How We Ought to Prepare for the Second Coming of the Lord (Matthew 25: 31-46)"],
+      },
+      {
+        week: 7,
+        topics: "Examination",
+        content: ["SS1 CRS Second Term Examination"],
       },
     ]
 
