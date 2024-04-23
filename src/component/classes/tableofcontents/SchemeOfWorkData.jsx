@@ -10674,6 +10674,78 @@ FirstTerm:{
         topics: "Examination",
         content: ["SS1 Financial Accounting Second Term Examination"],
       },
+    ],
+    "General Mathematics":[
+            
+      {
+        week: 1,
+        topics: "Modular Arithmetic 1",
+        content: ["Revision of addition and subtraction of integers",
+        "Revision of multiplication and division of integers",
+        "Concept of modular arithmetic/Cyclic events"],
+      },
+      {
+        week: 2,
+        topics: "Modular Arithmetic 2",
+        content: ["Addition, Subtraction, Multiplication and Division operations in module arithmetic",
+        "Application to daily life"],
+      },
+      {
+        week: 3,
+        topics: "Quadratic Equation 1",
+        content: ["Revision of linear and quadratic expressions",
+     "   Solution of quadratic expression of the form ab = 0, a = 0 or b = 0",
+        "Formation of quadratic equation with given roots"],
+      },
+      {
+        week: 4,
+        topics: "Quadratic Equations 2",
+        content: ["Revision of linear graph and drawing quadratic graph",
+        "Obtaining roots from a quadratic graph",
+        "Finding an equation from a given graph",
+        "Application of quadratic equation to real life situations"],
+      },
+      {
+        week: 5,
+        topics: "Constructions 1",
+        content: ["Guidelines for Constructions",
+        "Bisecting of Angles",
+        "Bisecting A Line AB",
+        "Constructions of the Basic Angles", 
+        "Construction of Triangles with Given Sides and Angle",
+        "Bisection of Basic Angles"],
+      },
+      {
+        week: 6,
+        topics: "Constructions 2",
+        content: ["Construction of Perpendiculars",
+        "How to Construct Perpendiculars",
+        "Circumscribed and Inscribed Circles of a Triangle",
+        "Construction of Quadrilaterals",
+        "Locus",
+        "Dividing a Line Segment into N Equal Parts"],
+      },
+      {
+        week: 7,
+        topics: "Proofs of Some Basic Theorems 1",
+        content: ["Introduction to Geometry",
+  "      Interior and Exterior Angles of a Triangle",
+        "Congruency and Similarity of Triangles"],
+      },
+      {
+        week: 8,
+        topics: "Proofs of Some Basic Theorems 2",
+        content: ["(i) Riders including angles of parallel lines",
+        "(ii) Angles in a polygon",
+        "Congruent triangles",
+        "Properties of Parallelogram",
+        "(v) Intercept theorem"],
+      },
+      {
+        week: 11,
+        topics: "Examination",
+        content: ["SS1 Financial Accounting Second Term Examination"],
+      },
     ]
 
 
