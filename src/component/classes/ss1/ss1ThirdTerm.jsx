@@ -17,11 +17,6 @@ const SS1ThirdTerm = () => {
     {
       term: "ThirdTerm",
       class: "SS1",
-      subject: "Catering and craft Practice",
-    },
-    {
-      term: "ThirdTerm",
-      class: "SS1",
       subject: "Christian Religious Studies (CRS)",
     },
     { term: "ThirdTerm", class: "SS1", subject: "Civic Education" },

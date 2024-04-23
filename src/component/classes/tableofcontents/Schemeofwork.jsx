@@ -84,7 +84,6 @@ const SchemeOfWork = () => {
             Scheme of Work for {subject} - {classGrade} {term}
           </h2>
         </div>
-
         <table className={styles.schemeTable}>
           <thead>
             <tr>
@@ -128,10 +127,9 @@ const SchemeOfWork = () => {
               ))}
           </tbody>
         </table>
-
         {console.log("showModal:", showModal)} {/* Log showModal here */}
         {showModal && (
-          <Modal isOpen={showModal}  onClose={handleCloseModal}>
+          <Modal isOpen={showModal} onClose={handleCloseModal}>
             <h2 className={styles.modalheader}>
               Welcome! Unlock Your Learning Journey
             </h2>
@@ -152,7 +150,7 @@ const SchemeOfWork = () => {
                 <input
                   type="checkbox"
                   // className={styles.box}
-                  style={{width:"2em"}}
+                  style={{ width: "2em" }}
                   id="audioOption"
                   checked={selectedOption === "audio" ? styles.selected : ""}
                   onChange={() => handleReadingOption("audio")}
@@ -163,7 +161,7 @@ const SchemeOfWork = () => {
                 <input
                   type="checkbox"
                   // className={styles.box}
-                  style={{width:"2em"}}
+                  style={{ width: "2em" }}
                   id="videoOption"
                   checked={selectedOption === "video"}
                   onChange={() => handleReadingOption("video")}
@@ -174,7 +172,7 @@ const SchemeOfWork = () => {
                 <input
                   type="checkbox"
                   // className={styles.box}
-                  style={{width:"2em"}}
+                  style={{ width: "2em" }}
                   id="textOption"
                   checked={selectedOption === "text"}
                   onChange={() => handleReadingOption("text")}

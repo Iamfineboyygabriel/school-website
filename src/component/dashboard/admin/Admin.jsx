@@ -7,30 +7,12 @@ import Logout from "../../../assets/svg/logout.svg";
 import { Link, useNavigate } from "react-router-dom";
 import ReactLoading from "react-loading";
 import { Upload } from "@mui/icons-material";
-// import { GetRegisteredStudents } from "../../shared/redux/slices/registeredStudent.slices";
-// import { useAppDispatch, useAppSelector } from "../../shared/redux/reduxHooks";
 
 const Admin = () => {
   const [showModal, setShowModal] = useState(false);
   const [selectedUser, setSelectedUser] = useState(null);
   const [activeTab, setActiveTab] = useState("allStudents"); // State to track active tab
   const [loading, setLoading] = useState(false); // State to track loading state
-
-  // const dispatch = useAppDispatch();
-  // const registeredStudents = useAppSelector(
-  //   (state) => state.registration.getRegisteredStudents
-  // );
-
-  // const handleFetchStudents = (a) => {
-  //   // Dispatch the action to fetch registered students when the button is clicked
-  //   dispatch(GetRegisteredStudents())
-  //     .then((response) => {
-  //       console.log("Fetched registered students:", response.payload.students);
-  //     })
-  //     .catch((error) => {
-  //       console.error("Error fetching registered students:", error);
-  //     });
-  // };
 
   const handleModalOpen = (user) => {
     setSelectedUser(user);
@@ -69,7 +51,7 @@ const Admin = () => {
           >
             admission
           </button>
-          <button
+           <button
             className={activeTab === "test" ? styles.activeButton : ""}
             onClick={() => handleTabChange("test")}
           >
@@ -80,16 +62,14 @@ const Admin = () => {
             onClick={() => handleTabChange("assignment")}
           >
             Assignment
-          </button>
-          <button
-            className={activeTab === "upload" ? styles.activeButton : ""}
-            onClick={() => handleTabChange("upload")}
-          >
-            Upload student lectures
+          </button> 
+          <button>
+            <Link className={styles.upload} to="/upload-lectures">
+              Upload
+            </Link>
           </button>
 
           <button className={styles.log} onClick={handleLogout}>
-            {/* Show loading spinner if loading state is true, otherwise show logout button */}
             {loading ? (
               <ReactLoading
                 color="#064e3b"
@@ -128,13 +108,7 @@ const Admin = () => {
               selectedUser={selectedUser}
             />
           ) : activeTab === "assignment" ? (
-            <Assignment
-            // Pass necessary props (assignments, handleViewSubmission) here if needed
-            />
-          ) : activeTab === "assignment" ? (
-            <Upload
-            // Pass necessary props (assignments, handleViewSubmission) here if needed
-            />
+            <Assignment />
           ) : null}
         </div>
       </div>
@@ -143,5 +117,3 @@ const Admin = () => {
 };
 
 export default Admin;
-
-

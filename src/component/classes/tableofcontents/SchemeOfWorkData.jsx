@@ -3,7 +3,7 @@ export const SchemeOfWorkData = {
     FirstTerm: {
       "Agricultural Science": [
         {
-          week: 2,
+          week: 1,
           topics: "Importance and Forms of Agriculture",
           content: [
             "Importance anf Forms of Agriculture, Society and the Nation",
@@ -79,7 +79,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Science": [
         {
-          week: 2,
+          week: 1,
           topics: "Introduction to Basic science.",
           content:
             "(i)Definition of science. (ii)Methods of Science study.(iii)Branches of science.(iv)Usefulness of science.",
@@ -142,7 +142,7 @@ export const SchemeOfWorkData = {
       ],
       "Basic Technology": [
         {
-          week: 2,
+          week: 1,
           topics: "Understanding technology:Introduction to Technology.",
           content: [
             "(i)Meaning and definition of technology",
@@ -232,7 +232,7 @@ export const SchemeOfWorkData = {
       ],
       "Business Studies": [
         {
-          week: 2,
+          week: 1,
           topics: "Introduction to Business Studies.",
           content: [
             "(i)Meaning and scope of business studies. (ii)Elements of Integrated Business Studies E dot G's account, Commerce Office Practice etc.(iii)Importance of business studies.(iv)Components of business studies-Bookkeeping, keyboarding(v)Career opportunities in business studies.",
@@ -310,7 +310,7 @@ export const SchemeOfWorkData = {
       ],
       "Christian Religious Studies": [
         {
-          week: 2,
+          week: 1,
           topics: " Who is God?",
           content: [
             "(i)Who is God?(ii)Attributes of God.(iii)Names of God in Nigerian languages.",
@@ -437,7 +437,7 @@ export const SchemeOfWorkData = {
       ],
       "Computer Studies": [
         {
-          week: 2,
+          week: 1,
           topics: "Historical Development of Computers",
           content: [
             "(a) Early Counting Devices – Fingers, stones, sticks, pebbles, cowries, etc..",
@@ -509,7 +509,7 @@ export const SchemeOfWorkData = {
 
       "English Studies": [
         {
-          week: 2,
+          week: 1,
           topics:
             "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
           content: [
@@ -616,7 +616,7 @@ export const SchemeOfWorkData = {
       ],
       "Home Economics": [
         {
-          week: 2,
+          week: 1,
           topics: "Introduction to Home Economics",
           content: [
             "(a) Meaning of Home Economics",
@@ -686,7 +686,7 @@ export const SchemeOfWorkData = {
       ],
       Mathematics: [
         {
-          week: 2,
+          week: 1,
           topics: "Whole Numbers",
           content: [
             "(a)Development of Number System: (Roman numerals, counting boards, abacus, etc.)",
@@ -771,7 +771,7 @@ export const SchemeOfWorkData = {
       ],
       Music: [
         {
-          week: 2,
+          week: 1,
           topics: "Whole Numbers",
           content: [
             "(a)Development of Number System: (Roman numerals, counting boards, abacus, etc.)",
@@ -861,7 +861,7 @@ export const SchemeOfWorkData = {
       ],
       "Physical and Health Education (PHE)": [
         {
-          week: 2,
+          week: 1,
           topics: "Introduction to Physical and Health Education",
           content: [
             "(a) Physical Education (i) Meaning of Physical Education (ii) Scope/Branches of Physical Education (iii) Objectives of Physical Education ",
@@ -937,7 +937,7 @@ export const SchemeOfWorkData = {
       ],
       "Social Studies": [
         {
-          week: 2,
+          week: 1,
           topics: "Meaning and Scope of Social Studies Education",
           content: [
             "(a) Meaning of Social Studies",
@@ -1013,7 +1013,7 @@ export const SchemeOfWorkData = {
     SecondTerm: {
       "Agricultural Science": [
         {
-          week: 2,
+          week: 1,
           topics: "Revision of last term's work",
           content: [
             "Revision of the lessons and assessments of the previous term",

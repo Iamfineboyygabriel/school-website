@@ -37,12 +37,19 @@
   cursor: pointer;
 }
 
+
 .buttons button:last-child {
   margin-right: 0; /* Remove margin-right for the last button */
 }
 
 .buttons button.activeButton {
   background: #627d6e;
+}
+
+.upload{
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .log {
@@ -55,7 +62,7 @@
 }
 
 .pageName {
-  font-family: "Gilroy";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 0.9em;

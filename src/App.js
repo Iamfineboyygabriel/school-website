@@ -7,6 +7,7 @@ import StudentResetPassword from "./component/login/student/StudentResetPassword
 import AdminResetPassword from "./component/login/admin/AdminResetPassword.jsx";
 import PageNotFound from "./component/pagenotfound/PageNotFound.jsx";
 import Upload from "./component/dashboard/admin/upload/Upload.jsx";
+import ClassSubjectTopicsDownload from "../src/component/dashboard/admin/upload/ClassSubjectsTopicsUpload.jsx";
 
 // For JSS1
 import JSS1FirstTermPage from "./component/classes/jss1/jss1FirstTerm";
@@ -40,7 +41,6 @@ import Video from "./component/classes/tableofcontents/view/Video.jsx";
 import Text from "./component/classes/tableofcontents/view/Text.jsx";
 
 import SchemeOfWork from "./component/classes/tableofcontents/Schemeofwork";
-import { SchemeOfWorkData } from "./component/classes/tableofcontents/SchemeOfWorkData.jsx";
 import Admin from "./component/dashboard/admin/Admin.jsx";
 import AdminLoginPage from "./component/login/admin/AdminLoginPage.jsx";
 import PasswordChange from "./component/login/student/PasswordChange.jsx";
@@ -50,18 +50,27 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/admin-login" element={<AdminLoginPage />} />
-        <Route path="/admin" element={<Admin />} />
+        <Route path="/register" element={<Register />} />
+
         <Route path="/student-login" element={<StudentLogin />} />
+        <Route path="/admin-login" element={<AdminLoginPage />} />
+
+        <Route path="/*" element={<StudentSideBarRoute />} />
+        <Route path="/admin" element={<Admin />} />
+        <Route
+          path="/upload/:classGrade/:term"
+          element={<ClassSubjectTopicsDownload />}
+        />
+
         <Route path="/change-password" element={<PasswordChange />} />
+
         <Route path="/admin-reset-password" element={<AdminResetPassword />} />
         <Route
           path="/student-reset-password"
           element={<StudentResetPassword />}
         />
-        <Route path="/register" element={<Register />} />
-        <Route path="/*" element={<StudentSideBarRoute />} />
-        <Route path="/upload" element={<Upload />} />
+        <Route path="/upload-lectures" element={<Upload />} />
+
         {/*ROUTES FOR CLASSES */}
         {/**JSS1 */}
         <Route path="/jss1/first-term" element={<JSS1FirstTermPage />} />
