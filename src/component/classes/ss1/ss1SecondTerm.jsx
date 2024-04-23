@@ -17,11 +17,6 @@ const SS1SecondTerm = () => {
     {
       term: "SecondTerm",
       class: "SS1",
-      subject: "Catering and craft Practice",
-    },
-    {
-      term: "SecondTerm",
-      class: "SS1",
       subject: "Christian Religious Studies (CRS)",
     },
     { term: "SecondTerm", class: "SS1", subject: "Civic Education" },
