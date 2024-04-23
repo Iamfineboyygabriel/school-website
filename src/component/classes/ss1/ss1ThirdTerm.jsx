@@ -60,7 +60,7 @@ const SS1ThirdTerm = () => {
     <StudentSideBar>
       <div className={styles.header}>
         <div>
-          <h2>Subject(s) For sSS1 Third Term</h2>
+          <h2>Subject(s) For SS1 Third Term</h2>
         </div>
       </div>
       <TableContent

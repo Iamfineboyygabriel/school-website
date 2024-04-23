@@ -11109,10 +11109,7 @@ FirstTerm:{
         topics: "Examination",
         content: ["SS1 Physics Second Term Examination"],
       },
-    ]
-
-
-  },
+    ]},
   ThirdTerm:{
 
   }
