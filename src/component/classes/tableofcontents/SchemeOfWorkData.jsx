@@ -9881,11 +9881,253 @@ FirstTerm:{
     {
       week: 10,
       topics: "Examination",
-      content: ["SS1 Geography First Term Examination"],
+      content: ["SS1 Physics First Term Examination"],
     },
   ]},
   SecondTerm:{
-    
+    "Agricultural Science":[
+      {
+        week: 1,
+        topics: "Revision",
+        content: ["Revision of work done in First Term"],
+      },
+      {
+        week: 2,
+        topics: "Agro-Allied Industries and Relationship between Agriculture and Industry",
+        content: [
+          "(a) Agro-based Industries and Raw Materials",
+          "    (i) Paper Industry – Pulpwood",
+          "    (ii) Beverage industry - cocoa, tea, etc.",
+          "    (iii) Soap industry - oil seeds, etc.",
+          "(b) Relationship between Agriculture and Industries",
+          "    - Agriculture provides a market for industrial products e.g. farm machinery, chemicals, etc."
+        ],
+      },
+      {
+        week: 3,
+        topics: "Environmental Factors Affecting Agricultural Production",
+        content: [
+          "Environmental Factors Affecting Crops and Production",
+          "(i) Climatic Factors",
+          "    - Rainfall, temperature, light, wind, etc.",
+          "(ii) Biotic Factors",
+          "    - Predators, parasites, soil micro-organisms, inter-relationship such as competition, parasitism, mutualism (symbiosis), etc.",
+          "(iii) Edaphic Factors",
+          "    - Soil pH, soil texture, soil structure, soil type, etc."
+        ],
+      },
+      {
+        week: 4,
+        topics: "Rock Formation",
+        content: [
+          "(a) Process of Rock Formation",
+          "(b) Types of Rocks",
+          "    (i) Igneous Rocks",
+          "    (ii) Sedimentary Rocks",
+          "    (iii) Metamorphic Rocks"
+        ],
+      },
+      {
+        week: 5,
+        topics: "Soil Formation and Profile Development",
+        content: [
+          "(a) Factors of Soil Formation",
+          "    - The parent rock, organisms, climate topography, and time",
+          "(b) Outline of Soil Formation Processes",
+          "    - Weathering process",
+          "(c) Soil Profile Development"
+        ],
+      },
+      {
+        week: 6,
+        topics: "Types, Composition and Properties of Soil",
+        content: [
+          "(a) Types of Soil",
+          "(b) Chemical and Biological Composition of Soil",
+          "    (i) Soil macro- and micro-nutrients",
+          "    (ii) Soil water",
+          "    (iii) Macro-organisms",
+          "    (iv) Soil microbes",
+          "    (v) Soil air",
+          "    (vi) Soil pH",
+          "(c) Physical Properties of Soil",
+          "    (i) Soil texture",
+          "    (ii) Soil structure",
+          "(d) Soil Classification Systems"
+        ],
+      },
+      {
+        week: 7,
+        topics: "Simple Farm Tools",
+        content: [
+          "(a) Meaning of Simple Farm Tools",
+          "(b) Types of Simple Farm Tools",
+          "    - Cutlass, hoe, spade, shovel, etc.",
+          "(c) Identification and Description of Each of the Tools",
+          "(d) Identification of Various Accessory Tools and their Uses",
+          "(e) General Maintenance of Simple Farm Tools"
+        ],
+      },
+      {
+        week: 8,
+        topics: "Farm Machinery and Implements",
+        content: [
+          "(a) Farm Machinery",
+          "    (i) Tractor",
+          "    (ii) Bull dozer",
+          "    (iii) Sheller",
+          "    (iv) Dryers",
+          "    (v) Incubators",
+          "    (vi) Milking machines, etc.",
+          "(b) Tractor-coupled Implements",
+          "    - Ploughs, harrows, ridgers, planters, harvesters, sprayers, etc."
+        ],
+      },
+      {
+        week: 9,
+        topics: "Farm Machinery Maintenance Practices and Precautionary Measures",
+        content: [
+          "(a) Reasons for Maintaining Farm Machines",
+          "(b) Maintenance of Farm Machinery",
+          "    (i) Check water and oil levels regularly",
+          "    (ii) Carry out routine service",
+          "    (iii) Keep the machines clean, etc."
+        ],
+      },
+      {
+        week: 10,
+        topics: "Agricultural Engineering and Mechanisation",
+        content: [
+          "(a) Definition and Meaning of Farm Mechanisation",
+          "(b) Mechanised Agricultural Operations",
+          "    - Farm Activities Involving Machinery",
+          "(c) Advantages and Disadvantages of Farm Mechanisation",
+          "(d) Limitation/Problems of Farm Mechanisation",
+          "    - Prospect of farm mechanisation"
+        ],
+      },
+      {
+        week: 11,
+        topics: "Sources of Farm Power",
+        content: [
+          "(a) Meaning of Farm Power",
+          "(b) Sources of Farm Power",
+          "(c) Advantages and Disadvantages of Each Source of Farm Power"
+        ],
+      },
+      {
+        week: 12,
+        topics: "Examination",
+        content: ["SS1 Agricultural Second Term Examination"],
+      },
+    ],
+    "Animal Husbandry":[
+      {
+        week: 1,
+        topics: "REPRODUCTION IN FARM ANIMALS",
+        content: ["Terms in Reproduction"],
+      },
+      {
+        week: 2,
+        topics: "REPRODUCTION IN FARM ANIMALS",
+        content: ["(Terminologies in Reproduction)",
+
+     "   Parturition",
+      "  Lactation",
+       " Colostrum",
+       " Weaning",
+    "    Dystocia",
+      "  Flushing",
+    "    Foetus or Embryo",
+        "Steam Up"],
+      },
+      {
+        week: 3,
+        topics: "REPRODUCTIVE SYSTEM OF FARM ANIMALS",
+        content: ["Meaning of Reproduction in Farm Animals",
+        "The Male Reproductive System",
+        "The Female Reproductive System"],
+      },
+      {
+        week: 3,
+        topics: "REPRODUCTIVE SYSTEM OF FARM ANIMALS",
+        content: ["Meaning of Reproduction in Farm Animals",
+       " The Male Reproductive System",
+        "The Female Reproductive System"],
+      },
+      {
+        week: 4,
+        topics: "REPRODUCTIVE SYSTEM IN BIRDS",
+        content: ["(Introduction)",
+       " The Process of Egg Formation in Poultry",
+        "Parts of the Female Reproduction System in Poultry"],
+      },
+      {
+        week: 5,
+        topics: "TERMINOLOGIES USED IN LIVESTOCK PRODUCTION",
+        content: ["(Terminologies Used in Poultry Production)",
+        "Terminologies Used in Pig Production",
+        "Terminologies Used in Rabbit Production",
+        "Terminologies Used in Cattle Production",
+        "Terminologies Used in Goat Production"],
+      },
+      {
+        week: 1,
+        topics: "REPRODUCTIVE HORMONES AND THEIR FUNCTIONS",
+        content: ["The Endocrine System",
+        "Male Reproductive Hormones",
+        "Female Reproductive Hormones"],
+      },
+      {
+        week: 12,
+        topics: "Examination",
+        content: ["SS1 Animal Huasbandry Second Term Examination"],
+      },
+    ],
+    "Biology" :[
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 1,
+        topics: "",
+        content: [""],
+      },
+      {
+        week: 12,
+        topics: "Examination",
+        content: ["SS1 Animal Huasbandry Second Term Examination"],
+      },
+    ]
+
+
   }
 }
 };

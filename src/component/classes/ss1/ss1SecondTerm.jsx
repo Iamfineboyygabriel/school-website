@@ -7,45 +7,45 @@ import styles from "../jss1/css/term.module.scss";
 const SS1SecondTerm = () => {
   const data = [
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "SS1",
       subject: "Agricultural Science",
     },
-    { term: "Second Term", class: "SS1", subject: "Animal Husbandry" },
-    { term: "Second Term", class: "SS1", subject: "Biology" },
-    { term: "Second Term", class: "SS1", subject: "Chemistry" },
+    { term: "SecondTerm", class: "SS1", subject: "Animal Husbandry" },
+    { term: "SecondTerm", class: "SS1", subject: "Biology" },
+    { term: "SecondTerm", class: "SS1", subject: "Chemistry" },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "SS1",
       subject: "Catering and craft Practice",
     },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "SS1",
       subject: "Christian Religious Studies (CRS)",
     },
-    { term: "Second Term", class: "SS1", subject: "Civic Education" },
+    { term: "SecondTerm", class: "SS1", subject: "Civic Education" },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "SS1",
       subject: "Commerce",
     },
-    { term: "Second Term", class: "SS1", subject: "Computer Science/ICT" },
-    { term: "Second Term", class: "SS1", subject: "Data Processing" },
-    { term: "Second Term", class: "SS1", subject: "Economics" },
-    { term: "Second Term", class: "SS1", subject: "English Language" },
+    { term: "SecondTerm", class: "SS1", subject: "Computer Science/ICT" },
+    { term: "SecondTerm", class: "SS1", subject: "Data Processing" },
+    { term: "SecondTerm", class: "SS1", subject: "Economics" },
+    { term: "SecondTerm", class: "SS1", subject: "English Language" },
     {
-      term: "Second Term",
+      term: "SecondTerm",
       class: "SS1",
       subject: "Financial Accounting",
     },
-    { term: "Second Term", class: "SS1", subject: "General Mathematics" },
-    { term: "Second Term", class: "SS1", subject: "Geography" },
-    { term: "Second Term", class: "SS1", subject: "Government" },
-    { term: "Second Term", class: "SS1", subject: "Literature in English" },
-    { term: "Second Term", class: "SS1", subject: "Physics" },
+    { term: "SecondTerm", class: "SS1", subject: "General Mathematics" },
+    { term: "SecondTerm", class: "SS1", subject: "Geography" },
+    { term: "SecondTerm", class: "SS1", subject: "Government" },
+    { term: "SecondTerm", class: "SS1", subject: "Literature in English" },
+    { term: "SecondTerm", class: "SS1", subject: "Physics" },
   ];
-  const selectedTerm = "Second Term";
+  const selectedTerm = "SecondTerm";
   const selectedClass = "SS1";
 
   // Define state to track the selected subject
@@ -60,7 +60,7 @@ const SS1SecondTerm = () => {
     <StudentSideBar>
       <div className={styles.header}>
         <div>
-          <h2>Subject(s) For SS1 Second-Term</h2>
+          <h2>Subject(s) For SS1 Second Term</h2>
         </div>
       </div>
       <TableContent
