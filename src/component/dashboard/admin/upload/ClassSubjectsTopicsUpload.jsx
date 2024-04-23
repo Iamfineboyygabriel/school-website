@@ -45,6 +45,18 @@ const ClassSubjectsTopicsUpload = () => {
                 <th style={{ border: "1px solid #ddd", padding: "8px" }}>
                   Topic
                 </th>
+                <th style={{ border: "1px solid #ddd", padding: "8px" }}>
+                  Upload Video
+                </th>
+                <th style={{ border: "1px solid #ddd", padding: "8px" }}>
+                  Upload Document
+                </th>
+                <th style={{ border: "1px solid #ddd", padding: "8px" }}>
+                  Upload Test
+                </th>
+                <th style={{ border: "1px solid #ddd", padding: "8px" }}>
+                  Upload Assignment
+                </th>
               </tr>
             </thead>
             <tbody>
@@ -55,6 +67,22 @@ const ClassSubjectsTopicsUpload = () => {
                   </td>
                   <td style={{ border: "1px solid #ddd", padding: "8px" }}>
                     {topic.topics}
+                  </td>
+                  <td style={{ border: "1px solid #ddd", padding: "8px" }}>
+                    {/* Upload Video Input */}
+                    <input type="file" accept="video/*" />
+                  </td>
+                  <td style={{ border: "1px solid #ddd", padding: "8px" }}>
+                    {/* Upload Document Input */}
+                    <input type="file" accept=".doc,.docx,.pdf" />
+                  </td>
+                  <td style={{ border: "1px solid #ddd", padding: "8px" }}>
+                    {/* Upload Test Input */}
+                    <input type="file" accept=".doc,.docx,.pdf" />
+                  </td>
+                  <td style={{ border: "1px solid #ddd", padding: "8px" }}>
+                    {/* Upload Assignment Input */}
+                    <input type="file" accept=".doc,.docx,.pdf" />
                   </td>
                 </tr>
               ))}
