@@ -9731,7 +9731,7 @@ FirstTerm:{
     {
       week: 10,
       topics: "Examination",
-      content: ["SS1 Geography First Term Examination"],
+      content: ["SS1 Government First Term Examination"],
     },
   ],
   "Literature in English":[
@@ -9797,10 +9797,95 @@ FirstTerm:{
     {
       week: 10,
       topics: "Examination",
+      content: ["SS1 Literature in English First Term Examination"],
+    },
+  ],
+  "Physics" :[
+    {
+      week: 1,
+      topics: "INTRODUCTION TO PHYSICS",
+      content: ["Definition of Physics",
+    "  The Importance of Physics",
+     " Aspects/Careers in Physics",
+      "Branches of Physics"],
+    },
+    {
+      week: 2,
+      topics: "FUNDAMENTAL AND DERIVED QUANTITIES AND UNITS",
+      content: ["The Concept of Fundamental Quantities",
+    "  Other Fundamental Quantities",
+      "The Concept of Derived Quantities",
+      "Dimensions and Units of Derived Quantities"],
+    },
+    {
+      week: 3,
+      topics: "DIMENSIONS AND MEASUREMENT OF PHYSICAL QUANTITIES",
+      content: ["Measurement of Length/Distance",
+"      Measurement of Mass/Weight",
+   "   Measurement of Volume",
+     " Measurement of Area",
+     " Measurement of Time",
+      "Units of Measurement in Industries"],
+    },
+    {
+      week: 4,
+      topics: "POSITION, DISTANCE AND DISPLACEMENT",
+      content: ["The Concept of Position",
+"      The Concept of Distance and Measurement",
+    "  The Concept of Displacement",
+      "Distinction between Distance and Displacement"],
+    },
+    {
+      week: 5,
+      topics: "MOTION",
+      content: ["Definition of Motion",
+   "   Types of Motion",
+      "Causes and Effects of Motio"],
+    },
+    {
+      week: 6,
+      topics: "MOTION: FORCE AND FRICTION",
+      content: ["Definition of Force",
+   "   Types of Forces",
+"      Definition of Friction",
+"Types of Friction",
+"The Laws of Solid Friction",
+"Coefficient of friction",
+"Advantages and Disadvantages of Friction",
+"Methods of Reducing Friction"],
+    },
+    {
+      week: 7,
+      topics: "SPEED AND VELOCITY",
+      content: ["The Concepts of Distance, Speed, Velocity and Uniform Speed/Velocity",
+  "    Calculations on Speed and Velocity",
+      "Distance-Time Graph, Displacement-time Graph"],
+    },
+    {
+      week: 8,
+      topics: "RECTILINEAR ACCELERATION",
+      content: ["The Concept of Acceleration",
+     " Uniform and Non-uniform Acceleration",
+    "  Deceleration",
+  "    Worked Examples on Acceleration and Deceleration",
+     " Velocity-Time (V – T) Graph",
+      "Worked Examples on V-T Graph"],
+    },
+    {
+      week: 9,
+      topics: "CIRCULAR MOTION",
+      content: ["Meaning of Circular Motion",
+ "     Definition of Terms Used in Circular Motion",
+      "Calculations on Circular Motion"],
+    },
+    {
+      week: 10,
+      topics: "Examination",
       content: ["SS1 Geography First Term Examination"],
     },
-  ]
-
-}
+  ]},
+  SecondTerm:{
+    
+  }
 }
 };
