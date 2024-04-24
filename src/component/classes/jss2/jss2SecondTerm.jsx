@@ -14,11 +14,11 @@ const Jss2SecondTerm = () => {
     },
     { term: "SecondTerm", class: "JSS2", subject: "Basic Science" },
     { term: "SecondTerm", class: "JSS2", subject: "Basic Technology" },
-    {
-      term: "SecondTerm",
-      class: "JSS2",
-      subject: "Business Studies",
-    },
+    // {
+    //   term: "SecondTerm",
+    //   class: "JSS2",
+    //   subject: "Business Studies",
+    // },
     {
       term: "SecondTerm",
       class: "JSS2",
