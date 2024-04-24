@@ -49,7 +49,6 @@ const LoginAdmin = async (body) => {
     .then((response) => {
       const adminData = response.data.data.token;
       sessionStorage.setItem("adminData", adminData);
-      console.log("here", response.data);
       return { ...response.data, adminData }; // Return adminData along with other data
     });
 };
@@ -101,7 +100,6 @@ const StudentLogin = async (body) => {
       return { ...response.data, studentData }; // Return studentData along with other data
     });
 };
-
 
 /**STUDENT FORGET PASSWORD */
 const ForgetStudentPassword = async (body) => {

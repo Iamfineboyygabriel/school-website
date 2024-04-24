@@ -1,5 +1,4 @@
-
-.parent{
+.parent {
   height: 80px;
   box-shadow: 3px 0px 20px rgba(0, 0, 0, 0.04);
   width: 100%;
@@ -9,82 +8,81 @@
   box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.12);
   padding: 1em;
 }
-.logoDiv{
+.logoDiv {
   display: flex;
-  align-items: center; 
+  align-items: center;
   padding: 0em 2em;
   cursor: pointer;
 }
-.logo{
+.logo {
   width: 100px;
 }
-.textDiv{
+.textDiv {
   padding-left: 0.6em;
 }
-.name{
-   font-family: 'Gilroy';
-   font-style: normal;
-   font-weight: 700;
-   font-size: 0.8em;
-   line-height: 17px;
-   letter-spacing: 0.05em;
-   color:#00040F;
+.name {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.8em;
+  line-height: 17px;
+  letter-spacing: 0.05em;
+  color: #00040f;
 
-   span{
+  span {
     margin-left: 2em;
-   }
+  }
 }
-.instant{
-   font-family: 'Gilroy';
-   font-style: normal;
-   font-weight: 900;
-   font-size: 0.6em;
-   line-height: 17px;
-   letter-spacing: 0.1em;
-   color: #000000;
+.instant {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 0.6em;
+  line-height: 17px;
+  letter-spacing: 0.1em;
+  color: #000000;
 }
-.row{
+.row {
   display: flex;
   align-items: center;
   cursor: pointer;
 }
 
-.userdata{
-display: flex;
-align-items: center;
-cursor: pointer;
+.userdata {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
 }
 
-.title{
-  font-family: 'Kanit';
+.title {
+  font-family: "Kanit";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #B3B3B3;   
+  color: #b3b3b3;
   padding: 0em 1.5em;
   cursor: pointer;
 }
-.icons{
-  color: #B3B3B3;    
+.icons {
+  color: #b3b3b3;
   padding: 0em 0.5em;
   font-size: 1.5em;
   cursor: pointer;
 }
-.passportDiv{
+.passportDiv {
   padding: 0.3em;
   cursor: pointer;
 }
-.passport{
+.passport {
   height: 30px;
   width: 30px;
   border-radius: 30px;
 }
 
-
-// DROPDOWN 
+// DROPDOWN
 .dropdown {
   position: relative;
   display: inline-block;
@@ -102,7 +100,6 @@ cursor: pointer;
   position: fixed;
   margin-top: 0.1em;
   padding-right: 2em;
-  
 
   @media screen and (max-width: 600px) {
     min-width: 200px;
@@ -113,10 +110,15 @@ cursor: pointer;
     width: 270px;
   }
 }
+
+.modalParent {
+  display: hidden;
+}
+
 .dropDownRow {
   display: flex;
   align-items: center;
-  margin: 1.1000em 0.9em;
+  margin: 1.1em 0.9em;
 }
 .dropdownContent a {
   color: #fff !important;
@@ -138,7 +140,7 @@ cursor: pointer;
   display: flex;
   color: #000000;
   align-items: center;
-  padding: 0em 0.5000em;
+  padding: 0em 0.5em;
   cursor: pointer;
 }
 .dropDowntitle {
@@ -164,81 +166,66 @@ cursor: pointer;
   transform: translateY(-50%);
 }
 
-.menuDiv{
+.menuDiv {
   cursor: pointer;
 }
-.menu{
-  color:#000;
+.menu {
+  color: #000;
   font-size: 2em;
   display: none;
-}             
-.modalParent{
-  background-color: #ffffff;
 }
-.modalMenu{
+.modalMenu {
   display: grid;
 }
-.modalClose{
- display: flex;
- justify-content: flex-end;
+.modalClose {
+  display: flex;
+  justify-content: flex-end;
 }
-.modalMenufirst{
+.modalMenufirst {
   display: grid;
 }
 
-.hold{
+.hold {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-
-@media screen and (max-width:960px) {
-  .parent{
-    padding:1em;
+@media screen and (max-width: 960px) {
+  .parent {
+    padding: 1em;
+    background: none;
     align-items: center;
     height: 70px;
-    // display: flex;
-    // justify-content: space-between;
   }
-  .logoDiv{
-    padding: 0;
+
+  .modalParent {
+    height: 100vh;
+    background-color: #f1f5f9;
   }
-  
-  .userdata{
+  .userdata {
     display: none;
   }
- 
-  .modal-content{
+
+  .modal-content {
     width: 60% !important;
   }
-  .titleModal{
-    font-family: 'Gilroy';
+  .titleModal {
     font-style: normal;
     font-weight: 500;
     font-size: 0.9em;
     line-height: 48px;
-    /* text-align: center; */
-    color: #ffffff;  
+    color: #ffffff;
     cursor: pointer;
-    text-decoration:none;  
+    text-decoration: none;
+  }
+  .menuDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .menu {
+    display: inline;
+    cursor: pointer;
+  }
 }
-.menuDiv{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.menu{
-  display: inline;
-  cursor: pointer;
-}
-}
-
-// @media screen and (max-width:1200px) {
-//    .logoDivmobile{
-//     display: none !important;
-//    }
-//    .logomobile{
-//     display: none !important;
-//    }
-// }

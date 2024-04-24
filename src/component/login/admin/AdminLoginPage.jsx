@@ -1,14 +1,14 @@
-import styles from "./adminlogin.module.scss";
-import arrow from "../../../assets/png/arrowright.png";
-import { useNavigate } from "react-router-dom";
-import { MdOutlineVisibilityOff, MdOutlineVisibility } from "react-icons/md";
 import React, { useState } from "react";
+import styles from "./adminlogin.module.scss";
 import { AdminLogin } from "../../shared/redux/slices/auth.slices";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 import { useAppDispatch, useAppSelector } from "../../shared/redux/reduxHooks";
-import ReactLoading from "react-loading";
+import { ToastContainer, toast } from "react-toastify";
+import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import { MdOutlineVisibilityOff, MdOutlineVisibility } from "react-icons/md";
+import ReactLoading from "react-loading";
+import "react-toastify/dist/ReactToastify.css";
+import arrow from "../../../assets/png/arrowright.png";
 
 const AdminLoginPage = () => {
   const [password, setPassword] = useState("");
@@ -36,6 +36,7 @@ const AdminLoginPage = () => {
       email: email,
       password: password,
     };
+
     dispatch(AdminLogin(body))
       .unwrap()
       .then(() => {
@@ -44,18 +45,23 @@ const AdminLoginPage = () => {
         toast.success("Login successful");
       })
       .catch((err) => {
-        if (err && err.data && err.data.error) {
-          // If the error object has a 'data' property containing 'error' message
-          toast.error(err.data.error); // Display custom error message from the backend
+        console.log(err);
+        if (
+          err &&
+          err.response &&
+          err.response.data &&
+          err.response.data.message
+        ) {
+          toast.error(err.message);
         } else {
-          toast.error("Invalid Credentials."); // Fallback error message
+          toast.error("Invalid Credentials.");
         }
         setLoading(false);
       });
   };
 
   const validate = () => {
-    return !email || !password; // Check for empty email and password
+    return !email || !password;
   };
 
   const togglePassword = () => {
@@ -103,8 +109,8 @@ const AdminLoginPage = () => {
                     border: "1px solid var(--grey-50, #ccc)",
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
-                    paddingRight: "40px", // Space for the button
-                    outline: "none", // Remove default focus outline
+                    paddingRight: "40px",
+                    outline: "none",
                   }}
                 />
                 <button

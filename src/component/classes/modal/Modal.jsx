@@ -1,10 +1,9 @@
 import React, { useEffect, useRef } from "react";
-import { FaTimes } from "react-icons/fa";
+// import { FaTimes } from "react-icons/fa";
 import { createPortal } from "react-dom";
 import styles from "./modal.module.scss";
 
 const Modal = ({ children, isOpen, onClose }) => {
-  console.log("Modal isOpen:", isOpen); // Log isOpen prop
   const ref = useRef();
 
   useEffect(() => {

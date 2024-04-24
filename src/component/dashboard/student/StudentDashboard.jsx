@@ -1,10 +1,9 @@
 import React, { useEffect, useState } from "react";
-import styles from "../layout/studentlayout/css/studentdashboard.module.scss";
+import styles from "../layout/studentlayout/scss/studentdashboard.module.scss";
 import put from "../../../assets/svg/put.svg";
 import globe from "../../../assets/svg/globe.svg";
 import Slider from "react-slick";
 import { useNavigate } from "react-router-dom";
-import { IoIosArrowForward } from "react-icons/io";
 import { RiArrowDropDownLine } from "react-icons/ri";
 import ReactLoading from "react-loading";
 import { ToastContainer, toast } from "react-toastify";

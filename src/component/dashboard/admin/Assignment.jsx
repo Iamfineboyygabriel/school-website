@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./css/allstudent.module.scss";
+import styles from "./scss/allstudent.module.scss";
 import { Link } from "react-router-dom"; // Import Link for routing
 import nodata from "../../../assets/svg/nodata.svg";
 

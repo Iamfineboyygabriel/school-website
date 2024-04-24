@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import ReactLoading from "react-loading";
-import styles from "../jss1/css/term.module.scss";
+import styles from "../jss1/scss/term.module.scss";
 
 const TermContent = ({ data }) => {
   const navigate = useNavigate();

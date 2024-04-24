@@ -1,0 +1,38 @@
+.container h1 {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  color: #064e3b;
+  font-family: "Roboto", sans-serif;
+}
+
+.containerinside {
+  margin-bottom: 20px;
+}
+
+.containerinside h2 {
+  color: #064e3b;
+  font-family: "Roboto", sans-serif;
+}
+.topics {
+  border-bottom: 1px solid #ddd;
+}
+.submitButton {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  &:disabled {
+    background-color: #627d6e;
+    cursor: not-allowed;
+  }
+  &:not(:disabled) {
+    background-color: #064e3b;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+  }
+}
+
+.editButton {
+  background-color: red;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}

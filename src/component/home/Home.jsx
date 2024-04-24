@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import styles from "../home/css/home.module.scss";
+import styles from "../home/scss/home.module.scss";
+import { useNavigate } from "react-router-dom";
 import star from "../../assets/png/star.png";
 import arrow from "../../assets/png/arrowright.png";
 import personal from "../../assets/png/personal.png";
 import group from "../../assets/png/group.png";
-import { useNavigate } from "react-router-dom";
 
 const Home = () => {
   const [selectedSignup, setSelectedSignup] = useState(null);

@@ -1,20 +1,20 @@
-import styles from "./css/studentdashboardheader.module.scss";
-import { IoMdArrowDropdown } from "react-icons/io";
-import usericon from "../../../../assets/svg/usericon.svg";
-import logoutuser from "../../../../assets/svg/logoutuser.svg";
-import { Link, useNavigate } from "react-router-dom";
+import React, { useState, useEffect } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
+import { IoMdArrowDropdown } from "react-icons/io";
+import { Link, useNavigate } from "react-router-dom";
 import { Modal, ModalBody } from "reactstrap";
-import { useState } from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import ReactLoading from "react-loading";
+import usericon from "../../../../assets/svg/usericon.svg";
+import logoutuser from "../../../../assets/svg/logoutuser.svg";
+import styles from "./scss/studentdashboardheader.module.scss";
 
 const DashboardHeader = () => {
   const [showMenu, setShowMenu] = useState(true);
   const [modal, setModal] = useState(false);
-  const navigate = useNavigate();
   const [loading, setLoading] = useState(false);
+  const navigate = useNavigate();
 
   const toggle = () => {
     setModal(!modal);
@@ -26,8 +26,6 @@ const DashboardHeader = () => {
   };
 
   const handleLogout = () => {
-    // Handle logout logic here
-    // Redirect the user to the logout functionality route
     navigate("/logout");
   };
 
@@ -104,7 +102,12 @@ const DashboardHeader = () => {
                 <div className={styles.modalMenufirst}>
                   <Link
                     onClick={toggle}
-                    className={styles.titleModal}
+                    style={{
+                      color: "#064e3b",
+                      textDecoration: "none",
+                      margin: "1em",
+                      fontWeight: "bold",
+                    }}
                     to="/student-dashboard"
                   >
                     Dashboard
@@ -112,7 +115,12 @@ const DashboardHeader = () => {
 
                   <Link
                     onClick={toggle}
-                    className={styles.titleModal}
+                    style={{
+                      color: "#064e3b",
+                      textDecoration: "none",
+                      margin: "1em",
+                      fontWeight: "bold",
+                    }}
                     to="/my-profile"
                   >
                     Profile
@@ -120,7 +128,12 @@ const DashboardHeader = () => {
 
                   <Link
                     onClick={toggle}
-                    className={styles.titleModal}
+                    style={{
+                      color: "#064e3b",
+                      textDecoration: "none",
+                      margin: "1em",
+                      fontWeight: "bold",
+                    }}
                     to="/student-login"
                   >
                     Log out

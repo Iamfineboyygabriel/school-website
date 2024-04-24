@@ -1,4 +1,5 @@
 
+iframe#webpack-dev-server-client-overlay{display:none!important}
 
 body{
  margin: 0;

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import StudentSideBar from "../../../component/dashboard/layout/studentlayout/StudentSideBar";
 import TableContent from "../tableofcontents/TermContent";
 import Schemeofwork from "../tableofcontents/Schemeofwork";
-import styles from "../jss1/css/term.module.scss";
+import styles from "../jss1/scss/term.module.scss";
 import ReactLoading from "react-loading";
 
 const Jss2ThirdTerm = () => {

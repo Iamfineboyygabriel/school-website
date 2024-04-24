@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
-import styles from "../layout/studentlayout/css/userprofilesection.module.scss";
-import takepic from "../../../assets/svg/takepic.svg";
-import { LuFileEdit } from "react-icons/lu";
+import styles from "../layout/studentlayout/scss/userprofilesection.module.scss";
 import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
 import { GetProfileStudent } from "../../shared/redux/slices/GetStudentProfile.slices";
 import { ToastContainer, toast } from "react-toastify";

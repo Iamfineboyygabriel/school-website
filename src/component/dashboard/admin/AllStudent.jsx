@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import styles from "./css/allstudent.module.scss";
+import styles from "./scss/allstudent.module.scss";
 import Modal from "../../classes/modal/Modal";
 import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
 import { useDispatch } from "react-redux";
@@ -78,7 +78,7 @@ const AllStudent = () => {
       registeredStudents(); // Reload registered students after status update
     } catch (error) {
       setLoading(false);
-      console.error("Error while updating admission status:", error); // Log the error message
+      console.error("Error while updating admission status:", error); 
       const errorMessage =
         error.response?.data?.message ||
         "Failed to update student admission status";
@@ -191,10 +191,10 @@ const AllStudent = () => {
                 className={styles.statusDropdown}
                 style={{
                   width: "100%",
-                  height: "40px", // Increase height of select options
-                  padding: "5px", // Add padding for better spacing
-                  borderRadius: "5px", // Add rounded corners
-                  border: "1px solid #ccc", // Add border
+                  height: "40px", 
+                  padding: "5px", 
+                  borderRadius: "5px", 
+                  border: "1px solid #ccc",
                 }}
               >
                 <option value="">Change Status</option>

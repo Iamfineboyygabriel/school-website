@@ -1,18 +1,16 @@
 import React, { useState } from "react";
-import styles from "./css/admin.module.scss";
-import Test from "./Test";
+import styles from "./scss/admin.module.scss";
 import AllStudent from "./AllStudent";
-import Assignment from "./Assignment"; // Assuming Assignment component
+import Assignment from "./Assignment";
 import Logout from "../../../assets/svg/logout.svg";
 import { Link, useNavigate } from "react-router-dom";
 import ReactLoading from "react-loading";
-import { Upload } from "@mui/icons-material";
 
 const Admin = () => {
   const [showModal, setShowModal] = useState(false);
   const [selectedUser, setSelectedUser] = useState(null);
-  const [activeTab, setActiveTab] = useState("allStudents"); // State to track active tab
-  const [loading, setLoading] = useState(false); // State to track loading state
+  const [activeTab, setActiveTab] = useState("allStudents");
+  const [loading, setLoading] = useState(false);
 
   const handleModalOpen = (user) => {
     setSelectedUser(user);
@@ -51,23 +49,17 @@ const Admin = () => {
           >
             admission
           </button>
-           <button
-            className={activeTab === "test" ? styles.activeButton : ""}
-            onClick={() => handleTabChange("test")}
-          >
-            Test
-          </button>
           <button
             className={activeTab === "assignment" ? styles.activeButton : ""}
             onClick={() => handleTabChange("assignment")}
           >
             Assignment
-          </button> 
-          <button>
-            <Link className={styles.upload} to="/upload-lectures">
-              Upload
-            </Link>
           </button>
+            <Link className={styles.upload} to="/upload-lectures">
+          <button>
+              Upload
+          </button>
+            </Link>
 
           <button className={styles.log} onClick={handleLogout}>
             {loading ? (
@@ -95,13 +87,6 @@ const Admin = () => {
         <div className={styles.content}>
           {activeTab === "allStudents" ? (
             <AllStudent
-              showModal={showModal}
-              handleModalOpen={handleModalOpen}
-              closeModal={closeModal}
-              selectedUser={selectedUser}
-            />
-          ) : activeTab === "test" ? (
-            <Test
               showModal={showModal}
               handleModalOpen={handleModalOpen}
               closeModal={closeModal}

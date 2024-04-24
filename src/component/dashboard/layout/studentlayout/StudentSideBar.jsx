@@ -5,7 +5,7 @@ import StudentDashboardHeader from "./StudentDashboardHeader";
 import ActiveDashboard from "../../../../assets/svg/activedashboard.svg";
 import InActiveDashboard from "../../../../assets/svg/inactivedashboard.svg";
 import Logout from "../../../../assets/svg/logout.svg";
-import styles from "./css/studentsidebar.module.scss";
+import styles from "./scss/studentsidebar.module.scss";
 
 const SideMenu = ({ children }) => {
   const [state, setState] = useState("Active");

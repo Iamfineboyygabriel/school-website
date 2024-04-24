@@ -36,7 +36,6 @@ import SS3SecondTermPage from "./component/classes/ss3/ss3SecondTerm";
 import SS3ThirdTermPage from "./component/classes/ss3/ss3ThirdTerm";
 
 //View content file
-import Audio from "./component/classes/tableofcontents/view/Audio";
 import Video from "./component/classes/tableofcontents/view/Video.jsx";
 import Text from "./component/classes/tableofcontents/view/Text.jsx";
 
@@ -99,10 +98,6 @@ function App() {
         <Route
           path="/scheme-of-work/:classGrade/:term/:subject"
           element={<SchemeOfWork />}
-        />
-        <Route
-          path="/audio/:classGrade/:term/:subject/:topic"
-          element={<Audio />}
         />
         <Route
           path="/video/:classGrade/:term/:subject/:topic"

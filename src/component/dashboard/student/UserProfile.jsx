@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import styles from "../layout/studentlayout/css/userprofile.module.scss";
+import styles from "../layout/studentlayout/scss/userprofile.module.scss";
 import UserProfileSections from "./UserProfileSection";
 import { IoIosLogOut } from "react-icons/io";
 import ReactLoading from "react-loading";

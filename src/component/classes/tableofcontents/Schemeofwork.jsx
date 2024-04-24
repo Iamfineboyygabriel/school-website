@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from "react";
 import styles from "./schemeofwork.module.scss";
+import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
+import { SchemeOfWorkData } from "./SchemeOfWorkData.jsx";
 import StudentSideBar from "../../../component/dashboard/layout/studentlayout/StudentSideBar";
 import ReactLoading from "react-loading";
 import Modal from "../modal/Modal";
-import { SchemeOfWorkData } from "./SchemeOfWorkData.jsx";
 
 const SchemeOfWork = () => {
   const { classGrade, term, subject } = useParams();
@@ -58,11 +58,7 @@ const SchemeOfWork = () => {
   const handleSubmitModal = () => {
     setIsLoading(true);
     setTimeout(() => {
-      if (selectedOption === "audio") {
-        navigate(
-          `/audio/${classGrade}/${term}/${subject}/${selectedContent.topics}`
-        );
-      } else if (selectedOption === "video") {
+      if (selectedOption === "video") {
         navigate(
           `/video/${classGrade}/${term}/${subject}/${selectedContent.topics}`
         );
@@ -106,16 +102,9 @@ const SchemeOfWork = () => {
                           <li key={itemIndex}>{item}</li>
                         ))
                       ) : (
-                        // If content is a string, render it as a single list item
                         <li>{weekData.content}</li>
                       )}
                     </ul>
-                    {/* <button
-                      className={styles.readMoreButton}
-                      onClick={() => handleOpenModal(weekData)}
-                    >
-                      View Content
-                    </button> */}
                     <button
                       className={styles.readMoreButton}
                       onClick={() => weekData && handleOpenModal(weekData)}
@@ -127,7 +116,6 @@ const SchemeOfWork = () => {
               ))}
           </tbody>
         </table>
-        {console.log("showModal:", showModal)} {/* Log showModal here */}
         {showModal && (
           <Modal isOpen={showModal} onClose={handleCloseModal}>
             <h2 className={styles.modalheader}>
@@ -149,18 +137,6 @@ const SchemeOfWork = () => {
               <div>
                 <input
                   type="checkbox"
-                  // className={styles.box}
-                  style={{ width: "2em" }}
-                  id="audioOption"
-                  checked={selectedOption === "audio" ? styles.selected : ""}
-                  onChange={() => handleReadingOption("audio")}
-                />
-                <label htmlFor="audioOption">Audio</label>
-              </div>
-              <div>
-                <input
-                  type="checkbox"
-                  // className={styles.box}
                   style={{ width: "2em" }}
                   id="videoOption"
                   checked={selectedOption === "video"}
