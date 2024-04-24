@@ -26,7 +26,6 @@ const SS1ThirdTerm = () => {
       subject: "Commerce",
     },
     { term: "ThirdTerm", class: "SS1", subject: "Computer Science/ICT" },
-    { term: "ThirdTerm", class: "SS1", subject: "Data Processing" },
     { term: "ThirdTerm", class: "SS1", subject: "Economics" },
     { term: "ThirdTerm", class: "SS1", subject: "English Language" },
     {

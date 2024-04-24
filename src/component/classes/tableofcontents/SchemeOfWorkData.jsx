@@ -4764,55 +4764,116 @@ export const SchemeOfWorkData = {
       "English Studies": [
         {
           week: 1,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Consonant Clusters","(b) Structure: Adjectives (Comparative and Superlative)","(c) Comprehension/Vocabulary Development: Politics Reading to Understand the Writer’s Purpose","(d) Composition: My New Year Resolution","(e) Literature: Introduction to Prose (Features of Prose)"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Clusters",
+            "(b) Structure: Adjectives (Comparative and Superlative)",
+            "(c) Comprehension/Vocabulary Development: Politics Reading to Understand the Writer’s Purpose",
+            "(d) Composition: My New Year Resolution",
+            "(e) Literature: Introduction to Prose (Features of Prose)",
+          ],
         },
         {
           week: 2,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Diphthongs","(b) Structure: Tenses (Present, Past, Future)","(c) Comprehension/ Vocabulary Development: Politics Reading Speech","(d) Summary: Introduction to Summary Writing","(e) Composition: Argumentative Essay (Arguing a Position)","(e) Literature: Introduction to Drama","(Elements of Drama)"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Diphthongs",
+            "(b) Structure: Tenses (Present, Past, Future)",
+            "(c) Comprehension/ Vocabulary Development: Politics Reading Speech",
+            "(d) Summary: Introduction to Summary Writing",
+            "(e) Composition: Argumentative Essay (Arguing a Position)",
+            "(e) Literature: Introduction to Drama",
+            "(Elements of Drama)",
+          ],
         },
         {
           week: 3,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Triphthongs","(b) Structure: Adverbials:Types of Adverbials (Cause and Reason, Purpose, Condition, etc.)","(c) Comprehension/Vocabulary Development: Government","Reading to Understand the Writer’s Purpose","(d) Composition: Argumentative Essay – (Guided Composition) “Civilian Government is Far Better than MilitaryGovernment","(e) Literature: Plot Structure in the Text"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Triphthongs",
+            "(b) Structure: Adverbials:Types of Adverbials (Cause and Reason, Purpose, Condition, etc.)",
+            "(c) Comprehension/Vocabulary Development: Government",
+            "Reading to Understand the Writer’s Purpose",
+            "(d) Composition: Argumentative Essay – (Guided Composition) “Civilian Government is Far Better than MilitaryGovernment",
+            "(e) Literature: Plot Structure in the Text",
+          ],
         },
         {
           week: 4,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Consonant Sounds /h/, /w/ and /j/","(b) Structure: Punctuation Marks (Full Stop) ","(c) Comprehension/ Vocabulary Development: The Postal Service; Reading to Understand the Writer’s Purpose","(d) Composition: Formal Letters","– (Letter to the School Principal)","(e) Literature: Characters and Characterization in the Recommended Text"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Sounds /h/, /w/ and /j/",
+            "(b) Structure: Punctuation Marks (Full Stop) ",
+            "(c) Comprehension/ Vocabulary Development: The Postal Service; Reading to Understand the Writer’s Purpose",
+            "(d) Composition: Formal Letters",
+            "– (Letter to the School Principal)",
+            "(e) Literature: Characters and Characterization in the Recommended Text",
+          ],
         },
         {
           week: 5,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Consonant Sounds /p/, /b/, /t/, /d/","(b) Structure:  Punctuation Marks (The Comma)","(c) Summary/Vocabulary Development:","(d) Composition: Narrative Essay (Guided Composition) My Last Birthday","(e) Literature: Poetry– Structure, Themes and Literary Devices in the Recommended Poem"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Sounds /p/, /b/, /t/, /d/",
+            "(b) Structure:  Punctuation Marks (The Comma)",
+            "(c) Summary/Vocabulary Development:",
+            "(d) Composition: Narrative Essay (Guided Composition) My Last Birthday",
+            "(e) Literature: Poetry– Structure, Themes and Literary Devices in the Recommended Poem",
+          ],
         },
         {
           week: 6,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Consonant Sounds /k/ and /g/","(b) Structure: Types of Sentences","(Functional) Questions, Statements, and Commands","(c) Comprehension/ Vocabulary Development: Mining Reading to Identify the Meaning of Words in the Context ","(d) Composition: Informal Letters – (Guided Composition)","(e) Literature: Poetry","– Structure, Themes and Literary Devices in the Recommended Poem"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Consonant Sounds /k/ and /g/",
+            "(b) Structure: Types of Sentences",
+            "(Functional) Questions, Statements, and Commands",
+            "(c) Comprehension/ Vocabulary Development: Mining Reading to Identify the Meaning of Words in the Context ",
+            "(d) Composition: Informal Letters – (Guided Composition)",
+            "(e) Literature: Poetry",
+            "– Structure, Themes and Literary Devices in the Recommended Poem",
+          ],
         },
         {
           week: 7,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/","(b) Structure: Direct Speech",
-         " c) Comprehension/ Vocabulary Development: The Media – The Press Reading for Summary", "(d) Composition: Oral – Expository Essay ‘My Favourable Meal’ (Class Discussion)","(e) Literature: Setting of the Recommended Text"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/",
+            "(b) Structure: Direct Speech",
+            " c) Comprehension/ Vocabulary Development: The Media – The Press Reading for Summary",
+            "(d) Composition: Oral – Expository Essay ‘My Favourable Meal’ (Class Discussion)",
+            "(e) Literature: Setting of the Recommended Text",
+          ],
         },
         {
           week: 8,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: Intonation Patterns",
-     "     (b) Structure: Indirect/Direct Speeches",
-         " (c) Comprehension/ Vocabulary Development: The Media – Radio and Television; Reading for Summary",
-          "(d) Composition:  Expository Essay – (Guided Writing)‘My Favourable Meal’",
-          "(e) Literature: Themes of the Recommended Text"],
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: Intonation Patterns",
+            "     (b) Structure: Indirect/Direct Speeches",
+            " (c) Comprehension/ Vocabulary Development: The Media – Radio and Television; Reading for Summary",
+            "(d) Composition:  Expository Essay – (Guided Writing)‘My Favourable Meal’",
+            "(e) Literature: Themes of the Recommended Text",
+          ],
         },
         {
           week: 9,
-          topics: "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
-          content: ["(a) Speech Work: The Rising Tone",
-         " (b) Structure: Adverbials(Comparative and Superlative)","(c) Composition: Story Writing – (Structure and Style)",
-          "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem"]
+          topics:
+            "Speech Work Structure Comprehension/Vocabulary Development Composition Literature",
+          content: [
+            "(a) Speech Work: The Rising Tone",
+            " (b) Structure: Adverbials(Comparative and Superlative)",
+            "(c) Composition: Story Writing – (Structure and Style)",
+            "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem",
+          ],
         },
         {
           week: 10,
@@ -5510,72 +5571,71 @@ export const SchemeOfWorkData = {
         },
       ],
       "Christian Religious Studies": [
-          {
-            week: 1,
-            topics: "Revision",
-            content: ["Revision of work done in second term"],
-          },
-          {
-            week: 2,
-            topics:
-              "The Passion of Jesus: The Triumphant Entry, The Last Supper",
-            content: [
-              "(a) The Triumphant Entry (Matt. 21:1-11; Mark 11:1-11; Luke 19:28-44)",
-              "(b) The Last Supper (Matt. 26:17-30)",
-            ],
-          },
-          {
-            week: 3,
-            topics:
-              "The Passion of Jesus: The Betrayal and Arrest, The Trial and Peter’s Denial",
-            content: [
-              "(c) The Betrayal and Arrest (Mark 14:43-52; Matt. 26:47-56)",
-              "(d) The Trial and Peter’s Denial (Matt. 26:47-68, 69-75)",
-            ],
-          },
-          {
-            week: 4,
-            topics:
-              "The Passion of Jesus: Instances which can Lead to a Christian’s Denial of Christ and His/Her Neighbour",
-            content: [],
-          },
-          {
-            week: 5,
-            topics:
-              "The Death and Burial of Jesus: The Crucifixion, The Death, The Burial",
-            content: [
-              "(a) The Crucifixion (Matt. 27:32-44)",
-              "(b) The Death (Matt. 27:45-56)",
-              "(c) The Burial (Matt. 27:57-61)",
-            ],
-          },
-          {
-            week: 6,
-            topics:
-              "The Resurrection and Appearance of Jesus: The Resurrection, The Significance of the Resurrection to Christians Today",
-            content: [
-              "(a) The Resurrection (Matt. 28:1-10; Mark 16:1-8; Luke 24:1-12)",
-              "(b) The Significance of the Resurrection to Christians Today",
-            ],
-          },
-          {
-            week: 7,
-            topics:
-              "The Resurrection and Appearance of Jesus: The Appearances of Jesus After the Resurrection",
-            content: [
-              "(c) (i) The Appearances of Jesus After the Resurrection (Matt. 28:16-20; Mark 16:9-18; John 21:1-14 and Luke 24:13-49, 50-53)",
-              "(ii) Appearance in Matthew’s Gospel (Matt 28:16-20)",
-              "(iii) Appearance in Mark’s Gospel (Mark 16:9-18)",
-              "(iv) Appearance in Luke’s Gospel (Luke 24:1-49)",
-              "(v) Appearance in John’s Gospel (John 21:1-1, 20:19-29)",
-            ],
-          },
-          {
-            week: 8,
-            topics:
-              "The Resurrection and Appearance of Jesus: The Roles of Women in the Ministry of Jesus",
-            content: [],
-          },
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in second term"],
+        },
+        {
+          week: 2,
+          topics: "The Passion of Jesus: The Triumphant Entry, The Last Supper",
+          content: [
+            "(a) The Triumphant Entry (Matt. 21:1-11; Mark 11:1-11; Luke 19:28-44)",
+            "(b) The Last Supper (Matt. 26:17-30)",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "The Passion of Jesus: The Betrayal and Arrest, The Trial and Peter’s Denial",
+          content: [
+            "(c) The Betrayal and Arrest (Mark 14:43-52; Matt. 26:47-56)",
+            "(d) The Trial and Peter’s Denial (Matt. 26:47-68, 69-75)",
+          ],
+        },
+        {
+          week: 4,
+          topics:
+            "The Passion of Jesus: Instances which can Lead to a Christian’s Denial of Christ and His/Her Neighbour",
+          content: [],
+        },
+        {
+          week: 5,
+          topics:
+            "The Death and Burial of Jesus: The Crucifixion, The Death, The Burial",
+          content: [
+            "(a) The Crucifixion (Matt. 27:32-44)",
+            "(b) The Death (Matt. 27:45-56)",
+            "(c) The Burial (Matt. 27:57-61)",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "The Resurrection and Appearance of Jesus: The Resurrection, The Significance of the Resurrection to Christians Today",
+          content: [
+            "(a) The Resurrection (Matt. 28:1-10; Mark 16:1-8; Luke 24:1-12)",
+            "(b) The Significance of the Resurrection to Christians Today",
+          ],
+        },
+        {
+          week: 7,
+          topics:
+            "The Resurrection and Appearance of Jesus: The Appearances of Jesus After the Resurrection",
+          content: [
+            "(c) (i) The Appearances of Jesus After the Resurrection (Matt. 28:16-20; Mark 16:9-18; John 21:1-14 and Luke 24:13-49, 50-53)",
+            "(ii) Appearance in Matthew’s Gospel (Matt 28:16-20)",
+            "(iii) Appearance in Mark’s Gospel (Mark 16:9-18)",
+            "(iv) Appearance in Luke’s Gospel (Luke 24:1-49)",
+            "(v) Appearance in John’s Gospel (John 21:1-1, 20:19-29)",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "The Resurrection and Appearance of Jesus: The Roles of Women in the Ministry of Jesus",
+          content: [],
+        },
         {
           week: 9,
           topics: "Revision",
@@ -5588,79 +5648,78 @@ export const SchemeOfWorkData = {
         },
       ],
       "Civic Education": [
-        
-          {
-            week: 1,
-            topics: "Revision",
-            content: ["Revision of work done in the previous term(s)"],
-          },
-          {
-            week: 2,
-            topics:
-              "Election and Voter's Responsibilities: The Concepts of Election, Voter and Voting, Differences between Various Types of Election",
-            content: [
-              "(a) The Concepts of Election, Voter and Voting",
-              "(b) Differences between Various Types of Election",
-            ],
-          },
-          {
-            week: 3,
-            topics:
-              "Election and Voters' Responsibilities: Basic Qualifications for Election, Responsibilities of a Voter",
-            content: [
-              "(c) Basic Qualifications for Election",
-              "(d) Responsibilities of a Voter",
-            ],
-          },
-          {
-            week: 4,
-            topics:
-              "Election and Voters' Responsibilities: The Procedure for Voting, Importance of Election",
-            content: [
-              "(e) The Procedure for Voting",
-              "(f) Importance of Election",
-            ],
-          },
-          {
-            week: 5,
-            topics:
-              "Electoral Malpractice: Meaning of Electoral Malpractice, Forms of Electoral Malpractices, Causes of Electoral Malpractices",
-            content: [
-              "(a) Meaning of Electoral Malpractice",
-              "(b) Forms of Electoral Malpractices – Fake ballot papers, manipulation of votes, artificial scarcity of electoral materials, underage voting, thuggery, financial inducement and other corrupt practices, fake manifestoes",
-              "(c) Causes of Electoral Malpractices",
-            ],
-          },
-          {
-            week: 6,
-            topics:
-              "Electoral Malpractice: Consequences of Electoral Malpractices, Preventing Electoral Malpractices",
-            content: [
-              "(d) Consequences of Electoral Malpractices",
-              "(e) Preventing Electoral Malpractices",
-            ],
-          },
-          {
-            week: 7,
-            topics:
-              "Observing and Reporting Common Crimes: Different Ways of Observing and Reporting Common Crimes, Types of Report Writing, Appropriate Response to Any Crime Committed",
-            content: [
-              "(a) Different Ways of Observing and Reporting Common Crimes",
-              "(b) Types of Report Writing",
-              "(c) Appropriate Response to Any Crime Committed",
-            ],
-          },
-          {
-            week: 8,
-            topics:
-              "Emergency Management: Meaning of Emergency Management, Types of Emergency Management, Appropriate Responses to Emergency Management, Appropriate Actions to Emergency Management",
-            content: [
-              "(a) Meaning of Emergency Management",
-              "(b) Types of Emergency Management",
-              "(c) Appropriate Responses to Emergency Management",
-              "(d) Appropriate Actions to Emergency Management",
-            ],
-          },
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term(s)"],
+        },
+        {
+          week: 2,
+          topics:
+            "Election and Voter's Responsibilities: The Concepts of Election, Voter and Voting, Differences between Various Types of Election",
+          content: [
+            "(a) The Concepts of Election, Voter and Voting",
+            "(b) Differences between Various Types of Election",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Election and Voters' Responsibilities: Basic Qualifications for Election, Responsibilities of a Voter",
+          content: [
+            "(c) Basic Qualifications for Election",
+            "(d) Responsibilities of a Voter",
+          ],
+        },
+        {
+          week: 4,
+          topics:
+            "Election and Voters' Responsibilities: The Procedure for Voting, Importance of Election",
+          content: [
+            "(e) The Procedure for Voting",
+            "(f) Importance of Election",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "Electoral Malpractice: Meaning of Electoral Malpractice, Forms of Electoral Malpractices, Causes of Electoral Malpractices",
+          content: [
+            "(a) Meaning of Electoral Malpractice",
+            "(b) Forms of Electoral Malpractices – Fake ballot papers, manipulation of votes, artificial scarcity of electoral materials, underage voting, thuggery, financial inducement and other corrupt practices, fake manifestoes",
+            "(c) Causes of Electoral Malpractices",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "Electoral Malpractice: Consequences of Electoral Malpractices, Preventing Electoral Malpractices",
+          content: [
+            "(d) Consequences of Electoral Malpractices",
+            "(e) Preventing Electoral Malpractices",
+          ],
+        },
+        {
+          week: 7,
+          topics:
+            "Observing and Reporting Common Crimes: Different Ways of Observing and Reporting Common Crimes, Types of Report Writing, Appropriate Response to Any Crime Committed",
+          content: [
+            "(a) Different Ways of Observing and Reporting Common Crimes",
+            "(b) Types of Report Writing",
+            "(c) Appropriate Response to Any Crime Committed",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "Emergency Management: Meaning of Emergency Management, Types of Emergency Management, Appropriate Responses to Emergency Management, Appropriate Actions to Emergency Management",
+          content: [
+            "(a) Meaning of Emergency Management",
+            "(b) Types of Emergency Management",
+            "(c) Appropriate Responses to Emergency Management",
+            "(d) Appropriate Actions to Emergency Management",
+          ],
+        },
         {
           week: 9,
           topics: "Revision",
@@ -5673,74 +5732,74 @@ export const SchemeOfWorkData = {
         },
       ],
       "Computer Studies": [
-         {
-            week: 1,
-            topics: "Revision",
-            content: ["Revision of work done in the previous term"],
-          },
-          {
-            week: 2,
-            topics:
-              "ICT as a Transformational Tool: Meaning of ICT, Examples of ICT Gadgets",
-            content: ["(a) Meaning of ICT", "(b) Examples of ICT Gadgets"],
-          },
-          {
-            week: 3,
-            topics:
-              "ICT as a Transformational Tool: Benefits of ICT, Disadvantages of ICT",
-            content: ["(c) Benefits of ICT", "(d) Disadvantages of ICT"],
-          },
-          {
-            week: 4,
-            topics:
-              "ICT Gadgets: The GSM, Fax Machine, Telephone, etc., The Differences between GSM, Fax Machine and Telephone",
-            content: [
-              "(a) The GSM, Fax Machine, Telephone, etc.",
-              "(b) The Differences between GSM, Fax Machine and Telephone",
-              "(c) Creating and Sending Messages Using GSM and Fax",
-              "(d) Storing and Retrieving Information on a GSM Handset",
-            ],
-          },
-          {
-            week: 5,
-            topics:
-              "The Internet: Definitions of Internet, E-mail Address, World Wide Web, Internet Browsers, Creating an E-mail Account, Samples of E-mail Addresses, Chatting on the Internet",
-            content: [
-              "(a) Definitions of Internet, E-mail Address, World Wide Web",
-              "(b) Internet Browsers",
-              "(c) Creating an E-mail Account",
-              "(d) Samples of E-mail Addresses",
-              "(e) Chatting on the Internet",
-            ],
-          },
-          {
-            week: 6,
-            topics:
-              "The Internet: Benefits of the Internet, Abuses of the Internet",
-            content: [
-              "(f) Benefits of the Internet",
-              "(g) Abuses of the Internet",
-            ],
-          },
-          {
-            week: 7,
-            topics: "The Internet: Internet Environment, Uses of the Internet",
-            content: [
-              "(a) Internet Environment: Recognizing and Naming the Icons in the Internet Environment",
-              "(b) Uses of the Internet",
-            ],
-          },
-          {
-            week: 8,
-            topics:
-              "The Internet: Network Groups, Meaning of Network Groups, Meaning of Mailing Lists, Types of Mailing Lists, Newsgroups",
-            content: [
-              "(a) Meaning of Network Groups",
-              "(b) Meaning of Mailing Lists",
-              "(c) Types of Mailing Lists",
-              "(d) Newsgroups",
-            ],
-          },
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics:
+            "ICT as a Transformational Tool: Meaning of ICT, Examples of ICT Gadgets",
+          content: ["(a) Meaning of ICT", "(b) Examples of ICT Gadgets"],
+        },
+        {
+          week: 3,
+          topics:
+            "ICT as a Transformational Tool: Benefits of ICT, Disadvantages of ICT",
+          content: ["(c) Benefits of ICT", "(d) Disadvantages of ICT"],
+        },
+        {
+          week: 4,
+          topics:
+            "ICT Gadgets: The GSM, Fax Machine, Telephone, etc., The Differences between GSM, Fax Machine and Telephone",
+          content: [
+            "(a) The GSM, Fax Machine, Telephone, etc.",
+            "(b) The Differences between GSM, Fax Machine and Telephone",
+            "(c) Creating and Sending Messages Using GSM and Fax",
+            "(d) Storing and Retrieving Information on a GSM Handset",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "The Internet: Definitions of Internet, E-mail Address, World Wide Web, Internet Browsers, Creating an E-mail Account, Samples of E-mail Addresses, Chatting on the Internet",
+          content: [
+            "(a) Definitions of Internet, E-mail Address, World Wide Web",
+            "(b) Internet Browsers",
+            "(c) Creating an E-mail Account",
+            "(d) Samples of E-mail Addresses",
+            "(e) Chatting on the Internet",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "The Internet: Benefits of the Internet, Abuses of the Internet",
+          content: [
+            "(f) Benefits of the Internet",
+            "(g) Abuses of the Internet",
+          ],
+        },
+        {
+          week: 7,
+          topics: "The Internet: Internet Environment, Uses of the Internet",
+          content: [
+            "(a) Internet Environment: Recognizing and Naming the Icons in the Internet Environment",
+            "(b) Uses of the Internet",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "The Internet: Network Groups, Meaning of Network Groups, Meaning of Mailing Lists, Types of Mailing Lists, Newsgroups",
+          content: [
+            "(a) Meaning of Network Groups",
+            "(b) Meaning of Mailing Lists",
+            "(c) Types of Mailing Lists",
+            "(d) Newsgroups",
+          ],
+        },
         {
           week: 9,
           topics: "Revision",
@@ -5753,113 +5812,113 @@ export const SchemeOfWorkData = {
         },
       ],
       "English Studies": [
-          {
-            week: 1,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Consonant Clusters",
-              "(b) Structure: Adjectives (Comparative and Superlative)",
-              "(c) Comprehension/Vocabulary Development: Politics; Reading to Understand the Writer’s Purpose",
-              "(d) Composition: My New Year Resolution",
-              "(e) Literature: Introduction to Prose (Features of Prose)",
-            ],
-          },
-          {
-            week: 2,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Summary, Composition, Literature",
-            content: [
-              "(a) Speech Work: Diphthongs",
-              "(b) Structure: Tenses (Present, Past, Future)",
-              "(c) Comprehension/Vocabulary Development: Politics; Reading Speech",
-              "(d) Summary: Introduction to Summary Writing",
-              "(e) Composition: Argumentative Essay (Arguing a Position)",
-              "(f) Literature: Introduction to Drama (Elements of Drama)",
-            ],
-          },
-          {
-            week: 3,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Triphthongs",
-              "(b) Structure: Adverbials: Types of Adverbials (Cause and Reason, Purpose, Condition, etc.)",
-              "(c) Comprehension/Vocabulary Development: Government; Reading to Understand the Writer’s Purpose",
-              "(d) Composition: Argumentative Essay – (Guided Composition) “Civilian Government is Far Better than Military Government”",
-              "(e) Literature: Plot Structure in the Text",
-            ],
-          },
-          {
-            week: 4,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Consonant Sounds /h/, /w/ and /j/",
-              "(b) Structure: Punctuation Marks (Full Stop)",
-              "(c) Comprehension/Vocabulary Development: The Postal Service; Reading to Understand the Writer’s Purpose",
-              "(d) Composition: Formal Letters – (Letter to the School Principal)",
-              "(e) Literature: Characters and Characterization in the Recommended Text",
-            ],
-          },
-          {
-            week: 5,
-            topics:
-              "Speech Work, Structure, Summary/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Consonant Sounds /p/, /b/, /t/, /d/",
-              "(b) Structure: Punctuation Marks (The Comma)",
-              "(c) Summary/Vocabulary Development:",
-              "(d) Composition: Narrative Essay – (Guided Composition) “My Last Birthday”",
-              "(e) Literature: Poetry – Structure, Themes and Literary Devices in the Recommended Poem",
-            ],
-          },
-          {
-            week: 6,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Consonant Sounds /k/ and /g/",
-              "(b) Structure: Types of Sentences (Functional) Questions, Statements, and Commands",
-              "(c) Comprehension/Vocabulary Development: Mining; Reading to Identify the Meaning of Words in the Context",
-              "(d) Composition: Informal Letters – (Guided Composition)",
-              "(e) Literature: Poetry – Structure, Themes and Literary Devices in the Recommended Poem",
-            ],
-          },
-          {
-            week: 7,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/",
-              "(b) Structure: Direct Speech",
-              "(c) Comprehension/Vocabulary Development: The Media – The Press; Reading for Summary",
-              "(d) Composition: Oral – Expository Essay ‘My Favourable Meal’ (Class Discussion)",
-              "(e) Literature: Setting of the Recommended Text",
-            ],
-          },
-          {
-            week: 8,
-            topics:
-              "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
-            content: [
-              "(a) Speech Work: Intonation Patterns",
-              "(b) Structure: Indirect/Direct Speeches",
-              "(c) Comprehension/Vocabulary Development: The Media – Radio and Television; Reading for Summary",
-              "(d) Composition: Expository Essay – (Guided Writing) ‘My Favourable Meal’",
-              "(e) Literature: Themes of the Recommended Text",
-            ],
-          },
-          {
-            week: 9,
-            topics: "Speech Work, Structure, Composition, Literature",
-            content: [
-              "(a) Speech Work: The Rising Tone",
-              "(b) Structure: Adverbials (Comparative and Superlative)",
-              "(c) Composition: Story Writing – (Structure and Style)",
-              "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem",
-            ]
-          },
+        {
+          week: 1,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Consonant Clusters",
+            "(b) Structure: Adjectives (Comparative and Superlative)",
+            "(c) Comprehension/Vocabulary Development: Politics; Reading to Understand the Writer’s Purpose",
+            "(d) Composition: My New Year Resolution",
+            "(e) Literature: Introduction to Prose (Features of Prose)",
+          ],
+        },
+        {
+          week: 2,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Summary, Composition, Literature",
+          content: [
+            "(a) Speech Work: Diphthongs",
+            "(b) Structure: Tenses (Present, Past, Future)",
+            "(c) Comprehension/Vocabulary Development: Politics; Reading Speech",
+            "(d) Summary: Introduction to Summary Writing",
+            "(e) Composition: Argumentative Essay (Arguing a Position)",
+            "(f) Literature: Introduction to Drama (Elements of Drama)",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Triphthongs",
+            "(b) Structure: Adverbials: Types of Adverbials (Cause and Reason, Purpose, Condition, etc.)",
+            "(c) Comprehension/Vocabulary Development: Government; Reading to Understand the Writer’s Purpose",
+            "(d) Composition: Argumentative Essay – (Guided Composition) “Civilian Government is Far Better than Military Government”",
+            "(e) Literature: Plot Structure in the Text",
+          ],
+        },
+        {
+          week: 4,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Consonant Sounds /h/, /w/ and /j/",
+            "(b) Structure: Punctuation Marks (Full Stop)",
+            "(c) Comprehension/Vocabulary Development: The Postal Service; Reading to Understand the Writer’s Purpose",
+            "(d) Composition: Formal Letters – (Letter to the School Principal)",
+            "(e) Literature: Characters and Characterization in the Recommended Text",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "Speech Work, Structure, Summary/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Consonant Sounds /p/, /b/, /t/, /d/",
+            "(b) Structure: Punctuation Marks (The Comma)",
+            "(c) Summary/Vocabulary Development:",
+            "(d) Composition: Narrative Essay – (Guided Composition) “My Last Birthday”",
+            "(e) Literature: Poetry – Structure, Themes and Literary Devices in the Recommended Poem",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Consonant Sounds /k/ and /g/",
+            "(b) Structure: Types of Sentences (Functional) Questions, Statements, and Commands",
+            "(c) Comprehension/Vocabulary Development: Mining; Reading to Identify the Meaning of Words in the Context",
+            "(d) Composition: Informal Letters – (Guided Composition)",
+            "(e) Literature: Poetry – Structure, Themes and Literary Devices in the Recommended Poem",
+          ],
+        },
+        {
+          week: 7,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Contrasting Consonant Sounds /f/ and /v/, /s/ and /z/",
+            "(b) Structure: Direct Speech",
+            "(c) Comprehension/Vocabulary Development: The Media – The Press; Reading for Summary",
+            "(d) Composition: Oral – Expository Essay ‘My Favourable Meal’ (Class Discussion)",
+            "(e) Literature: Setting of the Recommended Text",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "Speech Work, Structure, Comprehension/Vocabulary Development, Composition, Literature",
+          content: [
+            "(a) Speech Work: Intonation Patterns",
+            "(b) Structure: Indirect/Direct Speeches",
+            "(c) Comprehension/Vocabulary Development: The Media – Radio and Television; Reading for Summary",
+            "(d) Composition: Expository Essay – (Guided Writing) ‘My Favourable Meal’",
+            "(e) Literature: Themes of the Recommended Text",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Speech Work, Structure, Composition, Literature",
+          content: [
+            "(a) Speech Work: The Rising Tone",
+            "(b) Structure: Adverbials (Comparative and Superlative)",
+            "(c) Composition: Story Writing – (Structure and Style)",
+            "(d) Literature: Structure, Themes and Literary Devices in Recommended Text/Poem",
+          ],
+        },
         {
           week: 10,
           topics: "Revision",
@@ -5872,66 +5931,65 @@ export const SchemeOfWorkData = {
         },
       ],
       "Home Economics": [
-        
-          {
-            week: 1,
-            topics: "Revision",
-            content: ["Revision of work done in the previous term"],
-          },
-          {
-            week: 2,
-            topics: "Food Purchasing, Processing, Preservation and Safety",
-            content: [
-              "(a) Perishable and Non-perishable Foods",
-              "(b) Food Storage Facilities",
-            ],
-          },
-          {
-            week: 3,
-            topics: "Food Purchasing, Processing, Preservation and Safety",
-            content: [
-              "(a) Risk Factors in Purchasing",
-              "(b) Precautions to Ensure Safety in Food Purchase",
-            ],
-          },
-          {
-            week: 4,
-            topics: "Food Purchasing, Processing, Preservation and Safety",
-            content: [
-              "Food Processing Methods E.g. (i) milling (ii) fermentation, etc. (Effects of inappropriate processing should be discussed)",
-            ],
-          },
-          {
-            week: 5,
-            topics: "Food Purchasing, Processing, Preservation and Safety",
-            content: [
-              "(a) Food Preservation Methods",
-              "(b) Guidelines to Keep Food Safe",
-            ],
-          },
-          {
-            week: 6,
-            topics: "Food Purchasing, Processing, Preservation and Safety",
-            content: [
-              "Practicals on Food Processing E.g. cassava into garri, corn into paste (pap), wheat mill into flour",
-            ],
-          },
-          {
-            week: 7,
-            topics: "Food Purchasing, Processing, Preservation and Safety",
-            content: [
-              "Practicals on Food Processing E.g. fermentation of milk (yoghurt)",
-            ],
-          },
-          {
-            week: 8,
-            topics: "Consumer Challenges and Rights",
-            content: [
-              "(a) Definition of Consumer",
-              "(b) Rights of the Consumer",
-              "(c) Challenges of the Consumer",
-            ],
-          },
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "(a) Perishable and Non-perishable Foods",
+            "(b) Food Storage Facilities",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "(a) Risk Factors in Purchasing",
+            "(b) Precautions to Ensure Safety in Food Purchase",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "Food Processing Methods E.g. (i) milling (ii) fermentation, etc. (Effects of inappropriate processing should be discussed)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "(a) Food Preservation Methods",
+            "(b) Guidelines to Keep Food Safe",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "Practicals on Food Processing E.g. cassava into garri, corn into paste (pap), wheat mill into flour",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Food Purchasing, Processing, Preservation and Safety",
+          content: [
+            "Practicals on Food Processing E.g. fermentation of milk (yoghurt)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Consumer Challenges and Rights",
+          content: [
+            "(a) Definition of Consumer",
+            "(b) Rights of the Consumer",
+            "(c) Challenges of the Consumer",
+          ],
+        },
         {
           week: 9,
           topics: "Revision",
@@ -5944,86 +6002,85 @@ export const SchemeOfWorkData = {
         },
       ],
       Mathematics: [
-        
-          {
-            week: 1,
-            topics: "Revision",
-            content: ["Revision of work done in second term"],
-          },
-          {
-            week: 2,
-            topics: "Angles in a Polygon",
-            content: [
-              "(a) Types of Polygons: Convex, Concave, Regular, Irregular",
-              "(b) Sum of Interior Angles in a Polygon (Number of Triangles in a Polygon)",
-              "(c) Sum of Exterior Angles of a Polygon",
-            ],
-          },
-          {
-            week: 3,
-            topics: "Angles of Elevation and Depression",
-            content: [
-              "(a) Horizontal and Vertical Planes",
-              "(b) Angles of Elevation and Depression",
-              "(c) Relationship between Angles of Elevation and Depression",
-              "(d) Scale Drawing",
-              "(e) Pythagoras",
-            ],
-          },
-          {
-            week: 4,
-            topics: "Bearing and Distances",
-            content: [
-              "(a) The Compass Directions (Major and Minor)",
-              "(b) Types of Bearing: Compass, Acute-angle, Three Figure",
-              "(c) Converting Acute-angle Bearing to Three Figure Bearing and Vice versa",
-              "(d) Reciprocal/Back Bearing",
-              "(e) Scale Drawing to Find Bearing and Distances",
-            ],
-          },
-          {
-            week: 5,
-            topics: "Use of ICT in Mathematics",
-            content: [
-              "(a) Using Computers to Solve Simple Mathematical Calculations (Using EXCEL)",
-              "(b) Translation of Word Problems into Mathematical Expressions",
-              "(c) Flow Charts",
-            ],
-          },
-          {
-            week: 6,
-            topics: "Computer Application",
-            content: [
-              "(a) Use of Punch Cards to Store Information",
-              "(b) Writing Familiar Words in Coded Form",
-            ],
-          },
-          {
-            week: 7,
-            topics: "Construction",
-            content: [
-              "(a) Construction of Special Angles (Revision)",
-              "(b) Constructing Triangles: (i) 2 Sides and Included Angles (ii) Two Angles and a Side between Them (iii) All the 3 Sides (c) Bisecting Angles: Bisecting Angle 90, 60 and Bisecting Any Given Angles",
-            ],
-          },
-          {
-            week: 8,
-            topics: "Data Presentation",
-            content: [
-              "(a) Frequency Tables: (Ungrouped and Grouped)",
-              "(b) Construction and Interpretation of Pie Charts",
-            ],
-          },
-          {
-            week: 9,
-            topics: "Probability",
-            content: [
-              "(a) Definition of Terms in Probability",
-              "(b) Experimental Probability",
-              "(c) Theoretical Probability",
-            ],
-          },
-        
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in second term"],
+        },
+        {
+          week: 2,
+          topics: "Angles in a Polygon",
+          content: [
+            "(a) Types of Polygons: Convex, Concave, Regular, Irregular",
+            "(b) Sum of Interior Angles in a Polygon (Number of Triangles in a Polygon)",
+            "(c) Sum of Exterior Angles of a Polygon",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Angles of Elevation and Depression",
+          content: [
+            "(a) Horizontal and Vertical Planes",
+            "(b) Angles of Elevation and Depression",
+            "(c) Relationship between Angles of Elevation and Depression",
+            "(d) Scale Drawing",
+            "(e) Pythagoras",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Bearing and Distances",
+          content: [
+            "(a) The Compass Directions (Major and Minor)",
+            "(b) Types of Bearing: Compass, Acute-angle, Three Figure",
+            "(c) Converting Acute-angle Bearing to Three Figure Bearing and Vice versa",
+            "(d) Reciprocal/Back Bearing",
+            "(e) Scale Drawing to Find Bearing and Distances",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Use of ICT in Mathematics",
+          content: [
+            "(a) Using Computers to Solve Simple Mathematical Calculations (Using EXCEL)",
+            "(b) Translation of Word Problems into Mathematical Expressions",
+            "(c) Flow Charts",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Computer Application",
+          content: [
+            "(a) Use of Punch Cards to Store Information",
+            "(b) Writing Familiar Words in Coded Form",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Construction",
+          content: [
+            "(a) Construction of Special Angles (Revision)",
+            "(b) Constructing Triangles: (i) 2 Sides and Included Angles (ii) Two Angles and a Side between Them (iii) All the 3 Sides (c) Bisecting Angles: Bisecting Angle 90, 60 and Bisecting Any Given Angles",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Data Presentation",
+          content: [
+            "(a) Frequency Tables: (Ungrouped and Grouped)",
+            "(b) Construction and Interpretation of Pie Charts",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Probability",
+          content: [
+            "(a) Definition of Terms in Probability",
+            "(b) Experimental Probability",
+            "(c) Theoretical Probability",
+          ],
+        },
+
         {
           week: 10,
           topics: "Revision",
@@ -6036,88 +6093,86 @@ export const SchemeOfWorkData = {
         },
       ],
       Music: [
-      
-          {
-            week: 1,
-            topics: "Revision",
-            content: ["Revision of work done in the previous term(s)"],
-          },
-          {
-            week: 2,
-            topics: "Transposition",
-            content: [
-              "(i) Definition of Transposition",
-              "(ii) Types of Transposition – Clef and Octave Transpositions only",
-            ],
-          },
-          {
-            week: 3,
-            topics: "History of Music II",
-            content: [
-              "(a) Musical Periods: Baroque, Classical, Romantic and Modern Periods",
-              "(b) Major Composers of These Periods",
-            ],
-          },
-          {
-            week: 4,
-            topics: "History of Music III",
-            content: ["Music before the 17th Century (Renaissance Period)"],
-          },
-          {
-            week: 5,
-            topics: "Cadences",
-            content: [
-              "(i) Definition of Cadences",
-              "(ii) Imperfect, Perfect, Plagal and Interrupted Cadences",
-            ],
-          },
-          {
-            week: 6,
-            topics: "Minor Scales",
-            content: ["Natural, Harmonic and Melodic"],
-          },
-          {
-            week: 7,
-            topics: "Major/Minor Keys Relationship",
-            content: ["Sharp and Flat Keys"],
-          },
-          {
-            week: 8,
-            topics: "History of Music IV",
-            content: [
-              "(i) Baroque, Classical, and Romantic Periods",
-              "(ii) Some Major Composers",
-            ],
-          },
-          {
-            week: 9,
-            topics: "Four-part Harmony",
-            content: ["Four-part Harmony"],
-          },
-          {
-            week: 10,
-            topics: "African Music",
-            content: [
-              "(i) Characteristics of African Music",
-              "(ii) Forms of African Music (Vocal Forms)",
-            ],
-          },
-          {
-            week: 11,
-            topics: "Musical Terms",
-            content: ["Musical Signs and Abbreviations"],
-          },
-          {
-            week: 12,
-            topics: "Revision",
-            content: ["Revision of work done in Third Term"],
-          },
-          {
-            week: 13,
-            topics: "Examination",
-            content: ["JSS2 Music Third Term Examination"],
-          },
-      
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term(s)"],
+        },
+        {
+          week: 2,
+          topics: "Transposition",
+          content: [
+            "(i) Definition of Transposition",
+            "(ii) Types of Transposition – Clef and Octave Transpositions only",
+          ],
+        },
+        {
+          week: 3,
+          topics: "History of Music II",
+          content: [
+            "(a) Musical Periods: Baroque, Classical, Romantic and Modern Periods",
+            "(b) Major Composers of These Periods",
+          ],
+        },
+        {
+          week: 4,
+          topics: "History of Music III",
+          content: ["Music before the 17th Century (Renaissance Period)"],
+        },
+        {
+          week: 5,
+          topics: "Cadences",
+          content: [
+            "(i) Definition of Cadences",
+            "(ii) Imperfect, Perfect, Plagal and Interrupted Cadences",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Minor Scales",
+          content: ["Natural, Harmonic and Melodic"],
+        },
+        {
+          week: 7,
+          topics: "Major/Minor Keys Relationship",
+          content: ["Sharp and Flat Keys"],
+        },
+        {
+          week: 8,
+          topics: "History of Music IV",
+          content: [
+            "(i) Baroque, Classical, and Romantic Periods",
+            "(ii) Some Major Composers",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Four-part Harmony",
+          content: ["Four-part Harmony"],
+        },
+        {
+          week: 10,
+          topics: "African Music",
+          content: [
+            "(i) Characteristics of African Music",
+            "(ii) Forms of African Music (Vocal Forms)",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Musical Terms",
+          content: ["Musical Signs and Abbreviations"],
+        },
+        {
+          week: 12,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 13,
+          topics: "Examination",
+          content: ["JSS2 Music Third Term Examination"],
+        },
       ],
       "Physical and Health Education (PHE)": [
         {
@@ -6213,17 +6268,18 @@ export const SchemeOfWorkData = {
         {
           week: 1,
           topics: "Revision",
-          content: ["Revision of work done in the previous term"]
+          content: ["Revision of work done in the previous term"],
         },
         {
           week: 2,
-          topics: "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          topics:
+            "Meaning and Consequences of Drug Abuse and Harmful Substances",
           content: [
             "(a) Ways of Discouraging Drug Abuse",
             "    (i) Forming drug free clubs",
             "    (ii) Acquiring coping skills",
-            "    (iii) Constructive use of time, e.g. sports, religious activities, etc."
-          ]
+            "    (iii) Constructive use of time, e.g. sports, religious activities, etc.",
+          ],
         },
         {
           week: 3,
@@ -6231,24 +6287,24 @@ export const SchemeOfWorkData = {
           content: [
             "(a) Meaning of Drug Trafficking",
             "(b) Illegal Activities in Drug Trafficking",
-            "(c) Reasons for Drug Trafficking"
-          ]
+            "(c) Reasons for Drug Trafficking",
+          ],
         },
         {
           week: 4,
           topics: "Prevalence of Drug Trafficking",
           content: [
             "(a) Countries/Continents with Prevalence of Drug Trafficking",
-            "(b) Frequently-trafficked Substances"
-          ]
+            "(b) Frequently-trafficked Substances",
+          ],
         },
         {
           week: 5,
           topics: "Dangers of Drug Trafficking",
           content: [
             "(a) Dangers/Consequences of Drug Trafficking",
-            "(b) Ways of Preventing Drug Trafficking"
-          ]
+            "(b) Ways of Preventing Drug Trafficking",
+          ],
         },
         {
           week: 6,
@@ -6256,8 +6312,8 @@ export const SchemeOfWorkData = {
           content: [
             "(a) Meaning of Anti-drug Agencies",
             "(b) Anti-drug Agencies in Nigeria",
-            "(c) Other Anti-drug Agencies"
-          ]
+            "(c) Other Anti-drug Agencies",
+          ],
         },
         {
           week: 7,
@@ -6265,8 +6321,8 @@ export const SchemeOfWorkData = {
           content: [
             "(a) Meaning of Content of Social Studies",
             "(b) Social Studies Methods",
-            "(c) Components of Social Studies"
-          ]
+            "(c) Components of Social Studies",
+          ],
         },
         {
           week: 8,
@@ -6275,8 +6331,8 @@ export const SchemeOfWorkData = {
             "(a) Meaning of Family",
             "(b) Kinds of Family Members of the Extended Family",
             "(c) Roles of the Extended Family Members in Child Development",
-            "(d) Advantages of Living Together in the Family"
-          ]
+            "(d) Advantages of Living Together in the Family",
+          ],
         },
         {
           week: 9,
@@ -6292,116 +6348,115 @@ export const SchemeOfWorkData = {
     },
   },
   //JSS3 FIRST TERM
-  JSS3:{
-    FirstTerm:{
-      "Agricultural Science":[
-        
-  {
-    week: 1,
-    topics: "Revision of last term's work",
-    content: ["Revision of work done in the previous term"]
-  },
-  {
-    week: 2,
-    topics: "Packaging and Packaging Criteria",
-    content: [
-      "(a) Packaging Criteria",
-      "    (i) Nature of the produce – Liquid or solid and shape",
-      "    (ii) Bulkiness (size)",
-      "    (iii) Live or frozen or dry stock",
-      "    (iv) Distance to market",
-      "(b) Examples of Packaging Items (Types of Packaging Materials in Agriculture) – Boxes, Drum/Barrels, Cages, Polythene, Trays, etc."
-    ]
-  },
-  {
-    week: 3,
-    topics: "Pricing and Advertising",
-    content: [
-      "(a) Definition of Pricing",
-      "(b) Price Determinants:",
-      "    (i) Cost of production",
-      "    (ii) Quality of produce",
-      "    (iii) Quantity of produce",
-      "    (iv) Forces of demand and supply",
-      "    (v) Market price",
-      "    (vi) Seasonal produce (Discuss What the price is composed of)"
-    ]
-  },
-  {
-    week: 4,
-    topics: "Records and Book Keeping",
-    content: [
-      "(a) Definition and Use of Farm Records",
-      "(b) Uses of Farm Records"
-    ]
-  },
-  {
-    week: 5,
-    topics: "Records and Book Keeping",
-    content: [
-      "(c) Types and Uses of Farm Records:",
-      "    (i) Farm diary",
-      "    (ii) Farm inventory",
-      "    (iii) Input records",
-      "    (iv) Production records",
-      "    (v) Consumption records",
-      "    (vi) Sales records",
-      "    (vii) Profit and loss account"
-    ]
-  },
-  {
-    week: 6,
-    topics: "Records and Book Keeping",
-    content: [
-      "(d) Computer Aided Farm Records and their Benefits",
-      "(e) Definition of Book Keeping:",
-      "    (i) Keeping account of financial activity of enterprise"
-    ]
-  },
-  {
-    week: 7,
-    topics: "Records and Book Keeping",
-    content: [
-      "(f) Source Documents:",
-      "    (i) Sales invoice",
-      "    (ii) Purchase invoice",
-      "    (iii) Returns inwards",
-      "    (iv) Returns outward"
-    ]
-  },
-  {
-    week: 8,
-    topics: "Records and Book Keeping",
-    content: [
-      "(g) Journal Preparation:",
-      "    Sales journal, Purchase journal, etc."
-    ]
-  },
-  {
-    week: 9,
-    topics: "Agriculture in Stock Exchange",
-    content: [
-      "(a) Meaning of Stock:",
-      "    Buying and selling of goods and services available now and in the future",
-      "(b) People involved in stock exchange:",
-      "    Buyers, sellers, buyers and sellers, farmers’ agents.",
-      "(c) Importance of Stock Exchange in Agriculture:",
-      "    Encourages investment in agriculture, encourages contract farming."
-    ]
-  },
-  {
-    week: 10,
-    topics: "Export Promotion in Agriculture",
-    content: [
-      "(a) Meaning of Export Promotion:",
-      "    Encouraging sale of Nigerian produce in other countries;",
-      "(b) Examples of Nigerian Export Produce:",
-      "    Cocoa, palm produce, hides & skin, cassava crop, groundnut, pepper, etc.",
-      "(c) Benefits of Export Promotion:",
-      "    Attracts foreign money (exchange), serves as additional market to farmers to earn income, etc."
-    ]
-  },
-    {
+  JSS3: {
+    FirstTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Packaging and Packaging Criteria",
+          content: [
+            "(a) Packaging Criteria",
+            "    (i) Nature of the produce – Liquid or solid and shape",
+            "    (ii) Bulkiness (size)",
+            "    (iii) Live or frozen or dry stock",
+            "    (iv) Distance to market",
+            "(b) Examples of Packaging Items (Types of Packaging Materials in Agriculture) – Boxes, Drum/Barrels, Cages, Polythene, Trays, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Pricing and Advertising",
+          content: [
+            "(a) Definition of Pricing",
+            "(b) Price Determinants:",
+            "    (i) Cost of production",
+            "    (ii) Quality of produce",
+            "    (iii) Quantity of produce",
+            "    (iv) Forces of demand and supply",
+            "    (v) Market price",
+            "    (vi) Seasonal produce (Discuss What the price is composed of)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Records and Book Keeping",
+          content: [
+            "(a) Definition and Use of Farm Records",
+            "(b) Uses of Farm Records",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Records and Book Keeping",
+          content: [
+            "(c) Types and Uses of Farm Records:",
+            "    (i) Farm diary",
+            "    (ii) Farm inventory",
+            "    (iii) Input records",
+            "    (iv) Production records",
+            "    (v) Consumption records",
+            "    (vi) Sales records",
+            "    (vii) Profit and loss account",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Records and Book Keeping",
+          content: [
+            "(d) Computer Aided Farm Records and their Benefits",
+            "(e) Definition of Book Keeping:",
+            "    (i) Keeping account of financial activity of enterprise",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Records and Book Keeping",
+          content: [
+            "(f) Source Documents:",
+            "    (i) Sales invoice",
+            "    (ii) Purchase invoice",
+            "    (iii) Returns inwards",
+            "    (iv) Returns outward",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Records and Book Keeping",
+          content: [
+            "(g) Journal Preparation:",
+            "    Sales journal, Purchase journal, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Agriculture in Stock Exchange",
+          content: [
+            "(a) Meaning of Stock:",
+            "    Buying and selling of goods and services available now and in the future",
+            "(b) People involved in stock exchange:",
+            "    Buyers, sellers, buyers and sellers, farmers’ agents.",
+            "(c) Importance of Stock Exchange in Agriculture:",
+            "    Encourages investment in agriculture, encourages contract farming.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Export Promotion in Agriculture",
+          content: [
+            "(a) Meaning of Export Promotion:",
+            "    Encouraging sale of Nigerian produce in other countries;",
+            "(b) Examples of Nigerian Export Produce:",
+            "    Cocoa, palm produce, hides & skin, cassava crop, groundnut, pepper, etc.",
+            "(c) Benefits of Export Promotion:",
+            "    Attracts foreign money (exchange), serves as additional market to farmers to earn income, etc.",
+          ],
+        },
+        {
           week: 11,
           topics: "Revision",
           content: ["Revision of work done in Third Term"],
@@ -6412,102 +6467,101 @@ export const SchemeOfWorkData = {
           content: ["JSS3 Agricultural Science First Term Examination"],
         },
       ],
-      "Basic Science":[
-        
-  {
-    week: 1,
-    topics: "Revision of last term's work",
-    content: ["Revision of work done in the previous term"]
-  },
-  {
-    week: 2,
-    topics: "The Sense Organs",
-    content: [
-      "(a) The Eye: (i) Description and Structure of the Eye",
-      "(b) The Ear: (i) Description and Structure of the Ear",
-      "(c) The Nose: (i) Description and Structure of the Nose",
-      "(d) The Tongue: (i) Description and Structure of the Tongue",
-      "(e) The Skin: (i) Description and Structure of the Skin",
-      "(f) The Nervous System"
-    ]
-  },
-  {
-    week: 3,
-    topics: "Light Energy",
-    content: [
-      "(i) Review of the Concepts of Reflection and Refraction of Light",
-      "(ii) Apparent Depth and its Dangers to Swimmers",
-      "(iii) Vision",
-      "(iv) Dispersion of Light",
-      "(v) Dispersion and Rainbow"
-    ]
-  },
-  {
-    week: 4,
-    topics: "Sound Energy",
-    content: [
-      "(i) Meaning of Sound",
-      "(ii) Production of Sound",
-      "(iii) Properties of Sound Energy",
-      "(iv) Transmission of Sound",
-      "(v) Reflection of Sounds (Echoes)",
-      "(vi) Hearing"
-    ]
-  },
-  {
-    week: 5,
-    topics: "Magnetism",
-    content: [
-      "(i) Meaning of Magnet",
-      "(ii) The Law of Magnetism",
-      "(iii) Magnetic Poles and Magnetic Fields",
-      "(iv) Care of Magnets"
-    ]
-  },
-  {
-    week: 6,
-    topics: "Electrical Energy",
-    content: [
-      "(i) Meaning of Electrical Energy",
-      "(ii) The Concept of Electron Flow",
-      "(iii) Electrical Circuits",
-      "(iv) Ammeter and Voltmeter",
-      "(v) House Circuits: Fuse and Circuit Breaker",
-      "(vi) Electric Meter Reading and Billing"
-    ]
-  },
-  {
-    week: 7,
-    topics: "Radioactivity",
-    content: [
-      "(i) Meaning of Definition of Radioactivity",
-      "(ii) Brief History of Radioactivity",
-      "(iii) Some Radioactive Elements",
-      "(iv) Types of Radiation",
-      "(v) Uses of Radioactivity",
-      "(vi) Dangers in the Use of Radioactive Rays"
-    ]
-  },
-  {
-    week: 8,
-    topics: "Skills Acquisition",
-    content: [
-      "(i) Meaning of Skill and Skill Acquisition",
-      "(ii) Reasons for Skills Acquisition",
-      "(iii) Types of Skills",
-      "(iv) Importance of Skills Acquisition"
-    ]
-  },
-  {
-    week: 9,
-    topics: "Ethical Issues in Science and Development",
-    content: [
-      "(i) Introduction",
-      "(ii) Meaning of Right and Wrong Applications of Science",
-      "(iii) Implications of Science to the Development of the Society"
-    ]
-  },
-    {
+      "Basic Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "The Sense Organs",
+          content: [
+            "(a) The Eye: (i) Description and Structure of the Eye",
+            "(b) The Ear: (i) Description and Structure of the Ear",
+            "(c) The Nose: (i) Description and Structure of the Nose",
+            "(d) The Tongue: (i) Description and Structure of the Tongue",
+            "(e) The Skin: (i) Description and Structure of the Skin",
+            "(f) The Nervous System",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Light Energy",
+          content: [
+            "(i) Review of the Concepts of Reflection and Refraction of Light",
+            "(ii) Apparent Depth and its Dangers to Swimmers",
+            "(iii) Vision",
+            "(iv) Dispersion of Light",
+            "(v) Dispersion and Rainbow",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Sound Energy",
+          content: [
+            "(i) Meaning of Sound",
+            "(ii) Production of Sound",
+            "(iii) Properties of Sound Energy",
+            "(iv) Transmission of Sound",
+            "(v) Reflection of Sounds (Echoes)",
+            "(vi) Hearing",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Magnetism",
+          content: [
+            "(i) Meaning of Magnet",
+            "(ii) The Law of Magnetism",
+            "(iii) Magnetic Poles and Magnetic Fields",
+            "(iv) Care of Magnets",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Electrical Energy",
+          content: [
+            "(i) Meaning of Electrical Energy",
+            "(ii) The Concept of Electron Flow",
+            "(iii) Electrical Circuits",
+            "(iv) Ammeter and Voltmeter",
+            "(v) House Circuits: Fuse and Circuit Breaker",
+            "(vi) Electric Meter Reading and Billing",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Radioactivity",
+          content: [
+            "(i) Meaning of Definition of Radioactivity",
+            "(ii) Brief History of Radioactivity",
+            "(iii) Some Radioactive Elements",
+            "(iv) Types of Radiation",
+            "(v) Uses of Radioactivity",
+            "(vi) Dangers in the Use of Radioactive Rays",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Skills Acquisition",
+          content: [
+            "(i) Meaning of Skill and Skill Acquisition",
+            "(ii) Reasons for Skills Acquisition",
+            "(iii) Types of Skills",
+            "(iv) Importance of Skills Acquisition",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Ethical Issues in Science and Development",
+          content: [
+            "(i) Introduction",
+            "(ii) Meaning of Right and Wrong Applications of Science",
+            "(iii) Implications of Science to the Development of the Society",
+          ],
+        },
+        {
           week: 10,
           topics: "Revision",
           content: ["Revision of work done in Third Term"],
@@ -6518,112 +6572,111 @@ export const SchemeOfWorkData = {
           content: ["JSS3 Basic Science First Term Examination"],
         },
       ],
-      "Basic Technology" :[
-        
-  {
-    week: 1,
-    topics: "Revision of last session's work",
-    content: ["Revision of work done in the previous term/session"]
-  },
-  {
-    week: 2,
-    topics: "Isometric Drawing",
-    content: [
-      "(a) (i) Examples of Isometric Drawings",
-      "(ii) Isometric Drawing of Simple Shape Blocks without Curves",
-      "(b) (i) Examples of Oblique Drawings",
-      "(ii) Simple Oblique Drawings"
-    ]
-  },
-  {
-    week: 3,
-    topics: "Orthographic Projection",
-    content: [
-      "(i) Principal Planes – Vertical and Horizontal",
-      "(ii) Angles of Projection – First Angle and Third Angle",
-      "(iii) Principal Views – Front, Side, Plan",
-      "(iv) Placing Principal Views in the Quadrants",
-      "(v) Dimensioning Techniques"
-    ]
-  },
-  {
-    week: 4,
-    topics: "Perspective Drawing",
-    content: [
-      "(a) One-point Perspective Drawing:",
-      "(i) Definition of One-point Perspective Drawing",
-      "(ii) Principles of One-point Perspective Drawing",
-      "(iii) Practice of One-point Perspective Drawing",
-      "(iv) Examples and Principles",
-      "(b) Scales and Scale Drawing:",
-      "(i) Measuring and Comparing Given Sizes",
-      "(ii) Scale Drawing – Full Size, 1:1, Scale Reduction e.g. 1:5, 1:10, 1:20, 1:100, etc.",
-      "(iii) Scale Enlargement e.g. 2:1, 3:1, etc."
-    ]
-  },
-  {
-    week: 5,
-    topics: "Drawing of Plans and Blueprints",
-    content: [
-      "(a) Common Symbols Used in Plans and Blueprints and their Interpretation",
-      "(b) Identification of Building Components (Fittings; Building Plans)",
-      "(c) Blueprint Drawing Techniques"
-    ]
-  },
-  {
-    week: 6,
-    topics: "TOOLS AND MACHINES: Woodwork Projects",
-    content: [
-      "(a) Woodwork Projects:",
-      "(i) Production of Various Objects using Simple Woodwork Machines and Tools e.g. Wooden tables, stools, boxes, photo frames, tee square, pot stand, book rack, book stand, shelf, etc."
-    ]
-  },
-  {
-    week: 6,
-    topics: "TOOLS AND MACHINES: Metalwork Project",
-    content: [
-      "(b) Metalwork Projects:",
-      "(i) Production of bottle openers",
-      "(ii) Production of Trash bin/cans, coal pots, etc.",
-      "(iii) Production of metal stools, chair and benches."
-    ]
-  },
-  {
-    week: 7,
-    topics: "TOOLS AND MACHINES: Soldering and Brazing",
-    content: [
-      "(a) Meaning of Soldering and Brazing",
-      "(b) Soldering and Brazing Tools and Materials",
-      "(c) Operations, Types and Uses"
-    ]
-  },
-  {
-    week: 8,
-    topics: "TOOLS AND MACHINES: Machine Motions",
-    content: [
-      "(a) Line Motion",
-      "(b) Lever Arrangement to Produce Linear Motion",
-      "(c) Uses of Slides and Slots in Mechanical Systems"
-    ]
-  },
-  {
-    week: 9,
-    topics: "TOOLS AND MACHINES: Rotary Motion",
-    content: [
-      "(a) (i) One-way Rotary Motion e.g Shaft of running car (ii) Reversible Rotary Motion e.g. Load drum of cranes, brakes, ditches and ratchets.",
-      "(b) Principles of Application of Rotary Motion",
-      "(c) Conversion of Rotary Motion to Linear Motion – Rack and pinion, screw, crank and slider, connecting rod and piston"
-    ]
-  },
-  {
-    week: 10,
-    topics: "TOOLS AND MACHINES: Simple Electrical Wiring",
-    content: [
-      "(a) Electrical Circuit – Series and Parallel Circuits",
-      "(b) Wiring Tools and Materials – Pliers, hammer, screw driver, clips, wooden blocks, cables, etc.",
-      "(c) Accessories – Switches, lamp holders, etc"
-    ]
-  }  ,
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Revision of last session's work",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Isometric Drawing",
+          content: [
+            "(a) (i) Examples of Isometric Drawings",
+            "(ii) Isometric Drawing of Simple Shape Blocks without Curves",
+            "(b) (i) Examples of Oblique Drawings",
+            "(ii) Simple Oblique Drawings",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Orthographic Projection",
+          content: [
+            "(i) Principal Planes – Vertical and Horizontal",
+            "(ii) Angles of Projection – First Angle and Third Angle",
+            "(iii) Principal Views – Front, Side, Plan",
+            "(iv) Placing Principal Views in the Quadrants",
+            "(v) Dimensioning Techniques",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Perspective Drawing",
+          content: [
+            "(a) One-point Perspective Drawing:",
+            "(i) Definition of One-point Perspective Drawing",
+            "(ii) Principles of One-point Perspective Drawing",
+            "(iii) Practice of One-point Perspective Drawing",
+            "(iv) Examples and Principles",
+            "(b) Scales and Scale Drawing:",
+            "(i) Measuring and Comparing Given Sizes",
+            "(ii) Scale Drawing – Full Size, 1:1, Scale Reduction e.g. 1:5, 1:10, 1:20, 1:100, etc.",
+            "(iii) Scale Enlargement e.g. 2:1, 3:1, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Drawing of Plans and Blueprints",
+          content: [
+            "(a) Common Symbols Used in Plans and Blueprints and their Interpretation",
+            "(b) Identification of Building Components (Fittings; Building Plans)",
+            "(c) Blueprint Drawing Techniques",
+          ],
+        },
+        {
+          week: 6,
+          topics: "TOOLS AND MACHINES: Woodwork Projects",
+          content: [
+            "(a) Woodwork Projects:",
+            "(i) Production of Various Objects using Simple Woodwork Machines and Tools e.g. Wooden tables, stools, boxes, photo frames, tee square, pot stand, book rack, book stand, shelf, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "TOOLS AND MACHINES: Metalwork Project",
+          content: [
+            "(b) Metalwork Projects:",
+            "(i) Production of bottle openers",
+            "(ii) Production of Trash bin/cans, coal pots, etc.",
+            "(iii) Production of metal stools, chair and benches.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "TOOLS AND MACHINES: Soldering and Brazing",
+          content: [
+            "(a) Meaning of Soldering and Brazing",
+            "(b) Soldering and Brazing Tools and Materials",
+            "(c) Operations, Types and Uses",
+          ],
+        },
+        {
+          week: 8,
+          topics: "TOOLS AND MACHINES: Machine Motions",
+          content: [
+            "(a) Line Motion",
+            "(b) Lever Arrangement to Produce Linear Motion",
+            "(c) Uses of Slides and Slots in Mechanical Systems",
+          ],
+        },
+        {
+          week: 9,
+          topics: "TOOLS AND MACHINES: Rotary Motion",
+          content: [
+            "(a) (i) One-way Rotary Motion e.g Shaft of running car (ii) Reversible Rotary Motion e.g. Load drum of cranes, brakes, ditches and ratchets.",
+            "(b) Principles of Application of Rotary Motion",
+            "(c) Conversion of Rotary Motion to Linear Motion – Rack and pinion, screw, crank and slider, connecting rod and piston",
+          ],
+        },
+        {
+          week: 10,
+          topics: "TOOLS AND MACHINES: Simple Electrical Wiring",
+          content: [
+            "(a) Electrical Circuit – Series and Parallel Circuits",
+            "(b) Wiring Tools and Materials – Pliers, hammer, screw driver, clips, wooden blocks, cables, etc.",
+            "(c) Accessories – Switches, lamp holders, etc",
+          ],
+        },
         {
           week: 11,
           topics: "Revision",
@@ -6635,93 +6688,91 @@ export const SchemeOfWorkData = {
           content: ["JSS3 Basic Technology First Term Examination"],
         },
       ],
-      "Business Studies":[
+      "Business Studies": [
         {
-          "week": 1,
-          "topics": "Revision of last term's work",
-          "content": [
-            "Revision of work done in the previous term/session"
-          ]
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term/session"],
         },
         {
-          "week": 2,
-          "topics": "Office Procedures",
-          "content": [
+          week: 2,
+          topics: "Office Procedures",
+          content: [
             "(a) (i) Meaning of Office Procedure (ii) Importance of Office Procedure",
             "(b) Procedure for Preparing Bills, Invoice and Receipts",
             "(c) Procedure and Methods for Making Payments by: cash, cheque, bank transfer, bank draft, e-payment",
-            "(d) Imprest Account Balance and Restoration of Imprest"
-          ]
+            "(d) Imprest Account Balance and Restoration of Imprest",
+          ],
         },
         {
-          "week": 3,
-          "topics": "Office Procedure: Store and Stock Taking",
-          "content": [
+          week: 3,
+          topics: "Office Procedure: Store and Stock Taking",
+          content: [
             "(a) (i) Meaning of Store (ii) Type of Goods in the Store",
             "(b) (i) Meaning of Store Record (ii) Type of Store Record",
             "(c) Importance of Store Record",
             "(d) Procedure for Store Procurement",
-            "(e) Stock Taking: (i) Meaning of Stock Taking (ii) Importance of Stock Taking"
-          ]
+            "(e) Stock Taking: (i) Meaning of Stock Taking (ii) Importance of Stock Taking",
+          ],
         },
         {
-          "week": 4,
-          "topics": "Office Equipment",
-          "content": [
+          week: 4,
+          topics: "Office Equipment",
+          content: [
             "(a) Meaning of Office Equipment",
             "(b) Identification of Office Equipment",
             "(c) Types of Office Equipment",
             "(d) Importance and Uses of Office Equipment",
-            "(e) Care of Office Equipment"
-          ]
+            "(e) Care of Office Equipment",
+          ],
         },
         {
-          "week": 5,
-          "topics": "Advertising",
-          "content": [
+          week: 5,
+          topics: "Advertising",
+          content: [
             "(a) Meaning of Advertising",
             "(b) Types of Advertising",
             "(c) Functions of Advertising",
             "(d) Forms of Advertising Media – Radio, Television, Newspaper, Magazines, Handbills, Internet, BillBoards, etc.",
-            "(c) Advertising Ethics"
-          ]
+            "(c) Advertising Ethics",
+          ],
         },
         {
-          "week": 6,
-          "topics": "Transportation",
-          "content": [
+          week: 6,
+          topics: "Transportation",
+          content: [
             "(a) Meaning of Transportation",
             "(b) Importance of Transportation in Commerce",
             "(c) Types of Transportation – Road, Air, Rail, Water, Pipeline",
-            "(d) Advantages and Disadvantages of Each Type of Transportation"
-          ]
+            "(d) Advantages and Disadvantages of Each Type of Transportation",
+          ],
         },
         {
-          "week": 7,
-          "topics": "Communication",
-          "content": [
+          week: 7,
+          topics: "Communication",
+          content: [
             "(a) Meaning of Communication",
             "(b) Types or Methods of Communication",
             "(c) Means of Communication – Post, Telephone, World Wide Web and Courier Services",
             "(d) Importance of Communication in Business",
-            "(e) Services Provided by Communication Agencies"
-          ]
+            "(e) Services Provided by Communication Agencies",
+          ],
         },
         {
-          "week": 8,
-          "topics": "Setting Simple Business Goals and Business Plan",
-          "content": [
+          week: 8,
+          topics: "Setting Simple Business Goals and Business Plan",
+          content: [
             "(a) Simple Business Goals: (i) Meaning of Business Goal (ii) Analysis of Business Goals (SWOT) (iii) Limitations of SWOT Analysis",
-            "(b) Simple Business Plan: (i) Meaning of Simple Business Plan (ii) Characteristics of a Simple Business Plan (iii) Procedure for Drawing Up a Simple Business Plan (iv) Sample of a Simple Business Plan"
-          ]
+            "(b) Simple Business Plan: (i) Meaning of Simple Business Plan (ii) Characteristics of a Simple Business Plan (iii) Procedure for Drawing Up a Simple Business Plan (iv) Sample of a Simple Business Plan",
+          ],
         },
         {
-          "week": 9,
-          "topics": "Business Letters and Simple Tabulation",
-          "content": [
+          week: 9,
+          topics: "Business Letters and Simple Tabulation",
+          content: [
             "(a) Business Letters: (i) Meaning of Business Letter (ii) Types of Business Letters (iii) Parts of a Business Letter (iv) Production or Printing of Business Letters",
-            "(b) Simple Tabulation: (i) Creation of Simple Tabulation (ii) Tabulation or Centering"
-          ]
+            "(b) Simple Tabulation: (i) Creation of Simple Tabulation (ii) Tabulation or Centering",
+          ],
         },
         {
           week: 11,
@@ -6734,76 +6785,69 @@ export const SchemeOfWorkData = {
           content: ["JSS3 Business Studies First Term Examination"],
         },
       ],
-      "Christian Religious Studies":[
-        
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "The Promise of the Holy Spirit",
-    "content": [
-      "(a) The Promise\n(John 14; 16:5-16; Acts 1:3-5,8)",
-      "(b) The Coming of the Holy Spirit\n(Acts 2:1-13)"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Peter’s First Speech on Pentecost Day and its Effect",
-    "content": [
-      "(i) Peter’s First speech",
-      "(ii) The Effect of Peter’s First Speech\n(Acts 2:14-41)"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Fellowship in the Early Church",
-    "content": [
-      "(a) Togetherness in the Early Church\n(Acts 2:41-47)",
-      "(b) Fraud in the Church\n(Acts 5:1-11)"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Fellowship in the Early Church",
-    "content": [
-      "(c) Murmuring in the Early Church\n(Acts 6:1,2)",
-      "(d) Selection of Deacons\n(Acts 6:1-7)\n(Equitable Distribution)"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Persecution of the Early Believer",
-    "content": [
-      "(a) The Arrest of Peter and John\n(Acts 3:1-44; 4:5-31)"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Persecution of the Early Believer",
-    "content": [
-      "(b) The Arrest and Martyrdom of Stephen\n(Acts 6:8-17; 17:1-60)"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Persecution of the Early Believer",
-    "content": [
-      "(c) Persecution of the Church by Saul\n(Acts 8:1-3;9:1-6)"
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Persecution of the Early Believer",
-    "content": [
-      "(d) The Martyrdom of James\n(Acts 12:1-3)"
-    ]
-  },
-  {
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "The Promise of the Holy Spirit",
+          content: [
+            "(a) The Promise\n(John 14; 16:5-16; Acts 1:3-5,8)",
+            "(b) The Coming of the Holy Spirit\n(Acts 2:1-13)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Peter’s First Speech on Pentecost Day and its Effect",
+          content: [
+            "(i) Peter’s First speech",
+            "(ii) The Effect of Peter’s First Speech\n(Acts 2:14-41)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Fellowship in the Early Church",
+          content: [
+            "(a) Togetherness in the Early Church\n(Acts 2:41-47)",
+            "(b) Fraud in the Church\n(Acts 5:1-11)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Fellowship in the Early Church",
+          content: [
+            "(c) Murmuring in the Early Church\n(Acts 6:1,2)",
+            "(d) Selection of Deacons\n(Acts 6:1-7)\n(Equitable Distribution)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Persecution of the Early Believer",
+          content: ["(a) The Arrest of Peter and John\n(Acts 3:1-44; 4:5-31)"],
+        },
+        {
+          week: 7,
+          topics: "Persecution of the Early Believer",
+          content: [
+            "(b) The Arrest and Martyrdom of Stephen\n(Acts 6:8-17; 17:1-60)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Persecution of the Early Believer",
+          content: [
+            "(c) Persecution of the Church by Saul\n(Acts 8:1-3;9:1-6)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Persecution of the Early Believer",
+          content: ["(d) The Martyrdom of James\n(Acts 12:1-3)"],
+        },
+        {
           week: 10,
           topics: "Revision",
           content: ["Revision of work done in Third Term"],
@@ -6814,73 +6858,70 @@ export const SchemeOfWorkData = {
           content: ["JSS3 christian Religious Studies First Term Examination"],
         },
       ],
-      "Civic Education":[
-        
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Right Attitude to Work",
-    "content": [
-      "(a) Meaning of Right Attitude to Work",
-      "(b) Attributes of the Right Attitude to Work – Honesty, discipline, integrity, commitment, punctuality, regularity, consistency, diligence and transparency."
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Right Attitude to Work",
-    "content": [
-      "(c) Rewards/Importance of the Right Attitude to Work – Higher productivity, efficiency, progress, recognition, improved national image, etc.",
-      "(d) Consequences of Not Having the Right Attitude to Work – Declining productivity, lack of motivation, indiscipline, national disasters – air/sea/road, etc."
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Negative Behaviour",
-    "content": [
-      "(a) Meaning of Negative Behaviour",
-      "(b) Types of Negative Behaviour – Dishonesty, excessive love of money, ostentatious living, disregard of time (African time), drug trafficking, examination malpractice, cultism, etc."
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Negative Behaviour",
-    "content": [
-      "(c) Effects of Negative Behaviour on Society – Value disorientation, inefficiency, high crime rate, etc.",
-      "(d) Promoting Positive Behavioural Change"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "National Population Census",
-    "content": [
-      "(a) Meaning of Population Census",
-      "(b) Importance of Accurate National Population Census"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "National Population Census",
-    "content": [
-      "(c) Problems Associated with the Conduct of Population Census in Nigeria",
-      "(d) How to Conduct Acceptable Census in Nigeria"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Protection of Human Rights",
-    "content": [
-      "(a) Meaning of Human Rights",
-      "(b) Types of Human Rights (social, political, economic, cultural, civic, etc.)",
-      "(c) Steps for the Protection of Human Rights"
-    ]
-  },
-  {
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Right Attitude to Work",
+          content: [
+            "(a) Meaning of Right Attitude to Work",
+            "(b) Attributes of the Right Attitude to Work – Honesty, discipline, integrity, commitment, punctuality, regularity, consistency, diligence and transparency.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Right Attitude to Work",
+          content: [
+            "(c) Rewards/Importance of the Right Attitude to Work – Higher productivity, efficiency, progress, recognition, improved national image, etc.",
+            "(d) Consequences of Not Having the Right Attitude to Work – Declining productivity, lack of motivation, indiscipline, national disasters – air/sea/road, etc.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Negative Behaviour",
+          content: [
+            "(a) Meaning of Negative Behaviour",
+            "(b) Types of Negative Behaviour – Dishonesty, excessive love of money, ostentatious living, disregard of time (African time), drug trafficking, examination malpractice, cultism, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Negative Behaviour",
+          content: [
+            "(c) Effects of Negative Behaviour on Society – Value disorientation, inefficiency, high crime rate, etc.",
+            "(d) Promoting Positive Behavioural Change",
+          ],
+        },
+        {
+          week: 6,
+          topics: "National Population Census",
+          content: [
+            "(a) Meaning of Population Census",
+            "(b) Importance of Accurate National Population Census",
+          ],
+        },
+        {
+          week: 7,
+          topics: "National Population Census",
+          content: [
+            "(c) Problems Associated with the Conduct of Population Census in Nigeria",
+            "(d) How to Conduct Acceptable Census in Nigeria",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Protection of Human Rights",
+          content: [
+            "(a) Meaning of Human Rights",
+            "(b) Types of Human Rights (social, political, economic, cultural, civic, etc.)",
+            "(c) Steps for the Protection of Human Rights",
+          ],
+        },
+        {
           week: 9,
           topics: "Revision",
           content: ["Revision of work done in Third Term"],
@@ -6891,76 +6932,64 @@ export const SchemeOfWorkData = {
           content: ["JSS3 Civic Education First Term Examination"],
         },
       ],
-      "Computer Studies":[
+      "Computer Studies": [
         {
-          "week": 1,
-          "topics": "Revision",
-          "content": [
-            "Revision of work done in the previous term/session"
-          ]
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
         },
         {
-          "week": 2,
-          "topics": "The Internet: Search Engines",
-          "content": [
+          week: 2,
+          topics: "The Internet: Search Engines",
+          content: [
             "(a) Meaning of Search Engine",
             "(b) Examples of Search Engines\n(i) Google.com\n(ii) Bing.com\n(iii) Ask.com\n(iv) Yahoo.com, etc.",
-            "(c) Uses of Search Engines"
-          ]
+            "(c) Uses of Search Engines",
+          ],
         },
         {
-          "week": 3,
-          "topics": "The Internet: Search Engines",
-          "content": [
-            "Practical Uses of Search Engine"
-          ]
+          week: 3,
+          topics: "The Internet: Search Engines",
+          content: ["Practical Uses of Search Engine"],
         },
         {
-          "week": 4,
-          "topics": "Digital Divide",
-          "content": [
-            "(a) The Concept of Digital Divide"
-          ]
+          week: 4,
+          topics: "Digital Divide",
+          content: ["(a) The Concept of Digital Divide"],
         },
         {
-          "week": 5,
-          "topics": "Digital Divide",
-          "content": [
+          week: 5,
+          topics: "Digital Divide",
+          content: [
             "(b) Features of the Old Economy i.e.\n(i) Time consuming\n(ii) Labour-based\n(iii) Mechanical\n(iv) Constrained by space, time and distance",
-            "(c) Features of the New Economy   i.e.\n(i) Digital gadgets\n(ii) Time, space and distance is irrelevant\n(iii) New economy is technology driven\n(iv) knowledge-based\n(v) Technological innovation is the key cornerstone to the limitation of the old economy"
-          ]
+            "(c) Features of the New Economy   i.e.\n(i) Digital gadgets\n(ii) Time, space and distance is irrelevant\n(iii) New economy is technology driven\n(iv) knowledge-based\n(v) Technological innovation is the key cornerstone to the limitation of the old economy",
+          ],
         },
         {
-          "week": 6,
-          "topics": "Digital Divide",
-          "content": [
+          week: 6,
+          topics: "Digital Divide",
+          content: [
             "(d) Limitations of the Old Economy",
-            "(e) Benefits of the New Economy –\n(i) Low capital to start business\n(ii) Low unemployment\n(iii) Immunity to boom macroeconomic cycle\n(iv) Creation of new jobs"
-          ]
+            "(e) Benefits of the New Economy –\n(i) Low capital to start business\n(ii) Low unemployment\n(iii) Immunity to boom macroeconomic cycle\n(iv) Creation of new jobs",
+          ],
         },
         {
-          "week": 7,
-          "topics": "Database",
-          "content": [
-            "(a) Definition of Database",
-            "(b) Database Terminologies"
-          ]
+          week: 7,
+          topics: "Database",
+          content: ["(a) Definition of Database", "(b) Database Terminologies"],
         },
         {
-          "week": 8,
-          "topics": "Database",
-          "content": [
-            "(c) Forms of Database –\n(i) Flat file\n(ii) Hierarchical\n(iii) Relational, etc"
-          ]
+          week: 8,
+          topics: "Database",
+          content: [
+            "(c) Forms of Database –\n(i) Flat file\n(ii) Hierarchical\n(iii) Relational, etc",
+          ],
         },
         {
-          "week": 9,
-          "topics": "Database",
-          "content": [
-            "Database Practical (MS Access)"
-          ]
-        }
-        ,
+          week: 9,
+          topics: "Database",
+          content: ["Database Practical (MS Access)"],
+        },
         {
           week: 10,
           topics: "Revision",
@@ -6973,160 +7002,159 @@ export const SchemeOfWorkData = {
         },
       ],
 
-      "English Studies":[
-        
-  {
-    "week": 1,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Long and Short Vowel Contrasts\n/i:/ and /i/;  /a:/ and /æ/; /ɔ:/ and /ɒ/",
-      "(b) Vocabulary Development: Adjectives of Colour and Sound",
-      "(c) Reading Comprehension: ‘The More You Look’\n(NOSEC, pages 8 – 10)",
-      "(d) Structure: Prepositions",
-      "(e) Composition: Narrative Essay\n(Writing an Outline of an Essay)\n‘The Happiest Day of My Life’",
-      "(f) Literature: Elements of Fiction and Non-fiction\n(Character, mood, style, plot, etc.)"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Long and Short Vowel Contrasts\n/u:/ and /ʊ/; /ɜ:/ and /ə/,  /e/;  /ɒ/ and /ɔ:/",
-      "(b) Vocabulary Development: Adjectives of Smell, Taste, Shape;\ne.g. aromatic acrid, etc.",
-      "(c) Reading Comprehension: ‘Cooperation’\n(NOSEC, page 18)",
-      "(d) Structure: Expressing/Describing Emotions\n(Verb + Preposition; V + to-infinite e.g. I want to shout. Verb + that clause e.g. We are surprised that you came)",
-      "(e) Composition: Descriptive Essay\n(Developing Your Paragraphs) “My School Compound”",
-      "(f) Literature: Revising Elements of Prose\n(Use the recommended text.)"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Diphthongs\n/ei/, /ai/, /ɔi/, /əʊ/",
-      "(b) Vocabulary Development: Antonyms\n(Words Nearly Opposite in Meaning)",
-      "(c) Reading Comprehension: ‘The Fruit of Perseverance’\n(NOSEC, page 29)",
-      "(d) Structure: Describing Emotions\n(Liking, Disliking and Preferring;\nVerb + to-infinitive (e.g. She loves to sing.);\nWould prefer + to infinitive (e.g. I would prefer to sing rather than dance);\nPrefer; to (e.g. She prefers bikes to cars .)",
-      "(e) Composition: Formal Letter Writing\n(Introduction, Essential Tips and Differences between Formal and Informal Letters)",
-      "(f) Literature: Revising Elements of Prose\n(Use the recommended text.)"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Consonant Contrasts\n/aʊ/, /əʊ/, /iə/, /eə/ and /ʊə/",
-      "(b) Vocabulary Development: Antonyms",
-      "(c) Reading Comprehension: ‘The Making of New Millionaires’\n(NOSEC, pages 40 – 42)",
-      "(d) Structure: Expressing Willingness/Unwillingness\n– Using modal verb +  adverbials (e.g. I will come if I’m invited; She will not come if she’s not invited)",
-      "(e) Composition: Formal Letters\n(Guided Writing)\n“A Letter to the Local Government Chairman asking him to tar the road to your school”",
-      "(f) Literature: Revising Elements of Poetry\n(Use recommended poem.)"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Diphthongs and Monophthongs in Contrast",
-      "(b) Vocabulary Development: Antonyms",
-      "(c) Reading Comprehension: ‘This is Lagos’\n(NOSEC, 48 – 50)",
-      "(d) English Structure: Expressing Intention and Permission\n(Using intend, aim + to infinitive; can, could, may, might, mind\nIntention: I intend to go home;\nWe aim to reach our goal;\nPermission: Could you please help me?;\nWould you mind my coming along?)",
-      "(e) Composition: Descriptive Essay\n(Guided Writing)\n‘Traveling By Air’",
-      "(f) Literature: Revising Poetry\n(Use recommended text.)"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Speech Work",
-    "content": [
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Consonant Contrasts\n/s/ and /z/; /d/ and / ð/; /ʃ/ and /s/; /f/ and /v/",
-      "(b) Reading Comprehension: Reading for Critical Evaluation\n‘Real Facts and Imagined facts’\n(NOSEC, pages 65 – 67)",
-      "(c) Structure:\n(i) Order of Adjectives;\n(ii) Direct and Indirect Speeches",
-      "(d) Composition: Semi-formal Letter\n(Guided Writing)\nWrite to your class teacher on your absence from school;",
-      "(e) Literature: Revising Poetry\n(Use recommended poem.)"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Consonant Contrast\n/p/ and /f/; /Ʒ/ and /ʃ/; /t/ and /θ/; /l/ and /r/; /s/ and /θ/; /ʃ/ and /ʧ/",
-      "(b) Vocabulary Development: Prefixes and Suffixes",
-      "(c) Reading Comprehension: It’s so Unfair’\n(NOSEC, pages 75 – 77)",
-      "(d) English Structure: Expressing Obligation and Necessity\n(using must, have to, need, ought to etc. e.g. I ought to have done my assignment. I need to go now.)",
-      "(e) Composition: Debate (Oral)\n“Corruption is worse than armed robbery.”",
-      "(f) Literature: Revising Drama\n(Use recommended text.)"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Intonation Patterns\n(Statements, Questions and Commands)",
-      "(b) Vocabulary Development: Words Expressing ‘Value’ and ‘Moral Value’",
-      "(c) Reading Comprehension: ‘Character Assassination as a Political Weapon’\n(NOSEC, pages 86 – 89)",
-      "(d) English Structure: Expressing Probability and Possibility\n(using may, can, might, could e.g. she couldn’t have left like that, they may not travel again",
-      "(e) Composition: Letter Writing\n– Informal Letters (Guided Writing)\n“A letter to my best friend on my plans for this academic session”",
-      "(f) Literature: Revising Drama\n(Use recommended text.)"
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Speech Work",
-    "content": [
-      "Vocabulary Development",
-      "Reading Comprehension",
-      "Structure",
-      "Composition",
-      "Literature",
-      "(a) Speech Work: Consonant Sound /h/\n(Where h is voiced e.g. house, help, hen, etc.;\nvoiceless e.g. hour, honor, hones, etc.)",
-      "(b) Vocabulary Development: Prefixes\n(Word Building Using Antonyms\ne.g inform – misinform, engage – disengage, manage – mismanage, etc.)",
-      "(c) Reading Comprehension: ‘Before you Build your House’\n(NOSEC, pages 101 – 102)",
-      "(d) Structure: Expressing Ability\n(using can, be able, to be capable of e.g.\n(i) She can do the job.\n(ii) I am able to jump three meters.\n(iii) They are capable of representing the school.)",
-      "(e) Composition: Descriptive Essay\n(Guided Writing)\n‘My Best Friend’",
-      "(f) Literature: Revising Drama\n(Use recommended text.)"
-    ]
-  } 
-  ,   {
+      "English Studies": [
+        {
+          week: 1,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Long and Short Vowel Contrasts\n/i:/ and /i/;  /a:/ and /æ/; /ɔ:/ and /ɒ/",
+            "(b) Vocabulary Development: Adjectives of Colour and Sound",
+            "(c) Reading Comprehension: ‘The More You Look’\n(NOSEC, pages 8 – 10)",
+            "(d) Structure: Prepositions",
+            "(e) Composition: Narrative Essay\n(Writing an Outline of an Essay)\n‘The Happiest Day of My Life’",
+            "(f) Literature: Elements of Fiction and Non-fiction\n(Character, mood, style, plot, etc.)",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Long and Short Vowel Contrasts\n/u:/ and /ʊ/; /ɜ:/ and /ə/,  /e/;  /ɒ/ and /ɔ:/",
+            "(b) Vocabulary Development: Adjectives of Smell, Taste, Shape;\ne.g. aromatic acrid, etc.",
+            "(c) Reading Comprehension: ‘Cooperation’\n(NOSEC, page 18)",
+            "(d) Structure: Expressing/Describing Emotions\n(Verb + Preposition; V + to-infinite e.g. I want to shout. Verb + that clause e.g. We are surprised that you came)",
+            "(e) Composition: Descriptive Essay\n(Developing Your Paragraphs) “My School Compound”",
+            "(f) Literature: Revising Elements of Prose\n(Use the recommended text.)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Diphthongs\n/ei/, /ai/, /ɔi/, /əʊ/",
+            "(b) Vocabulary Development: Antonyms\n(Words Nearly Opposite in Meaning)",
+            "(c) Reading Comprehension: ‘The Fruit of Perseverance’\n(NOSEC, page 29)",
+            "(d) Structure: Describing Emotions\n(Liking, Disliking and Preferring;\nVerb + to-infinitive (e.g. She loves to sing.);\nWould prefer + to infinitive (e.g. I would prefer to sing rather than dance);\nPrefer; to (e.g. She prefers bikes to cars .)",
+            "(e) Composition: Formal Letter Writing\n(Introduction, Essential Tips and Differences between Formal and Informal Letters)",
+            "(f) Literature: Revising Elements of Prose\n(Use the recommended text.)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Consonant Contrasts\n/aʊ/, /əʊ/, /iə/, /eə/ and /ʊə/",
+            "(b) Vocabulary Development: Antonyms",
+            "(c) Reading Comprehension: ‘The Making of New Millionaires’\n(NOSEC, pages 40 – 42)",
+            "(d) Structure: Expressing Willingness/Unwillingness\n– Using modal verb +  adverbials (e.g. I will come if I’m invited; She will not come if she’s not invited)",
+            "(e) Composition: Formal Letters\n(Guided Writing)\n“A Letter to the Local Government Chairman asking him to tar the road to your school”",
+            "(f) Literature: Revising Elements of Poetry\n(Use recommended poem.)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Diphthongs and Monophthongs in Contrast",
+            "(b) Vocabulary Development: Antonyms",
+            "(c) Reading Comprehension: ‘This is Lagos’\n(NOSEC, 48 – 50)",
+            "(d) English Structure: Expressing Intention and Permission\n(Using intend, aim + to infinitive; can, could, may, might, mind\nIntention: I intend to go home;\nWe aim to reach our goal;\nPermission: Could you please help me?;\nWould you mind my coming along?)",
+            "(e) Composition: Descriptive Essay\n(Guided Writing)\n‘Traveling By Air’",
+            "(f) Literature: Revising Poetry\n(Use recommended text.)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Speech Work",
+          content: [
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Consonant Contrasts\n/s/ and /z/; /d/ and / ð/; /ʃ/ and /s/; /f/ and /v/",
+            "(b) Reading Comprehension: Reading for Critical Evaluation\n‘Real Facts and Imagined facts’\n(NOSEC, pages 65 – 67)",
+            "(c) Structure:\n(i) Order of Adjectives;\n(ii) Direct and Indirect Speeches",
+            "(d) Composition: Semi-formal Letter\n(Guided Writing)\nWrite to your class teacher on your absence from school;",
+            "(e) Literature: Revising Poetry\n(Use recommended poem.)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Consonant Contrast\n/p/ and /f/; /Ʒ/ and /ʃ/; /t/ and /θ/; /l/ and /r/; /s/ and /θ/; /ʃ/ and /ʧ/",
+            "(b) Vocabulary Development: Prefixes and Suffixes",
+            "(c) Reading Comprehension: It’s so Unfair’\n(NOSEC, pages 75 – 77)",
+            "(d) English Structure: Expressing Obligation and Necessity\n(using must, have to, need, ought to etc. e.g. I ought to have done my assignment. I need to go now.)",
+            "(e) Composition: Debate (Oral)\n“Corruption is worse than armed robbery.”",
+            "(f) Literature: Revising Drama\n(Use recommended text.)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Intonation Patterns\n(Statements, Questions and Commands)",
+            "(b) Vocabulary Development: Words Expressing ‘Value’ and ‘Moral Value’",
+            "(c) Reading Comprehension: ‘Character Assassination as a Political Weapon’\n(NOSEC, pages 86 – 89)",
+            "(d) English Structure: Expressing Probability and Possibility\n(using may, can, might, could e.g. she couldn’t have left like that, they may not travel again",
+            "(e) Composition: Letter Writing\n– Informal Letters (Guided Writing)\n“A letter to my best friend on my plans for this academic session”",
+            "(f) Literature: Revising Drama\n(Use recommended text.)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Speech Work",
+          content: [
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+            "(a) Speech Work: Consonant Sound /h/\n(Where h is voiced e.g. house, help, hen, etc.;\nvoiceless e.g. hour, honor, hones, etc.)",
+            "(b) Vocabulary Development: Prefixes\n(Word Building Using Antonyms\ne.g inform – misinform, engage – disengage, manage – mismanage, etc.)",
+            "(c) Reading Comprehension: ‘Before you Build your House’\n(NOSEC, pages 101 – 102)",
+            "(d) Structure: Expressing Ability\n(using can, be able, to be capable of e.g.\n(i) She can do the job.\n(ii) I am able to jump three meters.\n(iii) They are capable of representing the school.)",
+            "(e) Composition: Descriptive Essay\n(Guided Writing)\n‘My Best Friend’",
+            "(f) Literature: Revising Drama\n(Use recommended text.)",
+          ],
+        },
+        {
           week: 10,
           topics: "Revision",
           content: ["Revision of work done in Third Term"],
@@ -7137,82 +7165,73 @@ export const SchemeOfWorkData = {
           content: ["JSS3 English Studies First Term Examination"],
         },
       ],
-      "Home Economics":[
-        
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Consumer Challenges and Rights",
-    "content": [
-      "(d) Redress Options for the Consumer",
-      "(e) Procedure for Seeking Redress"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Child Development and Care",
-    "content": [
-      "(a) Meaning and Stages of Child Development",
-      "(b) Factors that Influence Child Development",
-      "(c) Conditions Necessary for Child Development"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Child Development and Care",
-    "content": [
-      "(d) Care of the Child",
-      "(e) Common Childhood Ailments",
-      "(f) Immunization for Children"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
-    "content": [
-      "(a) Definition of Textiles with Examples",
-      "(b) Basic Textile Terms\nE.g. fiber, yarn, warp, and weft",
-      "(c) Reasons for Studying Textiles"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
-    "content": [
-      "(d) Importance of Textiles",
-      "(e) Differences between Natural and Synthetic Fibers"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
-    "content": [
-      "(f) Properties of Fibers",
-      "(g) Care and Uses of Fibers"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
-    "content": [
-      "(h) Production of Textiles",
-      "(i) Manufacture of Fabrics"
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Textiles: Types, Properties, Production, Uses, and Care",
-    "content": [
-      "(j) Production of Synthetic Fabrics",
-      "(k) Laundering of Fabrics"
-    ]
-  },
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Consumer Challenges and Rights",
+          content: [
+            "(d) Redress Options for the Consumer",
+            "(e) Procedure for Seeking Redress",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Child Development and Care",
+          content: [
+            "(a) Meaning and Stages of Child Development",
+            "(b) Factors that Influence Child Development",
+            "(c) Conditions Necessary for Child Development",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Child Development and Care",
+          content: [
+            "(d) Care of the Child",
+            "(e) Common Childhood Ailments",
+            "(f) Immunization for Children",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Textiles: Types, Properties, Production, Uses, and Care",
+          content: [
+            "(a) Definition of Textiles with Examples",
+            "(b) Basic Textile Terms\nE.g. fiber, yarn, warp, and weft",
+            "(c) Reasons for Studying Textiles",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Textiles: Types, Properties, Production, Uses, and Care",
+          content: [
+            "(d) Importance of Textiles",
+            "(e) Differences between Natural and Synthetic Fibers",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Textiles: Types, Properties, Production, Uses, and Care",
+          content: ["(f) Properties of Fibers", "(g) Care and Uses of Fibers"],
+        },
+        {
+          week: 8,
+          topics: "Textiles: Types, Properties, Production, Uses, and Care",
+          content: ["(h) Production of Textiles", "(i) Manufacture of Fabrics"],
+        },
+        {
+          week: 9,
+          topics: "Textiles: Types, Properties, Production, Uses, and Care",
+          content: [
+            "(j) Production of Synthetic Fabrics",
+            "(k) Laundering of Fabrics",
+          ],
+        },
         {
           week: 10,
           topics: "Revision",
@@ -7224,4185 +7243,5298 @@ export const SchemeOfWorkData = {
           content: ["JSS3 Home Economics First Term Examination"],
         },
       ],
- "Mathematics":[
-
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Number Bases",
-    "content": [
-      "(a) Conversion from Base Ten to Other Bases",
-      "(b) Conversion from Other Bases to Base Ten",
-      "(c) Conversion from One Base to Another Other than Base Ten",
-      "(d) Number Base Arithmetic"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Number System",
-    "content": [
-      "(a) Types of Numbers",
-      "(b) (i) Rational and Irrational Numbers",
-      "(ii) The Concept of Pi",
-      "(iii) Recurring and Terminating Decimals",
-      "(c) Proportion:\n(Direct and Inverse Proportion, Reciprocals)",
-      "(d) Word Problems"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Compound Interest",
-    "content": [
-      "(a) Revision of Simple Interest",
-      "(b) Compound Interest",
-      "(c) Word Problems"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Factorization",
-    "content": [
-      "(a) Factorizing Algebraic Expressions –\n3m + pq +3p +mp; a2 – b2;\na2 – 2ab + b2;\na2 + 2ab + b2",
-      "(b) Factorizing Expressions with a Common Factor, Brackets and by Grouping",
-      "(c) Special Cases of Factorization",
-      "(d) Using Factorization to Simplify Calculation and Coefficient of Term",
-      "(e) Word Problems Involving Factorization"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Equations Involving Fractions",
-    "content": [
-      "(a) Clearing Fractions\n(Revision)",
-      "(b) Algebraic Fractions with:\n(i) Unknown at the Numerator\n(ii) Unknown at the Denominator\n(iii) Unknown at the Numerator and Denominator",
-      "(c) Change of Subject of Formulae and Substitution"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Trigonometry",
-    "content": [
-      "(a) Right-angled Triangles\n(Revision)",
-      "(b) Relationship between Right-angled Triangle and Trigonometric Ratios",
-      "(c) Sine, Cosine and Tangent of Acute Angles Using Tables",
-      "(d) Applications of Trigonometric Ratios"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Statistics",
-    "content": [
-      "(a) Data Presentation\n(Revision)",
-      "(b) The Range"
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Statistics",
-    "content": [
-      "Measures of Central Tendency"
-    ]
-  }
-  ,
-  {
-    week: 10,
-    topics: "Revision",
-    content: ["Revision of work done in Third Term"],
-  },
-  {
-    week: 11,
-    topics: "Examination",
-    content: ["JSS3 Mathematics First Term Examination"],
-  },
- ],
- "Physical and Health Education (PHE)":[
-  
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Physical Fitness and Body Conditioning Programme",
-    "content": [
-      "(a) Meaning of Physical Exercise, Physical Fitness and Body Conditioning",
-      "(b) Benefits Derived from Physical Fitness\n– Health-related Benefits and Performance-related Benefits",
-      "(c) Factors that Influence Physical Fitness"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Recreation, Leisure and Dance Activities",
-    "content": [
-      "(a) Pre-colonial or Folk Traditional Dances\nlike – Atilogwe (Ibo), Bata, Agidigbo (Yoruba), Sharo (Fulani), Langa (Hausa)",
-      "(b) Social Dances",
-      "(c) Foreign and Modern Dance\nE.g. Reggae, disco, high life, rumba, classical",
-      "(d) Types of Computer Games\nE.g. Cricket and soccer",
-      "(e) Values of Computer Games"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Track and Field: Pole Vault and Javelin",
-    "content": [
-      "(a) Pole Vault Skills\n– Grip, run-up, pole carrying, take off, hang,swing, pull up and bar clearance, landing, recovery",
-      "(b) Basic Javelin Skills\n– Grip, carriage, run up, release, follow through, recovery"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Ball Games",
-    "content": [
-      "(a) Hockey Game",
-      "(b) Basic Skills and Techniques in Hockey\nE.g. hit, stop, drive, dribble, pass, flick, push, bully/centre pass",
-      "(c) Rules and Safety Regulations in Hockey",
-      "(d) Hockey Officials and their Duties",
-      "(d) Facilities and Equipment Used in Hockey",
-      "(e) Values of the Games",
-      "(f) Activity: Draw and label the\n(i) Hockey pitch\n(ii) Hockey stick"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Group/Combined Events",
-    "content": [
-      "(a) Classification as\n(i) Pentathlon\n(ii) Decathlon",
-      "(b) List of Various Events Under\n(i) Decathlon\n(ii) Pentathlon",
-      "(c) The Duration of the Completion of Decathlon and Pentathlon"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Group/Combined Events",
-    "content": [
-      "(d) Scoring the Events",
-      "(e) Facilities and Equipment",
-      "(f) Rules and Regulations",
-      "(g) Officiating",
-      "(h) Safety Rules"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Nigerian Sports Heroes",
-    "content": [
-      "(a) Career Guidance in Physical Education",
-      "(b) Past and Present Sports Heroes and their Contributions in Nigeria",
-      "(c) Professionals in Physical Education in Nigeria"
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Contact Games",
-    "content": [
-      "(a) Taekwondo and Basic Techniques",
-      "(b) Importance of Taekwondo",
-      "(c) Safety Rules, Regulations and Officiating in Taekwondo",
-      "(d) Boxing and Basic Techniques",
-      "(e) Safety Rules, Regulations and Officiating in Boxing"
-    ]
-  }
-  ,
-  {
-    week: 10,
-    topics: "Revision",
-    content: ["Revision of work done in Third Term"],
-  },
-  {
-    week: 11,
-    topics: "Examination",
-    content: ["JSS3 Physical and Health Education (PHE) First Term Examination"],
-  },
- ],
- "Social Studies":[
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Human Trafficking",
-    "content": [
-      "(a) Meaning of Human Trafficking",
-      "(b) Factors Responsible for Children and Women Trafficking",
-      "(c) Consequences of Human Trafficking:\n(i) Physical consequences\n(ii) Psychological consequences\n(iii) Social consequences"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Human Trafficking",
-    "content": [
-      "(d) Preventive Measures against Human Trafficking"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Harmful Traditional Practices",
-    "content": [
-      "(a) Meaning of Harmful Traditional Practices",
-      "(b) Examples of Harmful Traditional Practices"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Harmful Traditional Practices",
-    "content": [
-      "(c) Consequences of Harmful Traditional Practices:\n(i) Social Consequences\n(ii) Economic consequences\n(iii) Psychological consequences\n(iv) Physical consequences",
-      "(d) Prevention of Harmful Traditional Practices:\n(i) Awareness raising\n(ii) Education\n(iii) Advocacy and legislation, etc."
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Promoting Peaceful Living in our Society",
-    "content": [
-      "(a) Meaning of Peace – Cordial and friendly living among different groups of people",
-      "(b) Types of Peace:\n(i) Positive peace\n(ii) Negative/uneasy peace",
-      "(c) Importance of Peace",
-      "(d) Ways of Promoting Peace"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Social Conflicts",
-    "content": [
-      "(a) Meaning of Conflict as Interpersonal Misunderstanding",
-      "(b) Types of Conflicts – Violent and Non-violent"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Social Conflicts",
-    "content": [
-      "(c) Examples of Conflict:\n(i) Inter-ethnic Conflicts\n(ii) Communal/Intra-ethnic Conflicts, etc.",
-      "(d) Causes and Consequences of Conflicts"
-    ]
-  },
-  {
-    week: 9,
-    topics: "Revision",
-    content: ["Revision of work done in Third Term"],
-  },
-  {
-    week: 10,
-    topics: "Examination",
-    content: ["JSS3 Social Studies First Term Examination"],
-  },
- ]
-    },
-  //JSS3 SECOND TERM
-SecondTerm:{
-  "Basic Science" :[
-
-    {
-      "week": 1,
-      "topics": "Revision of last term's work",
-      "content": [
-        "Revision of work done in the previous term"
-      ]
-    },
-    {
-      "week": 2,
-      "topics": "The Sense Organs",
-      "content": [
-        "(a) The Eye: (i) Description and Structure of the Eye",
-        "(b) The Ear: (i) Description and Structure of the Ear",
-        "(c) The Nose: (i) Description and Structure of the Nose",
-        "(d) The Tongue: (i) Description and Structure of the Tongue",
-        "(e) The Skin: (i) Description and Structure of the Skin",
-        "(f) The Nervous System"
-      ]
-    },
-    {
-      "week": 3,
-      "topics": "Light Energy",
-      "content": [
-        "(i) Review of the Concepts of Reflection and Refraction of Light",
-        "(ii) Apparent Depth and its Dangers to Swimmers",
-        "(iii) Vision",
-        "(iv) Dispersion of Light",
-        "(v) Dispersion and Rainbow"
-      ]
-    },
-    {
-      "week": 4,
-      "topics": "Sound Energy",
-      "content": [
-        "(i) Meaning of Sound",
-        "(ii) Production of Sound",
-        "(iii) Properties of Sound Energy",
-        "(iv) Transmission of Sound",
-        "(v) Reflection of Sounds (Echoes)",
-        "(vi) Hearing"
-      ]
-    },
-    {
-      "week": 5,
-      "topics": "Magnetism",
-      "content": [
-        "(i) Meaning of Magnet",
-        "(ii) The Law of Magnetism",
-        "(iii) Magnetic Poles and Magnetic Fields",
-        "(iv) Care of Magnets"
-      ]
-    },
-    {
-      "week": 6,
-      "topics": "Electrical Energy",
-      "content": [
-        "(i) Meaning of Electrical Energy",
-        "(ii) The Concept of Electron Flow",
-        "(iii) Electrical Circuits",
-        "(iv) Ammeter and Voltmeter",
-        "(v) House Circuits: Fuse and Circuit Breaker",
-        "(vi) Electric Meter Reading and Billing"
-      ]
-    },
-    {
-      "week": 7,
-      "topics": "Radioactivity",
-      "content": [
-        "(i) Meaning of Definition of Radioactivity",
-        "(ii) Brief History of Radioactivity",
-        "(iii) Some Radioactive Elements",
-        "(iv) Types of Radiation",
-        "(v) Uses of Radioactivity",
-        "(vi) Dangers in the Use of Radioactive Rays"
-      ]
-    },
-    {
-      "week": 8,
-      "topics": "Skills Acquisition",
-      "content": [
-        "(i) Meaning of Skill and Skill Acquisition",
-        "(ii) Reasons for Skills Acquisition",
-        "(iii) Types of Skills",
-        "(iv) Importance of Skills Acquisition"
-      ]
-    },
-    {
-      "week": 9,
-      "topics": "Ethical Issues in Science and Development",
-      "content": [
-        "(i) Introduction",
-        "(ii) Meaning of Right and Wrong Applications of Science",
-        "(iii) Implications of Science to the Development of the Society"
-      ]
-    },
-    {
-      week: 10,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["JSS3 Basic Science Second Term Examination"],
-    },
-  ],
-  "Basic Technology":[
-    
-  {
-    "week": 1,
-    "topics": "Revision of last term's work",
-    "content": [
-      "Revision of work done in the previous term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "BUILDING: Foundation",
-    "content": [
-      "(i) Definition of Foundation",
-      "(ii) Functions of Foundation – support and weight of walls, roofs and inhabitants",
-      "(iii) Types of Foundation – strip, stepped, raft etc.",
-      "(iv) Types and Properties of Soil",
-      "(v) Hand Tools and Plant for Excavation: diggers, shovels, excavator, etc."
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "BUILDING: Walls",
-    "content": [
-      "(i) Materials for Making Walls – grass, zinc, curtain, bricks, etc.",
-      "(ii) Types of Walls – walls grass, zinc, curtain bricks, etc.",
-      "(iii) Materials for Bonding"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "BUILDING: Floors",
-    "content": [
-      "(i) Floor – basement, ground floor, first floor, etc.",
-      "(ii) DPC"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "BUILDING: Doors, Windows and Openings",
-    "content": [
-      "(i) Doors – flush door, glazed, sliding, revolving, etc.",
-      "(ii) Windows – louver, sliding, casement, etc",
-      "(iii) Lintel"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "BUILDING: Roofs",
-    "content": [
-      "(i) Types of Roof – flat roof, double pitched, lean-to Gable, etc.",
-      "(ii) Roofing Materials – grass, zinc, aluminium, etc."
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "BUILDING: Simple Blueprint Reading",
-    "content": [
-      "(i) Sanitary Wares – sink, bath, showers, etc. soak-away, septic tank, socket, windows, doors, room, etc."
-    ]
-  }    ,
-    {
-      week: 8,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week: 9,
-      topics: "Examination",
-      content: ["JSS3 Basic Technology Second Term Examination"],
-    },
-  ],
-  "Business Studies":[
-    {
-      "week": 1,
-      "topics": "Revision of last term's work",
-      "content": [
-        "Revision of work done in the previous term"
-      ]
-    },
-    {
-      "week": 2,
-      "topics": "Consumer Protection Agencies",
-      "content": [
-        "(a) Meaning of Consumer",
-        "(b) Need for Consumer Protection",
-        "(c) Regulators (Agencies) of Consumer Protection",
-        "(d) Roles and Responsibilities of Consumer Protection Agencies"
-      ]
-    },
-    {
-      "week": 3,
-      "topics": "How to Make Complaints",
-      "content": [
-        "(a) Meaning of Complaint",
-        "(b) Types of Complaints",
-        "(c) Steps in Lodging a Complaint",
-        "(d) Writing a Complaint Letter"
-      ]
-    },
-    {
-      "week": 4,
-      "topics": "How to Make Complaints",
-      "content": [
-        "(i) Reasons for Banning Chemicals",
-        "(ii) Procedures for Banning Chemicals not Suitable for Use",
-        "(iii) Reasons for Restricting Chemicals not Suitable for Use",
-        "(iv) Procedure for Restricting Chemicals not Suitable for Use"
-      ]
-    },
-    {
-      "week": 5,
-      "topics": "How to Seek Redress",
-      "content": [
-        "(i) Meaning of Consumer Rights and Redress",
-        "(ii) Ways of Seeking Redress",
-        "(iii) Benefits of Providing Redress"
-      ]
-    },
-    {
-      "week": 6,
-      "topics": "Personal Finance",
-      "content": [
-        "(a) Personal Finance:",
-        "(i) Meaning of Personal Finance",
-        "(ii) Uses of Personal Finance",
-        "(iii) Sources of Finance for Individuals",
-        "(b) Consumption and Choice",
-        "(c) Scale of Preference",
-        "(d) Modesty:",
-        "(i) Meaning of Modesty",
-        "(ii) Attributes of Modesty – Simplicity, living within one’s means, contentment, etc.",
-        "(iii) Effects of Living Modestly – Self control, low tendency of corrupt practices, prudence, etc.",
-        "(iv) Link between Modesty and Extravagance",
-        "(e) Preparation of Individual Budget"
-      ]
-    },
-    {
-      "week": 7,
-      "topics": "Trial Balance",
-      "content": [
-        "(i) Meaning of Trial Balance",
-        "(ii) Uses of Trial Balance",
-        "(iii) Balances that Form the Trial Balance",
-        "(iv) Formation of Trial Balance from the Ledger",
-        "(v) Identification of Balance Sheet Items on the Trial Balance"
-      ]
-    },
-    {
-      "week": 8,
-      "topics": "Forms of Trial Balance",
-      "content": [
-        "(a) Trading Account",
-        "(b) Profit and Loss Account",
-        "(c) Balance Sheet"
-      ]
-    },
-    {
-      "week": 9,
-      "topics": "Trading, Profit and Loss Account",
-      "content": [
-        "(a) Purpose of Trading, Profit and Loss Accounts",
-        "(b) Trading Account",
-        "(c) Profit and Loss Account",
-        "(d) Rules for Constructing Simple Profit and Loss Account"
-      ]
-    },
-    {
-      week: 10,
-      topics: "Balance Sheet",
-      content: ["(i) Meaning of Balance Sheet (ii) Items of Balance Sheet (iv) Classification of Items in the Balance Sheet (v) Distinction between Capital and Liabilities(vi) Differences between Horizontal and Vertical Balance Sheet"],
-    },
-    {
-      week: 11,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week: 12,
-      topics: "Examination",
-      content: ["JSS3 Business Studies Second Term Examination"],
-    },
-  ],
-  "Christian Religious Studies":[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term/session"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "The Ministry of Peter",
-    "content": [
-      "(a) Peter and Simon the Magician (Sorcerer)",
-      "(b) The Healing Miracles of Peter",
-      "(i) Raising of Dorcas from Death (Acts 9:32-42)"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "The Ministry of Peter",
-    "content": [
-      "(c) Peter Converts Cornelius (Acts 11:1-18)",
-      "(d) Peter Defends His Action in Cornelius’ House (Acts 11:1-18)",
-      "(e) The Detention of Peter and His Divine Release from Herod’s Prison and Death (Acts 12:1-24)"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Paul’s Early Life and His Conversion",
-    "content": [
-      "(a) Paul’s Nativity and Education (Acts 22:1-5; 26-38)",
-      "(b) Paul’s Persecution of the Early Church (Acts 7:57-58; 8:1-3)",
-      "(c) Paul’s Conversion (Acts 9:1-19)",
-      "(d) The Attitude of Christians Towards Persecutors"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "The Missionary Activities of Paul",
-    "content": [
-      "(a) Paul’s First Missionary Journey (Acts 13 and 14)",
-      "(b) The Church Council at Jerusalem (Acts 15:1-35)",
-      "(c) Ways of Resolving Conflict"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "The Missionary Activities of Paul",
-    "content": [
-      "(c) Paul’s Second Missionary Journey (Acts 15:36-38; 18:22)",
-      "(d) Paul’s Third Missionary Journey (Acts 18:23-28)"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "The Growth of the Church",
-    "content": [
-      "(a) The Great Commission (Matt. 28:19-20; Mark 16:15-16; Luke 24:47; Acts 1:8)",
-      "(b) The Orthodox Churches e.g. Roman Catholic Mission, Anglican, Methodist, Baptist, Presbyterian, EWCA, etc.",
-      "(c) Indigenous Churches e.g. Cherubim and Seraphim, Celestial Church of Christ, CAC, etc."
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "The Growth of the Church",
-    "content": [
-      "(d) Pentecostal Churches e.g. The Redeemed Christian Church of God, Winners Chapel, Deeper Life Bible Church, Church of God Mission, etc.",
-      "(e) Marks of Growth in the Church e.g. Organizing Crusades, Revivals, Vigils, Prayer Meetings, Miracles, etc. (Acts 2:1-end)"
-    ]
-  }
-,
-    {
-      week:9,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["JSS3 Christian Religious Studies Second Term Examination"],
-    },
-  ],
-  "Civic Education":[
-    {
-      "week": 1,
-      "topics": "Revision",
-      "content": [
-        "Revision of work done in the previous term"
-      ]
-    },
-    {
-      "week": 2,
-      "topics": "Elections and Electoral Bodies in Nigeria",
-      "content": [
-        "(a) Meaning of Election",
-        "(b) Importance of Elections"
-      ]
-    },
-    {
-      "week": 3,
-      "topics": "Elections and Electoral Bodies in Nigeria",
-      "content": [
-        "(c) Electoral Bodies in Nigeria – INEC/SIEC National and State Government"
-      ]
-    },
-    {
-      "week": 4,
-      "topics": "Elections and Electoral Bodies in Nigeria",
-      "content": [
-        "(d) The Need for Free and Fair Elections",
-        "(e) Electoral Malpractices in Nigeria and How to Prevent Them"
-      ]
-    },
-    {
-      "week": 5,
-      "topics": "The Democratic Process",
-      "content": [
-        "(a) Meaning of Voting",
-        "(b) Voters’ Registration",
-        "(c) Importance of Voting"
-      ]
-    },
-    {
-      "week": 6,
-      "topics": "The Democratic Process",
-      "content": [
-        "(d) The Process of Voting"
-      ]
-    },
-    {
-      "week": 7,
-      "topics": "Common Crimes and Associated Punishments",
-      "content": [
-        "(a) Common Crimes and Associated Punishments",
-        "(b) Food Contamination/Adulteration",
-        "(c) Drug Contamination/Adulteration"
-      ]
-    },
-    {
-      "week": 8,
-      "topics": "Crimes and National Security",
-      "content": [
-        "(a) Meaning of National Security",
-        "(b) Crimes that Affect National Security"
-      ]
-    },
-    {
-      "week": 9,
-      "topics": "Crimes and National Security",
-      "content": [
-        "(c) Demonstration of Awareness"
-      ]
-    }
-    ,
-    {
-      week:10,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["JSS3 Civic Education Second Term Examination"],
-    },
-  ],
-  "Computer Studies":[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in first term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Spreadsheet Packages",
-    "content": [
-      "(a) Meaning of Spreadsheet Packages",
-      "(b) Examples of Spreadsheet Packages –",
-      "(i) Excel",
-      "(ii) LOTUS 1, 2, 3",
-      "(iii) StartView, etc.",
-      "(c) Uses of Spreadsheet Packages –",
-      "(i) Preparation of daily sales",
-      "(ii) Budget",
-      "(iii) Examination result, etc."
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Spreadsheet Packages",
-    "content": [
-      "(a) Spreadsheet Features and Terminologies –",
-      "(i) Row",
-      "(ii) Column",
-      "(iii) Cell",
-      "(iv) Worksheet",
-      "(v) Chart",
-      "(vi) Data range, etc.",
-      "(b) Loading and Exiting Spreadsheet Packages"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Worksheets",
-    "content": [
-      "(a) Starting Excel Worksheet i.e.",
-      "(i) Opening a worksheet",
-      "(ii) Data entry",
-      "(iii) Editing",
-      "(iv) Saving",
-      "(v) Retrieving worksheet",
-      "(b) Formatting Worksheet i.e. text, cell and column, naming, etc."
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Worksheets",
-    "content": [
-      "(c) Excel Calculations –",
-      "(i) Addition",
-      "(ii) Subtraction",
-      "(iii) Average",
-      "(iv) Counting",
-      "(v) Multiplication",
-      "(vi) Division, etc.",
-      "(d) Printing of Worksheets"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Practical on Excel Calculations",
-    "content": [
-      "(a) Creating Graphs –",
-      "(i) Line graph",
-      "(ii) Histograms",
-      "(iii) Pie-charts",
-      "(iv) Legends, etc.",
-      "(b) Editing Graphs"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Practical on Excel Calculations",
-    "content": [
-      "(c) Formatting Graphs –",
-      "(i) Line graphs",
-      "(ii) Histograms",
-      "(iii) Pie-charts",
-      "(iv) Legends"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Practical on Excel Graphs",
-    "content": [
-      "Practical on Excel Graphs"
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Computer Games",
-    "content": [
-      "(a) Meaning of Computer Games",
-      "(b) Meaning of Video Game",
-      "(c) Examples of Computer Games –",
-      "Spider Solitaire, Pacman, Space Commander, Digger, Pinball, Chess, etc.",
-      "(d) Reasons for Playing Computer Games",
-      "(e) Types of Computer Games –",
-      "(i) Recreational games",
-      "(ii) Skill enhancement games",
-      "(iii) Entertainment games",
-      "(f) Advantages and Disadvantages of Computer Games"
-    ]
-  }
-    ,
-    {
-      week:10,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["JSS3 Computer Studies Second Term Examination"],
-    },
-  ],
-  "English Studies":[
-    {
-      "week": 1,
-      "topics": [
-        "Speech Work",
-        "Vocabulary Development",
-        "Reading Comprehension",
-        "Structure",
-        "Composition",
-        "Literature"
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Number Bases",
+          content: [
+            "(a) Conversion from Base Ten to Other Bases",
+            "(b) Conversion from Other Bases to Base Ten",
+            "(c) Conversion from One Base to Another Other than Base Ten",
+            "(d) Number Base Arithmetic",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Number System",
+          content: [
+            "(a) Types of Numbers",
+            "(b) (i) Rational and Irrational Numbers",
+            "(ii) The Concept of Pi",
+            "(iii) Recurring and Terminating Decimals",
+            "(c) Proportion:\n(Direct and Inverse Proportion, Reciprocals)",
+            "(d) Word Problems",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Compound Interest",
+          content: [
+            "(a) Revision of Simple Interest",
+            "(b) Compound Interest",
+            "(c) Word Problems",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Factorization",
+          content: [
+            "(a) Factorizing Algebraic Expressions –\n3m + pq +3p +mp; a2 – b2;\na2 – 2ab + b2;\na2 + 2ab + b2",
+            "(b) Factorizing Expressions with a Common Factor, Brackets and by Grouping",
+            "(c) Special Cases of Factorization",
+            "(d) Using Factorization to Simplify Calculation and Coefficient of Term",
+            "(e) Word Problems Involving Factorization",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Equations Involving Fractions",
+          content: [
+            "(a) Clearing Fractions\n(Revision)",
+            "(b) Algebraic Fractions with:\n(i) Unknown at the Numerator\n(ii) Unknown at the Denominator\n(iii) Unknown at the Numerator and Denominator",
+            "(c) Change of Subject of Formulae and Substitution",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Trigonometry",
+          content: [
+            "(a) Right-angled Triangles\n(Revision)",
+            "(b) Relationship between Right-angled Triangle and Trigonometric Ratios",
+            "(c) Sine, Cosine and Tangent of Acute Angles Using Tables",
+            "(d) Applications of Trigonometric Ratios",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Statistics",
+          content: ["(a) Data Presentation\n(Revision)", "(b) The Range"],
+        },
+        {
+          week: 9,
+          topics: "Statistics",
+          content: ["Measures of Central Tendency"],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Mathematics First Term Examination"],
+        },
       ],
-      "content": {
-        "Speech Work": "(a) Speech Work: Consonant Sounds (Revision)",
-        "Vocabulary Development": "(b) Vocabulary Development: Revision of Prefixes (Antonyms)",
-        "Reading Comprehension": "(c) Reading Comprehension: ‘Carnivorous Plants’ (NOSEC, 108 – 109)",
-        "Structure": "(d) Structure: Expressing Exception (using except, except for, but for, apart from, without e.g. (i) We are all students apart from John. (ii) Everyone was present but for my friend.)",
-        "Composition": "(e) Composition: Narrative Essay (Guided Writing) “My Most Memorable Day”",
-        "Literature": "(f) Literature: Revision (Use recommended text.)"
-      }
-    },
-    {
-      "week": 2,
-      "topics": [
-        "Speech Work",
-        "Vocabulary Development",
-        "Reading Comprehension",
-        "Structure",
-        "Composition",
-        "Literature"
+      "Physical and Health Education (PHE)": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Physical Fitness and Body Conditioning Programme",
+          content: [
+            "(a) Meaning of Physical Exercise, Physical Fitness and Body Conditioning",
+            "(b) Benefits Derived from Physical Fitness\n– Health-related Benefits and Performance-related Benefits",
+            "(c) Factors that Influence Physical Fitness",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Recreation, Leisure and Dance Activities",
+          content: [
+            "(a) Pre-colonial or Folk Traditional Dances\nlike – Atilogwe (Ibo), Bata, Agidigbo (Yoruba), Sharo (Fulani), Langa (Hausa)",
+            "(b) Social Dances",
+            "(c) Foreign and Modern Dance\nE.g. Reggae, disco, high life, rumba, classical",
+            "(d) Types of Computer Games\nE.g. Cricket and soccer",
+            "(e) Values of Computer Games",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Track and Field: Pole Vault and Javelin",
+          content: [
+            "(a) Pole Vault Skills\n– Grip, run-up, pole carrying, take off, hang,swing, pull up and bar clearance, landing, recovery",
+            "(b) Basic Javelin Skills\n– Grip, carriage, run up, release, follow through, recovery",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Ball Games",
+          content: [
+            "(a) Hockey Game",
+            "(b) Basic Skills and Techniques in Hockey\nE.g. hit, stop, drive, dribble, pass, flick, push, bully/centre pass",
+            "(c) Rules and Safety Regulations in Hockey",
+            "(d) Hockey Officials and their Duties",
+            "(d) Facilities and Equipment Used in Hockey",
+            "(e) Values of the Games",
+            "(f) Activity: Draw and label the\n(i) Hockey pitch\n(ii) Hockey stick",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Group/Combined Events",
+          content: [
+            "(a) Classification as\n(i) Pentathlon\n(ii) Decathlon",
+            "(b) List of Various Events Under\n(i) Decathlon\n(ii) Pentathlon",
+            "(c) The Duration of the Completion of Decathlon and Pentathlon",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Group/Combined Events",
+          content: [
+            "(d) Scoring the Events",
+            "(e) Facilities and Equipment",
+            "(f) Rules and Regulations",
+            "(g) Officiating",
+            "(h) Safety Rules",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Nigerian Sports Heroes",
+          content: [
+            "(a) Career Guidance in Physical Education",
+            "(b) Past and Present Sports Heroes and their Contributions in Nigeria",
+            "(c) Professionals in Physical Education in Nigeria",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Contact Games",
+          content: [
+            "(a) Taekwondo and Basic Techniques",
+            "(b) Importance of Taekwondo",
+            "(c) Safety Rules, Regulations and Officiating in Taekwondo",
+            "(d) Boxing and Basic Techniques",
+            "(e) Safety Rules, Regulations and Officiating in Boxing",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: [
+            "JSS3 Physical and Health Education (PHE) First Term Examination",
+          ],
+        },
       ],
-      "content": {
-        "Speech Work": "(a) Speech Work: Monophthongs (Revision)",
-        "Vocabulary Development": "(b) Vocabulary Development: Suffixes (Noun Derivations) -ness, -ment, -er, ship-, -action, -ant, -hood, -al, e.g. mildness, friendship, inhabitant, etc.)",
-        "Reading Comprehension": "(c) Reading Comprehension: ‘An Easy Job’ (NOSEC, pages 124 – 127)",
-        "Structure": "(d) Structure: Conjunctions (Additions)",
-        "Composition": "(e) Composition: Report Writing (Revision); “The School’s Inter-house Sports”",
-        "Literature": "(f) Literature: Revision (Use recommended text.)"
-      }
-    },
-    {
-      "week": 3,
-      "topics": [
-        "Speech Work",
-        "Vocabulary Development",
-        "Reading Comprehension",
-        "Structure",
-        "Composition",
-        "Literature"
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "Human Trafficking",
+          content: [
+            "(a) Meaning of Human Trafficking",
+            "(b) Factors Responsible for Children and Women Trafficking",
+            "(c) Consequences of Human Trafficking:\n(i) Physical consequences\n(ii) Psychological consequences\n(iii) Social consequences",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Human Trafficking",
+          content: ["(d) Preventive Measures against Human Trafficking"],
+        },
+        {
+          week: 4,
+          topics: "Harmful Traditional Practices",
+          content: [
+            "(a) Meaning of Harmful Traditional Practices",
+            "(b) Examples of Harmful Traditional Practices",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Harmful Traditional Practices",
+          content: [
+            "(c) Consequences of Harmful Traditional Practices:\n(i) Social Consequences\n(ii) Economic consequences\n(iii) Psychological consequences\n(iv) Physical consequences",
+            "(d) Prevention of Harmful Traditional Practices:\n(i) Awareness raising\n(ii) Education\n(iii) Advocacy and legislation, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Promoting Peaceful Living in our Society",
+          content: [
+            "(a) Meaning of Peace – Cordial and friendly living among different groups of people",
+            "(b) Types of Peace:\n(i) Positive peace\n(ii) Negative/uneasy peace",
+            "(c) Importance of Peace",
+            "(d) Ways of Promoting Peace",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Social Conflicts",
+          content: [
+            "(a) Meaning of Conflict as Interpersonal Misunderstanding",
+            "(b) Types of Conflicts – Violent and Non-violent",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Social Conflicts",
+          content: [
+            "(c) Examples of Conflict:\n(i) Inter-ethnic Conflicts\n(ii) Communal/Intra-ethnic Conflicts, etc.",
+            "(d) Causes and Consequences of Conflicts",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS3 Social Studies First Term Examination"],
+        },
       ],
-      "content": {
-        "Speech Work": "(a) Speech Work: Diphthongs (Revision)",
-        "Vocabulary Development": "(b) Vocabulary Development: Suffixes (Verb Derivations -ify, -ize, -en, e.g. popularize, dignify, lighten)",
-        "Reading Comprehension": "(c) Reading Comprehension: Reading for Summary",
-        "Structure": "(d) Structure: Adverbials",
-        "Composition": "(e) Composition: Article Writing (Revision) ‘Curbing the menace of HIV/AIDS in the Society’",
-        "Literature": "(f) Literature: Revision (Use recommended text.)"
-      }
     },
-    {
-      "week": 4,
-      "topics": [
-        "Speech Work",
-        "Vocabulary Development",
-        "Reading Comprehension",
-        "Structure",
-        "Composition",
-        "Literature"
+    //JSS3 SECOND TERM
+    SecondTerm: {
+      "Basic Science": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "The Sense Organs",
+          content: [
+            "(a) The Eye: (i) Description and Structure of the Eye",
+            "(b) The Ear: (i) Description and Structure of the Ear",
+            "(c) The Nose: (i) Description and Structure of the Nose",
+            "(d) The Tongue: (i) Description and Structure of the Tongue",
+            "(e) The Skin: (i) Description and Structure of the Skin",
+            "(f) The Nervous System",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Light Energy",
+          content: [
+            "(i) Review of the Concepts of Reflection and Refraction of Light",
+            "(ii) Apparent Depth and its Dangers to Swimmers",
+            "(iii) Vision",
+            "(iv) Dispersion of Light",
+            "(v) Dispersion and Rainbow",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Sound Energy",
+          content: [
+            "(i) Meaning of Sound",
+            "(ii) Production of Sound",
+            "(iii) Properties of Sound Energy",
+            "(iv) Transmission of Sound",
+            "(v) Reflection of Sounds (Echoes)",
+            "(vi) Hearing",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Magnetism",
+          content: [
+            "(i) Meaning of Magnet",
+            "(ii) The Law of Magnetism",
+            "(iii) Magnetic Poles and Magnetic Fields",
+            "(iv) Care of Magnets",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Electrical Energy",
+          content: [
+            "(i) Meaning of Electrical Energy",
+            "(ii) The Concept of Electron Flow",
+            "(iii) Electrical Circuits",
+            "(iv) Ammeter and Voltmeter",
+            "(v) House Circuits: Fuse and Circuit Breaker",
+            "(vi) Electric Meter Reading and Billing",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Radioactivity",
+          content: [
+            "(i) Meaning of Definition of Radioactivity",
+            "(ii) Brief History of Radioactivity",
+            "(iii) Some Radioactive Elements",
+            "(iv) Types of Radiation",
+            "(v) Uses of Radioactivity",
+            "(vi) Dangers in the Use of Radioactive Rays",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Skills Acquisition",
+          content: [
+            "(i) Meaning of Skill and Skill Acquisition",
+            "(ii) Reasons for Skills Acquisition",
+            "(iii) Types of Skills",
+            "(iv) Importance of Skills Acquisition",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Ethical Issues in Science and Development",
+          content: [
+            "(i) Introduction",
+            "(ii) Meaning of Right and Wrong Applications of Science",
+            "(iii) Implications of Science to the Development of the Society",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Basic Science Second Term Examination"],
+        },
       ],
-      "content": {
-        "Speech Work": "(a) Speech Work: Nasal Sounds (Revision) /m/, /n/, and /ŋ/",
-        "Vocabulary Development": "(b) Vocabulary Development: Suffixes (Adjective Derivations) – -ful, -ment, -al, -less, -ish, -ive, e.g. grateful, intentional, faithless, childish, attentive)",
-        "Reading Comprehension": "(c) Reading Comprehension: Summary",
-        "Structure": "(d) Structure: Question Tags",
-        "Composition": "(e) Composition: Letter Writing – Informal Letters e.g. A letter to a friend",
-        "Literature": "(f) Literature: Revision (Use recommended text.)"
-      }
-    },
-    {
-      "week": 5,
-      "topics": [
-        "Speech Work",
-        "Vocabulary Development",
-        "Reading Comprehension",
-        "Structure",
-        "Composition",
-        "Literature"
+      "Basic Technology": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "BUILDING: Foundation",
+          content: [
+            "(i) Definition of Foundation",
+            "(ii) Functions of Foundation – support and weight of walls, roofs and inhabitants",
+            "(iii) Types of Foundation – strip, stepped, raft etc.",
+            "(iv) Types and Properties of Soil",
+            "(v) Hand Tools and Plant for Excavation: diggers, shovels, excavator, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "BUILDING: Walls",
+          content: [
+            "(i) Materials for Making Walls – grass, zinc, curtain, bricks, etc.",
+            "(ii) Types of Walls – walls grass, zinc, curtain bricks, etc.",
+            "(iii) Materials for Bonding",
+          ],
+        },
+        {
+          week: 4,
+          topics: "BUILDING: Floors",
+          content: [
+            "(i) Floor – basement, ground floor, first floor, etc.",
+            "(ii) DPC",
+          ],
+        },
+        {
+          week: 5,
+          topics: "BUILDING: Doors, Windows and Openings",
+          content: [
+            "(i) Doors – flush door, glazed, sliding, revolving, etc.",
+            "(ii) Windows – louver, sliding, casement, etc",
+            "(iii) Lintel",
+          ],
+        },
+        {
+          week: 6,
+          topics: "BUILDING: Roofs",
+          content: [
+            "(i) Types of Roof – flat roof, double pitched, lean-to Gable, etc.",
+            "(ii) Roofing Materials – grass, zinc, aluminium, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "BUILDING: Simple Blueprint Reading",
+          content: [
+            "(i) Sanitary Wares – sink, bath, showers, etc. soak-away, septic tank, socket, windows, doors, room, etc.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS3 Basic Technology Second Term Examination"],
+        },
       ],
-      "content": {
-        "Speech Work": "(a) Speech Work: Consonant Contrast (Revision) /r/ and /l/",
-        "Vocabulary Development": "(b) Vocabulary Development: Spelling Skills – (Homonyms and Homophones)",
-        "Reading Comprehension": "(c) Reading Comprehension: Reading for Summary",
-        "Structure": "(d) Structure: Pronouns – (Personal and Possessive Pronouns; Indefinite and Reciprocal Pronouns)",
-        "Composition": "(e) Composition: Formal Letters – (Guided writing) “A letter of invitation to a programme”",
-        "Literature": "(f) Literature: Revision (Use recommended text.)"
-      }
-    },
-    {
-      "week": 6,
-      "topics": [
-        "Speech Work",
-        "Vocabulary Development",
-        "Reading Comprehension",
-        "Structure",
-        "Composition",
-        "Literature"
+      "Business Studies": [
+        {
+          week: 1,
+          topics: "Revision of last term's work",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Consumer Protection Agencies",
+          content: [
+            "(a) Meaning of Consumer",
+            "(b) Need for Consumer Protection",
+            "(c) Regulators (Agencies) of Consumer Protection",
+            "(d) Roles and Responsibilities of Consumer Protection Agencies",
+          ],
+        },
+        {
+          week: 3,
+          topics: "How to Make Complaints",
+          content: [
+            "(a) Meaning of Complaint",
+            "(b) Types of Complaints",
+            "(c) Steps in Lodging a Complaint",
+            "(d) Writing a Complaint Letter",
+          ],
+        },
+        {
+          week: 4,
+          topics: "How to Make Complaints",
+          content: [
+            "(i) Reasons for Banning Chemicals",
+            "(ii) Procedures for Banning Chemicals not Suitable for Use",
+            "(iii) Reasons for Restricting Chemicals not Suitable for Use",
+            "(iv) Procedure for Restricting Chemicals not Suitable for Use",
+          ],
+        },
+        {
+          week: 5,
+          topics: "How to Seek Redress",
+          content: [
+            "(i) Meaning of Consumer Rights and Redress",
+            "(ii) Ways of Seeking Redress",
+            "(iii) Benefits of Providing Redress",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Personal Finance",
+          content: [
+            "(a) Personal Finance:",
+            "(i) Meaning of Personal Finance",
+            "(ii) Uses of Personal Finance",
+            "(iii) Sources of Finance for Individuals",
+            "(b) Consumption and Choice",
+            "(c) Scale of Preference",
+            "(d) Modesty:",
+            "(i) Meaning of Modesty",
+            "(ii) Attributes of Modesty – Simplicity, living within one’s means, contentment, etc.",
+            "(iii) Effects of Living Modestly – Self control, low tendency of corrupt practices, prudence, etc.",
+            "(iv) Link between Modesty and Extravagance",
+            "(e) Preparation of Individual Budget",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Trial Balance",
+          content: [
+            "(i) Meaning of Trial Balance",
+            "(ii) Uses of Trial Balance",
+            "(iii) Balances that Form the Trial Balance",
+            "(iv) Formation of Trial Balance from the Ledger",
+            "(v) Identification of Balance Sheet Items on the Trial Balance",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Forms of Trial Balance",
+          content: [
+            "(a) Trading Account",
+            "(b) Profit and Loss Account",
+            "(c) Balance Sheet",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Trading, Profit and Loss Account",
+          content: [
+            "(a) Purpose of Trading, Profit and Loss Accounts",
+            "(b) Trading Account",
+            "(c) Profit and Loss Account",
+            "(d) Rules for Constructing Simple Profit and Loss Account",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Balance Sheet",
+          content: [
+            "(i) Meaning of Balance Sheet (ii) Items of Balance Sheet (iv) Classification of Items in the Balance Sheet (v) Distinction between Capital and Liabilities(vi) Differences between Horizontal and Vertical Balance Sheet",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["JSS3 Business Studies Second Term Examination"],
+        },
       ],
-      "content": {
-        "Speech Work": "(a) Speech Work:",
-        "Vocabulary Development": "(b) Vocabulary Development: Homographs",
-        "Reading Comprehension": "(c) Reading Comprehension: Comprehension and Summary",
-        "Structure": "(d) Structure: Pronouns – (Reflexive, Relative Pronouns and Demonstrative Pronouns)",
-        "Composition": "(e) Composition: Expository Essay (Guided Writing) “Why Students Fail Examinations”",
-        "Literature": "(f) Literature: Revision (Use recommended text.)"
-      }
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term/session"],
+        },
+        {
+          week: 2,
+          topics: "The Ministry of Peter",
+          content: [
+            "(a) Peter and Simon the Magician (Sorcerer)",
+            "(b) The Healing Miracles of Peter",
+            "(i) Raising of Dorcas from Death (Acts 9:32-42)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "The Ministry of Peter",
+          content: [
+            "(c) Peter Converts Cornelius (Acts 11:1-18)",
+            "(d) Peter Defends His Action in Cornelius’ House (Acts 11:1-18)",
+            "(e) The Detention of Peter and His Divine Release from Herod’s Prison and Death (Acts 12:1-24)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Paul’s Early Life and His Conversion",
+          content: [
+            "(a) Paul’s Nativity and Education (Acts 22:1-5; 26-38)",
+            "(b) Paul’s Persecution of the Early Church (Acts 7:57-58; 8:1-3)",
+            "(c) Paul’s Conversion (Acts 9:1-19)",
+            "(d) The Attitude of Christians Towards Persecutors",
+          ],
+        },
+        {
+          week: 5,
+          topics: "The Missionary Activities of Paul",
+          content: [
+            "(a) Paul’s First Missionary Journey (Acts 13 and 14)",
+            "(b) The Church Council at Jerusalem (Acts 15:1-35)",
+            "(c) Ways of Resolving Conflict",
+          ],
+        },
+        {
+          week: 6,
+          topics: "The Missionary Activities of Paul",
+          content: [
+            "(c) Paul’s Second Missionary Journey (Acts 15:36-38; 18:22)",
+            "(d) Paul’s Third Missionary Journey (Acts 18:23-28)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "The Growth of the Church",
+          content: [
+            "(a) The Great Commission (Matt. 28:19-20; Mark 16:15-16; Luke 24:47; Acts 1:8)",
+            "(b) The Orthodox Churches e.g. Roman Catholic Mission, Anglican, Methodist, Baptist, Presbyterian, EWCA, etc.",
+            "(c) Indigenous Churches e.g. Cherubim and Seraphim, Celestial Church of Christ, CAC, etc.",
+          ],
+        },
+        {
+          week: 8,
+          topics: "The Growth of the Church",
+          content: [
+            "(d) Pentecostal Churches e.g. The Redeemed Christian Church of God, Winners Chapel, Deeper Life Bible Church, Church of God Mission, etc.",
+            "(e) Marks of Growth in the Church e.g. Organizing Crusades, Revivals, Vigils, Prayer Meetings, Miracles, etc. (Acts 2:1-end)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS3 Christian Religious Studies Second Term Examination"],
+        },
+      ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Elections and Electoral Bodies in Nigeria",
+          content: ["(a) Meaning of Election", "(b) Importance of Elections"],
+        },
+        {
+          week: 3,
+          topics: "Elections and Electoral Bodies in Nigeria",
+          content: [
+            "(c) Electoral Bodies in Nigeria – INEC/SIEC National and State Government",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Elections and Electoral Bodies in Nigeria",
+          content: [
+            "(d) The Need for Free and Fair Elections",
+            "(e) Electoral Malpractices in Nigeria and How to Prevent Them",
+          ],
+        },
+        {
+          week: 5,
+          topics: "The Democratic Process",
+          content: [
+            "(a) Meaning of Voting",
+            "(b) Voters’ Registration",
+            "(c) Importance of Voting",
+          ],
+        },
+        {
+          week: 6,
+          topics: "The Democratic Process",
+          content: ["(d) The Process of Voting"],
+        },
+        {
+          week: 7,
+          topics: "Common Crimes and Associated Punishments",
+          content: [
+            "(a) Common Crimes and Associated Punishments",
+            "(b) Food Contamination/Adulteration",
+            "(c) Drug Contamination/Adulteration",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Crimes and National Security",
+          content: [
+            "(a) Meaning of National Security",
+            "(b) Crimes that Affect National Security",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Crimes and National Security",
+          content: ["(c) Demonstration of Awareness"],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Civic Education Second Term Examination"],
+        },
+      ],
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in first term"],
+        },
+        {
+          week: 2,
+          topics: "Spreadsheet Packages",
+          content: [
+            "(a) Meaning of Spreadsheet Packages",
+            "(b) Examples of Spreadsheet Packages –",
+            "(i) Excel",
+            "(ii) LOTUS 1, 2, 3",
+            "(iii) StartView, etc.",
+            "(c) Uses of Spreadsheet Packages –",
+            "(i) Preparation of daily sales",
+            "(ii) Budget",
+            "(iii) Examination result, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Spreadsheet Packages",
+          content: [
+            "(a) Spreadsheet Features and Terminologies –",
+            "(i) Row",
+            "(ii) Column",
+            "(iii) Cell",
+            "(iv) Worksheet",
+            "(v) Chart",
+            "(vi) Data range, etc.",
+            "(b) Loading and Exiting Spreadsheet Packages",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Worksheets",
+          content: [
+            "(a) Starting Excel Worksheet i.e.",
+            "(i) Opening a worksheet",
+            "(ii) Data entry",
+            "(iii) Editing",
+            "(iv) Saving",
+            "(v) Retrieving worksheet",
+            "(b) Formatting Worksheet i.e. text, cell and column, naming, etc.",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Worksheets",
+          content: [
+            "(c) Excel Calculations –",
+            "(i) Addition",
+            "(ii) Subtraction",
+            "(iii) Average",
+            "(iv) Counting",
+            "(v) Multiplication",
+            "(vi) Division, etc.",
+            "(d) Printing of Worksheets",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Practical on Excel Calculations",
+          content: [
+            "(a) Creating Graphs –",
+            "(i) Line graph",
+            "(ii) Histograms",
+            "(iii) Pie-charts",
+            "(iv) Legends, etc.",
+            "(b) Editing Graphs",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Practical on Excel Calculations",
+          content: [
+            "(c) Formatting Graphs –",
+            "(i) Line graphs",
+            "(ii) Histograms",
+            "(iii) Pie-charts",
+            "(iv) Legends",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Practical on Excel Graphs",
+          content: ["Practical on Excel Graphs"],
+        },
+        {
+          week: 9,
+          topics: "Computer Games",
+          content: [
+            "(a) Meaning of Computer Games",
+            "(b) Meaning of Video Game",
+            "(c) Examples of Computer Games –",
+            "Spider Solitaire, Pacman, Space Commander, Digger, Pinball, Chess, etc.",
+            "(d) Reasons for Playing Computer Games",
+            "(e) Types of Computer Games –",
+            "(i) Recreational games",
+            "(ii) Skill enhancement games",
+            "(iii) Entertainment games",
+            "(f) Advantages and Disadvantages of Computer Games",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["JSS3 Computer Studies Second Term Examination"],
+        },
+      ],
+      "English Studies": [
+        {
+          week: 1,
+          topics: [
+            "Speech Work",
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+          ],
+          content: {
+            "Speech Work": "(a) Speech Work: Consonant Sounds (Revision)",
+            "Vocabulary Development":
+              "(b) Vocabulary Development: Revision of Prefixes (Antonyms)",
+            "Reading Comprehension":
+              "(c) Reading Comprehension: ‘Carnivorous Plants’ (NOSEC, 108 – 109)",
+            Structure:
+              "(d) Structure: Expressing Exception (using except, except for, but for, apart from, without e.g. (i) We are all students apart from John. (ii) Everyone was present but for my friend.)",
+            Composition:
+              "(e) Composition: Narrative Essay (Guided Writing) “My Most Memorable Day”",
+            Literature: "(f) Literature: Revision (Use recommended text.)",
+          },
+        },
+        {
+          week: 2,
+          topics: [
+            "Speech Work",
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+          ],
+          content: {
+            "Speech Work": "(a) Speech Work: Monophthongs (Revision)",
+            "Vocabulary Development":
+              "(b) Vocabulary Development: Suffixes (Noun Derivations) -ness, -ment, -er, ship-, -action, -ant, -hood, -al, e.g. mildness, friendship, inhabitant, etc.)",
+            "Reading Comprehension":
+              "(c) Reading Comprehension: ‘An Easy Job’ (NOSEC, pages 124 – 127)",
+            Structure: "(d) Structure: Conjunctions (Additions)",
+            Composition:
+              "(e) Composition: Report Writing (Revision); “The School’s Inter-house Sports”",
+            Literature: "(f) Literature: Revision (Use recommended text.)",
+          },
+        },
+        {
+          week: 3,
+          topics: [
+            "Speech Work",
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+          ],
+          content: {
+            "Speech Work": "(a) Speech Work: Diphthongs (Revision)",
+            "Vocabulary Development":
+              "(b) Vocabulary Development: Suffixes (Verb Derivations -ify, -ize, -en, e.g. popularize, dignify, lighten)",
+            "Reading Comprehension":
+              "(c) Reading Comprehension: Reading for Summary",
+            Structure: "(d) Structure: Adverbials",
+            Composition:
+              "(e) Composition: Article Writing (Revision) ‘Curbing the menace of HIV/AIDS in the Society’",
+            Literature: "(f) Literature: Revision (Use recommended text.)",
+          },
+        },
+        {
+          week: 4,
+          topics: [
+            "Speech Work",
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+          ],
+          content: {
+            "Speech Work":
+              "(a) Speech Work: Nasal Sounds (Revision) /m/, /n/, and /ŋ/",
+            "Vocabulary Development":
+              "(b) Vocabulary Development: Suffixes (Adjective Derivations) – -ful, -ment, -al, -less, -ish, -ive, e.g. grateful, intentional, faithless, childish, attentive)",
+            "Reading Comprehension": "(c) Reading Comprehension: Summary",
+            Structure: "(d) Structure: Question Tags",
+            Composition:
+              "(e) Composition: Letter Writing – Informal Letters e.g. A letter to a friend",
+            Literature: "(f) Literature: Revision (Use recommended text.)",
+          },
+        },
+        {
+          week: 5,
+          topics: [
+            "Speech Work",
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+          ],
+          content: {
+            "Speech Work":
+              "(a) Speech Work: Consonant Contrast (Revision) /r/ and /l/",
+            "Vocabulary Development":
+              "(b) Vocabulary Development: Spelling Skills – (Homonyms and Homophones)",
+            "Reading Comprehension":
+              "(c) Reading Comprehension: Reading for Summary",
+            Structure:
+              "(d) Structure: Pronouns – (Personal and Possessive Pronouns; Indefinite and Reciprocal Pronouns)",
+            Composition:
+              "(e) Composition: Formal Letters – (Guided writing) “A letter of invitation to a programme”",
+            Literature: "(f) Literature: Revision (Use recommended text.)",
+          },
+        },
+        {
+          week: 6,
+          topics: [
+            "Speech Work",
+            "Vocabulary Development",
+            "Reading Comprehension",
+            "Structure",
+            "Composition",
+            "Literature",
+          ],
+          content: {
+            "Speech Work": "(a) Speech Work:",
+            "Vocabulary Development": "(b) Vocabulary Development: Homographs",
+            "Reading Comprehension":
+              "(c) Reading Comprehension: Comprehension and Summary",
+            Structure:
+              "(d) Structure: Pronouns – (Reflexive, Relative Pronouns and Demonstrative Pronouns)",
+            Composition:
+              "(e) Composition: Expository Essay (Guided Writing) “Why Students Fail Examinations”",
+            Literature: "(f) Literature: Revision (Use recommended text.)",
+          },
+        },
+        {
+          week: 7,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 8,
+          topics: "Examination",
+          content: ["JSS3 English Studies Second Term Examination"],
+        },
+      ],
+      "Home Economics": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in first term"],
+        },
+        {
+          week: 2,
+          topics: "Sewing Machine and Garment Construction Processes",
+          content: [
+            "(a) Types and Parts of the Sewing Machine (Functions of Each Part)",
+            "(b) Factors that Influence the Choice of a Sewing Machine",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Sewing Machine and Garment Construction Processes",
+          content: [
+            "(c) Care of Sewing Machine",
+            "(d) Terms Peculiar to Garment Construction E.g. facing, hems, opening, fastenings, etc.",
+            "(e) Making of a Simple Baby Dress Using the Sewing Machine",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Food Hygiene and Safety",
+          content: [
+            "(a) Meaning of Food Hygiene",
+            "(b) Reasons for Healthy Food Handing",
+            "(c) Ways for Handling Foods for Safety",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Food Hygiene and Safety",
+          content: [
+            "(d) Sources of Food Contamination and Poisoning",
+            "(e) Sensory Signs of Spoilage and Causative Micro-organisms",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Preparation, Packaging and Marketing of Food Items",
+          content: [
+            "(a) Differences between Snacks and Main Meals",
+            "(b) Snacks and Drinks Available in the Society",
+            "(c) Duties of Food Sellers/Providers for the Public",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Preparation, Packaging and Marketing of Food Items",
+          content: [
+            "(d) Preparation of Snacks, Drinks and Meals",
+            "(e) Preparation of Food for Packaging",
+            "(f) Marketing Principles",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Responsible Food Management",
+          content: [
+            "(a) Responsibilities of a Food Safety Manager to Consumers",
+            "(b) Hygienic Food Management Strategies",
+            "(c) Effects of Hygienic and Unhygienic Food Handling to the Consumer",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS3 Home Economics Second Term Examination"],
+        },
+      ],
+      Mathematics: [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in first term"],
+        },
+        {
+          week: 2,
+          topics: "Simultaneous Linear Equations",
+          content: [
+            "(a) Graphs of Linear Equations (Revision)",
+            "(b) Compilations of Tables of Values",
+            "(c) Graphical Solution of Simultaneous Linear Equations in Two Variables",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Simultaneous Linear Equations",
+          content: [
+            "(d) Solving by Substitution",
+            "(e) Solving by Elimination",
+            "(f) Word Problems",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Variations",
+          content: [
+            "(a) Direct Variation",
+            "(b) Inverse Variation",
+            "(c) Joint Variation",
+            "(d) Partial Variation",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Construction",
+          content: [
+            "(a) Bisection of a Line Segment – Using a Pair of Compasses and a Ruler",
+            "(b) Construction and Bisection of Angles",
+            "(c) Construction of Triangles and Quadrilaterals",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Similar Shapes",
+          content: [
+            "(a) Similar Figures",
+            "(b) Similar Triangles",
+            "(c) Enlargement and Scale Factor",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Similar Shapes",
+          content: [
+            "(d) Scale Factor in Calculating Lengths",
+            "(e) Areas and Volumes of Similar Figures",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Mensuration of Solids",
+          content: [
+            "(a) Area of Solids: (i) Total Surface Area of Cube and Cuboid (ii) Curved Surface Area of Cylinder and Cone (iii) Total Surface Area of Cylinder and Cone",
+            "(b) Volume of Solids",
+            "(c) Relationship between Volume and Capacity",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["JSS3 Mathematics Second Term Examination"],
+        },
+      ],
+      "Physical and Health Education (PHE)": [
+        {
+          week: 1,
+          topics: "Revision of first term's work",
+          content: ["Revision of work done in first term"],
+        },
+        {
+          week: 2,
+          topics: "Non-contact Games",
+          content: [
+            "(a) Swimming: Basic Swimming Styles – Crawl, breast stroke, butterfly, etc.) swimming skills, swimming equipment",
+            "(b) Gymnastics: E.g. stunts and tumbling, forward roll, head stand and crab walks, cat, wheel limp, frog",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Non-contact Games",
+          content: [
+            "(c) Floor Activities: (i) Classification of Floor Activities (ii) Values of Floor Activities",
+            "(d) Officials and their Duties",
+            "(e) Safety Rules for Non-contact Games",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Personal, School and Community Health",
+          content: [
+            "(a) Family Life Education: (i) Meaning and Types of Families (ii) Duties of Members of the Family",
+            "(b) Puberty in Boys and Girls",
+            "(c) Teenage Pregnancy and its Consequences",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Personal, School and Community Health",
+          content: [
+            "(a) Assertiveness and Communication Skills – Meaning of Assertiveness and Non-assertiveness",
+            "(b) Sports Promotion Agencies and Bodies in Nigeria (i) Sport Association (ii) NAPHER SD (iii) Nigeria Institute of Sports",
+            "(c) Need for Promotion of Sports in Our Society",
+            "(d) Career Opportunities in Physical Education",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Personal, School and Community Health",
+          content: [
+            "(a) Agencies/Organizations Promoting Health Education in Nigeria",
+            "(b) Career Opportunities in Health Education",
+            "(c) Supporting Dying, Grieving and Ageing Persons",
+            "(d) Life-enhancing Measures against Ageing",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Personal, School and Community Health",
+          content: [
+            "(a) Meaning of Drug, Drug Use, Misuse and Abuse",
+            "(b) Categories of Drugs",
+            "(c) Health Consequences of Drug Misuse and Abuse",
+            "(d) Ways of Preventing Drug Misuse and Abuse among Young People",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Pathogens, Diseases and their Prevention",
+          content: [
+            "(a) Nature of Communicable Diseases – Measles, mumps, pneumonia, etc.",
+            "(b) Mode of Transmission of Communicable Diseases",
+            "(c) Factors and Causative Agents",
+            "(d) Prevention and Management of Non-communicable Diseases – Sickle cell, obesity, kwashiorkor, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Family Health",
+          content: [
+            "(a) Types of Diseases and Modes of Transfer",
+            "(b) Disease Vectors",
+            "(d) Life Cycle of the Mosquito and Other Vectors",
+            "(e) Control Measures – Water drainage, insecticides, oil spreading/ spraying, etc.",
+            "(a) Disease Transmission",
+            "(b) Consequences of Contracting Diseases on Individuals, Family, and Society",
+            "(c) Diseases Prevention – Sanitation, education, immunization, choice of life partner, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: [
+            "JSS3 Physical and Health Education Second Term Examination",
+          ],
+        },
+      ],
+      "Social Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Managing and Resolving Conflict",
+          content: [
+            "(a) Conflict Management and Resolution",
+            "(b) Attributes Required for Conflict Resolution",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Controlling Cultism in our Society",
+          content: [
+            "(a) Meaning of Cultism",
+            "(b) Origin of Secret Cults in Nigerian Schools",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Controlling Cultism in our Society",
+          content: [
+            "(c) Manifestation/Activities of Campus Secret Cults",
+            "(d) Causes of Cultism",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Controlling Cultism in our Society",
+          content: ["(e) Consequences of Cultism", "(f) Solutions to Cultism"],
+        },
+        {
+          week: 6,
+          topics: "Preventing Drug Trafficking",
+          content: [
+            "(a) Meaning of Drug Trafficking",
+            "(b) Reasons for Trafficking in Drugs",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Preventing Drug Trafficking",
+          content: [
+            "(c) Consequences of Drug Trafficking",
+            "(d) Prevention of Drug Trafficking",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in Third Term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS3Social Studies Second Term Examination"],
+        },
+      ],
     },
-    {
-      week:7,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
+    //JSS3 Third TERM
+    ThirdTerm: {
+      "Christian Religious Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision and correction of the previous term’s work"],
+        },
+        {
+          week: 2,
+          topics: "Unity Among Christians",
+          content: [
+            "(a) Christian Organizations:",
+            "(i) World Council of Churches (WCC)",
+            "(ii) Christian Association of Nigeria (CAN)",
+            "(iii) Nigeria Association of Biblical Studies (NABS)",
+            "(iv) Pentecostal Fellowship of Nigeria (PFN), etc.",
+            "(b) Teachings that Will Foster Unity:",
+            "(i) Faith and Works (James 1:22-27)",
+            "(ii) Humility (Phil. 2:3-11)",
+            "(iii) Impartiality (James 2:1-13)",
+            "(iv) Forgiveness (Gal. 6:1-2)",
+            "(v) Giving (Phil. 4:14-19; 2Cor.8: 3-5; 9: 6-15)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Christian Living among Non-Christians",
+          content: [
+            "(a) Christian Living in the Community (Matt. 5:13-16)",
+            "(b) Christian Attitude to Persecution (1 Pet. 3:13-17; James 1:12-15; 1 Pet. 1:6-10)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: [
+            "JSS3Social Christian Religious Studies Third Term Examination",
+          ],
+        },
+      ],
+      "Computer Studies": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in the previous term"],
+        },
+        {
+          week: 2,
+          topics: "Human Issues",
+          content: [
+            "(a) Computer Professionals –",
+            "(i) Computer Managers",
+            "(ii) System Analysts",
+            "(iii) Programmers",
+            "(iv) Computer Educators",
+            "(v) Computer Engineers and Technicians",
+            "(vi) Computer Operators",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Human Issues",
+          content: ["(b) Qualities of Good Computer Professionals"],
+        },
+        {
+          week: 4,
+          topics: "Human Issues",
+          content: [
+            "(c) Computer Professional Bodies –",
+            "(i) Nigeria Computer Society (NCS)",
+            "(ii) Institute of Management Information System (IMIS)",
+            "(iii) Computer Professional Registration Council of Nigeria (CPRN)",
+            "(iv) Information Technology Association of Nigeria (ITAN)",
+            "(v) Nigerian Internet Group (NIG)",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Computer Viruses",
+          content: [
+            "(a) Meaning of Computer Virus",
+            "(b) Types of Computer Virus –",
+            "(i) Boot sector virus",
+            "(ii) Executable file virus",
+            "(iii) Attack on document",
+            "(c) Examples of Viruses –",
+            "(i) Trojan horse",
+            "(ii) Sleeper",
+            "(iii) Logic bomb",
+            "(iv) Alabama virus",
+            "(v) Christmas virus",
+            "(d) Sources of Viruses –",
+            "(i) Infected diskettes",
+            "(ii) Infected CD-ROMS",
+            "(iii) e-mails",
+            "(iv) Internet downloads",
+            "(v) Illegal duplication of software, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Computer Viruses",
+          content: [
+            "(e) Virus Warning Signs –",
+            "(i) Slowing down of response time",
+            "(ii) Presence of tiny dots",
+            "(iii) Wandering across the screen",
+            "(iv) Incomplete saving of file",
+            "(v) Corruption of the system set-up instructions",
+            "(vi) Appearance of strange characters",
+            "(f) Virus Detection (Antivirus) –",
+            "(i) Norton Antivirus e.g. SMADAV",
+            "(ii) McAfee Virus Scan",
+            "(iii) Dr. Solomon’s Tool Kit",
+            "(iv) Penicillin, etc.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Logic Gates",
+          content: [
+            "(a) Meaning of Logic Gates",
+            "(b) Truth Table",
+            "(c) Types of Logic Gates –",
+            "OR gate, AND gate, NOT (Inverter) gate, NOR gate, NAND gate",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Revision",
+          content: ["Revision of work done in Second Term"],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["JSS3 Computer Studies Third Term Examination"],
+        },
+      ],
     },
-    {
-      week: 8,
-      topics: "Examination",
-      content: ["JSS3 English Studies Second Term Examination"],
-    },
-
-  ],
-  "Home Economics":[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in first term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Sewing Machine and Garment Construction Processes",
-    "content": [
-      "(a) Types and Parts of the Sewing Machine (Functions of Each Part)",
-      "(b) Factors that Influence the Choice of a Sewing Machine"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Sewing Machine and Garment Construction Processes",
-    "content": [
-      "(c) Care of Sewing Machine",
-      "(d) Terms Peculiar to Garment Construction E.g. facing, hems, opening, fastenings, etc.",
-      "(e) Making of a Simple Baby Dress Using the Sewing Machine"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Food Hygiene and Safety",
-    "content": [
-      "(a) Meaning of Food Hygiene",
-      "(b) Reasons for Healthy Food Handing",
-      "(c) Ways for Handling Foods for Safety"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Food Hygiene and Safety",
-    "content": [
-      "(d) Sources of Food Contamination and Poisoning",
-      "(e) Sensory Signs of Spoilage and Causative Micro-organisms"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Preparation, Packaging and Marketing of Food Items",
-    "content": [
-      "(a) Differences between Snacks and Main Meals",
-      "(b) Snacks and Drinks Available in the Society",
-      "(c) Duties of Food Sellers/Providers for the Public"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Preparation, Packaging and Marketing of Food Items",
-    "content": [
-      "(d) Preparation of Snacks, Drinks and Meals",
-      "(e) Preparation of Food for Packaging",
-      "(f) Marketing Principles"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Responsible Food Management",
-    "content": [
-      "(a) Responsibilities of a Food Safety Manager to Consumers",
-      "(b) Hygienic Food Management Strategies",
-      "(c) Effects of Hygienic and Unhygienic Food Handling to the Consumer"
-    ]
-  },
-    {
-      week:9,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week:10,
-      topics: "Examination",
-      content: ["JSS3 Home Economics Second Term Examination"],
-    },
-  ],
-  "Mathematics":[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in first term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Simultaneous Linear Equations",
-    "content": [
-      "(a) Graphs of Linear Equations (Revision)",
-      "(b) Compilations of Tables of Values",
-      "(c) Graphical Solution of Simultaneous Linear Equations in Two Variables"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Simultaneous Linear Equations",
-    "content": [
-      "(d) Solving by Substitution",
-      "(e) Solving by Elimination",
-      "(f) Word Problems"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Variations",
-    "content": [
-      "(a) Direct Variation",
-      "(b) Inverse Variation",
-      "(c) Joint Variation",
-      "(d) Partial Variation"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Construction",
-    "content": [
-      "(a) Bisection of a Line Segment – Using a Pair of Compasses and a Ruler",
-      "(b) Construction and Bisection of Angles",
-      "(c) Construction of Triangles and Quadrilaterals"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Similar Shapes",
-    "content": [
-      "(a) Similar Figures",
-      "(b) Similar Triangles",
-      "(c) Enlargement and Scale Factor"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Similar Shapes",
-    "content": [
-      "(d) Scale Factor in Calculating Lengths",
-      "(e) Areas and Volumes of Similar Figures"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Mensuration of Solids",
-    "content": [
-      "(a) Area of Solids: (i) Total Surface Area of Cube and Cuboid (ii) Curved Surface Area of Cylinder and Cone (iii) Total Surface Area of Cylinder and Cone",
-      "(b) Volume of Solids",
-      "(c) Relationship between Volume and Capacity"
-    ]
-  },
-    {
-      week:9,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week:10,
-      topics: "Examination",
-      content: ["JSS3 Mathematics Second Term Examination"],
-    },
-  ],
-  "Physical and Health Education (PHE)":[
-    
-  {
-    "week": 1,
-    "topics": "Revision of first term's work",
-    "content": [
-      "Revision of work done in first term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Non-contact Games",
-    "content": [
-      "(a) Swimming: Basic Swimming Styles – Crawl, breast stroke, butterfly, etc.) swimming skills, swimming equipment",
-      "(b) Gymnastics: E.g. stunts and tumbling, forward roll, head stand and crab walks, cat, wheel limp, frog"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Non-contact Games",
-    "content": [
-      "(c) Floor Activities: (i) Classification of Floor Activities (ii) Values of Floor Activities",
-      "(d) Officials and their Duties",
-      "(e) Safety Rules for Non-contact Games"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Personal, School and Community Health",
-    "content": [
-      "(a) Family Life Education: (i) Meaning and Types of Families (ii) Duties of Members of the Family",
-      "(b) Puberty in Boys and Girls",
-      "(c) Teenage Pregnancy and its Consequences"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Personal, School and Community Health",
-    "content": [
-      "(a) Assertiveness and Communication Skills – Meaning of Assertiveness and Non-assertiveness",
-      "(b) Sports Promotion Agencies and Bodies in Nigeria (i) Sport Association (ii) NAPHER SD (iii) Nigeria Institute of Sports",
-      "(c) Need for Promotion of Sports in Our Society",
-      "(d) Career Opportunities in Physical Education"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Personal, School and Community Health",
-    "content": [
-      "(a) Agencies/Organizations Promoting Health Education in Nigeria",
-      "(b) Career Opportunities in Health Education",
-      "(c) Supporting Dying, Grieving and Ageing Persons",
-      "(d) Life-enhancing Measures against Ageing"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Personal, School and Community Health",
-    "content": [
-      "(a) Meaning of Drug, Drug Use, Misuse and Abuse",
-      "(b) Categories of Drugs",
-      "(c) Health Consequences of Drug Misuse and Abuse",
-      "(d) Ways of Preventing Drug Misuse and Abuse among Young People"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Pathogens, Diseases and their Prevention",
-    "content": [
-      "(a) Nature of Communicable Diseases – Measles, mumps, pneumonia, etc.",
-      "(b) Mode of Transmission of Communicable Diseases",
-      "(c) Factors and Causative Agents",
-      "(d) Prevention and Management of Non-communicable Diseases – Sickle cell, obesity, kwashiorkor, etc."
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Family Health",
-    "content": [
-      "(a) Types of Diseases and Modes of Transfer",
-      "(b) Disease Vectors",
-      "(d) Life Cycle of the Mosquito and Other Vectors",
-      "(e) Control Measures – Water drainage, insecticides, oil spreading/ spraying, etc.",
-      "(a) Disease Transmission",
-      "(b) Consequences of Contracting Diseases on Individuals, Family, and Society",
-      "(c) Diseases Prevention – Sanitation, education, immunization, choice of life partner, etc."
-    ]
-  } ,
-    {
-      week:10,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week:11,
-      topics: "Examination",
-      content: ["JSS3 Physical and Health Education Second Term Examination"],
-    },
-  ],
-  "Social Studies":[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Managing and Resolving Conflict",
-    "content": [
-      "(a) Conflict Management and Resolution",
-      "(b) Attributes Required for Conflict Resolution"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Controlling Cultism in our Society",
-    "content": [
-      "(a) Meaning of Cultism",
-      "(b) Origin of Secret Cults in Nigerian Schools"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Controlling Cultism in our Society",
-    "content": [
-      "(c) Manifestation/Activities of Campus Secret Cults",
-      "(d) Causes of Cultism"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Controlling Cultism in our Society",
-    "content": [
-      "(e) Consequences of Cultism",
-      "(f) Solutions to Cultism"
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Preventing Drug Trafficking",
-    "content": [
-      "(a) Meaning of Drug Trafficking",
-      "(b) Reasons for Trafficking in Drugs"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Preventing Drug Trafficking",
-    "content": [
-      "(c) Consequences of Drug Trafficking",
-      "(d) Prevention of Drug Trafficking"
-    ]
-  },
-    {
-      week:8,
-      topics: "Revision",
-      content: ["Revision of work done in Third Term"],
-    },
-    {
-      week:9,
-      topics: "Examination",
-      content: ["JSS3Social Studies Second Term Examination"],
-    },
-  ]
-},
-  //JSS3 Third TERM
-ThirdTerm:{
-  "Christian Religious Studies":[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision and correction of the previous term’s work"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Unity Among Christians",
-    "content": [
-      "(a) Christian Organizations:",
-      "(i) World Council of Churches (WCC)",
-      "(ii) Christian Association of Nigeria (CAN)",
-      "(iii) Nigeria Association of Biblical Studies (NABS)",
-      "(iv) Pentecostal Fellowship of Nigeria (PFN), etc.",
-      "(b) Teachings that Will Foster Unity:",
-      "(i) Faith and Works (James 1:22-27)",
-      "(ii) Humility (Phil. 2:3-11)",
-      "(iii) Impartiality (James 2:1-13)",
-      "(iv) Forgiveness (Gal. 6:1-2)",
-      "(v) Giving (Phil. 4:14-19; 2Cor.8: 3-5; 9: 6-15)"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Christian Living among Non-Christians",
-    "content": [
-      "(a) Christian Living in the Community (Matt. 5:13-16)",
-      "(b) Christian Attitude to Persecution (1 Pet. 3:13-17; James 1:12-15; 1 Pet. 1:6-10)"
-    ]
-  },
-    {
-      week:8,
-      topics: "Revision",
-      content: ["Revision of work done in Second Term"],
-    },
-    {
-      week:9,
-      topics: "Examination",
-      content: ["JSS3Social Christian Religious Studies Third Term Examination"],
-    },
-  ],
-  "Computer Studies" :[
-    
-  {
-    "week": 1,
-    "topics": "Revision",
-    "content": [
-      "Revision of work done in the previous term"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Human Issues",
-    "content": [
-      "(a) Computer Professionals –",
-      "(i) Computer Managers",
-      "(ii) System Analysts",
-      "(iii) Programmers",
-      "(iv) Computer Educators",
-      "(v) Computer Engineers and Technicians",
-      "(vi) Computer Operators"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Human Issues",
-    "content": [
-      "(b) Qualities of Good Computer Professionals"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Human Issues",
-    "content": [
-      "(c) Computer Professional Bodies –",
-      "(i) Nigeria Computer Society (NCS)",
-      "(ii) Institute of Management Information System (IMIS)",
-      "(iii) Computer Professional Registration Council of Nigeria (CPRN)",
-      "(iv) Information Technology Association of Nigeria (ITAN)",
-      "(v) Nigerian Internet Group (NIG)"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Computer Viruses",
-    "content": [
-      "(a) Meaning of Computer Virus",
-      "(b) Types of Computer Virus –",
-      "(i) Boot sector virus",
-      "(ii) Executable file virus",
-      "(iii) Attack on document",
-      "(c) Examples of Viruses –",
-      "(i) Trojan horse",
-      "(ii) Sleeper",
-      "(iii) Logic bomb",
-      "(iv) Alabama virus",
-      "(v) Christmas virus",
-      "(d) Sources of Viruses –",
-      "(i) Infected diskettes",
-      "(ii) Infected CD-ROMS",
-      "(iii) e-mails",
-      "(iv) Internet downloads",
-      "(v) Illegal duplication of software, etc."
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Computer Viruses",
-    "content": [
-      "(e) Virus Warning Signs –",
-      "(i) Slowing down of response time",
-      "(ii) Presence of tiny dots",
-      "(iii) Wandering across the screen",
-      "(iv) Incomplete saving of file",
-      "(v) Corruption of the system set-up instructions",
-      "(vi) Appearance of strange characters",
-      "(f) Virus Detection (Antivirus) –",
-      "(i) Norton Antivirus e.g. SMADAV",
-      "(ii) McAfee Virus Scan",
-      "(iii) Dr. Solomon’s Tool Kit",
-      "(iv) Penicillin, etc."
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Logic Gates",
-    "content": [
-      "(a) Meaning of Logic Gates",
-      "(b) Truth Table",
-      "(c) Types of Logic Gates –",
-      "OR gate, AND gate, NOT (Inverter) gate, NOR gate, NAND gate"
-    ]
-  }
-    ,
-    {
-      week:8,
-      topics: "Revision",
-      content: ["Revision of work done in Second Term"],
-    },
-    {
-      week:9,
-      topics: "Examination",
-      content: ["JSS3 Computer Studies Third Term Examination"],
-    },
-  ],
-}
   },
   //SS1 FIRST TERM
-  SS1:{
-FirstTerm:{
-  "Agricultural Science":[
-    
-  {
-    "week": 1,
-    "topics": "Meaning and Importance of Agriculture",
-    "content": [
-      "(a) Definition of Agricultural Science",
-      "(b) Branches of Agricultural Science",
-      "(c) Importance of Agricultural Science to the Individual, Community, and Nation"
-    ]
-  },
-  {
-    "week": 2,
-    "topics": "Subsistence and Commercial Agriculture",
-    "content": [
-      "(a) Meaning of Subsistence and Commercial Agriculture",
-      "(b) Differences between Subsistence and Commercial Agriculture based on their Characteristics",
-      "(c) Advantages and Disadvantages of Subsistence and Commercial Agriculture",
-      "(d) Problems of Subsistence and Commercial Agriculture"
-    ]
-  },
-  {
-    "week": 3,
-    "topics": "Problems of Agricultural Development and Possible Solutions",
-    "content": [
-      "(a) Problems Related to Land Tenure, Basic Amenities, Finance, Transportation, Storage and Processing Facility, Agricultural Education and Extension; Tools and Machinery, Farm Inputs, Marketing System, Environmental Degradation, etc.",
-      "(b) Possible Solutions to Identified Problems"
-    ]
-  },
-  {
-    "week": 4,
-    "topics": "Role of Government in Agricultural Development",
-    "content": [
-      "Roles of Government in Agricultural Development:",
-      "(i) Agricultural Finance – Credit, Subsidy",
-      "(ii) Agricultural Education",
-      "(iii) Agricultural Extension Services",
-      "(iv) Agricultural Policies and Programmes (Review of Past and Present e.g. OFN, ADP, etc.)"
-    ]
-  },
-  {
-    "week": 5,
-    "topics": "Role of Non-governmental Organizations (NGOs) in Agricultural Development",
-    "content": [
-      "(a) Meaning of Non-governmental Organizations (NGOs)",
-      "(b) Importance of Non-governmental Organizations (NGOs)",
-      "(c) Roles of NGOs in Agricultural Development e.g. Capacity building, Extension services, etc."
-    ]
-  },
-  {
-    "week": 6,
-    "topics": "Agricultural Laws and Reforms",
-    "content": [
-      "(a) Land Tenure System in Nigeria",
-      "(b) The Land Use Decree of 1978 and its Implications for Agricultural Development",
-      "(c) Advantages and Disadvantages of the Land Use Decree in Nigeria"
-    ]
-  },
-  {
-    "week": 7,
-    "topics": "Agricultural Ecology",
-    "content": [
-      "(a) Meaning of Agricultural Ecology and Ecosystem",
-      "(b) Components of Farm Ecosystem e.g. Biotic, Abiotic, Auto-trophism and Hetero-trophism",
-      "(c) Interactions of the Terrestrial and Aquatic Agro Ecosystem:"
-    ]
-  },
-  {
-    "week": 8,
-    "topics": "Land and its Uses",
-    "content": [
-      "(a) Meaning of Land",
-      "(b) Characteristics of Land – Free gift of nature, immobile, limited in supply, etc.",
-      "(c) Uses of Land",
-      "(i) Agricultural Purposes – Crop production, wild life conservation (game reserves), livestock production, etc.",
-      "(ii) Non-agricultural Purposes – Industry – Housing, transport, etc."
-    ]
-  },
-  {
-    "week": 9,
-    "topics": "Factors Affecting Land Availability for Agricultural Purposes",
-    "content": [
-      "(a) Factors Affecting Land Availability for Agricultural Purposes:",
-      "(i) Land tenure system",
-      "(ii) Population pressure",
-      "(iii) Soil type and topography, etc."
-    ]
-  } ,
-    {
-      week: 10,
-      topics: "Revision",
-      content: ["Revision of work done Previous Term"],
-    },
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["SS1 Agricultural Science First Term Examination"],
-    },
-  ],
-  "Animal Husbandry" :[
-      {
-        week: 1,
-        topics: "INTRODUCTION TO ANIMAL HUSBANDRY",
-        content: ["Meaning of Animal Husbandry","Livestock in Animal Husbandry","The Scope of Animal Husbandry","History of Livestock Development","Types of Animal Husbandry","Career Opportunities in Animal Husbandry","Economic Importance of Farm Animals","Problems of Animal Husbandry","Suggested Solutions to the Problems of Animal Husbandry"],
-      },
-      {
-        week: 2,
-        topics: "EXTERNAL FEATURES OF SOME SELECTED ANIMALS",
-        content: ["External Features of a Cow","External Parts of a Pig","External Features of a Rabbit","External Features of a Fish","External Parts of a Fowl","External Features of a Goat","External Features of a Sheep"],
-      },
-      {
-        week: 3,
-        topics: "CLASSIFICATION OF ANIMALS",
-        content: ["Classification of Animals","Monogastric or Non-ruminant Animals","Polygastric or Ruminant Animals","Differences between Mono-gastric and Poly-gastric Animals"],
-      },
-      {
-        week: 4,
-        topics: "ECONOMIC IMPORTANCE OF FARM ANIMALS",
-        content: ["Economic Importance of Farm Animals"],
-      },
-      {
-        week: 5,
-        topics: "DIGESTIVE SYSTEM OF NON-RUMINANT ANIMALS",
-        content: ["Digestion in Non-ruminants/Monogastrics (Pig)","Digestion in Domestic Fowl"],
-      },
-      {
-        week: 6,
-        topics: "DIGESTION IN RUMINANT ANIMALS",
-        content: ["Digestion in Ruminant Animals","Enzymes","Importance of the Digestive System"],
-      },
-      {
-        week: 7,
-        topics: "RESPIRATORY SYSTEM",
-        content: ["Definition of Respiratory System","Types of Respiration","Breathing"," Breathing Importance of Respiratory System"],
-      },
-      {
-        week: 8,
-        topics: "NERVOUS SYSTEM",
-        content: ["Definition of Nervous System","The Central Nervous System","The Spinal Cord","The Peripheral Nervous System","Reflex Actions"],
-      },
-         {
-        week: 9,
-        topics: "THE CIRCULATORY SYSTEM",
-        content: ["Meaning of Circulatory System","The Blood","Blood Cells","General Functions of the Blood"],
-      },
-      {
-        week: 10,
-        topics: "THE HEART AND BLOOD VESSELS",
-        content: ["Meaning of the Heart","The Heartbeat","The Blood Vessels","Differences between the Artery and the Vein","Circulation of Blood"],
-      },
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["SS1 Animal Husbandry First Term Examination"],
-    },
-  ],
-  "Biology":[
-    {
-      week: 1,
-      topics: "INTRODUCTION TO BIOLOGY",
-      content: ["Meaning of (a) Science and (b) Biology","The Scientific Method","Experimental Pattern", "Living And Non-living Things","Differences between Plants and Animals ","Levels of Organization","Complexity in Multicellular Organisms"],
-    },
-    {
-      week: 2,
-      topics: "CLASSIFICATION (TAXONOMY) OF LIVING THINGS",
-      content: ["Classification/Taxonomy of Living Things","Binomial System of Nomenclature","Classification and Evolution"],
-    },
-    {
-      week: 3,
-      topics: "Classification of Living Things II: Kingdom Plantae; Kingdom Animalia",
-      content: ["Kingdom Plantae","Kingdom Animalia"],
-    },
-    {
-      week: 4,
-      topics: "THE CELL",
-      content: ["The Cell as a Living Unit of an Organism","Forms in Which Cells Exist","The Structure and Functions of the Cell","Cell Theory"],
-    },
-    {
-      week: 5,
-      topics: "THE CELL AND ITS ENVIRONMENT",
-      content: ["Introduction","Diffusion","Osmosis","Plant Nutrition","Micro and Macro Elements"],
-    },
-    {
-      week: 6,
-      topics: "PROPERTIES AND FUNCTIONS OF  THE CELL 1",
-      content: ["Animal Nutrition","Balanced Diet","Heterotrophic Nutrition","Enzymes","Practical Guide on Food Tests"],
-    },
-    {
-      week: 7,
-      topics: "PROPERTIES AND FUNCTIONS OF  THE CELL 2",
-      content: ["Cellular Respiration","Excretion","Growth"],
-    },
-    {
-      week: 8,
-      topics: "PROPERTIES AND FUNCTIONS OF  THE CELL",
-      content: ["The Cell’s Reactions to its Environment","Movement","Reproduction"],
-    },
-    {
-      week: 9,
-      topics: "TISSUES AND SUPPORTING SYSTEMS – SKELETONS AND SUPPORTING SYSTEMS IN ANIMALS",
-      content: ["Biological Significance of the Skeleton (Importance of the Skeleton)","Forms of Skeletons","Types of Skeletons","Bones of the Vertebral Column","Joints","Functions of Skeleton in Animals"],
-    },
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 Biology First Term Examination"],
-    },
-  ],
-  "Chemistry":[
-    {
-      week: 1,
-      topics: "INTRODUCTION TO CHEMISTRY",
-      content: ["define chemistry and state its branches.","explain scientific method and its importance.","enumerate the uses of chemistry.","describe some adverse effects of chemistry.","identify at least five (5) careers related to chemistry."],
-    },
-    {
-      week: 2,
-      topics: "PARTICULATE NATURE OF MATTER",
-      content: ["Define matter.","List and describe the states of matter.","Mention and describe the movement of matter.","Describe with examples physical and chemical properties.","Differentiate between physical and chemical changes."],
-    },
-    {
-      week: 3,
-      topics: "PARTICULATE NATURE OF MATTER",
-      content: ["ELECTRONIC CONFIGURATION"],
-    },
-    {
-      week: 4,
-      topics: "VALENCY, OXIDATION NUMBER, IONS AND RADICALS",
-      content: ["VALENCY"],
-    },
-    {
-      week: 5,
-      topics: "FORMULAE AND EQUATIONS",
-      content: ["CHEMICAL FORMULAE"],
-    },
-    {
-      week: 6,
-      topics: "CHEMICAL LAWS OF COMBINATIONS",
-      content: ["Experiment to verify the law of conservation of matter (mass)"],
-    },
-    {
-      week: 7,
-      topics: "CHEMICAL COMBINATION",
-      content: ["THE PERIODIC TABLE (THE FIRST 20 ELEMENTS)"],
-    },
-    {
-      week: 8,
-      topics: "CHEMICAL  INDUSTRIES",
-      content: ["Meaning of Chemical Industry","Factors to be Considered in Siting Chemical Industry","Categories of Chemical Industries...."],
-    },
-    {
-      week: 9,
-      topics: "Examination",
-      content: ["SS1 Chemistry First Term Examination"],
-    },
-  ],
-  "Christian Religious Studies (CRS)":[
-    {
-      week: 1,
-      topics: "JESUS AS THE LAMB, THE DOOR AND GOOD SHEPHERD",
-      content: ["Jesus as the Lamb (John 1 : 29 - 34)","Jesus as the Door","Jesus as the Good Shepherd"],
-    },
-    {
-      week: 2,
-      topics: "JESUS AS THE LIGHT OF THE WORLD",
-      content: ["The Light of the World (John 3:19; 8:12; 9:4-5;)","Walking in the Light (John 12:35-36)","Consequences of Walking in Darkness (John 12:35-36; 1 John 1:5-7)","Social Vices as Evidence of Walking in Darkness","Jesus as the Vine (John 15:1-11)","Significance"],
-    },
-    {
-      week: 3,
-      topics: "JESUS AS THE LIVING BREAD AND WATER",
-      content: ["Jesus as the Living Bread (John 6:25-40)","esus as the Living Water (John 4:7-15)","Values Beside Food and Water that are Necessary for Growth and Happiness"],
-    },
-    {
-      week: 4,
-      topics: "GOD’S LOVE FOR MAN",
-      content: ["Meaning of Love","Types of Love","Demonstration of God's Love to Human Beings","The Need for Human Beings to Respond to God's Love"],
-    },
-    {
-      week: 5,
-      topics: "LOVE FOR ONE ANOTHER",
-      content: ["To Know God is to Love One Another (John 4:7-8,21)","The Qualities of Love (1 Cor. 13:1-13)","Various Ways to Demonstrate Love for One Another (John 3:17-18)"],
-    },
-    {
-      week: 6,
-      topics: "JUSTIFICATION BY FAITH",
-      content: ["Meaning and Need for Justification (Rom. 3: 23; Gal. 3: 19-21)","Work and Law do not Justify Anybody (Rom.4:1-5; Gal.2: 16-21)","Faith in Jesus as a Condition for Justification (Rom. 1:16-17; 4:1-5)","The Fruit of Justification (Gal. 2:19-21; 5:22)"],
-    },
-    {
-      week: 7,
-      topics: "NEW LIFE IN CHRIST",
-      content: ["Meaning of Old Life as Living in Sin","Characteristics of the Old Life (Gal. 5:19-21, Col. 3:5-7)"],
-    },
-    {
-      week: 8,
-      topics: "NEW LIFE IN CHRIST",
-      content: ["Meaning of New Life in Christ","The Need for Change (Rom. 6:1-4; 15:18-19)","Characteristics of the New Life","The Need to Stick to the New Life"],
-    },
-    {
-      week: 10,
-      topics: "SONSHIP",
-      content: ["Jesus Christ the Son of God (Rom. 8:3, 17, 32)","Christians are Also Children of God (Rom. 8:1-39, 4:6, 7; Eph. 5:3)"],
-    },
-    {
-      week: 11,
-      topics: "Sonship II",
-      content: ["Right and responsibilities as children of God","Right as citizens of Nigeria."],
-    },
-    {
-      week: 12,
-      topics: "Examination",
-      content: ["SS1 Christian Religious Studies (CRS) First Term Examination"],
-    },
-  ],
-  "Civic Education":[
-    {
-      week: 1,
-      topics: "VALUES",
-      content: ["The Meaning of Values","The Kinds of Values","The Types of Values","Honesty"],
-    },
-    {
-      week: 2,
-      topics: "JUSTICE AND SELFLESSNESS",
-      content: ["The Meaning of Justice","Types of Justice","The Meaning of Selflessness","Qualities of Selflessness","Incidences of Selflessness"],
-    },
-    {
-      week: 3,
-      topics: "THE OPPORTUNITY TO DEFEND ONESELF",
-      content: ["Meaning of the Opportunity to Defend Oneself","Opportunities to Defend Oneself"],
-    },
-    {
-      week: 4,
-      topics: "INVOLVEMENT IN COMMUNITY SERVICE",
-      content: ["Meaning of Community Service","Examples of Community Service Projects","The National Youth Service Corps (NYSC)","The Importance of Community Service"],
-    },
-    {
-      week: 5,
-      topics: "HIV/AIDS",
-      content: ["Introduction","The Meaning of HIV","The Meaning of AIDS","Causes of HIV/AIDS","Symptoms of AIDS","Effects of HIV/AIDS"],
-    },
-    {
-      week: 6,
-      topics: "PREVENTION AND CONTROL OF HIV/AIDS; STIGMATIZATION",
-      content: ["Prevention of HIV/AIDS","Stigmatization of People Living with HIV/AIDS","The People Living with HIV/AIDS (PLWHA)","The Roles of the PLWHA","How the Community Can Help People Living with HIV/AIDS (PLWHA","The Nine Canons of the PLWHA"],
-    },
-    {
-      week: 7,
-      topics: "EMPOWERMENT",
-      content: ["The Concept of Empowerment","Empowerment Strategies","The Objectives of Empowerment"],
-    },
-    {
-      week: 8,
-      topics: "YOUTH EMPOWERMENT",
-      content: ["The Meaning of Youth and Youth Empowerment","The Importance of Youth Empowerment","Types of Youth Empowerment Skills","The Hindrance to Youth Empowerment"],
-    },
-    {
-      week: 9,
-      topics: "CITIZENSHIP EDUCATION",
-      content: ["The Meaning of Citizenship and Citizen","The Means of Acquiring Citizenship","Withdrawal of Citizenship","Goals of Citizenship Education"],
-    },
-    {
-      week: 10,
-      topics: "LAW",
-      content: ["The Meaning of Law","Types of Laws","Laws and Rights of Individuals"],
-    },
-    {
-      week: 11,
-      topics: "NATIONALISM",
-      content: ["The Meaning of Nationalism","Nationalistic Roles of Individuals","Nationalistic Roles of Groups"],
-    },
-    {
-      week: 12,
-      topics: "MAJOR LOCAL AND GLOBAL CIVIC PROBLEMS",
-      content: ["Major Local Civic Problems","Major World Civic Problems"],
-    },
-    {
-      week: 12,
-      topics: "Examination",
-      content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
-    },
-  ],
-  "Commerce":[
-    {
-      week: 1,
-      topics: " INTRODUCTION TO COMMERCE ",
-      content: ["Meaning of Commerce","Scope of Commerce","Functions of Commerce","Characteristics of Commerce","Meaning and Functions of E-commerce","Types of E-commerce"],
-    },
-    {
-      week: 2,
-      topics: "HISTORY OF COMMERCE ",
-      content: ["Historical Background of Commerce","Factors Affecting the Growth of Commerce in West Africa","The Barter System"],
-    },
-    {
-      week: 3,
-      topics: "OCCUPATION",
-      content: ["Meaning of Employment","Meaning of Occupation"," Classification of Occupation","Factors that Determine the Types of Occupation ","Factors that Determine Employment"],
-    },
-    {
-      week: 4,
-      topics: "PRODUCTION",
-      content: [" Meaning of Production","Classification of Production"," The Factors of Production ","The Importance of Production"],
-    },
-    {
-      week: 5,
-      topics: "TRADE",
-      content: ["Meaning of Trade","Types of Trade","Relationship between Home Trade and Foreign Trade","Differences between Home Trade and Foreign Trade","Relationship between/among the Different Types of Trade"],
-    },
-    {
-      week: 6,
-      topics: "RETAIL TRADE",
-      content: ["Meaning of Home Trade","Retail trade.","Large scale retailing.","Mail order business.","Modern trends of retailing.","Reasons Why  Retail businesses fail."],
-    },
-    {
-      week: 7,
-      topics: "Examination",
-      content: ["SS1 Commerce First Term Examination"],
-    },
-  ],
-  "Computer Science/ICT":[
-    {
-      week: 1,
-      topics: "OVERVIEW OF THE COMPUTER SYSTEM",
-      content: ["Definitions of computer.","The three basic operations of the computer.","The main constituents of a computer."],
-    },
-    {
-      week: 2,
-      topics: "OVERVIEW OF THE COMPUTER SYSTEM",
-      content: ["Computer hardware.","Computer software.","Characteristicsfor your computer."],
-    },
-    {
-      week: 3,
-      topics: "DATA AND INFORMATION",
-      content: ["Definition of Data and Information","Examples of Data and Information","Differences between Data and Information","Examples of Data and Information"],
-    },
-    {
-      week: 4,
-      topics: "COMPUTING DEVICES: PRE-COMPUTER AGE TO THE 19TH CENTURY",
-      content: ["The Abacus","The Slide Rule",
-   "   Napier’s Bone",
-"      Pascal’s Calculator",
-"      Leibniz Multiplier",
-"      The Jacquard Loom",
-"      The Difference Engine",
-     " Hollerith Census Machine",
-  "    The Analytical Engine",
-      "Burrough’s Machine"],
-    },
-    {
-      week: 5,
-      topics: "COMPUTING DEVICES: 20TH CENTURY TO DATE",
-      content: ["Features, Components and Uses of ENIAC",
-"      Features, Components and Uses of EDVAC",
-"      Features, Components and Uses of UNIVAC 1",
-  "    Features, Components and Uses of Desktop Personal Computer",
- "     Features, Components and Uses of Laptop and Notebook Computers",
-"      Features, Components and Uses of Palmtop Computers",
-],
-    },
-    {
-      week: 6,
-      topics: "INPUT DEVICES",
-      content: ["Definition of Input Devices",
-      "Types of Input Devices"],
-    },
-    {
-      week: 7,
-      topics: "INPUT DEVICES",
-      content: ["Keyboard – Structure and Functions","Mouse – Features, Functions and Operations"],
-    },
-    {
-      week: 9,
-      topics: "OUTPUT DEVICES",
-      content: ["Definition of Output Devices","Features and Uses of Output Devices"],
-    },
-    {
-      week: 10,
-      topics: "OUTPUT DEVICES:PRINTERS",
-      content: ["Types of Printers","Comparative Study of Common Printers"],
-    },
-
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["SS1 Computer Science/ICTFirst Term Examination"],
-    },
-  ],
-  "Economics" :[
-    {
-      week: 1,
-      topics: "MEANING OF ECONOMICS AND RELATED CONCEPTS",
-      content: ["Meaning of Economics",
-  "    The Scope of Economics",
-  "    The Importance of Studying Economics",
-    "  Economics as a Social Science"],
-    },
-    {
-      week: 2,
-      topics: "BASIC CONCEPTS IN ECONOMICS",
-      content: ["Wants",
-"      Scarcity",
-"      Scale of Preference",
-"      Choice",
-"      Opportunity Cost",
-  "    Resources"],
-    },
-    {
-      week: 3,
-      topics: ["BASIC TOOLS OF ECONOMIC ANALYSIS"],
-      content: ["Introduction to Graphs, Charts and Tables",
-"      Tables",
-"      Graphs",
-      "Charts"],
-    },
-    {
-      week: 4,
-      topics: ["BASIC TOOLS OF ECONOMIC ANALYSIS"],
-      content: ["Meaning of Measures of Central Tendencies",
-      "Mean",
-      "Median",
-      "Mode"],
-    },
-    {
-      week: 5,
-      topics: ["THE CONCEPT OF DEMAND"],
-      content: ["The Price System",
-  "    The Concept of Demand",
-  "    The Demand Schedule",
-"      The Demand Curve",
-   "   The Law of Demand",
-    "Factors Affecting Demand"],
-    },
-    {
-      week: 6,
-      topics: ["THE CONCEPT OF SUPPLY"],
-      content: ["Definition of Supply",
-    "  The Supply Schedule",
-"      The Supply Curv",
-  "    The Law of Supply",
-"      Factors Affecting Supply",
-"      Determination of Equilibrium Price and Quantity"],
-    },
-    {
-      week: 7,
-      topics: ["PRODUCTION"],
-      content: ["Meaning of Production",
-"      Types of Production",
-    "  Stages of Production",
-      "Factors Affecting Production"],
-    },
-    {
-      week: 8,
-      topics: ["DIVISION OF LABOUR AND SPECIALIZATION"],
-      content: ["The Origin of Modern Division of Labour",
-"      Definition of Division of Labour",
-"      Specialization",
-     " Limitations or Factors that Encourage or Discourage Division of Labour"],
-    },
-    {
-      week: 9,
-      topics: ["SCALE OF PRODUCTION/ECONOMIES OF SCALE"],
-      content: ["Meaning of of Economies of Scale",
-"      Types of Economies of Scale",
- "     Internal Economies and Internal Diseconomies",
-   "External Economies and External Diseconomies"],
-    },
-
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
-    },
-  ],
-  "English Language":[
-    {
-      week: 1,
-      topics: ["ntroduction to Speech Sound (Organs of Speech)"],
-      content: ["Speech Work: Introduction to Speech Sound (Organs of Speech)",
-"      Comprehension: Argungu Cultural Festival",
- "     Vocabulary Development: (Registers on Family)",
-"      Structure: Nouns – (Introduction – Definition and Kinds of Nouns)",
-      "Writing Skills: Narrative – Introduction to Narrative Essay"],
-    },
-    {
-      week: 2,
-      topics: ["Monophthongs"],
-      content: ["Speech Work: Monophthongs (Introduction)",
-"      Comprehension/Summary: (Introduction to Summary)",
-"      Vocabulary Development: (Words Associated with Agriculture)",
-"      Structure: Nouns – Countable and Uncountable Nouns (Regular and Irregular Plurals)",
-      "Writing Skills: Narrative – Linking Paragraphs"],
-    },
-    {
-      week: 3,
-      topics: ["Vowels /i/,/i:/; /æ/,/a:/"],
-      content: ["Speech Work: Vowel Sounds /i/, /i:/, /æ/ and /a:/",
-"      Comprehension: Mac",
-"      Vocabulary Development: Words Associated with Agriculture (Fishing)",
- "  Structure: Nouns – Nouns and Determiners/Articles",
-   "   Writing Skills: Narrative (Writing Introductory Paragraphs)"],
-    },
-       {
-      week: 4,
-      topics: ["Vowels /ͻ/ and /ͻ:/; /u/ and /u:/"],
-      content: ["Speech Work: Vowel Sounds /ͻ/, /ͻ:/, /u/ and /u:/",
-"      Comprehension/Summary: Identifying the Topic Sentence in a Passage",
-"      Vocabulary Development: Words Associated with Animal Husbandry (Livestock)",
-"      Structure: Noun – The Structure of Noun Phrase",
-      "Writing Skills: Letter Writing – Informal Letters (Introduction)"],
-    },
-    {
-      week: 5,
-      topics: [" Vowel sounds: /е/, /ʌ/, /ɜ:/ and /ə/"],
-      content: ["Speech Work: Vowel sounds /е/, /ʌ/, /ɜ:/, /ə/",
-"      Comprehension: Sickle Cell Disease",
-  "    Vocabulary Development: Words Associated with Animal Husbandry (Poultry)",
-"      Structure: Phrase – Verb Phrases",
-"      Writing Skills: Letter Writing – Informal Letter (Formats)",
-       ],
-    },
-    {
-      week: 6,
-      topics: ["Consonants /p/, /b/, /t/ and /d/"],
-      content: ["Speech work: /p/, /b/, /t/ and /d/","Comprehension/Summary: Summarising in a Specific Number of Sentences","Vocabulary Development: (Words Associated with Traditional Religion)","Structure: Nominalization of Adjectives","Writing Skills: Letter Writing – Semi-Formal Letters (Introduction)"],
-    },
-    {
-      week: 7,
-      topics: ["Consonants /k/, /g/, /s/ and /z/"],
-      content: ["Speech Work: Consonants /k/, /g/, /s/ and /z/","Comprehension: Oliha’s Embarrassment","Vocabulary Development (Words Associated with Home and Family)","Structure: Nominalization of Verbs","Writing Skills: Letter Writing – Semi-Formal Letters (Language)"],
-    },
-    {
-      week: 8,
-      topics: [" Consonants /ʃ/, /ʒ/, /θ/ and /ð/ /"],
-      content: ["Speech Work: Consonant Sounds /ʃ/, /ʒ/, /θ/ and /ð/","Comprehension/Summary: More about Identifying the Topic Sentence in a Passage","Vocabulary Development: Words Associated with Religion (Christianity)","Structure: Introduction to Irregular Verbs"," Writing Skills: Record Keeping (Introduction)"],
-    },
-    {
-      week: 9,
-      topics: ["Consonants /j/, /w/ and /l/"],
-      content: ["Speech Work: Consonants /j/ /w/ and /l/","Structure: Regular Verbs","Comprehension: The Yam Festival","Writing Skills: Record Keeping","Vocabulary Development: Words Associated with Religion (Islam)"],
-    },
-    {
-      week: 11,
-      topics: "Examination",
-      content: ["SS1 English Language First Term Examination"],
-    },
-  ],
-  "Financial Accounting":[
-    {
-      week: 1,
-      topics: [" BOOK KEEPING AND ACCOUNTING"],
-      content: ["Meaning of Book Keeping",
- "     Meaning of Accounting",
-   "   History of Accounting in Nigeria",
- "     Definition of Accountant",
-  "    Roles of an Accountant",
-"      Types of Accountants",
-   "Accounting as a Profession"],
-    },
-    {
-      week: 2,
-      topics: ["BOOK KEEPING AND ACCOUNTING"],
-      content: ["The Need for Book-keeping and Accounting",
- "     The Need/Importance of Book-keeping",
-    "  Users of Accounting Information",
-  "    Qualities of Accounting Information",
-     " Limitations of Accounting Information"],
-    },
-    {
-      week: 3,
-      topics: ["ETHICS OF ACCOUNTING"],
-      content: ["Meaning of Ethics",
-   "   Meaning of Accounting Ethics",
-   "   Qualities of Accountants and Accounting Ethics",
-      "Benefits of Accounting Ethics to the Accounting Profession and the Public (Society)"],
-    },
-    {
-      week: 4,
-      topics: ["PRINCIPLES AND PRACTICE OF DOUBLE ENTRY"],
-      content: ["The Concept of Double Entry System","Review of Double Entry With Comprehensive Illustrations"],
-    },
-    {
-      week: 5,
-      topics: ["ACCOUNTING CONCEPTS AND CONVENTIONS"],
-      content: ["Meaning of Accounting Concepts",
-"      Major Accounting Concepts",
-     " Accounting Conventions"],
-    },
-    {
-      week: 6,
-      topics: ["JOURNALS AND CASH ACCOUNT"],
-      content: ["General Journal",
-"      Classes of Entries",
-"      Errors Affecting the Agreement of the Trial Balance",
-      "Introduction to Cash Book"],
-    },
-    {
-      week: 7,
-      topics: ["ANALYTICAL CASH BOOK"],
-      content: ["Two Column Cash Book",
-      "Contra Entries",
-  "    Three Column Cash Book",
-    "  Discount",
-    " Analytical Petty cash Book"],
-    },
-    {
-      week: 8,
-      topics: ["BANK RECONCILIATION STATEMENT"],
-      content: ["Introduction to Bank Documents",
-"      Definition of Bank Statement",
-   "   Meaning of Bank Reconciliation Statement",
-   "   Causes of Discrepancies/Disagreement between Cash Book and Bank Statement",
-     " Interpretation of Bank Statements"],
-    },
-      {
-      week: 9,
-      topics: "Examination",
-      content: ["SS1 Financial Accounting First Term Examination"],
-    },
-  ],
-  "General Mathematics":[
-    {
-      week: 1,
-      topics: "INDICES",
-      content: ["Revision of Standard Form",
-"      Laws Of Indices and Application of Indices",
-   "   Simple Indicial Equations"],
-    },
-    {
-      week: 2,
-      topics: " LOGARITHMS",
-      content: ["Deducing logarithm from indices and standard form",
-"      Definition of Logarithms",
-    "  Definition of Antilogarithms",
-     " The graph of y = 10x",
- "     Reading logarithm and Antilogarithm tables"],
-    },
-    {
-      week: 3,
-      topics: "LOGARITHMS",
-      content: [" Use Of Logarithm Table And Antilogarithm Table In Calculations Involving",". Application of logarithm in capital market and other real life problems"],
-    },
-    {
-      week: 4,
-      topics: "SETS",
-      content: ["Definition of set",
-     " Set Notations",
-  " Types of Sets"],
-    },
-    {
-      week: 5,
-      topics: "SETS",
-      content: ["Set Operations",
- "     Union of Sets",
- "     Intersection of Sets",
-     " Complement of a Set",
-   "   Venn Diagrams",
-     "Application of Venn Diagram up to 3 Set Problems"],
-    },
-    {
-      week: 6,
-      topics: "NUMBER BASE SYSTEM",
-      content: ["Conversion from other bases to base 10 and vice versa",
-    "  Conversion of decimal fraction in other bases to base 10 and vice versa."],
-    },
-    {
-      week: 7,
-      topics: "NUMBER BASE SYSTEM",
-      content: ["Conversion of numbers from one base to another",
-      "Addition, subtraction, division and multiplication of number bases",
-      "Application to computer programming"],
-    },
-    {
-      week: 8,
-      topics: "SIMPLE EQUATIONS AND VARIATIONS",
-      content: ["Formulae, substitution and change of subject of formulae",
-     " simple binary operations",
-      "Variations (i) Direct and inverse, (ii) joint and partial",
-      "Application of variation."],
-    },
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 General Mathematics First Term Examination"],
-    },
-  ],
-  "Geography":[
-    {
-      week: 1,
-      topics: "MEANING, SCOPE AND IMPORTANCE OF GEOGRAPHY",
-      content: ["Meaning of Geography",
-   "   Scope and Nature of Geography",
-     " Branches of Geography"],
-    },
-    {
-      week: 2,
-      topics: "TOWN/VILLAGE: PHYSICAL AND CULTURAL FEATURES",
-      content: ["Meaning of Local Geography",
-   "   The Village",
-    "  The Town",
-    "  Physical and Cultural Features of a Town/Village",
-    "  Direction and Location of Physical and Cultural Features within the Town/Village",
-      "Influences of Physical Features on Human Activities"],
-    },
-    {
-      week: 3,
-      topics: "STATES AND LOCAL GOVERNMENT AREAS",
-      content: ["State Geography",
-   "   Local Government Headquarters",
-   "   Locational Relationship",
-     " Physical Characteristics of Local Government",
-   "   Economic Activities in Local Governments",
-       ],
-    },
-    {
-      week: 4,
-      topics: "THE EARTH AND OTHER PLANETS",
-      content: ["Components of the Solar System",
-   "   Classification of Planets",
-   "   The Sun",
-   "   The Nine Planets and their Characteristics",
-   "   The Earth – Size, Shape and Position in Relation to the Sun and Other Planets",
-     "Evidence/Proofs to Show that the Earth is Spherical"],
-    },
-    {
-      week: 5,
-      topics: "EARTH’S MOVEMENTS",
-      content: ["Earth’s Movements",
-"      Meaning and Effects of Rotation of the Earth",
-    "  Meaning and Effects of Revolution of the Earth",
-    "  Differences between Rotation and Revolution of the Earth"],
-    },
-    {
-      week: 6,
-      topics: "LATITUDES AND LONGITUDES",
-      content: ["Meaning and Uses of Latitude",
-"      Latitude and Distance",
- "     Meaning and Uses of Longitude",
-   "   The Great Circle",
-   "   Differences and Similarities between Lines of Latitude and Longitude",
-   "   Time and Time Zones",
-     " Standard Time and World Time Zones",
-      "International Dateline and Grid References"],
-    },
-    {
-      week: 7,
-      topics: "THE EARTH’S STRUCTURE",
-      content: ["Major Spheres of the Earth",
-      "Relationship between the Three Major Spheres",
-     " Relevance to Human Activities",
-      ],
-    },
-    {
-      week: 8,
-      topics: "ROCKS",
-      content: ["Definition of Rock",
-      "Types of Rock",
-      "Mode of Formation of Rock Types",
-      "Characteristics of Rock Types",
-      "Economic Importance of Rocks to Man"],
-    },
-    {
-      week: 9,
-      topics: "MOUNTAINS",
-      content: ["Definition of Mountains",
-      "Types of Mountains",
-      "Mode of Formation of Mountains",
-      "Characteristics of the Types of Mountains",
-      "Examples of Each Type of Mountain",
-      "Importance of Mountains",
-      "Disadvantages of Mountains",
-      ],
-    },
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 Geography First Term Examination"],
-    },
-  ],
-  "Government":[
-    {
-      week: 1,
-      topics: "THE CONCEPT OF GOVERNMENT",
-      content: ["Definition of Government",
-      "Government as an Institution of the State",
-      "Government as a Process or Act of Governing",
-      "Government as an Academic Field of Study",
-      "The Characteristics of Government",
-      "The Functions of Government"],
-    },
-    {
-      week: 2,
-      topics: "THE STATE AND THE NATION",
-      content: ["The State",
-     " The Nation",
-     "The Relationship between a State and Government"],
-    },
-    {
-      week: 3,
-      topics: "THE CONCEPTS OF POLITICAL POWER AND POLITICAL AUTHORITY",
-      content: ["The Concept of Power",
-  "    The Concept of Authority",
-      "The Differences between Power and Authority"],
-    },
-    {
-      week: 4,
-      topics: "LEGITIMACY",
-      content: ["The Meaning of Legitimacy",
-    "  Factors that Determine or Sustain Legitimacy",
-     " Legitimacy as a Factor of the Stability of Government"],
-    },
-    {
-      week: 5,
-      topics: "SOVEREIGNTY",
-      content: ["The Meaning of Sovereignty",
-      "The Types of Sovereignty",
-   "   The Location of Sovereignty in a State",
-      "The Limitations of Sovereignty"],
-    },
-    {
-      week: 6,
-      topics: "DEMOCRACY",
-      content: ["The Meaning of Democracy",
-   "   The Types of Democracy",
-    "  The Main Features of Democracy",
-       ],
-    },
-    {
-      week: 7,
-      topics: "POLITICAL CULTURE AND POLITICAL SOCIALIZATION",
-      content: ["The Concept of Political Culture",
-      "The Concept of Political Socialization"],
-    },
-    {
-      week: 8,
-      topics: "COMMUNALISM",
-      content: ["The Meaning of Communalism",
-      "The Features of Communalism"],
-    },
-    {
-      week: 9,
-      topics: "CAPITALISM",
-      content: ["The Meaning of Capitalism",
-    "  The Characteristics of Capitalism",
-      "The Merits of and Demerits of Capitalism"],
-    },
-    {
-      week: 10,
-      topics: "SOCIALISM",
-      content: ["Meaning of Socialism",
-"      The Features of Socialism",
-   "   The Merits of Socialism",
-      "The Demerits of Socialism",
-      "Comparison of Capitalism and Socialism"],
-    },
-    {
-      week: 10,
-      topics: "OLIGARCHY",
-      content: ["Definition of Oligarchy",
-  "    Features of Oligarchy",
-      "Types of Oligarchy"],
-    },
-    {
-      week: 10,
-      topics: "COMMUNISM",
-      content: ["Definition of Communism",
-    "  Features of Communism",
-"      The Origin and Development of Communism",
-   "   The Principles of Communism",
-    " The Relationship between Socialism and Communism"],
-    },
-    {
-      week: 10,
-      topics: "FASCISM AND TOTALITARIANISM",
-      content: ["The Meaning of Fascism",
-  "    Characteristics of Fascism",
-      "Meaning of Totalitarianism",
-"Characteristics of Totalitarianism"],
-    },
-
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 Government First Term Examination"],
-    },
-  ],
-  "Literature in English":[
-    {
-      week: 1,
-      topics: "INTRODUCTION TO LITERATURE",
-      content: ["Introduction",
-   "   Definitions of Literature",
-"      The Functions of Literature",
-     " The Genres of Literature",
-      "Distinctions between the Genres of Literature"],
-    },
-    {
-      week: 2,
-      topics: "INTRODUCTION TO DRAMA",
-      content: ["Introduction to Drama",
-  "    Types of Drama",
-     " Features of drama"],
-    },
-    {
-      week: 3,
-      topics: "INTRODUCTION TO PROSE",
-      content: ["Definition of Prose",
-     " Forms/Types of Prose",
-     " Features of Prose"],
-    },
-    {
-      week: 4,
-      topics: "INTRODUCTION TO POETRY ",
-      content: ["Introduction of poetry",
-  "    Types of poetry",
-     " Features of poetry"],
-    },
-    {
-      week: 5,
-      topics: "INTRODUCTION TO LITERARY APPRECIATION",
-      content: ["Meaning of Literary Appreciation",
-    "  Terms Used in Literary Appreciation",],
-    },
-    {
-      week: 6,
-      topics: "THE CONCEPT OF PLOT",
-      content: ["Meaning and Definition of Plot",
-      "Features of Plot"],
-    },
-    {
-      week: 7,
-      topics: "THE CONCEPT OF SETTING",
-      content: ["Definition of Setting","Types of Setting","Characterisation"],
-    },
-    {
-      week: 8,
-      topics: "THE CONCEPT OF STYLE",
-      content: ["Meaning of Style","  Definition of Style",
-      "Presentation techniques of styles in prose, drama, poetry"],
-    },
-    {
-      week: 9,
-      topics: "FIGURES OF SPEECH",
-      content: ["Figures of Comparison and Sound",
-      "Other figures of speech."],
-    },
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 Literature in English First Term Examination"],
-    },
-  ],
-  "Physics" :[
-    {
-      week: 1,
-      topics: "INTRODUCTION TO PHYSICS",
-      content: ["Definition of Physics",
-    "  The Importance of Physics",
-     " Aspects/Careers in Physics",
-      "Branches of Physics"],
-    },
-    {
-      week: 2,
-      topics: "FUNDAMENTAL AND DERIVED QUANTITIES AND UNITS",
-      content: ["The Concept of Fundamental Quantities",
-    "  Other Fundamental Quantities",
-      "The Concept of Derived Quantities",
-      "Dimensions and Units of Derived Quantities"],
-    },
-    {
-      week: 3,
-      topics: "DIMENSIONS AND MEASUREMENT OF PHYSICAL QUANTITIES",
-      content: ["Measurement of Length/Distance",
-"      Measurement of Mass/Weight",
-   "   Measurement of Volume",
-     " Measurement of Area",
-     " Measurement of Time",
-      "Units of Measurement in Industries"],
-    },
-    {
-      week: 4,
-      topics: "POSITION, DISTANCE AND DISPLACEMENT",
-      content: ["The Concept of Position",
-"      The Concept of Distance and Measurement",
-    "  The Concept of Displacement",
-      "Distinction between Distance and Displacement"],
-    },
-    {
-      week: 5,
-      topics: "MOTION",
-      content: ["Definition of Motion",
-   "   Types of Motion",
-      "Causes and Effects of Motio"],
-    },
-    {
-      week: 6,
-      topics: "MOTION: FORCE AND FRICTION",
-      content: ["Definition of Force",
-   "   Types of Forces",
-"      Definition of Friction",
-"Types of Friction",
-"The Laws of Solid Friction",
-"Coefficient of friction",
-"Advantages and Disadvantages of Friction",
-"Methods of Reducing Friction"],
-    },
-    {
-      week: 7,
-      topics: "SPEED AND VELOCITY",
-      content: ["The Concepts of Distance, Speed, Velocity and Uniform Speed/Velocity",
-  "    Calculations on Speed and Velocity",
-      "Distance-Time Graph, Displacement-time Graph"],
-    },
-    {
-      week: 8,
-      topics: "RECTILINEAR ACCELERATION",
-      content: ["The Concept of Acceleration",
-     " Uniform and Non-uniform Acceleration",
-    "  Deceleration",
-  "    Worked Examples on Acceleration and Deceleration",
-     " Velocity-Time (V – T) Graph",
-      "Worked Examples on V-T Graph"],
-    },
-    {
-      week: 9,
-      topics: "CIRCULAR MOTION",
-      content: ["Meaning of Circular Motion",
- "     Definition of Terms Used in Circular Motion",
-      "Calculations on Circular Motion"],
-    },
-    {
-      week: 10,
-      topics: "Examination",
-      content: ["SS1 Physics First Term Examination"],
-    },
-  ]},
-  SecondTerm:{
-    "Agricultural Science":[
-      {
-        week: 1,
-        topics: "Revision",
-        content: ["Revision of work done in First Term"],
-      },
-      {
-        week: 2,
-        topics: "Agro-Allied Industries and Relationship between Agriculture and Industry",
-        content: [
-          "(a) Agro-based Industries and Raw Materials",
-          "    (i) Paper Industry – Pulpwood",
-          "    (ii) Beverage industry - cocoa, tea, etc.",
-          "    (iii) Soap industry - oil seeds, etc.",
-          "(b) Relationship between Agriculture and Industries",
-          "    - Agriculture provides a market for industrial products e.g. farm machinery, chemicals, etc."
-        ],
-      },
-      {
-        week: 3,
-        topics: "Environmental Factors Affecting Agricultural Production",
-        content: [
-          "Environmental Factors Affecting Crops and Production",
-          "(i) Climatic Factors",
-          "    - Rainfall, temperature, light, wind, etc.",
-          "(ii) Biotic Factors",
-          "    - Predators, parasites, soil micro-organisms, inter-relationship such as competition, parasitism, mutualism (symbiosis), etc.",
-          "(iii) Edaphic Factors",
-          "    - Soil pH, soil texture, soil structure, soil type, etc."
-        ],
-      },
-      {
-        week: 4,
-        topics: "Rock Formation",
-        content: [
-          "(a) Process of Rock Formation",
-          "(b) Types of Rocks",
-          "    (i) Igneous Rocks",
-          "    (ii) Sedimentary Rocks",
-          "    (iii) Metamorphic Rocks"
-        ],
-      },
-      {
-        week: 5,
-        topics: "Soil Formation and Profile Development",
-        content: [
-          "(a) Factors of Soil Formation",
-          "    - The parent rock, organisms, climate topography, and time",
-          "(b) Outline of Soil Formation Processes",
-          "    - Weathering process",
-          "(c) Soil Profile Development"
-        ],
-      },
-      {
-        week: 6,
-        topics: "Types, Composition and Properties of Soil",
-        content: [
-          "(a) Types of Soil",
-          "(b) Chemical and Biological Composition of Soil",
-          "    (i) Soil macro- and micro-nutrients",
-          "    (ii) Soil water",
-          "    (iii) Macro-organisms",
-          "    (iv) Soil microbes",
-          "    (v) Soil air",
-          "    (vi) Soil pH",
-          "(c) Physical Properties of Soil",
-          "    (i) Soil texture",
-          "    (ii) Soil structure",
-          "(d) Soil Classification Systems"
-        ],
-      },
-      {
-        week: 7,
-        topics: "Simple Farm Tools",
-        content: [
-          "(a) Meaning of Simple Farm Tools",
-          "(b) Types of Simple Farm Tools",
-          "    - Cutlass, hoe, spade, shovel, etc.",
-          "(c) Identification and Description of Each of the Tools",
-          "(d) Identification of Various Accessory Tools and their Uses",
-          "(e) General Maintenance of Simple Farm Tools"
-        ],
-      },
-      {
-        week: 8,
-        topics: "Farm Machinery and Implements",
-        content: [
-          "(a) Farm Machinery",
-          "    (i) Tractor",
-          "    (ii) Bull dozer",
-          "    (iii) Sheller",
-          "    (iv) Dryers",
-          "    (v) Incubators",
-          "    (vi) Milking machines, etc.",
-          "(b) Tractor-coupled Implements",
-          "    - Ploughs, harrows, ridgers, planters, harvesters, sprayers, etc."
-        ],
-      },
-      {
-        week: 9,
-        topics: "Farm Machinery Maintenance Practices and Precautionary Measures",
-        content: [
-          "(a) Reasons for Maintaining Farm Machines",
-          "(b) Maintenance of Farm Machinery",
-          "    (i) Check water and oil levels regularly",
-          "    (ii) Carry out routine service",
-          "    (iii) Keep the machines clean, etc."
-        ],
-      },
-      {
-        week: 10,
-        topics: "Agricultural Engineering and Mechanisation",
-        content: [
-          "(a) Definition and Meaning of Farm Mechanisation",
-          "(b) Mechanised Agricultural Operations",
-          "    - Farm Activities Involving Machinery",
-          "(c) Advantages and Disadvantages of Farm Mechanisation",
-          "(d) Limitation/Problems of Farm Mechanisation",
-          "    - Prospect of farm mechanisation"
-        ],
-      },
-      {
-        week: 11,
-        topics: "Sources of Farm Power",
-        content: [
-          "(a) Meaning of Farm Power",
-          "(b) Sources of Farm Power",
-          "(c) Advantages and Disadvantages of Each Source of Farm Power"
-        ],
-      },
-      {
-        week: 12,
-        topics: "Examination",
-        content: ["SS1 Agricultural Second Term Examination"],
-      },
-    ],
-    "Animal Husbandry":[
-      {
-        week: 1,
-        topics: "REPRODUCTION IN FARM ANIMALS",
-        content: ["Terms in Reproduction"],
-      },
-      {
-        week: 2,
-        topics: "REPRODUCTION IN FARM ANIMALS",
-        content: ["(Terminologies in Reproduction)",
-
-     "   Parturition",
-      "  Lactation",
-       " Colostrum",
-       " Weaning",
-    "    Dystocia",
-      "  Flushing",
-    "    Foetus or Embryo",
-        "Steam Up"],
-      },
-      {
-        week: 3,
-        topics: "REPRODUCTIVE SYSTEM OF FARM ANIMALS",
-        content: ["Meaning of Reproduction in Farm Animals",
-        "The Male Reproductive System",
-        "The Female Reproductive System"],
-      },
-      {
-        week: 3,
-        topics: "REPRODUCTIVE SYSTEM OF FARM ANIMALS",
-        content: ["Meaning of Reproduction in Farm Animals",
-       " The Male Reproductive System",
-        "The Female Reproductive System"],
-      },
-      {
-        week: 4,
-        topics: "REPRODUCTIVE SYSTEM IN BIRDS",
-        content: ["(Introduction)",
-       " The Process of Egg Formation in Poultry",
-        "Parts of the Female Reproduction System in Poultry"],
-      },
-      {
-        week: 5,
-        topics: "TERMINOLOGIES USED IN LIVESTOCK PRODUCTION",
-        content: ["(Terminologies Used in Poultry Production)",
-        "Terminologies Used in Pig Production",
-        "Terminologies Used in Rabbit Production",
-        "Terminologies Used in Cattle Production",
-        "Terminologies Used in Goat Production"],
-      },
-      {
-        week: 1,
-        topics: "REPRODUCTIVE HORMONES AND THEIR FUNCTIONS",
-        content: ["The Endocrine System",
-        "Male Reproductive Hormones",
-        "Female Reproductive Hormones"],
-      },
-      {
-        week: 12,
-        topics: "Examination",
-        content: ["SS1 Animal Huasbandry Second Term Examination"],
-      },
-    ],
-    "Biology" :[
-      {
-        week: 1,
-        topics: "TISSUES AND SUPPORTING SYSTEMS",
-        content: ["Different Types of Supporting Tissues",
-       " Functions of Supporting Tissues in Plants"],
-      },
-      {
-        week: 2,
-        topics: "BASIC ECOLOGICAL CONCEPTS",
-        content: ["Meaning of Ecology",
-       " Ecological Concepts",
-      "  Components of an Ecosystem",
-        "Local Biotic Communities or Biomes"],
-      },
-      {
-        week: 3,
-        topics: "BASIC ECOLOGICAL CONCEPTS",
-        content: ["(Major Biomes of the World)",
-  "      Population Studies by Sampling Method",
-       " Ecological Factors",
-      "  Simple Measurement of Ecological Factors",
-       " Relationship between Soil Types and Water Holding Effects of Soil on Vegetation",
-        "Practical Guides on Soil"],
-      },
-      {
-        week: 4,
-        topics: "FUNCTIONAL ECOSYSTEM: AUTOTROPHY AND HETEROTROPHY",
-        content: ["Producers",
-       " Consumers",
-        "Aquatic and Terrestrial"],
-      },
-      {
-        week: 5,
-        topics: "ENERGY TRANSFORMATION IN NATURE",
-        content: ["Energy Loss in the Ecosystem (i) Solar Radiation (ii) Energy Loss in the Biosphere (iii) Measure of Primary Production",
-       "Laws of Thermodynamics"],
-      },
-      {
-        week: 6,
-        topics: "THE RELEVANCE OF BIOLOGY TO AGRICULTURE",
-        content: ["1. (Classification of Plants)",
-
-      "  (a) Botanical Classification of Plants",
-        
-        "(b) Agricultural Classification of Plants",
-        
-       " (c) Classification of Plants based on Life Cycle",
-        
-      "  2. Effects of Agricultural Activities on Ecological system",
-        
-        "3. Pests and Diseases of Agricultural Importance"],
-      },
-      {
-        week: 7,
-        topics: "THE RELEVANCE OF BIOLOGY TO AGRICULTURE",
-        content: ["1. Food Production and Storage",
-
-"        (a) Ways of Improving Crop Yield",
-        
-      "  (b) Causes of Wastage",
-        
-       " (c) Methods of Preserving and Storing Food",
-        
-       " 2. Population Growth and Food Supply",
-        
-      "  3. Relationship between Availability of Food and Human Population (Effects of Storage)",
-       
-        "4. Government Efforts to Increase Food Production (e.g.) Agricultural Revolution",
-        ],
-      },
-      {
-        week: 8,
-        topics: "MICRO-ORGANISMS AROUND US",
-        content: ["1. Micro-organisms in Air and Water",
-        "(i) Group of Micro-organisms: Bacteria, Viruses, Some algae, Protozoa, Fungi",
-        
-        "(ii) The Concept of Culturing",
-        
-        "2. Identification of Micro-organisms in (i) Air (ii) Pond Water (iii) River (iv) The Concept of Culturing", "3. Micro-organisms in Our Bodies and Food",
-        "4. Carriers of Micro-organisms: Examples, Location of the Micro-organism in Carriers and Types of Micro-organism"],
-      },
-      {
-        week: 9,
-        topics: "MICRO-ORGANISMS IN ACTION",
-        content: ["Meaning of Micro-organisms",
-        "Types of Micro-organisms",
-        "Growth of Micro-organisms: Ways of Measuring the Growth of Microorganisms",
-        "Beneficial Effects of Micro-organisms in Nature, Medicine and Industries",
-        "Harmful Effects of Some Microbes",
-         ],
-      },
-      {
-        week: 9,
-        topics: "MICRO-ORGANISMS AND BETTER HEALTH",
-        content: ["Control of Harmful Micro-organisms",
-"Vectors (i) Definition of Vectors (ii) Ways of Controlling Mosquitoes (iii) Ways of Controlling Vectors","Student’s Health: Maintenance of Good Health"],
-      },
-      {
-        week: 12,
-        topics: "Examination",
-        content: ["SS1 Biology Second Term Examination"],
-      },
-    ],
-    "Chemistry" :[
-      {
-        week: 1,
-        topics: "Gaseous State and Gas Laws",
-        content: ["STATES OF MATTER"],
-      },
-      {
-        week: 2,
-        topics: "Gaseous State and Gas Laws II",
-        content: ["BOYLE’S LAW"],
-      },
-      {
-        week: 3,
-        topics: " Gaseous State and Gas Laws III",
-        content: ["GAY- LUSSAC’S LAW AND AVOGADRO’S LAW"],
-      },
-      {
-        week: 4,
-        topics: "Standard Separation Techniques for Mixtures ",
-        content: ["COMPOUNDS AND MIXTURES"],
-      },
-      {
-        week: 5,
-        topics: "Chemistry Practicals",
-        content: ["Chemistry Practicals"],
-      },
-      {
-        week: 6,
-        topics: "Examination",
-        content: ["SS1 Chemistry Second Term Examination"],
-      },
-    ],
-    "Christian Religious Studies (CRS)":[
-       {
-        week: 1,
-        topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
-        content: ["Introduction",
-        "Peter’s Message on Christian Living (1 Pet. 1:13-17; 2:9-25; 4:1-19)",
-        "The Roles of Christians in the Community",
-        "Paul’s Statements on Children of Light (Rom. 13:11-14)"],
-      },
-      {
-        week: 2,
-        topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
-        content: ["Social Vices and Witnessing to Christ",
-        "Tolerance and Peaceful Co-existence",
-        "Civic Responsibilities (1 Pet. 2:13-17)"],
-      },
-      {
-        week: 3,
-        topics: "CHRISTIAN ATTITUDE TOWARDS PERSECUTION",
-        content: ["Meaning of Persecution",
-        "Forms of Persecution",
-        "Peter’s Message to Christian under Persecution (1 Pet. 1:5-9; 4:12-19)",
-        "Jesus’ Message on Love of Enemies (Matthew 5:43-48)",
-        "The Persecution of Christ",
-        "Suffering and the Christian Faith",
-        "Christian Attitude to Persecution (1 Peter 4:12-19)"],
-      },
-      {
-        week: 4,
-        topics: "IMPARTIALITY",
-        content: ["Meaning of Impartiality",
-        "All Human Beings are Equal before God",
-        "Warning against Prejudice/James’ Teaching on Partiality (James 2: 1-13)",
-        "The “Golden Rule” (Matt. 7:12; Luke 6:31)",
-        "Negative Effects of Nepotism, Fabouritism and Tribalism in the Society",
-         ],
-      },
-      {
-        week: 5,
-        topics: "THE RESURRECTION AND SECOND COMING",
-        content: ["Meaning of Resurrection",
-        "The Account of the Resurrection in Matthew (Matthew 28:1-8)",
-        "Mark’s Account of the Resurrection (Mark 16:1-8)",
-        "Luke’s Account of the Resurrection (Luke 24:1-11)",
-        "Significance of the Resurrection to the Christian Faith"],
-      },
-      {
-        week: 6,
-        topics: "RESURRECTION",
-        content: ["The Role of Women in the Resurrection Story of Jesus",
-        "Comparison of the Three Accounts of Resurrection in the Synoptic Gospels"],
-      },
-      {
-        week: 6,
-        topics: "THE SECOND COMING OF CHRIST",
-        content: ["Jesus Talks of the Last Judgment When He Comes (Matthew 25:31-36)",
-        "Paul’s Teaching on Jesus’ Second Coming (I Thess. 4:13-18, 5:1-11)",
-        "How We Ought to Prepare for the Second Coming of the Lord (Matthew 25: 31-46)"],
-      },
-      {
-        week: 7,
-        topics: "Examination",
-        content: ["SS1 CRS Second Term Examination"],
-      },
-    ],
-    "Civic Education":[
-      {
-        week: 1,
-        topics: "DEMOCRACY",
-        content: ["The Meaning of Democracy","Representative Democracy","Characteristics of Representative Democracy","Merits and Demerits of Representative Democracy"],
-      },
-      {
-        week: 2,
-        topics: "THE RULE OF THE MAJORITY",
-        content: ["The Meaning of the Majority","The Meaning of Minority Group","The Rationale/Reasons for the Existence of Minorities in Society","Measures to Safeguard the Minorities"],
-      },
-      {
-        week: 3,
-        topics: "THE MAJOR PILLARS OF DEMOCRACY",
-        content: ["The Concept of Major Pillars of Democracy","The Major Pillars of Democracy in Nigeria"],
-      },
-      {
-        week: 4,
-        topics: "FEDERALISM",
-        content: ["The Meaning of Federalism","The Legislative Lists","Characteristics of Federalism","The Relationship among the Federal, State and Local Government in a Federalism"],
-      },
-      {
-        week: 5,
-        topics: "THE DUTIES AND RESPONSIBILITIES OF CITIZENS",
-        content: ["The Duties and Responsibilities of Citizens"],
-      },
-      {
-        week: 6,
-        topics: "POLITICAL PARTIES",
-        content: ["The Meaning of Political Parties","Functions of Political Parties "],
-      },
-      {
-        week: 7,
-        topics: "FREEDOM OF THE PRESS",
-        content: ["Meaning of the Press","Meaning of Press Freedom "],
-      },
-      {
-        week: 8,
-        topics: "THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)",
-        content: ["Meaning of Human Rights ","Historical Background of the Universal Declaration of Human Rights (UDHR)","History of the Universal Declaration of Human Rights",
-     "History of the Universal Declaration of Human Rights",
-     "The 30 Articles of the Universal Declaration of Human Rights (UDHR)" ],
-      },
-      {
-        week: 9,
-        topics: "THE SEVEN CORE FREEDOMS OF THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)",
-        content: ["The Meaning of the Core Freedoms of the UDHR","The Seven Core Freedoms of the UDHR"],
-      },
-      {
-        week: 9,
-        topics: "RESPONSIBILITIES OF INDIVIDUALS AND GROUPS IN THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)",
-        content: ["Introduction",
-"        Roles of Individuals in the UDHR",
-        "Roles of Groups in the UDHR",
-       "Roles of the Government in the UDHR"],
-      },
-      {
-        week: 11,
-        topics: "Examination",
-        content: ["SS1 Civic Education Second Term Examination"],
-      },
-    ],
-    "Commerce":[
-      {
-        week: 1,
-        topics: "HOME TRADEII",
-        content: ["Wholesale Trade","The Channels of Distribution"],
-      },
-      {
-        week: 2,
-        topics: "Home Trade III",
-        content: ["Meaning of Home Trade","Advantages of Home Trade ","Agents",
-   "     Warehouses",
-"        Terminologies Used in Home Trade",
-       " Documents Used in Home Trade"],
-      },
-      {
-        week: 3,
-        topics: "FOREIGN TRADE",
-        content: ["The Meaning of Foreign Trade",
-       " Differences and Similarities between Home Trade and Foreign Trade",
-     "   Measures to Promote Export Trade",
-        "Entre-port Trade",
-        "Functions of the Nigeria Export Promotion Council",
-"        Forms/Types of International Trade",
-        "Reasons for International Trade",
-      "  Benefits of International Trade",
-       " Disadvantages of International Trade",
-       " Divisions of Foreign Trade",
-        "Barriers to Foreign Trade"],
-      },
-      {
-        week: 4,
-        topics: "FOREIGN TRADE",
-        content: ["The Procedure for International Trade"," Balance of Trade and Balance of Payment"],
-      },
-      {
-        week: 5,
-        topics: "FOREIGN TRADE",
-        content: ["Tariffs and Reasons for the Imposition of Tariffs",
-        "Tools for Trade Restriction and Export Promotion",
-       "Documents Used in Foreign Trade",
-       "Functions of the Customs and Excise Authority",
-       " Functions of the Nigeria Export Promotion Council",
-        "Functions of the Nigerian Airports Authority and",
-        "Functions of the Nigeria Ports Authority"],
-      },
-      {
-        week: 6,
-        topics: "COMMODITY EXCHANGE",
-        content: ["Meaning of Commodity",
-      "  Types of Commodity",
-      "  Meaning of Commodity Exchange",
-     "   Meaning of Tradable Commodity",
-       " Distinctions between Tradable and Non-tradable Commodities",
-       " Requirements for Trading in Commodity Exchange",
-       " Types of Commodity Exchange",
-       "Methods of Trading"],
-      },
-      {
-        week: 1,
-        topics: "COMMODITY EXCHANGE",
-        content: ["Benefits of Commodity Exchange",
-       "Constraints to Commodity Trading",
-       "Meaning of Commodity, Commodity Exchange and Stocks",
-     "Differences between Commodities and Stocks",
-       "Similarities between Commodities and Stocks"],
-      },
-      {
-        week: 11,
-        topics: "Examination",
-        content: ["SS1 Commerce Second Term Examination"],
-      },
-    ],
-    "Computer Science/ICT":[
-      {
-        week: 1,
-        topics: "COMPUTER SYSTEM SOFTWARE",
-        content: ["Definition of Software","Types of Software"],
-      },
-      {
-        week: 2,
-        topics: "COMPUTER SYSTEM SOFTWARE",
-        content: ["The Operating System(i)Functions of the Operating System(ii)Examples of Operating Systems(iii)Examples of Translators and Utility Programs","Utility Software(i)Meaning of Utility Software,(ii)Types of Utility Software"],
-      },
-      {
-        week: 3,
-        topics: "COMPUTER APPLICATION SOFTWARE",
-        content: ["Definition of Application Software",
-        "Types of Application Software"],
-      },
-      {
-        week: 4,
-        topics: "COMPUTER APPLICATION SOFTWARE",
-        content: ["Categories of Application Packages and their Uses",
-        "Packages for Specialized Areas"],
-      },
-      {
-        week: 5,
-        topics: "PROGRAMMING LANGUAGES",
-        content: ["Definition of Programming Language",
-       "Levels of Programming Languages"],
-      },
-      {
-        week: 6,
-        topics: "PROGRAMMING LANGUAGES",
-        content: ["Features of Machine Language",
-        "Features of Low Level Languages",
-     "   Features of High Level Languages",
-       " Examples Of Programming Languages",
-        "Comparison of the Levels of Programming Languages"],
-      },
-      {
-        week: 7,
-        topics: "THE BASIC PROGRAMMING LANGUAGE",
-        content: ["Meaning of BASIC",
-        "Versions of BASIC",
-        "BASIC Character Set",
-        "BASIC Statements"],
-      },
-      {
-        week: 8,
-        topics: "THE BASIC PROGRAMMING LANGUAGE",
-        content: ["BASIC Arithmetic Operators",
-        "BASIC Arithmetic Expressions",
-        "Evaluation of Expressions",
-        "Simple BASIC Programs"],
-      },
-      {
-        week: 9,
-        topics: "Examination",
-        content: ["SS1 Computer Science ICT Second Term Examination"],
-      },
-    ],
-    "Economics" :[
-      {
-        week: 1,
-        topics: "ECONOMICS SYSTEMS",
-        content: ["Definition of Economic System",
-        "The Main Types of Economic Systems",
-        "Free or Capitalist Economic System (Capitalism)",
-        "Socialism",
-        "Mixed Economy",
-        "How Each Economic System Solves Fundamental Economic Problems of Society"],
-      },
-      {
-        week: 2,
-        topics: "BASIC ECONOMIC PROBLEMS OF SOCIETY",
-        content: ["Meaning of Economic System",
-        "Basic Economic Problems of Society"],
-      },
-      {
-        week: 3,
-        topics: "INTRODUCTION TO BUSINESS ENTERPRISES",
-        content: ["Definitions of Firm",
-        "Definition of Industry",
-        "Types and Basic Features of Business Enterprises",
-        "Sole Proprietorship",
-        "The Partnership"],
-      },
-      {
-        week: 4,
-        topics: "FIRMS AND INDUSTRY: PRIVATE AND PUBLIC COMPANIES",
-        content: ["Limited Liability Companies",
-        "Co-operative Societies",
-        "Public Enterprises",
-        "Joint Ventures",
-        "General Sources of Finance for Business Enterprises",
-        "General and Specific Problems of Business Enterprises",
-        "Privatization and Commercialization as a Solution to the Problems of Public Enterprises"],
-      },
-      {
-        week: 5,
-        topics: "POPULATION",
-        content: ["Meaning of Population",
-        "Determinants of Population Size and Growth",
-        "Population Growth Rate",
-        "Implication of Population Size",
-        "Implication of Population Growth"],
-      },
-      {
-        week: 6,
-        topics: "THEORIES OF POPULATION",
-        content: ["Malthusian Population Theory",
-       "The Demographic Transition Theory"],
-      },
-      {
-        week: 7,
-        topics: "DISTRIBUTION OR STRUCTURE OF POPULATION",
-        content: ["Distribution or Structure of Population",
-        "Population and Economic Development (Over-population, Under population and Optimum Population)",
-        "Population Census and Rural-Urban Migration"],
-      },
-      {
-        week: 8,
-        topics: "Examination",
-        content: ["SS1 Economics Second Term Examination"],
-      },
-    ],
-    "English Language":[
-      {
-        week: 1,
-        topics: "Consonant Sounds /k/, /g/, /f/ and /v/ ",
-        content: ["Speech Work: Consonants /k/, /g/, /f/ and /v/",
-       "Comprehension: Healthy Diet",
-       " Vocabulary Development: Other Expressions Associated with Traditional Religion (Examples: fanatic, hermit, atheist, etc.)",
-     "   Structure: Complex Tense Form (Present Tense – Simple, Present Continuous, Present Perfect and Present Perfect Continuous)",
-        "Writing Skills: Speech Writing (Introduction)"],
-      },
-      {
-        week: 2,
-        topics: " Words of Two Syllables (Stressed on the Second Syllable)",
-        content: ["Speech Work: Words of Two Syllables (Stressed on the Second Syllable)",
-    "    Comprehension: Cowpea Against Hunger (NOSEC. Pages 49-50)",
-    "    Vocabulary Development: Words Associated with Professions – Advertising (NOSEC. Pg. 173)",
-       " Structure: Phrasal Verbs (Introduction)",
-        "Writing Skill: Speech Writing (Planning and Organization)"],
-      },
-      {
-        week: 3,
-        topics: " Consonant Sounds Followed by K+W e.g. quench, quiet, etc.",
-        content: ["Speech Work: Consonant Sounds Followed by k + w e.g. quench, quick, etc.",
-        "Comprehension/Summary: Summarizing in a Specified Number of Sentences (NOSEC. Pg. 84)",
-        "Vocabulary Development: Antonyms",
-        "Structure: Phrasal Verbs (Separable and Non-separable)",
-        "Writing Skills: Descriptive Essay (Organizing a Descriptive Essay)"],
-      },
-      {
-        week: 4,
-        topics: " Consonants Followed by /j/ and /u/ sounds e.g. dew, you, cue, etc.",
-        content: ["Speech Work: Consonants Followed by /j/ and /u/ Sounds e.g. dew, you, cue, etc.",
-       " Comprehension: Our Unusual Planet",
-    "    Vocabulary Development: Antonyms (II)",
-       " Structure: Adjuncts (Adverbs)",
-        "Writing Skills: Descriptive Essays – (Guided essay) "],
-      },
-      {
-        week: 5,
-        topics: " Words of Three Syllables, Stressed on First, Second or Third Syllables.",
-        content: ["Speech Work: Words of Three Syllables, Stressed on First, Second or Third Syllables",
-      "  Comprehension: The Governor and the Princess NOSEC. Pages 66-67",
-       " Vocabulary Development: Synonyms",
-     "   Structure: Structural Classification of Sentences",
-        "Writing Skills: Popular Articles for Publication in a School Magazine (General Introduction) – NOSEC. Pages 191-192"],
-      },
-      {
-        week: 6,
-        topics: "Words of Four Syllables, Stress on First, Second or Third Syllables",
-        content: ["Speech Work: Words of Four Syllables, Stressed on the First, Second or Third Syllables",
-        "Comprehension: Kaduna: Bedrock of Strength and Creativity",
-   "     Vocabulary Development: Synonyms",
-        "Structure: Simple Sentences",
-       " Writing Skills: Popular Articles for Publication in National Dailies (Organization)"],
-      },
-      {
-        week: 7,
-        topics: "Stress Timing in English Sentences",
-        content: ["Speech Work: Stress Timing in English Sentences; Correct Phrasing & Voice Modulation",
-      "  Comprehension/Summary: Summarizing in a Specified Number of Sentences",
-       " Vocabulary Development: Words Commonly Misspelt and Use of the Dictionary (Examples: conceive, thief, beginning, proceed, occasion, etc.)",
-    "    Structure: Complex Sentences",
-       " Writing Skills: Articles for Publication in a School Magazine (Organization): “The Evil Effects of Peer Pressure"],
-      },
-      {
-        week: 8,
-        topics: "Oral Composition (Narrative, Descriptive, Argumentative and Expository Essay)",
-        content: ["Speech Work: Oral Composition; Narrative and Descriptive, Expository and Argumentative",
-        "Comprehension: Small Pox",
-        "Vocabulary Development: Homophones, Homographs and Homonyms",
-        "Structure: Compound Sentences",
-        "Writing Skills: Continuous Writing – Exposition (Introduction)"],
-      },
-      {
-        week: 9,
-        topics: "Speaking to Persuade/Convince",
-        content: ["Speech Work: Speaking to Persuade/Convince",
-       " Comprehension: The Origin of Silk",
-       " Vocabulary Development: Words Associated with Profession (Stock Exchange)",
-    "    Structure: Compound Complex Sentences",
-        "Writing Skills: Expository (Organizing an Expository Essay)"],
-      },
-      {
-        week: 10,
-        topics: "Examination",
-        content: ["SS1 English Language Second Term Examination"],
-      },
-    ],
-    "Financial Accounting":[
-      {
-        week: 1,
-        topics: "Other Types of Journal and Classification of Accounts",
-        content: ["SALES JOURNAL"," PURCHASES JOURNAL",". RETURN INWARD JOURNALS"],
-      },
-      {
-        week: 2,
-        topics: "Trial Balance and Correction of Errors",
-        content: ["The Need for Trial Balance"],
-      },
-      {
-        week: 3,
-        topics: "Trading Account",
-        content: ["THE DEFINITION OF TRADING ACCOUNT"],
-      },
-      {
-        week: 4,
-        topics: "Profit and Loss Account",
-        content: ["Profit and Loss Account Items"],
-      },
-      {
-        week: 5,
-        topics: "Adjustment in Profit and Loss Account I: Prepayment and Accruals",
-        content: ["Adjustment in Profit and Loss account – Prepayments"],
-      },
-      {
-        week: 6,
-        topics: "Adjustment in Profit and Loss Account II: Bad Debts, Discounts and Depreciation",
-        content: ["Posting of Entries into Ledger"],
-      },
-      {
-        week: 8,
-        topics: "Introduction to Accounting Ratios",
-        content: ["Meaning of Accounting Ratios"],
-      },
-      
-      {
-        week: 10,
-        topics: "Examination",
-        content: ["SS1 Financial Accounting Second Term Examination"],
-      },
-    ],
-    "General Mathematics":[
-            
-      {
-        week: 1,
-        topics: "Modular Arithmetic 1",
-        content: ["Revision of addition and subtraction of integers",
-        "Revision of multiplication and division of integers",
-        "Concept of modular arithmetic/Cyclic events"],
-      },
-      {
-        week: 2,
-        topics: "Modular Arithmetic 2",
-        content: ["Addition, Subtraction, Multiplication and Division operations in module arithmetic",
-        "Application to daily life"],
-      },
-      {
-        week: 3,
-        topics: "Quadratic Equation 1",
-        content: ["Revision of linear and quadratic expressions",
-     "   Solution of quadratic expression of the form ab = 0, a = 0 or b = 0",
-        "Formation of quadratic equation with given roots"],
-      },
-      {
-        week: 4,
-        topics: "Quadratic Equations 2",
-        content: ["Revision of linear graph and drawing quadratic graph",
-        "Obtaining roots from a quadratic graph",
-        "Finding an equation from a given graph",
-        "Application of quadratic equation to real life situations"],
-      },
-      {
-        week: 5,
-        topics: "Constructions 1",
-        content: ["Guidelines for Constructions",
-        "Bisecting of Angles",
-        "Bisecting A Line AB",
-        "Constructions of the Basic Angles", 
-        "Construction of Triangles with Given Sides and Angle",
-        "Bisection of Basic Angles"],
-      },
-      {
-        week: 6,
-        topics: "Constructions 2",
-        content: ["Construction of Perpendiculars",
-        "How to Construct Perpendiculars",
-        "Circumscribed and Inscribed Circles of a Triangle",
-        "Construction of Quadrilaterals",
-        "Locus",
-        "Dividing a Line Segment into N Equal Parts"],
-      },
-      {
-        week: 7,
-        topics: "Proofs of Some Basic Theorems 1",
-        content: ["Introduction to Geometry",
-  "      Interior and Exterior Angles of a Triangle",
-        "Congruency and Similarity of Triangles"],
-      },
-      {
-        week: 8,
-        topics: "Proofs of Some Basic Theorems 2",
-        content: ["(i) Riders including angles of parallel lines",
-        "(ii) Angles in a polygon",
-        "Congruent triangles",
-        "Properties of Parallelogram",
-        "(v) Intercept theorem"],
-      },
-      {
-        week: 11,
-        topics: "Examination",
-        content: ["SS1 General Mathematics Second Term Examination"],
-      },
-    ],
-    "Geography":[
-      {
-        week: 1,
-        topics: "PLATEAU",
-        content: ["Definition of Plateau",
-        "Types of Plateaux",
-       " Mode of Formation and Characteristics of Plateaux",
-       "Importance of Plateaux"],
-      },
-      {
-        week: 2,
-        topics: "LOWLANDS",
-        content: ["Meaning of Lowland",
-     "   Types of Lowlands",
-       " Mode of Formation",
-     "   Characteristics of the Types of Lowlands",
-      "  Importance of Lowland to Man",
-        "Disadvantages of Lowland"],
-      },
-      {
-        week: 3,
-        topics: "ENVIRONMENT",
-        content: ["Meaning of Environment",
-       " Types of Environment",
-    "    Domains or Spheres of Environment",
-        "Importance of the Environment"],
-      },
-      {
-        week: 4,
-        topics: "WEATHER",
-        content: ["Meaning of Weather",
-        "Elements of Weather – Temperature, Rainfall, Humidity, Winds",
-       "Importance of Weather"],
-      },
-      {
-        week: 5,
-        topics: "CLIMATE",
-        content: ["Meaning of Climate",
-       " Elements of Climate (i) Atmosphere pressure (ii) Temperature (iii) Humidity (iv) Precipitation (v) (Rainfall, snowfall, hail, fog, mist, sleet, etc.) (vi) Winds (vii) Sunshine",
-       " Climate Regions of the World",
-      "  Importance of Climate on Physical and Cultural Activities",
-       "Factors Affecting Climate"],
-      },
-      {
-        week: 6,
-        topics: "NIGERIA: LOCATION AND POSITION",
-        content: ["Location and Position – Latitudes, Longitude, Boundaries and Neighbors",
-        "Size and Distances – (i) North to South (ii) East to West",
-       "Political Divisions – (i) States and their Capitals (ii) Local Government Areas and their Headquarters"],
-      },
-      {
-        week: 7,
-        topics: "PHYSICAL SETTING OF NIGERIA",
-        content: ["Meaning of Relief",
-        "Lowland Areas in Nigeria",
-        "Highland Areas in Nigeria",
-        "Drainage System in Nigeria",
-        "Climate and the Seasons in Nigeria",
-        "Vegetation of Nigeria"],
-      },
-      {
-        week: 1,
-        topics: "POPULATION OF NIGERIA",
-        content: ["Definition of Population",
-        "Population Concepts: (i) Over-population (ii) Under-population (iii) Optimum Population (iv) Population Density",
-        "Population Distribution: (i) Areas of High Population Density in Nigeria (ii) Areas of Medium Population Density in Nigeria (iii) Areas of Low Population Density in Nigeria",
-        "Population Structure",
-        "Population Quality",
-        "Population Movement",
-        "Population Data"],
-      },
-      {
-        week: 1,
-        topics: "RESOURCES OF NIGERIA",
-        content: ["Mineral Resources in Nigeria: (i) Petroleum/Crude Oil (ii) Coal (iii) Tin Ore (iv) Columbite (v) Iron Ore (vi) Limestone (vii) Gold (viii) Lead and Zinc",
-     "   Importance of Mineral Resources to the Economic Development of Nigeria",
-       " Problems of Mineral Exploration in Nigeria",
-       " Power Resources in Nigeria",
-        "Water Resources in Nigeria",
-      "  Vegetative Resources in Nigeria",
-       " Vegetation of Nigeria",
-        "Importance of Environment"],
-      },
-
-      {
-        week: 11,
-        topics: "Examination",
-        content: ["SS1 Geaography Second Term Examination"],
-      },
-    ],
-    "Government":[
-      {
-        week: 1,
-        topics: "UNITARY SYSTEM OF GOVERNMENT",
-        content: ["Meaning of Unitary Government",
-     "   Main Features or Characteristics of Unitary Government",
- "       Advantages and Disadvantages of Unitary Government",
-       " Factors Responsible for the Success of Unitary Government",
-"        Resource Control in a Unitary System of Government"
-         ],
-      },
-      {
-        week: 2,
-        topics: "FEDERAL SYSTEM OF GOVERNMENT",
-        content: ["Definition of Federalism",
-        "Reasons for Federating",
-        "Characteristics or Features of Federal System of Government",
-        "Resource Control in a Federal System Government",
-        "Merits and Demerits of Federalism",
-         ],
-      },
-      {
-        week: 3,
-        topics: "CONFEDERAL SYSTEM OF GOVERNMENT",
-        content: ["Meaning of Confederation",
-        "Main Features of Confederation",
-        "Resource Control in a Confederation",
-        "Merits and Demerits of Confederation",
-        "Differences between Federalism and Confederalism",
-        ],
-      },
-      {
-        week: 4,
-        topics: "THE PRESIDENTIAL SYSTEM OF GOVERNMENT",
-        content: ["Definition of Presidential System of Government",
-        "Characteristics of Presidential System of Government",
-        "Resource Control in a Presidential System of Government",
-        "Advantages and Disadvantages of the Presidential System of Government",
-        "Checks and Limitations on the Powers of the Executive President",
-        "The Principle of Individual Responsibility in the Presidential System of Government"],
-      },
-      {
-        week: 5,
-        topics: "THE PARLIAMENTARY SYSTEM OF GOVERNMENT",
-        content: ["Meaning of Parliamentary System",
-        "Major Characteristics of Parliamentary System of Government",
-        "Merits or Advantages and Demerits or Disadvantages of Parliamentary System of Government",
-        "The Principle of Collective Responsibility in the Parliamentary System of Government",
-        "Differences between Presidential and Parliamentary Systems of Government"
-         ],
-      },
-      {
-        week: 6,
-        topics: "MONARCHY",
-        content: ["Meaning of Monarchy",
-        "Forms of Monarchy",
-        "Resource Control in a Monarchy",
-        "The Main Features of Monarchy",
-        "Merits or Advantages and Demerits or Disadvantages of Monarchy"],
-      },
-      {
-        week: 7,
-        topics: "REPUBLICAN SYSTEM OF GOVERNMENT",
-        content: ["Definition of Republicanism",
-        "Features of a Republican Government",
-        "Resource Control in a Republican Government",
-        "Differences between Republicanism and Monarchy"],
-      },
-      {
-        week: 8,
-        topics: "CONSTITUTION",
-        content: ["Meaning of Constitution",
-        "Sources of Constitution",
-        "The Scope of a Constitution",
-        "Features of a Constitution",
-        "Types of Constitution",
-        "Constitutionalism"],
-      },
-      {
-        week: 9,
-        topics: "THE EXECUTIVE ORGAN OF GOVERNMENT",
-        content: ["Definition of the Executive Organ of Government",
-        "omposition of the Executive",
-        "Types of Executive",
-        "Functions of the Executive",
-        "Control of the Executive",
-        "Honesty and Integrity in the Executive Organ of Government"],
-      },
-      {
-        week: 10,
-        topics: "THE LEGISLATIVE ORGAN OF GOVERNMENT",
-        content: ["Meaning of Legislature",
-        "Functions of the Legislature",
-        "Types of Legislature",
-        "The Stages of Passing a Bill into Law",
-        "Honesty and Integrity in the Legislature"],
-      },
-      {
-        week: 11,
-        topics: "THE JUDICIAL ORGAN OF GOVERNMENT",
-        content: ["Definition of the Judiciary",
-        "The Nigerian Court System",
-        "Characteristics of the Judiciary",
-        "Methods of Appointment or Selection of Judges, Status, Conditions and Privileges",
-        "Functions of the Judiciary",
-        "Independence of the Judiciary",
-        "Honesty And Integrity in the Judicial Organ of Government"],
-      },
-     
-      
-      {
-        week: 12,
-        topics: "Examination",
-        content: ["SS1 Financial Accounting Second Term Examination"],
-      },
-    ],
-    "Literature in English" :[
-      
-      {
-        week: 1,
-        topics: "HARVEST OF CORRUPTION: BACKGROUND STUDY; AUTHOR’S BIOGRAPHY; PLOT AND SETTING",
-        content: ["Biography of the Author",
-        "Background of the Book Harvest of Corruption",
-        "Plot of the text",
-        "Setting of the text"],
-      },
-      {
-        week: 2,
-        topics: "HARVEST OF CORRUPTION: SUBJECT MATTER; THEMES; CHARACTERISATION AND CHARACTERS",
-        content: ["Subject Matter/Themes",
-        "Characterization/Characters"],
-      },
-      {
-        week: 3,
-        topics: "HARVEST OF CORRUPTION: LITERACY DEVICES; LANGUAGE AND STYLE OF THE AUTHOR",
-        content: ["Literary Devices",
-        "Language and Style"],
-      },
-      {
-        week: 4,
-        topics: "THE PROUD KING” BY WILLIAM MORRIS: INTRODUCTION TO THE POEM; AUTHOR’S BACKGROUND; PLOT AND SUBJECT MATTER",
-        content: ["Background/Authorisation of The Proud King",
-        "The Setting of The Proud King",
-        "The Plot of The Proud King",],
-      },
-      {
-        week: 5,
-        topics: "AMMA DARKO’S FACELESS: BIOGRAPHY OF AUTHOR; BACKGROUND STUDY; THEMES; SUBJECT MATTER; PLOT AND SETTING",
-        content: ["The Author’s Biography and the Background Study of the Text",
-        "The Plot of the Text",
-        "Subject Matter",
-        "The Setting of the Text",
-        "Themes"],
-      },
-      {
-        week: 6,
-        topics: "FACELESS: CHARACTERISATION; LITERACY DEVICES; LANGUAGE AND STYLE",
-        content: ["Characterisation",
-        "Language and Style"],
-      },
-      {
-        week: 7,
-        topics: "‘VANITY’ BY BIRAGO DIOP: AUTHOR’S BACKGROUND; PLOT; SUBJECT MATTER; THEMES; POETIC DEVICES, LANGUAGE AND STYLE",
-        content: ["Background/Author of the Poet",
-        "Subject Matter of the Poem",
-        "Themes of the Poem",
-        "Literary/Poetic Devices and Style"],
-      },
-      {
-        week: 8,
-        topics: "INTRODUCTION TO THE POEM “THE DINING TABLE” BY GBANABOM HALLOWELL",
-        content: ["Author’s Background",
-        "Plot",
-        "Subject Matter",
-        "Themes",
-        "Poetic Devices",
-        "Language and Style"],
-      },
-     
-      
-      {
-        week: 11,
-        topics: "Examination",
-        content: ["SS1 Literature in English Second Term Examination"],
-      },
-    ],
-    "Physics" :[
-      {
-        week: 1,
-        topics: "ENERGY ",
-        content: ["The Concept of Energy",
-        "Types of Energy",
-        "The Law of Conservation of Energy",
-        "Sources of Energy",
-        "Classification of the Sources of Energy",
-        "Uses of Energy",
-        "Energy and Social Environment",
-        "The Impact of Energy Usage on the Environment",
-        "Energy Crises",
-        "Oil Spillage"],
-      },
-      {
-        week: 2,
-        topics: "WORK AND POWER",
-        content: ["Work Done in a Force Field",
-        "Power",
-     "   Interchangeability of Work and Energy",
-     "   Calculations on Work and Power"],
-      },
-      {
-        week: 3,
-        topics: "HEAT ENERGY: THERMAL EXPANSIVITY",
-        content: ["The Concept of Heat and Temperature",
-    "    The Differences between Heat and Temperature",
-        "The Kinetic Theory of Matter",
-       " The Effects of Heat on Substances (Expansion, Vaporization)",
-        "Using Kinetic Theory to Explain the Temperature of a Body",
-     "   Linear Expansion, Coefficient of Linear Expansivity",
-       " Expansion in Liquids",
-       "Applications of Expansion"],
-      },
-      {
-        week: 4,
-        topics: "THE ELASTIC PROPERTIES OF SOLID",
-        content: ["The Concept of Elasticity",
-     "   Definitions of Elasticity",
-       " Hooke’s Law",
-       " Definition of Elastic Constant",
-     "   Verification or Demonstration of Hooke’s Law",
-    "    Definition of (i) Elastic Limit (ii) Yield Point (iii) Breaking Point (iv) Tensile Stress (v) Tensile Strain (vi) Young’s Modulus",
-        "Worked Examples",
-       "Work Done in an Elastic Material"],
-      },
-      {
-        week: 5,
-        topics: "ELASTIC PROPERTIES OF SOLID",
-        content: ["Young’s Modulus Law of Elasticity",
-        "Work Done in Springs and Elastic String",
-        "Elastic Potential Energy"],
-      },
-      {
-        week: 6,
-        topics: "HEAT ENERGY: TRANSFER OF HEAT",
-        content: ["Conduction of Heat",
-
-     "  ( Meaning of Heat Conduction)",
-     "   Using Kinetic Molecular Theory to Explain Conduction in Solids",
-      "  Conduction of Heat in Liquids",
-     "   Experiment to Show that Water is a Poor Conductor of Heat",
-     "   Applications of Conductors and Insulators",
-      "  (Convection of Heat)",
-
-"Meaning of Convection of Heat",
-"Using Kinetic Molecular Theory to Explain Convection in Liquids",
-"Applications of Convection"],
-      },
-      {
-        week: 7,
-        topics: "ELECTROSTATICS",
-        content: ["Types of Charges",
-   "     The Law of Electrostatics",
-      "  Gold leaf Electroscope",
-        "Ways of Producing Charges",
-       " Charge Distribution in a Conductor",
-     "   Lightning Conductors",
-        "Electrophorus"],
-      },
-      {
-        week: 8,
-        topics: "Examination",
-        content: ["SS1 Physics Second Term Examination"],
-      },
-    ]},
-  ThirdTerm:{
-    "Agricultural Science":[
-      {
-        week: 1,
-        topics: "CLASSIFICATION OF CROPS BASED ON USES",
-        content: ["Meaning of Crop",
-        "Classification of Crops based on Uses"],
-      },
-      {
-        week: 2,
-        topics: "CLASSIFICATION OF CROPS BASED ON LIFE CYCLE AND MORPHOLOGY",
-        content: ["Classification of Crops based on Life Cycle",
-        "Classification of Crops based on Morphology"],
-      },
-      {
-        week: 3,
-        topics: "HUSBANDRY OF SELECTED CROPS",
-        content: ["Cereals – Maize",
-        "Legumes – Cowpea",
-        "Roots & Tubers – Yam"],
-      },
-      {
-        week: 4,
-        topics: "HUSBANDRY OF SELECTED CROPS",
-        content: ["Vegetables - Tomato",
-        "Beverages - Cocoa",
-       "Oil - Oil Palm"],
-      },
-      {
-        week: 5,
-        topics: "PASTURE AND FORAGE CROPS",
-        content: ["Meaning of Pasture and Forage Crops",
-    "    Uses of Forage/Pasture Crops",
-       " Types of Pasture",
-        "Common Grasses and Legumes",
-        "Description of Grasses and Legumes",
-       " Factors Affecting the Distribution and Productivity of Pasture",
-       " Establishment and Management of Pasture",
-       " Determination of Plant Population"],
-      },
-      {
-        week: 8,
-        topics: "Examination",
-        content: ["SS1 Agricultural Science Third Term Examination"],
-      },
-    ],
-    "Animal Husbandry" :[
-      {
-        week: 1,
-        topics: "LIVESTOCK MANAGEMENT",
-        content: ["Meaning of Livestock Management",
-      "  Requirements for Livestock Management",
-       " Meaning of Livestock Management Syste",
-       " Factors that Determine the Choice of a Management Practice",
-       "Types of Management Practices"],
-      },
-      {
-        week: 2,
-        topics: "CARE OF PREGNANT FARM ANIMALS",
-        content: ["(Introduction)",
-     "   Care of a Pregnant Rabbit",
-       " Care of a Pregnant Cane Rat (Grasscutter)",
-      "  Care of a Pregnant Heifer",
-       " Care of a Pregnant Mare"],
-      },
-      {
-        week: 3,
-        topics: "FARM ANIMAL IDENTIFICATION METHODS",
-        content: ["(Introduction)",
-        "Meaning of Animal Identification",
-       "Farm Animal Identification Methods"],
-      },
-      {
-        week: 4,
-        topics: "LIVESTOCK MANAGEMENT PRACTICES (POULTRY)",
-        content: ["Definition of Poultry",
-        "Importance of Poultry",
-        "Breeds of Domestic Fowl",
-        "Systems of Poultry Production",
-      "  Requirements for Poultry Production (i) Diseases control (ii) Housing (iii) Feeding (iv) Hygiene",
-       "Other Poultry Management Practices"],
-      },
-      {
-        week: 5,
-        topics: "LIVESTOCK MANAGEMENT PRACTICES (CATTLE)",
-        content: ["Introduction to Cattle Management",
-        "Breeds of Cattle",
-        "Systems of Cattle Management",
-        "Economic Importance of Cattle",
-        "Management Practices in Cattle Production"],
-      },
-      {
-        week: 6,
-        topics: "MANAGEMENT OF LIVESTOCK (PIG)",
-        content: ["Introduction to Pig Management",
-       " Breeds of Pigs",
-        "Systems of Rearing Pigs",
-        "Management Practices in Pig Rearing"],
-      },
-      {
-        week: 7,
-        topics: "RABBITS MANAGEMENT",
-        content: ["Introduction to Rabbits Management",
-      "  Breeds of Rabbits",
-        "Rabbits Management Practices"],
-      },
-      {
-        week: 8,
-        topics: "MANAGEMENT OF LIVESTOCK – GOATS MANAGEMENT",
-        content: ["Introduction to Goats Management",
-     "   Importance of Keeping Goats",
-        "Factors Responsible for Success in Goats Production",
-       " Breeds of Goats",
-        "Goats Management Practices",
-        "Systems Used for Goats Keeping"],
-      },
-      {
-        week: 9,
-        topics: "MANAGEMENT OF LIVESTOCK- SHEEP MANAGEMENT",
-        content: ["Introduction to Sheep Management",
-      "  Breeds of Sheep",
-       " Sheep Management Practices"],
-      },
-      {
-        week: 10,
-        topics: "Examination",
-        content: ["SS1 Animal Husbandry Third Term Examination"],
-      },
-    ],
-    "Biology":[
-      {
-        week: 1,
-        topics: "AQUATIC HABITAT: MARINE",
-        content: ["Meaning of Aquatic Habitat",
-      "  Types of Aquatic Habitat",
-       " Major Zones of a Marine Habitat",
-        "Distribution of the Organisms in the Habitat and their Adaptive Features"],
-      },
-      {
-        week: 2,
-        topics: "AQUATIC HABITAT: ESTUARINE",
-        content: ["Meaning of Estuarine Habitat",
-"        Characteristics of Estuarine Habitat",
-       " Types of Estuary",
-        "Distribution of the Plants and Animals in Estuarine Habitat",
-        "Adaptive Features of the Plants and Animals in the Estuarine Habitat",
-        "Food Chain in Estuarine Habitat"],
-      },
+  SS1: {
+    FirstTerm: {
+      "Agricultural Science": [
         {
-        week: 3,
-        topics: "FRESH WATER HABITAT",
-        content: ["Characteristics of Freshwater Habitat",
-      "  Types of Freshwater",
-    "    Zones in Fresh Water Habitat",
-       " Fresh Water Organisms",
-       "Adaptation of Organisms to Fresh Water"],
-      },
-      {
-        week: 4,
-        topics: "TERRESTRIAL HABITAT: MARSH",
-        content: ["Meaning of Marshland",
-      "  Water and Vegetation Patterns of Marshes",
-        "Importance of Freshwater Marshes",
-        "Characteristics of Marshland",
-        "Types of Marshes",
-        "Plants and Animals in the Marshes"],
-      },
-      {
-        week: 5,
-        topics: "TERRESTRIAL HABITAT: FOREST, GRASSLANDS AND ARID LANDS",
-        content: ["(Forest)", "Characteristics of Forest",
-       " Strata in a Rain Forest",
-       " Distribution of Organisms in a Forest",
-     "   Adaption of Plants and Animals in a Forest",
-        "(Grassland)",
+          week: 1,
+          topics: "Meaning and Importance of Agriculture",
+          content: [
+            "(a) Definition of Agricultural Science",
+            "(b) Branches of Agricultural Science",
+            "(c) Importance of Agricultural Science to the Individual, Community, and Nation",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Subsistence and Commercial Agriculture",
+          content: [
+            "(a) Meaning of Subsistence and Commercial Agriculture",
+            "(b) Differences between Subsistence and Commercial Agriculture based on their Characteristics",
+            "(c) Advantages and Disadvantages of Subsistence and Commercial Agriculture",
+            "(d) Problems of Subsistence and Commercial Agriculture",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Problems of Agricultural Development and Possible Solutions",
+          content: [
+            "(a) Problems Related to Land Tenure, Basic Amenities, Finance, Transportation, Storage and Processing Facility, Agricultural Education and Extension; Tools and Machinery, Farm Inputs, Marketing System, Environmental Degradation, etc.",
+            "(b) Possible Solutions to Identified Problems",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Role of Government in Agricultural Development",
+          content: [
+            "Roles of Government in Agricultural Development:",
+            "(i) Agricultural Finance – Credit, Subsidy",
+            "(ii) Agricultural Education",
+            "(iii) Agricultural Extension Services",
+            "(iv) Agricultural Policies and Programmes (Review of Past and Present e.g. OFN, ADP, etc.)",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "Role of Non-governmental Organizations (NGOs) in Agricultural Development",
+          content: [
+            "(a) Meaning of Non-governmental Organizations (NGOs)",
+            "(b) Importance of Non-governmental Organizations (NGOs)",
+            "(c) Roles of NGOs in Agricultural Development e.g. Capacity building, Extension services, etc.",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Agricultural Laws and Reforms",
+          content: [
+            "(a) Land Tenure System in Nigeria",
+            "(b) The Land Use Decree of 1978 and its Implications for Agricultural Development",
+            "(c) Advantages and Disadvantages of the Land Use Decree in Nigeria",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Agricultural Ecology",
+          content: [
+            "(a) Meaning of Agricultural Ecology and Ecosystem",
+            "(b) Components of Farm Ecosystem e.g. Biotic, Abiotic, Auto-trophism and Hetero-trophism",
+            "(c) Interactions of the Terrestrial and Aquatic Agro Ecosystem:",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Land and its Uses",
+          content: [
+            "(a) Meaning of Land",
+            "(b) Characteristics of Land – Free gift of nature, immobile, limited in supply, etc.",
+            "(c) Uses of Land",
+            "(i) Agricultural Purposes – Crop production, wild life conservation (game reserves), livestock production, etc.",
+            "(ii) Non-agricultural Purposes – Industry – Housing, transport, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics:
+            "Factors Affecting Land Availability for Agricultural Purposes",
+          content: [
+            "(a) Factors Affecting Land Availability for Agricultural Purposes:",
+            "(i) Land tenure system",
+            "(ii) Population pressure",
+            "(iii) Soil type and topography, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Revision",
+          content: ["Revision of work done Previous Term"],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Agricultural Science First Term Examination"],
+        },
+      ],
+      "Animal Husbandry": [
+        {
+          week: 1,
+          topics: "INTRODUCTION TO ANIMAL HUSBANDRY",
+          content: [
+            "Meaning of Animal Husbandry",
+            "Livestock in Animal Husbandry",
+            "The Scope of Animal Husbandry",
+            "History of Livestock Development",
+            "Types of Animal Husbandry",
+            "Career Opportunities in Animal Husbandry",
+            "Economic Importance of Farm Animals",
+            "Problems of Animal Husbandry",
+            "Suggested Solutions to the Problems of Animal Husbandry",
+          ],
+        },
+        {
+          week: 2,
+          topics: "EXTERNAL FEATURES OF SOME SELECTED ANIMALS",
+          content: [
+            "External Features of a Cow",
+            "External Parts of a Pig",
+            "External Features of a Rabbit",
+            "External Features of a Fish",
+            "External Parts of a Fowl",
+            "External Features of a Goat",
+            "External Features of a Sheep",
+          ],
+        },
+        {
+          week: 3,
+          topics: "CLASSIFICATION OF ANIMALS",
+          content: [
+            "Classification of Animals",
+            "Monogastric or Non-ruminant Animals",
+            "Polygastric or Ruminant Animals",
+            "Differences between Mono-gastric and Poly-gastric Animals",
+          ],
+        },
+        {
+          week: 4,
+          topics: "ECONOMIC IMPORTANCE OF FARM ANIMALS",
+          content: ["Economic Importance of Farm Animals"],
+        },
+        {
+          week: 5,
+          topics: "DIGESTIVE SYSTEM OF NON-RUMINANT ANIMALS",
+          content: [
+            "Digestion in Non-ruminants/Monogastrics (Pig)",
+            "Digestion in Domestic Fowl",
+          ],
+        },
+        {
+          week: 6,
+          topics: "DIGESTION IN RUMINANT ANIMALS",
+          content: [
+            "Digestion in Ruminant Animals",
+            "Enzymes",
+            "Importance of the Digestive System",
+          ],
+        },
+        {
+          week: 7,
+          topics: "RESPIRATORY SYSTEM",
+          content: [
+            "Definition of Respiratory System",
+            "Types of Respiration",
+            "Breathing",
+            " Breathing Importance of Respiratory System",
+          ],
+        },
+        {
+          week: 8,
+          topics: "NERVOUS SYSTEM",
+          content: [
+            "Definition of Nervous System",
+            "The Central Nervous System",
+            "The Spinal Cord",
+            "The Peripheral Nervous System",
+            "Reflex Actions",
+          ],
+        },
+        {
+          week: 9,
+          topics: "THE CIRCULATORY SYSTEM",
+          content: [
+            "Meaning of Circulatory System",
+            "The Blood",
+            "Blood Cells",
+            "General Functions of the Blood",
+          ],
+        },
+        {
+          week: 10,
+          topics: "THE HEART AND BLOOD VESSELS",
+          content: [
+            "Meaning of the Heart",
+            "The Heartbeat",
+            "The Blood Vessels",
+            "Differences between the Artery and the Vein",
+            "Circulation of Blood",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Animal Husbandry First Term Examination"],
+        },
+      ],
+      Biology: [
+        {
+          week: 1,
+          topics: "INTRODUCTION TO BIOLOGY",
+          content: [
+            "Meaning of (a) Science and (b) Biology",
+            "The Scientific Method",
+            "Experimental Pattern",
+            "Living And Non-living Things",
+            "Differences between Plants and Animals ",
+            "Levels of Organization",
+            "Complexity in Multicellular Organisms",
+          ],
+        },
+        {
+          week: 2,
+          topics: "CLASSIFICATION (TAXONOMY) OF LIVING THINGS",
+          content: [
+            "Classification/Taxonomy of Living Things",
+            "Binomial System of Nomenclature",
+            "Classification and Evolution",
+          ],
+        },
+        {
+          week: 3,
+          topics:
+            "Classification of Living Things II: Kingdom Plantae; Kingdom Animalia",
+          content: ["Kingdom Plantae", "Kingdom Animalia"],
+        },
+        {
+          week: 4,
+          topics: "THE CELL",
+          content: [
+            "The Cell as a Living Unit of an Organism",
+            "Forms in Which Cells Exist",
+            "The Structure and Functions of the Cell",
+            "Cell Theory",
+          ],
+        },
+        {
+          week: 5,
+          topics: "THE CELL AND ITS ENVIRONMENT",
+          content: [
+            "Introduction",
+            "Diffusion",
+            "Osmosis",
+            "Plant Nutrition",
+            "Micro and Macro Elements",
+          ],
+        },
+        {
+          week: 6,
+          topics: "PROPERTIES AND FUNCTIONS OF  THE CELL 1",
+          content: [
+            "Animal Nutrition",
+            "Balanced Diet",
+            "Heterotrophic Nutrition",
+            "Enzymes",
+            "Practical Guide on Food Tests",
+          ],
+        },
+        {
+          week: 7,
+          topics: "PROPERTIES AND FUNCTIONS OF  THE CELL 2",
+          content: ["Cellular Respiration", "Excretion", "Growth"],
+        },
+        {
+          week: 8,
+          topics: "PROPERTIES AND FUNCTIONS OF  THE CELL",
+          content: [
+            "The Cell’s Reactions to its Environment",
+            "Movement",
+            "Reproduction",
+          ],
+        },
+        {
+          week: 9,
+          topics:
+            "TISSUES AND SUPPORTING SYSTEMS – SKELETONS AND SUPPORTING SYSTEMS IN ANIMALS",
+          content: [
+            "Biological Significance of the Skeleton (Importance of the Skeleton)",
+            "Forms of Skeletons",
+            "Types of Skeletons",
+            "Bones of the Vertebral Column",
+            "Joints",
+            "Functions of Skeleton in Animals",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Biology First Term Examination"],
+        },
+      ],
+      Chemistry: [
+        {
+          week: 1,
+          topics: "INTRODUCTION TO CHEMISTRY",
+          content: [
+            "define chemistry and state its branches.",
+            "explain scientific method and its importance.",
+            "enumerate the uses of chemistry.",
+            "describe some adverse effects of chemistry.",
+            "identify at least five (5) careers related to chemistry.",
+          ],
+        },
+        {
+          week: 2,
+          topics: "PARTICULATE NATURE OF MATTER",
+          content: [
+            "Define matter.",
+            "List and describe the states of matter.",
+            "Mention and describe the movement of matter.",
+            "Describe with examples physical and chemical properties.",
+            "Differentiate between physical and chemical changes.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "PARTICULATE NATURE OF MATTER",
+          content: ["ELECTRONIC CONFIGURATION"],
+        },
+        {
+          week: 4,
+          topics: "VALENCY, OXIDATION NUMBER, IONS AND RADICALS",
+          content: ["VALENCY"],
+        },
+        {
+          week: 5,
+          topics: "FORMULAE AND EQUATIONS",
+          content: ["CHEMICAL FORMULAE"],
+        },
+        {
+          week: 6,
+          topics: "CHEMICAL LAWS OF COMBINATIONS",
+          content: [
+            "Experiment to verify the law of conservation of matter (mass)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "CHEMICAL COMBINATION",
+          content: ["THE PERIODIC TABLE (THE FIRST 20 ELEMENTS)"],
+        },
+        {
+          week: 8,
+          topics: "CHEMICAL  INDUSTRIES",
+          content: [
+            "Meaning of Chemical Industry",
+            "Factors to be Considered in Siting Chemical Industry",
+            "Categories of Chemical Industries....",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["SS1 Chemistry First Term Examination"],
+        },
+      ],
+      "Christian Religious Studies (CRS)": [
+        {
+          week: 1,
+          topics: "JESUS AS THE LAMB, THE DOOR AND GOOD SHEPHERD",
+          content: [
+            "Jesus as the Lamb (John 1 : 29 - 34)",
+            "Jesus as the Door",
+            "Jesus as the Good Shepherd",
+          ],
+        },
+        {
+          week: 2,
+          topics: "JESUS AS THE LIGHT OF THE WORLD",
+          content: [
+            "The Light of the World (John 3:19; 8:12; 9:4-5;)",
+            "Walking in the Light (John 12:35-36)",
+            "Consequences of Walking in Darkness (John 12:35-36; 1 John 1:5-7)",
+            "Social Vices as Evidence of Walking in Darkness",
+            "Jesus as the Vine (John 15:1-11)",
+            "Significance",
+          ],
+        },
+        {
+          week: 3,
+          topics: "JESUS AS THE LIVING BREAD AND WATER",
+          content: [
+            "Jesus as the Living Bread (John 6:25-40)",
+            "esus as the Living Water (John 4:7-15)",
+            "Values Beside Food and Water that are Necessary for Growth and Happiness",
+          ],
+        },
+        {
+          week: 4,
+          topics: "GOD’S LOVE FOR MAN",
+          content: [
+            "Meaning of Love",
+            "Types of Love",
+            "Demonstration of God's Love to Human Beings",
+            "The Need for Human Beings to Respond to God's Love",
+          ],
+        },
+        {
+          week: 5,
+          topics: "LOVE FOR ONE ANOTHER",
+          content: [
+            "To Know God is to Love One Another (John 4:7-8,21)",
+            "The Qualities of Love (1 Cor. 13:1-13)",
+            "Various Ways to Demonstrate Love for One Another (John 3:17-18)",
+          ],
+        },
+        {
+          week: 6,
+          topics: "JUSTIFICATION BY FAITH",
+          content: [
+            "Meaning and Need for Justification (Rom. 3: 23; Gal. 3: 19-21)",
+            "Work and Law do not Justify Anybody (Rom.4:1-5; Gal.2: 16-21)",
+            "Faith in Jesus as a Condition for Justification (Rom. 1:16-17; 4:1-5)",
+            "The Fruit of Justification (Gal. 2:19-21; 5:22)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "NEW LIFE IN CHRIST",
+          content: [
+            "Meaning of Old Life as Living in Sin",
+            "Characteristics of the Old Life (Gal. 5:19-21, Col. 3:5-7)",
+          ],
+        },
+        {
+          week: 8,
+          topics: "NEW LIFE IN CHRIST",
+          content: [
+            "Meaning of New Life in Christ",
+            "The Need for Change (Rom. 6:1-4; 15:18-19)",
+            "Characteristics of the New Life",
+            "The Need to Stick to the New Life",
+          ],
+        },
+        {
+          week: 10,
+          topics: "SONSHIP",
+          content: [
+            "Jesus Christ the Son of God (Rom. 8:3, 17, 32)",
+            "Christians are Also Children of God (Rom. 8:1-39, 4:6, 7; Eph. 5:3)",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Sonship II",
+          content: [
+            "Right and responsibilities as children of God",
+            "Right as citizens of Nigeria.",
+          ],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: [
+            "SS1 Christian Religious Studies (CRS) First Term Examination",
+          ],
+        },
+      ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "VALUES",
+          content: [
+            "The Meaning of Values",
+            "The Kinds of Values",
+            "The Types of Values",
+            "Honesty",
+          ],
+        },
+        {
+          week: 2,
+          topics: "JUSTICE AND SELFLESSNESS",
+          content: [
+            "The Meaning of Justice",
+            "Types of Justice",
+            "The Meaning of Selflessness",
+            "Qualities of Selflessness",
+            "Incidences of Selflessness",
+          ],
+        },
+        {
+          week: 3,
+          topics: "THE OPPORTUNITY TO DEFEND ONESELF",
+          content: [
+            "Meaning of the Opportunity to Defend Oneself",
+            "Opportunities to Defend Oneself",
+          ],
+        },
+        {
+          week: 4,
+          topics: "INVOLVEMENT IN COMMUNITY SERVICE",
+          content: [
+            "Meaning of Community Service",
+            "Examples of Community Service Projects",
+            "The National Youth Service Corps (NYSC)",
+            "The Importance of Community Service",
+          ],
+        },
+        {
+          week: 5,
+          topics: "HIV/AIDS",
+          content: [
+            "Introduction",
+            "The Meaning of HIV",
+            "The Meaning of AIDS",
+            "Causes of HIV/AIDS",
+            "Symptoms of AIDS",
+            "Effects of HIV/AIDS",
+          ],
+        },
+        {
+          week: 6,
+          topics: "PREVENTION AND CONTROL OF HIV/AIDS; STIGMATIZATION",
+          content: [
+            "Prevention of HIV/AIDS",
+            "Stigmatization of People Living with HIV/AIDS",
+            "The People Living with HIV/AIDS (PLWHA)",
+            "The Roles of the PLWHA",
+            "How the Community Can Help People Living with HIV/AIDS (PLWHA",
+            "The Nine Canons of the PLWHA",
+          ],
+        },
+        {
+          week: 7,
+          topics: "EMPOWERMENT",
+          content: [
+            "The Concept of Empowerment",
+            "Empowerment Strategies",
+            "The Objectives of Empowerment",
+          ],
+        },
+        {
+          week: 8,
+          topics: "YOUTH EMPOWERMENT",
+          content: [
+            "The Meaning of Youth and Youth Empowerment",
+            "The Importance of Youth Empowerment",
+            "Types of Youth Empowerment Skills",
+            "The Hindrance to Youth Empowerment",
+          ],
+        },
+        {
+          week: 9,
+          topics: "CITIZENSHIP EDUCATION",
+          content: [
+            "The Meaning of Citizenship and Citizen",
+            "The Means of Acquiring Citizenship",
+            "Withdrawal of Citizenship",
+            "Goals of Citizenship Education",
+          ],
+        },
+        {
+          week: 10,
+          topics: "LAW",
+          content: [
+            "The Meaning of Law",
+            "Types of Laws",
+            "Laws and Rights of Individuals",
+          ],
+        },
+        {
+          week: 11,
+          topics: "NATIONALISM",
+          content: [
+            "The Meaning of Nationalism",
+            "Nationalistic Roles of Individuals",
+            "Nationalistic Roles of Groups",
+          ],
+        },
+        {
+          week: 12,
+          topics: "MAJOR LOCAL AND GLOBAL CIVIC PROBLEMS",
+          content: ["Major Local Civic Problems", "Major World Civic Problems"],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
+        },
+      ],
+      Commerce: [
+        {
+          week: 1,
+          topics: " INTRODUCTION TO COMMERCE ",
+          content: [
+            "Meaning of Commerce",
+            "Scope of Commerce",
+            "Functions of Commerce",
+            "Characteristics of Commerce",
+            "Meaning and Functions of E-commerce",
+            "Types of E-commerce",
+          ],
+        },
+        {
+          week: 2,
+          topics: "HISTORY OF COMMERCE ",
+          content: [
+            "Historical Background of Commerce",
+            "Factors Affecting the Growth of Commerce in West Africa",
+            "The Barter System",
+          ],
+        },
+        {
+          week: 3,
+          topics: "OCCUPATION",
+          content: [
+            "Meaning of Employment",
+            "Meaning of Occupation",
+            " Classification of Occupation",
+            "Factors that Determine the Types of Occupation ",
+            "Factors that Determine Employment",
+          ],
+        },
+        {
+          week: 4,
+          topics: "PRODUCTION",
+          content: [
+            " Meaning of Production",
+            "Classification of Production",
+            " The Factors of Production ",
+            "The Importance of Production",
+          ],
+        },
+        {
+          week: 5,
+          topics: "TRADE",
+          content: [
+            "Meaning of Trade",
+            "Types of Trade",
+            "Relationship between Home Trade and Foreign Trade",
+            "Differences between Home Trade and Foreign Trade",
+            "Relationship between/among the Different Types of Trade",
+          ],
+        },
+        {
+          week: 6,
+          topics: "RETAIL TRADE",
+          content: [
+            "Meaning of Home Trade",
+            "Retail trade.",
+            "Large scale retailing.",
+            "Mail order business.",
+            "Modern trends of retailing.",
+            "Reasons Why  Retail businesses fail.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Examination",
+          content: ["SS1 Commerce First Term Examination"],
+        },
+      ],
+      "Computer Science/ICT": [
+        {
+          week: 1,
+          topics: "OVERVIEW OF THE COMPUTER SYSTEM",
+          content: [
+            "Definitions of computer.",
+            "The three basic operations of the computer.",
+            "The main constituents of a computer.",
+          ],
+        },
+        {
+          week: 2,
+          topics: "OVERVIEW OF THE COMPUTER SYSTEM",
+          content: [
+            "Computer hardware.",
+            "Computer software.",
+            "Characteristicsfor your computer.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "DATA AND INFORMATION",
+          content: [
+            "Definition of Data and Information",
+            "Examples of Data and Information",
+            "Differences between Data and Information",
+            "Examples of Data and Information",
+          ],
+        },
+        {
+          week: 4,
+          topics: "COMPUTING DEVICES: PRE-COMPUTER AGE TO THE 19TH CENTURY",
+          content: [
+            "The Abacus",
+            "The Slide Rule",
+            "   Napier’s Bone",
+            "      Pascal’s Calculator",
+            "      Leibniz Multiplier",
+            "      The Jacquard Loom",
+            "      The Difference Engine",
+            " Hollerith Census Machine",
+            "    The Analytical Engine",
+            "Burrough’s Machine",
+          ],
+        },
+        {
+          week: 5,
+          topics: "COMPUTING DEVICES: 20TH CENTURY TO DATE",
+          content: [
+            "Features, Components and Uses of ENIAC",
+            "      Features, Components and Uses of EDVAC",
+            "      Features, Components and Uses of UNIVAC 1",
+            "    Features, Components and Uses of Desktop Personal Computer",
+            "     Features, Components and Uses of Laptop and Notebook Computers",
+            "      Features, Components and Uses of Palmtop Computers",
+          ],
+        },
+        {
+          week: 6,
+          topics: "INPUT DEVICES",
+          content: ["Definition of Input Devices", "Types of Input Devices"],
+        },
+        {
+          week: 7,
+          topics: "INPUT DEVICES",
+          content: [
+            "Keyboard – Structure and Functions",
+            "Mouse – Features, Functions and Operations",
+          ],
+        },
+        {
+          week: 9,
+          topics: "OUTPUT DEVICES",
+          content: [
+            "Definition of Output Devices",
+            "Features and Uses of Output Devices",
+          ],
+        },
+        {
+          week: 10,
+          topics: "OUTPUT DEVICES:PRINTERS",
+          content: [
+            "Types of Printers",
+            "Comparative Study of Common Printers",
+          ],
+        },
 
-"Characteristics of Grassland",
-"Distribution of Plants and Animals in Grassland",
-"Some Adaptation of Grassland Communities",
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Computer Science/ICTFirst Term Examination"],
+        },
+      ],
+      Economics: [
+        {
+          week: 1,
+          topics: "MEANING OF ECONOMICS AND RELATED CONCEPTS",
+          content: [
+            "Meaning of Economics",
+            "    The Scope of Economics",
+            "    The Importance of Studying Economics",
+            "  Economics as a Social Science",
+          ],
+        },
+        {
+          week: 2,
+          topics: "BASIC CONCEPTS IN ECONOMICS",
+          content: [
+            "Wants",
+            "      Scarcity",
+            "      Scale of Preference",
+            "      Choice",
+            "      Opportunity Cost",
+            "    Resources",
+          ],
+        },
+        {
+          week: 3,
+          topics: ["BASIC TOOLS OF ECONOMIC ANALYSIS"],
+          content: [
+            "Introduction to Graphs, Charts and Tables",
+            "      Tables",
+            "      Graphs",
+            "Charts",
+          ],
+        },
+        {
+          week: 4,
+          topics: ["BASIC TOOLS OF ECONOMIC ANALYSIS"],
+          content: [
+            "Meaning of Measures of Central Tendencies",
+            "Mean",
+            "Median",
+            "Mode",
+          ],
+        },
+        {
+          week: 5,
+          topics: ["THE CONCEPT OF DEMAND"],
+          content: [
+            "The Price System",
+            "    The Concept of Demand",
+            "    The Demand Schedule",
+            "      The Demand Curve",
+            "   The Law of Demand",
+            "Factors Affecting Demand",
+          ],
+        },
+        {
+          week: 6,
+          topics: ["THE CONCEPT OF SUPPLY"],
+          content: [
+            "Definition of Supply",
+            "  The Supply Schedule",
+            "      The Supply Curv",
+            "    The Law of Supply",
+            "      Factors Affecting Supply",
+            "      Determination of Equilibrium Price and Quantity",
+          ],
+        },
+        {
+          week: 7,
+          topics: ["PRODUCTION"],
+          content: [
+            "Meaning of Production",
+            "      Types of Production",
+            "  Stages of Production",
+            "Factors Affecting Production",
+          ],
+        },
+        {
+          week: 8,
+          topics: ["DIVISION OF LABOUR AND SPECIALIZATION"],
+          content: [
+            "The Origin of Modern Division of Labour",
+            "      Definition of Division of Labour",
+            "      Specialization",
+            " Limitations or Factors that Encourage or Discourage Division of Labour",
+          ],
+        },
+        {
+          week: 9,
+          topics: ["SCALE OF PRODUCTION/ECONOMIES OF SCALE"],
+          content: [
+            "Meaning of of Economies of Scale",
+            "      Types of Economies of Scale",
+            "     Internal Economies and Internal Diseconomies",
+            "External Economies and External Diseconomies",
+          ],
+        },
 
-"( Arid Land)",
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Civic Education Studies (CRS) First Term Examination"],
+        },
+      ],
+      "English Language": [
+        {
+          week: 1,
+          topics: ["ntroduction to Speech Sound (Organs of Speech)"],
+          content: [
+            "Speech Work: Introduction to Speech Sound (Organs of Speech)",
+            "      Comprehension: Argungu Cultural Festival",
+            "     Vocabulary Development: (Registers on Family)",
+            "      Structure: Nouns – (Introduction – Definition and Kinds of Nouns)",
+            "Writing Skills: Narrative – Introduction to Narrative Essay",
+          ],
+        },
+        {
+          week: 2,
+          topics: ["Monophthongs"],
+          content: [
+            "Speech Work: Monophthongs (Introduction)",
+            "      Comprehension/Summary: (Introduction to Summary)",
+            "      Vocabulary Development: (Words Associated with Agriculture)",
+            "      Structure: Nouns – Countable and Uncountable Nouns (Regular and Irregular Plurals)",
+            "Writing Skills: Narrative – Linking Paragraphs",
+          ],
+        },
+        {
+          week: 3,
+          topics: ["Vowels /i/,/i:/; /æ/,/a:/"],
+          content: [
+            "Speech Work: Vowel Sounds /i/, /i:/, /æ/ and /a:/",
+            "      Comprehension: Mac",
+            "      Vocabulary Development: Words Associated with Agriculture (Fishing)",
+            "  Structure: Nouns – Nouns and Determiners/Articles",
+            "   Writing Skills: Narrative (Writing Introductory Paragraphs)",
+          ],
+        },
+        {
+          week: 4,
+          topics: ["Vowels /ͻ/ and /ͻ:/; /u/ and /u:/"],
+          content: [
+            "Speech Work: Vowel Sounds /ͻ/, /ͻ:/, /u/ and /u:/",
+            "      Comprehension/Summary: Identifying the Topic Sentence in a Passage",
+            "      Vocabulary Development: Words Associated with Animal Husbandry (Livestock)",
+            "      Structure: Noun – The Structure of Noun Phrase",
+            "Writing Skills: Letter Writing – Informal Letters (Introduction)",
+          ],
+        },
+        {
+          week: 5,
+          topics: [" Vowel sounds: /е/, /ʌ/, /ɜ:/ and /ə/"],
+          content: [
+            "Speech Work: Vowel sounds /е/, /ʌ/, /ɜ:/, /ə/",
+            "      Comprehension: Sickle Cell Disease",
+            "    Vocabulary Development: Words Associated with Animal Husbandry (Poultry)",
+            "      Structure: Phrase – Verb Phrases",
+            "      Writing Skills: Letter Writing – Informal Letter (Formats)",
+          ],
+        },
+        {
+          week: 6,
+          topics: ["Consonants /p/, /b/, /t/ and /d/"],
+          content: [
+            "Speech work: /p/, /b/, /t/ and /d/",
+            "Comprehension/Summary: Summarising in a Specific Number of Sentences",
+            "Vocabulary Development: (Words Associated with Traditional Religion)",
+            "Structure: Nominalization of Adjectives",
+            "Writing Skills: Letter Writing – Semi-Formal Letters (Introduction)",
+          ],
+        },
+        {
+          week: 7,
+          topics: ["Consonants /k/, /g/, /s/ and /z/"],
+          content: [
+            "Speech Work: Consonants /k/, /g/, /s/ and /z/",
+            "Comprehension: Oliha’s Embarrassment",
+            "Vocabulary Development (Words Associated with Home and Family)",
+            "Structure: Nominalization of Verbs",
+            "Writing Skills: Letter Writing – Semi-Formal Letters (Language)",
+          ],
+        },
+        {
+          week: 8,
+          topics: [" Consonants /ʃ/, /ʒ/, /θ/ and /ð/ /"],
+          content: [
+            "Speech Work: Consonant Sounds /ʃ/, /ʒ/, /θ/ and /ð/",
+            "Comprehension/Summary: More about Identifying the Topic Sentence in a Passage",
+            "Vocabulary Development: Words Associated with Religion (Christianity)",
+            "Structure: Introduction to Irregular Verbs",
+            " Writing Skills: Record Keeping (Introduction)",
+          ],
+        },
+        {
+          week: 9,
+          topics: ["Consonants /j/, /w/ and /l/"],
+          content: [
+            "Speech Work: Consonants /j/ /w/ and /l/",
+            "Structure: Regular Verbs",
+            "Comprehension: The Yam Festival",
+            "Writing Skills: Record Keeping",
+            "Vocabulary Development: Words Associated with Religion (Islam)",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 English Language First Term Examination"],
+        },
+      ],
+      "Financial Accounting": [
+        {
+          week: 1,
+          topics: [" BOOK KEEPING AND ACCOUNTING"],
+          content: [
+            "Meaning of Book Keeping",
+            "     Meaning of Accounting",
+            "   History of Accounting in Nigeria",
+            "     Definition of Accountant",
+            "    Roles of an Accountant",
+            "      Types of Accountants",
+            "Accounting as a Profession",
+          ],
+        },
+        {
+          week: 2,
+          topics: ["BOOK KEEPING AND ACCOUNTING"],
+          content: [
+            "The Need for Book-keeping and Accounting",
+            "     The Need/Importance of Book-keeping",
+            "  Users of Accounting Information",
+            "    Qualities of Accounting Information",
+            " Limitations of Accounting Information",
+          ],
+        },
+        {
+          week: 3,
+          topics: ["ETHICS OF ACCOUNTING"],
+          content: [
+            "Meaning of Ethics",
+            "   Meaning of Accounting Ethics",
+            "   Qualities of Accountants and Accounting Ethics",
+            "Benefits of Accounting Ethics to the Accounting Profession and the Public (Society)",
+          ],
+        },
+        {
+          week: 4,
+          topics: ["PRINCIPLES AND PRACTICE OF DOUBLE ENTRY"],
+          content: [
+            "The Concept of Double Entry System",
+            "Review of Double Entry With Comprehensive Illustrations",
+          ],
+        },
+        {
+          week: 5,
+          topics: ["ACCOUNTING CONCEPTS AND CONVENTIONS"],
+          content: [
+            "Meaning of Accounting Concepts",
+            "      Major Accounting Concepts",
+            " Accounting Conventions",
+          ],
+        },
+        {
+          week: 6,
+          topics: ["JOURNALS AND CASH ACCOUNT"],
+          content: [
+            "General Journal",
+            "      Classes of Entries",
+            "      Errors Affecting the Agreement of the Trial Balance",
+            "Introduction to Cash Book",
+          ],
+        },
+        {
+          week: 7,
+          topics: ["ANALYTICAL CASH BOOK"],
+          content: [
+            "Two Column Cash Book",
+            "Contra Entries",
+            "    Three Column Cash Book",
+            "  Discount",
+            " Analytical Petty cash Book",
+          ],
+        },
+        {
+          week: 8,
+          topics: ["BANK RECONCILIATION STATEMENT"],
+          content: [
+            "Introduction to Bank Documents",
+            "      Definition of Bank Statement",
+            "   Meaning of Bank Reconciliation Statement",
+            "   Causes of Discrepancies/Disagreement between Cash Book and Bank Statement",
+            " Interpretation of Bank Statements",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["SS1 Financial Accounting First Term Examination"],
+        },
+      ],
+      "General Mathematics": [
+        {
+          week: 1,
+          topics: "INDICES",
+          content: [
+            "Revision of Standard Form",
+            "      Laws Of Indices and Application of Indices",
+            "   Simple Indicial Equations",
+          ],
+        },
+        {
+          week: 2,
+          topics: " LOGARITHMS",
+          content: [
+            "Deducing logarithm from indices and standard form",
+            "      Definition of Logarithms",
+            "  Definition of Antilogarithms",
+            " The graph of y = 10x",
+            "     Reading logarithm and Antilogarithm tables",
+          ],
+        },
+        {
+          week: 3,
+          topics: "LOGARITHMS",
+          content: [
+            " Use Of Logarithm Table And Antilogarithm Table In Calculations Involving",
+            ". Application of logarithm in capital market and other real life problems",
+          ],
+        },
+        {
+          week: 4,
+          topics: "SETS",
+          content: ["Definition of set", " Set Notations", " Types of Sets"],
+        },
+        {
+          week: 5,
+          topics: "SETS",
+          content: [
+            "Set Operations",
+            "     Union of Sets",
+            "     Intersection of Sets",
+            " Complement of a Set",
+            "   Venn Diagrams",
+            "Application of Venn Diagram up to 3 Set Problems",
+          ],
+        },
+        {
+          week: 6,
+          topics: "NUMBER BASE SYSTEM",
+          content: [
+            "Conversion from other bases to base 10 and vice versa",
+            "  Conversion of decimal fraction in other bases to base 10 and vice versa.",
+          ],
+        },
+        {
+          week: 7,
+          topics: "NUMBER BASE SYSTEM",
+          content: [
+            "Conversion of numbers from one base to another",
+            "Addition, subtraction, division and multiplication of number bases",
+            "Application to computer programming",
+          ],
+        },
+        {
+          week: 8,
+          topics: "SIMPLE EQUATIONS AND VARIATIONS",
+          content: [
+            "Formulae, substitution and change of subject of formulae",
+            " simple binary operations",
+            "Variations (i) Direct and inverse, (ii) joint and partial",
+            "Application of variation.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 General Mathematics First Term Examination"],
+        },
+      ],
+      Geography: [
+        {
+          week: 1,
+          topics: "MEANING, SCOPE AND IMPORTANCE OF GEOGRAPHY",
+          content: [
+            "Meaning of Geography",
+            "   Scope and Nature of Geography",
+            " Branches of Geography",
+          ],
+        },
+        {
+          week: 2,
+          topics: "TOWN/VILLAGE: PHYSICAL AND CULTURAL FEATURES",
+          content: [
+            "Meaning of Local Geography",
+            "   The Village",
+            "  The Town",
+            "  Physical and Cultural Features of a Town/Village",
+            "  Direction and Location of Physical and Cultural Features within the Town/Village",
+            "Influences of Physical Features on Human Activities",
+          ],
+        },
+        {
+          week: 3,
+          topics: "STATES AND LOCAL GOVERNMENT AREAS",
+          content: [
+            "State Geography",
+            "   Local Government Headquarters",
+            "   Locational Relationship",
+            " Physical Characteristics of Local Government",
+            "   Economic Activities in Local Governments",
+          ],
+        },
+        {
+          week: 4,
+          topics: "THE EARTH AND OTHER PLANETS",
+          content: [
+            "Components of the Solar System",
+            "   Classification of Planets",
+            "   The Sun",
+            "   The Nine Planets and their Characteristics",
+            "   The Earth – Size, Shape and Position in Relation to the Sun and Other Planets",
+            "Evidence/Proofs to Show that the Earth is Spherical",
+          ],
+        },
+        {
+          week: 5,
+          topics: "EARTH’S MOVEMENTS",
+          content: [
+            "Earth’s Movements",
+            "      Meaning and Effects of Rotation of the Earth",
+            "  Meaning and Effects of Revolution of the Earth",
+            "  Differences between Rotation and Revolution of the Earth",
+          ],
+        },
+        {
+          week: 6,
+          topics: "LATITUDES AND LONGITUDES",
+          content: [
+            "Meaning and Uses of Latitude",
+            "      Latitude and Distance",
+            "     Meaning and Uses of Longitude",
+            "   The Great Circle",
+            "   Differences and Similarities between Lines of Latitude and Longitude",
+            "   Time and Time Zones",
+            " Standard Time and World Time Zones",
+            "International Dateline and Grid References",
+          ],
+        },
+        {
+          week: 7,
+          topics: "THE EARTH’S STRUCTURE",
+          content: [
+            "Major Spheres of the Earth",
+            "Relationship between the Three Major Spheres",
+            " Relevance to Human Activities",
+          ],
+        },
+        {
+          week: 8,
+          topics: "ROCKS",
+          content: [
+            "Definition of Rock",
+            "Types of Rock",
+            "Mode of Formation of Rock Types",
+            "Characteristics of Rock Types",
+            "Economic Importance of Rocks to Man",
+          ],
+        },
+        {
+          week: 9,
+          topics: "MOUNTAINS",
+          content: [
+            "Definition of Mountains",
+            "Types of Mountains",
+            "Mode of Formation of Mountains",
+            "Characteristics of the Types of Mountains",
+            "Examples of Each Type of Mountain",
+            "Importance of Mountains",
+            "Disadvantages of Mountains",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Geography First Term Examination"],
+        },
+      ],
+      Government: [
+        {
+          week: 1,
+          topics: "THE CONCEPT OF GOVERNMENT",
+          content: [
+            "Definition of Government",
+            "Government as an Institution of the State",
+            "Government as a Process or Act of Governing",
+            "Government as an Academic Field of Study",
+            "The Characteristics of Government",
+            "The Functions of Government",
+          ],
+        },
+        {
+          week: 2,
+          topics: "THE STATE AND THE NATION",
+          content: [
+            "The State",
+            " The Nation",
+            "The Relationship between a State and Government",
+          ],
+        },
+        {
+          week: 3,
+          topics: "THE CONCEPTS OF POLITICAL POWER AND POLITICAL AUTHORITY",
+          content: [
+            "The Concept of Power",
+            "    The Concept of Authority",
+            "The Differences between Power and Authority",
+          ],
+        },
+        {
+          week: 4,
+          topics: "LEGITIMACY",
+          content: [
+            "The Meaning of Legitimacy",
+            "  Factors that Determine or Sustain Legitimacy",
+            " Legitimacy as a Factor of the Stability of Government",
+          ],
+        },
+        {
+          week: 5,
+          topics: "SOVEREIGNTY",
+          content: [
+            "The Meaning of Sovereignty",
+            "The Types of Sovereignty",
+            "   The Location of Sovereignty in a State",
+            "The Limitations of Sovereignty",
+          ],
+        },
+        {
+          week: 6,
+          topics: "DEMOCRACY",
+          content: [
+            "The Meaning of Democracy",
+            "   The Types of Democracy",
+            "  The Main Features of Democracy",
+          ],
+        },
+        {
+          week: 7,
+          topics: "POLITICAL CULTURE AND POLITICAL SOCIALIZATION",
+          content: [
+            "The Concept of Political Culture",
+            "The Concept of Political Socialization",
+          ],
+        },
+        {
+          week: 8,
+          topics: "COMMUNALISM",
+          content: [
+            "The Meaning of Communalism",
+            "The Features of Communalism",
+          ],
+        },
+        {
+          week: 9,
+          topics: "CAPITALISM",
+          content: [
+            "The Meaning of Capitalism",
+            "  The Characteristics of Capitalism",
+            "The Merits of and Demerits of Capitalism",
+          ],
+        },
+        {
+          week: 10,
+          topics: "SOCIALISM",
+          content: [
+            "Meaning of Socialism",
+            "      The Features of Socialism",
+            "   The Merits of Socialism",
+            "The Demerits of Socialism",
+            "Comparison of Capitalism and Socialism",
+          ],
+        },
+        {
+          week: 10,
+          topics: "OLIGARCHY",
+          content: [
+            "Definition of Oligarchy",
+            "    Features of Oligarchy",
+            "Types of Oligarchy",
+          ],
+        },
+        {
+          week: 10,
+          topics: "COMMUNISM",
+          content: [
+            "Definition of Communism",
+            "  Features of Communism",
+            "      The Origin and Development of Communism",
+            "   The Principles of Communism",
+            " The Relationship between Socialism and Communism",
+          ],
+        },
+        {
+          week: 10,
+          topics: "FASCISM AND TOTALITARIANISM",
+          content: [
+            "The Meaning of Fascism",
+            "    Characteristics of Fascism",
+            "Meaning of Totalitarianism",
+            "Characteristics of Totalitarianism",
+          ],
+        },
 
-"Characteristics of Arid Lands",
-"Types of Arid Lands",
-"Distribution of the Organisms to Arid Lands",
-"Some Adaptation of Organisms to Arid Lands"],
-      },
-      {
-        week: 6,
-        topics: "REPRODUCTION IN UNICELLULAR ORGANISMS",
-        content: ["1. Reproduction in Amoeba by Asexual Reproduction by ,Binary Fission ,Multiple Fission",
-       " 2. Reproduction in Paramecium by Asexual Reproduction,Sexual Reproduction,3. Reproduction in Spirogyra by,Asexual or Vegetative Reproduction or Conjugation",
-       " 4. Reproduction in the Earthworm by Sexual Reproduction"],
-      },
-      {
-        week: 7,
-        topics: "REPRODUCTION IN INVERTEBRATES",
-        content: ["Meaning of Reproduction",
-      "  Reproduction in Cockroach",
-       " Reproduction in Housefly",
-       " Reproduction in Snail"],
-      },
-      {
-        week: 10,
-        topics: "Examination",
-        content: ["SS1 Biology Third Term Examination"],
-      },
-    ],
-    "Chemistry":[
-      {
-        week: 1,
-        topics: "ACIDS",
-        content: ["Definition of Acid",
-     "   Strength of an Acid",
-        "Basicity of an Acid",
-        "Characteristics of Acid (Physical Properties)",
-       " Preparation of Acids",
-       " Reaction of Acids (Chemical Properties)",
-        "Uses of Acids"],
-      },
-      {
-        week: 2,
-        topics: "BASES",
-        content: ["Definition of Bases",
-     "   Strength of an Alkali",
-        "Characteristics of Bases",
-        "Preparation of Bases",
-        "Reaction of Bases",
-        "Uses of Bases",
-        "Relative Acidity and Alkalinity (The PH Scale)",
-        "Logarithmic pH Scale",
-        "Worked Examples"],
-      },
-      {
-        week: 3,
-        topics: "SALTS",
-        content: ["Definition of Salts",
-        "Characteristics of Salts",
-        "Preparation of Salts",
-        "Types of Salts",
-        "Uses of Salts",
-        "Hydrolysis of Salts"],
-      },
-      {
-        week: 4,
-        topics: "WATER ",
-        content: ["Definition of Water",
-        "Sources of Water",
-        "Treated Water",
-        "Distilled Water",
-        "Types of Water (Soft and Hard)",
-        "Water Pollutants",
-        "Properties of Water",
-        "Uses of Water",
-        "Laboratory Preparation of Water",],
-      },
-      {
-        week: 5,
-        topics: "ALLOTROPES OF CARBON",
-        content: ["Carbon Allotropes and their Structures",
-        "The Atomic Structure of Carbon",
-        "Allotropes of Carbon",
-       " Diamond",
-        "Graphite",
-        "Differences between Diamond and Graphite",
-        "Chemical Properties of Carbon"],
-      },
-      {
-        week: 6,
-        topics: "COAL",
-        content: ["Definition of Coal",
-       " Types of Coal",
-        "Destructive Distillation of Coal",
-        "Uses of Products of Destructive Distillation of Coal"],
-      },
-      {
-        week: 7,
-        topics: "CO, CO2 AND TRIOXOCARBONATES",
-        content: ["(Carbon (IV) Oxide)",
-        "Formation/Preparation of Carbon (IV) Oxide (CO2)",
-        "Laboratory Preparation of CO2 Gas",
-        "Physical and Chemical Properties of CO2(g)",
-        "Uses of CO2",
-        "Advantages of Dry Ice Over Popular Ice",
-        "(Carbon (II) Oxide)",
-      "  Laboratory Preparation of CO [in the fume cupboard",
-        "Physical Properties of CO",
-      "  Chemical Properties and Uses of CO",
-        "Synthetic Gas",
-        "Separation of the Constituents of Producer Gas and Water",
-        "Trioxocarbonates",
-        " (Preparation of Metallic Trioxocarbonates)",
-        " Properties of Salts",
-         "Trioxocarbonate (IV) Acid",
-         "Uses of Trioxocarbonate (IV) Salts",
-         "Chemical Tests for CO32- Salts"],
-       },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Government First Term Examination"],
+        },
+      ],
+      "Literature in English": [
+        {
+          week: 1,
+          topics: "INTRODUCTION TO LITERATURE",
+          content: [
+            "Introduction",
+            "   Definitions of Literature",
+            "      The Functions of Literature",
+            " The Genres of Literature",
+            "Distinctions between the Genres of Literature",
+          ],
+        },
+        {
+          week: 2,
+          topics: "INTRODUCTION TO DRAMA",
+          content: [
+            "Introduction to Drama",
+            "    Types of Drama",
+            " Features of drama",
+          ],
+        },
+        {
+          week: 3,
+          topics: "INTRODUCTION TO PROSE",
+          content: [
+            "Definition of Prose",
+            " Forms/Types of Prose",
+            " Features of Prose",
+          ],
+        },
+        {
+          week: 4,
+          topics: "INTRODUCTION TO POETRY ",
+          content: [
+            "Introduction of poetry",
+            "    Types of poetry",
+            " Features of poetry",
+          ],
+        },
+        {
+          week: 5,
+          topics: "INTRODUCTION TO LITERARY APPRECIATION",
+          content: [
+            "Meaning of Literary Appreciation",
+            "  Terms Used in Literary Appreciation",
+          ],
+        },
+        {
+          week: 6,
+          topics: "THE CONCEPT OF PLOT",
+          content: ["Meaning and Definition of Plot", "Features of Plot"],
+        },
+        {
+          week: 7,
+          topics: "THE CONCEPT OF SETTING",
+          content: [
+            "Definition of Setting",
+            "Types of Setting",
+            "Characterisation",
+          ],
+        },
+        {
+          week: 8,
+          topics: "THE CONCEPT OF STYLE",
+          content: [
+            "Meaning of Style",
+            "  Definition of Style",
+            "Presentation techniques of styles in prose, drama, poetry",
+          ],
+        },
+        {
+          week: 9,
+          topics: "FIGURES OF SPEECH",
+          content: [
+            "Figures of Comparison and Sound",
+            "Other figures of speech.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Literature in English First Term Examination"],
+        },
+      ],
+      Physics: [
+        {
+          week: 1,
+          topics: "INTRODUCTION TO PHYSICS",
+          content: [
+            "Definition of Physics",
+            "  The Importance of Physics",
+            " Aspects/Careers in Physics",
+            "Branches of Physics",
+          ],
+        },
+        {
+          week: 2,
+          topics: "FUNDAMENTAL AND DERIVED QUANTITIES AND UNITS",
+          content: [
+            "The Concept of Fundamental Quantities",
+            "  Other Fundamental Quantities",
+            "The Concept of Derived Quantities",
+            "Dimensions and Units of Derived Quantities",
+          ],
+        },
+        {
+          week: 3,
+          topics: "DIMENSIONS AND MEASUREMENT OF PHYSICAL QUANTITIES",
+          content: [
+            "Measurement of Length/Distance",
+            "      Measurement of Mass/Weight",
+            "   Measurement of Volume",
+            " Measurement of Area",
+            " Measurement of Time",
+            "Units of Measurement in Industries",
+          ],
+        },
+        {
+          week: 4,
+          topics: "POSITION, DISTANCE AND DISPLACEMENT",
+          content: [
+            "The Concept of Position",
+            "      The Concept of Distance and Measurement",
+            "  The Concept of Displacement",
+            "Distinction between Distance and Displacement",
+          ],
+        },
+        {
+          week: 5,
+          topics: "MOTION",
+          content: [
+            "Definition of Motion",
+            "   Types of Motion",
+            "Causes and Effects of Motio",
+          ],
+        },
+        {
+          week: 6,
+          topics: "MOTION: FORCE AND FRICTION",
+          content: [
+            "Definition of Force",
+            "   Types of Forces",
+            "      Definition of Friction",
+            "Types of Friction",
+            "The Laws of Solid Friction",
+            "Coefficient of friction",
+            "Advantages and Disadvantages of Friction",
+            "Methods of Reducing Friction",
+          ],
+        },
+        {
+          week: 7,
+          topics: "SPEED AND VELOCITY",
+          content: [
+            "The Concepts of Distance, Speed, Velocity and Uniform Speed/Velocity",
+            "    Calculations on Speed and Velocity",
+            "Distance-Time Graph, Displacement-time Graph",
+          ],
+        },
+        {
+          week: 8,
+          topics: "RECTILINEAR ACCELERATION",
+          content: [
+            "The Concept of Acceleration",
+            " Uniform and Non-uniform Acceleration",
+            "  Deceleration",
+            "    Worked Examples on Acceleration and Deceleration",
+            " Velocity-Time (V – T) Graph",
+            "Worked Examples on V-T Graph",
+          ],
+        },
+        {
+          week: 9,
+          topics: "CIRCULAR MOTION",
+          content: [
+            "Meaning of Circular Motion",
+            "     Definition of Terms Used in Circular Motion",
+            "Calculations on Circular Motion",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Physics First Term Examination"],
+        },
+      ],
+    },
+    SecondTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "Revision",
+          content: ["Revision of work done in First Term"],
+        },
+        {
+          week: 2,
+          topics:
+            "Agro-Allied Industries and Relationship between Agriculture and Industry",
+          content: [
+            "(a) Agro-based Industries and Raw Materials",
+            "    (i) Paper Industry – Pulpwood",
+            "    (ii) Beverage industry - cocoa, tea, etc.",
+            "    (iii) Soap industry - oil seeds, etc.",
+            "(b) Relationship between Agriculture and Industries",
+            "    - Agriculture provides a market for industrial products e.g. farm machinery, chemicals, etc.",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Environmental Factors Affecting Agricultural Production",
+          content: [
+            "Environmental Factors Affecting Crops and Production",
+            "(i) Climatic Factors",
+            "    - Rainfall, temperature, light, wind, etc.",
+            "(ii) Biotic Factors",
+            "    - Predators, parasites, soil micro-organisms, inter-relationship such as competition, parasitism, mutualism (symbiosis), etc.",
+            "(iii) Edaphic Factors",
+            "    - Soil pH, soil texture, soil structure, soil type, etc.",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Rock Formation",
+          content: [
+            "(a) Process of Rock Formation",
+            "(b) Types of Rocks",
+            "    (i) Igneous Rocks",
+            "    (ii) Sedimentary Rocks",
+            "    (iii) Metamorphic Rocks",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Soil Formation and Profile Development",
+          content: [
+            "(a) Factors of Soil Formation",
+            "    - The parent rock, organisms, climate topography, and time",
+            "(b) Outline of Soil Formation Processes",
+            "    - Weathering process",
+            "(c) Soil Profile Development",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Types, Composition and Properties of Soil",
+          content: [
+            "(a) Types of Soil",
+            "(b) Chemical and Biological Composition of Soil",
+            "    (i) Soil macro- and micro-nutrients",
+            "    (ii) Soil water",
+            "    (iii) Macro-organisms",
+            "    (iv) Soil microbes",
+            "    (v) Soil air",
+            "    (vi) Soil pH",
+            "(c) Physical Properties of Soil",
+            "    (i) Soil texture",
+            "    (ii) Soil structure",
+            "(d) Soil Classification Systems",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Simple Farm Tools",
+          content: [
+            "(a) Meaning of Simple Farm Tools",
+            "(b) Types of Simple Farm Tools",
+            "    - Cutlass, hoe, spade, shovel, etc.",
+            "(c) Identification and Description of Each of the Tools",
+            "(d) Identification of Various Accessory Tools and their Uses",
+            "(e) General Maintenance of Simple Farm Tools",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Farm Machinery and Implements",
+          content: [
+            "(a) Farm Machinery",
+            "    (i) Tractor",
+            "    (ii) Bull dozer",
+            "    (iii) Sheller",
+            "    (iv) Dryers",
+            "    (v) Incubators",
+            "    (vi) Milking machines, etc.",
+            "(b) Tractor-coupled Implements",
+            "    - Ploughs, harrows, ridgers, planters, harvesters, sprayers, etc.",
+          ],
+        },
+        {
+          week: 9,
+          topics:
+            "Farm Machinery Maintenance Practices and Precautionary Measures",
+          content: [
+            "(a) Reasons for Maintaining Farm Machines",
+            "(b) Maintenance of Farm Machinery",
+            "    (i) Check water and oil levels regularly",
+            "    (ii) Carry out routine service",
+            "    (iii) Keep the machines clean, etc.",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Agricultural Engineering and Mechanisation",
+          content: [
+            "(a) Definition and Meaning of Farm Mechanisation",
+            "(b) Mechanised Agricultural Operations",
+            "    - Farm Activities Involving Machinery",
+            "(c) Advantages and Disadvantages of Farm Mechanisation",
+            "(d) Limitation/Problems of Farm Mechanisation",
+            "    - Prospect of farm mechanisation",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Sources of Farm Power",
+          content: [
+            "(a) Meaning of Farm Power",
+            "(b) Sources of Farm Power",
+            "(c) Advantages and Disadvantages of Each Source of Farm Power",
+          ],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["SS1 Agricultural Second Term Examination"],
+        },
+      ],
+      "Animal Husbandry": [
+        {
+          week: 1,
+          topics: "REPRODUCTION IN FARM ANIMALS",
+          content: ["Terms in Reproduction"],
+        },
+        {
+          week: 2,
+          topics: "REPRODUCTION IN FARM ANIMALS",
+          content: [
+            "(Terminologies in Reproduction)",
+
+            "   Parturition",
+            "  Lactation",
+            " Colostrum",
+            " Weaning",
+            "    Dystocia",
+            "  Flushing",
+            "    Foetus or Embryo",
+            "Steam Up",
+          ],
+        },
+        {
+          week: 3,
+          topics: "REPRODUCTIVE SYSTEM OF FARM ANIMALS",
+          content: [
+            "Meaning of Reproduction in Farm Animals",
+            "The Male Reproductive System",
+            "The Female Reproductive System",
+          ],
+        },
+        {
+          week: 3,
+          topics: "REPRODUCTIVE SYSTEM OF FARM ANIMALS",
+          content: [
+            "Meaning of Reproduction in Farm Animals",
+            " The Male Reproductive System",
+            "The Female Reproductive System",
+          ],
+        },
+        {
+          week: 4,
+          topics: "REPRODUCTIVE SYSTEM IN BIRDS",
+          content: [
+            "(Introduction)",
+            " The Process of Egg Formation in Poultry",
+            "Parts of the Female Reproduction System in Poultry",
+          ],
+        },
+        {
+          week: 5,
+          topics: "TERMINOLOGIES USED IN LIVESTOCK PRODUCTION",
+          content: [
+            "(Terminologies Used in Poultry Production)",
+            "Terminologies Used in Pig Production",
+            "Terminologies Used in Rabbit Production",
+            "Terminologies Used in Cattle Production",
+            "Terminologies Used in Goat Production",
+          ],
+        },
+        {
+          week: 1,
+          topics: "REPRODUCTIVE HORMONES AND THEIR FUNCTIONS",
+          content: [
+            "The Endocrine System",
+            "Male Reproductive Hormones",
+            "Female Reproductive Hormones",
+          ],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["SS1 Animal Huasbandry Second Term Examination"],
+        },
+      ],
+      Biology: [
+        {
+          week: 1,
+          topics: "TISSUES AND SUPPORTING SYSTEMS",
+          content: [
+            "Different Types of Supporting Tissues",
+            " Functions of Supporting Tissues in Plants",
+          ],
+        },
+        {
+          week: 2,
+          topics: "BASIC ECOLOGICAL CONCEPTS",
+          content: [
+            "Meaning of Ecology",
+            " Ecological Concepts",
+            "  Components of an Ecosystem",
+            "Local Biotic Communities or Biomes",
+          ],
+        },
+        {
+          week: 3,
+          topics: "BASIC ECOLOGICAL CONCEPTS",
+          content: [
+            "(Major Biomes of the World)",
+            "      Population Studies by Sampling Method",
+            " Ecological Factors",
+            "  Simple Measurement of Ecological Factors",
+            " Relationship between Soil Types and Water Holding Effects of Soil on Vegetation",
+            "Practical Guides on Soil",
+          ],
+        },
+        {
+          week: 4,
+          topics: "FUNCTIONAL ECOSYSTEM: AUTOTROPHY AND HETEROTROPHY",
+          content: ["Producers", " Consumers", "Aquatic and Terrestrial"],
+        },
+        {
+          week: 5,
+          topics: "ENERGY TRANSFORMATION IN NATURE",
+          content: [
+            "Energy Loss in the Ecosystem (i) Solar Radiation (ii) Energy Loss in the Biosphere (iii) Measure of Primary Production",
+            "Laws of Thermodynamics",
+          ],
+        },
+        {
+          week: 6,
+          topics: "THE RELEVANCE OF BIOLOGY TO AGRICULTURE",
+          content: [
+            "1. (Classification of Plants)",
+
+            "  (a) Botanical Classification of Plants",
+
+            "(b) Agricultural Classification of Plants",
+
+            " (c) Classification of Plants based on Life Cycle",
+
+            "  2. Effects of Agricultural Activities on Ecological system",
+
+            "3. Pests and Diseases of Agricultural Importance",
+          ],
+        },
+        {
+          week: 7,
+          topics: "THE RELEVANCE OF BIOLOGY TO AGRICULTURE",
+          content: [
+            "1. Food Production and Storage",
+
+            "        (a) Ways of Improving Crop Yield",
+
+            "  (b) Causes of Wastage",
+
+            " (c) Methods of Preserving and Storing Food",
+
+            " 2. Population Growth and Food Supply",
+
+            "  3. Relationship between Availability of Food and Human Population (Effects of Storage)",
+
+            "4. Government Efforts to Increase Food Production (e.g.) Agricultural Revolution",
+          ],
+        },
+        {
+          week: 8,
+          topics: "MICRO-ORGANISMS AROUND US",
+          content: [
+            "1. Micro-organisms in Air and Water",
+            "(i) Group of Micro-organisms: Bacteria, Viruses, Some algae, Protozoa, Fungi",
+
+            "(ii) The Concept of Culturing",
+
+            "2. Identification of Micro-organisms in (i) Air (ii) Pond Water (iii) River (iv) The Concept of Culturing",
+            "3. Micro-organisms in Our Bodies and Food",
+            "4. Carriers of Micro-organisms: Examples, Location of the Micro-organism in Carriers and Types of Micro-organism",
+          ],
+        },
+        {
+          week: 9,
+          topics: "MICRO-ORGANISMS IN ACTION",
+          content: [
+            "Meaning of Micro-organisms",
+            "Types of Micro-organisms",
+            "Growth of Micro-organisms: Ways of Measuring the Growth of Microorganisms",
+            "Beneficial Effects of Micro-organisms in Nature, Medicine and Industries",
+            "Harmful Effects of Some Microbes",
+          ],
+        },
+        {
+          week: 9,
+          topics: "MICRO-ORGANISMS AND BETTER HEALTH",
+          content: [
+            "Control of Harmful Micro-organisms",
+            "Vectors (i) Definition of Vectors (ii) Ways of Controlling Mosquitoes (iii) Ways of Controlling Vectors",
+            "Student’s Health: Maintenance of Good Health",
+          ],
+        },
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["SS1 Biology Second Term Examination"],
+        },
+      ],
+      Chemistry: [
+        {
+          week: 1,
+          topics: "Gaseous State and Gas Laws",
+          content: ["STATES OF MATTER"],
+        },
+        {
+          week: 2,
+          topics: "Gaseous State and Gas Laws II",
+          content: ["BOYLE’S LAW"],
+        },
+        {
+          week: 3,
+          topics: " Gaseous State and Gas Laws III",
+          content: ["GAY- LUSSAC’S LAW AND AVOGADRO’S LAW"],
+        },
+        {
+          week: 4,
+          topics: "Standard Separation Techniques for Mixtures ",
+          content: ["COMPOUNDS AND MIXTURES"],
+        },
+        {
+          week: 5,
+          topics: "Chemistry Practicals",
+          content: ["Chemistry Practicals"],
+        },
+        {
+          week: 6,
+          topics: "Examination",
+          content: ["SS1 Chemistry Second Term Examination"],
+        },
+      ],
+      "Christian Religious Studies (CRS)": [
+        {
+          week: 1,
+          topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
+          content: [
+            "Introduction",
+            "Peter’s Message on Christian Living (1 Pet. 1:13-17; 2:9-25; 4:1-19)",
+            "The Roles of Christians in the Community",
+            "Paul’s Statements on Children of Light (Rom. 13:11-14)",
+          ],
+        },
+        {
+          week: 2,
+          topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
+          content: [
+            "Social Vices and Witnessing to Christ",
+            "Tolerance and Peaceful Co-existence",
+            "Civic Responsibilities (1 Pet. 2:13-17)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "CHRISTIAN ATTITUDE TOWARDS PERSECUTION",
+          content: [
+            "Meaning of Persecution",
+            "Forms of Persecution",
+            "Peter’s Message to Christian under Persecution (1 Pet. 1:5-9; 4:12-19)",
+            "Jesus’ Message on Love of Enemies (Matthew 5:43-48)",
+            "The Persecution of Christ",
+            "Suffering and the Christian Faith",
+            "Christian Attitude to Persecution (1 Peter 4:12-19)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "IMPARTIALITY",
+          content: [
+            "Meaning of Impartiality",
+            "All Human Beings are Equal before God",
+            "Warning against Prejudice/James’ Teaching on Partiality (James 2: 1-13)",
+            "The “Golden Rule” (Matt. 7:12; Luke 6:31)",
+            "Negative Effects of Nepotism, Fabouritism and Tribalism in the Society",
+          ],
+        },
+        {
+          week: 5,
+          topics: "THE RESURRECTION AND SECOND COMING",
+          content: [
+            "Meaning of Resurrection",
+            "The Account of the Resurrection in Matthew (Matthew 28:1-8)",
+            "Mark’s Account of the Resurrection (Mark 16:1-8)",
+            "Luke’s Account of the Resurrection (Luke 24:1-11)",
+            "Significance of the Resurrection to the Christian Faith",
+          ],
+        },
+        {
+          week: 6,
+          topics: "RESURRECTION",
+          content: [
+            "The Role of Women in the Resurrection Story of Jesus",
+            "Comparison of the Three Accounts of Resurrection in the Synoptic Gospels",
+          ],
+        },
+        {
+          week: 6,
+          topics: "THE SECOND COMING OF CHRIST",
+          content: [
+            "Jesus Talks of the Last Judgment When He Comes (Matthew 25:31-36)",
+            "Paul’s Teaching on Jesus’ Second Coming (I Thess. 4:13-18, 5:1-11)",
+            "How We Ought to Prepare for the Second Coming of the Lord (Matthew 25: 31-46)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Examination",
+          content: ["SS1 CRS Second Term Examination"],
+        },
+      ],
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "DEMOCRACY",
+          content: [
+            "The Meaning of Democracy",
+            "Representative Democracy",
+            "Characteristics of Representative Democracy",
+            "Merits and Demerits of Representative Democracy",
+          ],
+        },
+        {
+          week: 2,
+          topics: "THE RULE OF THE MAJORITY",
+          content: [
+            "The Meaning of the Majority",
+            "The Meaning of Minority Group",
+            "The Rationale/Reasons for the Existence of Minorities in Society",
+            "Measures to Safeguard the Minorities",
+          ],
+        },
+        {
+          week: 3,
+          topics: "THE MAJOR PILLARS OF DEMOCRACY",
+          content: [
+            "The Concept of Major Pillars of Democracy",
+            "The Major Pillars of Democracy in Nigeria",
+          ],
+        },
+        {
+          week: 4,
+          topics: "FEDERALISM",
+          content: [
+            "The Meaning of Federalism",
+            "The Legislative Lists",
+            "Characteristics of Federalism",
+            "The Relationship among the Federal, State and Local Government in a Federalism",
+          ],
+        },
+        {
+          week: 5,
+          topics: "THE DUTIES AND RESPONSIBILITIES OF CITIZENS",
+          content: ["The Duties and Responsibilities of Citizens"],
+        },
+        {
+          week: 6,
+          topics: "POLITICAL PARTIES",
+          content: [
+            "The Meaning of Political Parties",
+            "Functions of Political Parties ",
+          ],
+        },
+        {
+          week: 7,
+          topics: "FREEDOM OF THE PRESS",
+          content: ["Meaning of the Press", "Meaning of Press Freedom "],
+        },
+        {
+          week: 8,
+          topics: "THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)",
+          content: [
+            "Meaning of Human Rights ",
+            "Historical Background of the Universal Declaration of Human Rights (UDHR)",
+            "History of the Universal Declaration of Human Rights",
+            "History of the Universal Declaration of Human Rights",
+            "The 30 Articles of the Universal Declaration of Human Rights (UDHR)",
+          ],
+        },
+        {
+          week: 9,
+          topics:
+            "THE SEVEN CORE FREEDOMS OF THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)",
+          content: [
+            "The Meaning of the Core Freedoms of the UDHR",
+            "The Seven Core Freedoms of the UDHR",
+          ],
+        },
+        {
+          week: 9,
+          topics:
+            "RESPONSIBILITIES OF INDIVIDUALS AND GROUPS IN THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)",
+          content: [
+            "Introduction",
+            "        Roles of Individuals in the UDHR",
+            "Roles of Groups in the UDHR",
+            "Roles of the Government in the UDHR",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Civic Education Second Term Examination"],
+        },
+      ],
+      Commerce: [
+        {
+          week: 1,
+          topics: "HOME TRADEII",
+          content: ["Wholesale Trade", "The Channels of Distribution"],
+        },
+        {
+          week: 2,
+          topics: "Home Trade III",
+          content: [
+            "Meaning of Home Trade",
+            "Advantages of Home Trade ",
+            "Agents",
+            "     Warehouses",
+            "        Terminologies Used in Home Trade",
+            " Documents Used in Home Trade",
+          ],
+        },
+        {
+          week: 3,
+          topics: "FOREIGN TRADE",
+          content: [
+            "The Meaning of Foreign Trade",
+            " Differences and Similarities between Home Trade and Foreign Trade",
+            "   Measures to Promote Export Trade",
+            "Entre-port Trade",
+            "Functions of the Nigeria Export Promotion Council",
+            "        Forms/Types of International Trade",
+            "Reasons for International Trade",
+            "  Benefits of International Trade",
+            " Disadvantages of International Trade",
+            " Divisions of Foreign Trade",
+            "Barriers to Foreign Trade",
+          ],
+        },
+        {
+          week: 4,
+          topics: "FOREIGN TRADE",
+          content: [
+            "The Procedure for International Trade",
+            " Balance of Trade and Balance of Payment",
+          ],
+        },
+        {
+          week: 5,
+          topics: "FOREIGN TRADE",
+          content: [
+            "Tariffs and Reasons for the Imposition of Tariffs",
+            "Tools for Trade Restriction and Export Promotion",
+            "Documents Used in Foreign Trade",
+            "Functions of the Customs and Excise Authority",
+            " Functions of the Nigeria Export Promotion Council",
+            "Functions of the Nigerian Airports Authority and",
+            "Functions of the Nigeria Ports Authority",
+          ],
+        },
+        {
+          week: 6,
+          topics: "COMMODITY EXCHANGE",
+          content: [
+            "Meaning of Commodity",
+            "  Types of Commodity",
+            "  Meaning of Commodity Exchange",
+            "   Meaning of Tradable Commodity",
+            " Distinctions between Tradable and Non-tradable Commodities",
+            " Requirements for Trading in Commodity Exchange",
+            " Types of Commodity Exchange",
+            "Methods of Trading",
+          ],
+        },
+        {
+          week: 1,
+          topics: "COMMODITY EXCHANGE",
+          content: [
+            "Benefits of Commodity Exchange",
+            "Constraints to Commodity Trading",
+            "Meaning of Commodity, Commodity Exchange and Stocks",
+            "Differences between Commodities and Stocks",
+            "Similarities between Commodities and Stocks",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Commerce Second Term Examination"],
+        },
+      ],
+      "Computer Science/ICT": [
+        {
+          week: 1,
+          topics: "COMPUTER SYSTEM SOFTWARE",
+          content: ["Definition of Software", "Types of Software"],
+        },
+        {
+          week: 2,
+          topics: "COMPUTER SYSTEM SOFTWARE",
+          content: [
+            "The Operating System(i)Functions of the Operating System(ii)Examples of Operating Systems(iii)Examples of Translators and Utility Programs",
+            "Utility Software(i)Meaning of Utility Software,(ii)Types of Utility Software",
+          ],
+        },
+        {
+          week: 3,
+          topics: "COMPUTER APPLICATION SOFTWARE",
+          content: [
+            "Definition of Application Software",
+            "Types of Application Software",
+          ],
+        },
+        {
+          week: 4,
+          topics: "COMPUTER APPLICATION SOFTWARE",
+          content: [
+            "Categories of Application Packages and their Uses",
+            "Packages for Specialized Areas",
+          ],
+        },
+        {
+          week: 5,
+          topics: "PROGRAMMING LANGUAGES",
+          content: [
+            "Definition of Programming Language",
+            "Levels of Programming Languages",
+          ],
+        },
+        {
+          week: 6,
+          topics: "PROGRAMMING LANGUAGES",
+          content: [
+            "Features of Machine Language",
+            "Features of Low Level Languages",
+            "   Features of High Level Languages",
+            " Examples Of Programming Languages",
+            "Comparison of the Levels of Programming Languages",
+          ],
+        },
+        {
+          week: 7,
+          topics: "THE BASIC PROGRAMMING LANGUAGE",
+          content: [
+            "Meaning of BASIC",
+            "Versions of BASIC",
+            "BASIC Character Set",
+            "BASIC Statements",
+          ],
+        },
+        {
+          week: 8,
+          topics: "THE BASIC PROGRAMMING LANGUAGE",
+          content: [
+            "BASIC Arithmetic Operators",
+            "BASIC Arithmetic Expressions",
+            "Evaluation of Expressions",
+            "Simple BASIC Programs",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Examination",
+          content: ["SS1 Computer Science ICT Second Term Examination"],
+        },
+      ],
+      Economics: [
+        {
+          week: 1,
+          topics: "ECONOMICS SYSTEMS",
+          content: [
+            "Definition of Economic System",
+            "The Main Types of Economic Systems",
+            "Free or Capitalist Economic System (Capitalism)",
+            "Socialism",
+            "Mixed Economy",
+            "How Each Economic System Solves Fundamental Economic Problems of Society",
+          ],
+        },
+        {
+          week: 2,
+          topics: "BASIC ECONOMIC PROBLEMS OF SOCIETY",
+          content: [
+            "Meaning of Economic System",
+            "Basic Economic Problems of Society",
+          ],
+        },
+        {
+          week: 3,
+          topics: "INTRODUCTION TO BUSINESS ENTERPRISES",
+          content: [
+            "Definitions of Firm",
+            "Definition of Industry",
+            "Types and Basic Features of Business Enterprises",
+            "Sole Proprietorship",
+            "The Partnership",
+          ],
+        },
+        {
+          week: 4,
+          topics: "FIRMS AND INDUSTRY: PRIVATE AND PUBLIC COMPANIES",
+          content: [
+            "Limited Liability Companies",
+            "Co-operative Societies",
+            "Public Enterprises",
+            "Joint Ventures",
+            "General Sources of Finance for Business Enterprises",
+            "General and Specific Problems of Business Enterprises",
+            "Privatization and Commercialization as a Solution to the Problems of Public Enterprises",
+          ],
+        },
+        {
+          week: 5,
+          topics: "POPULATION",
+          content: [
+            "Meaning of Population",
+            "Determinants of Population Size and Growth",
+            "Population Growth Rate",
+            "Implication of Population Size",
+            "Implication of Population Growth",
+          ],
+        },
+        {
+          week: 6,
+          topics: "THEORIES OF POPULATION",
+          content: [
+            "Malthusian Population Theory",
+            "The Demographic Transition Theory",
+          ],
+        },
+        {
+          week: 7,
+          topics: "DISTRIBUTION OR STRUCTURE OF POPULATION",
+          content: [
+            "Distribution or Structure of Population",
+            "Population and Economic Development (Over-population, Under population and Optimum Population)",
+            "Population Census and Rural-Urban Migration",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Examination",
+          content: ["SS1 Economics Second Term Examination"],
+        },
+      ],
+      "English Language": [
+        {
+          week: 1,
+          topics: "Consonant Sounds /k/, /g/, /f/ and /v/ ",
+          content: [
+            "Speech Work: Consonants /k/, /g/, /f/ and /v/",
+            "Comprehension: Healthy Diet",
+            " Vocabulary Development: Other Expressions Associated with Traditional Religion (Examples: fanatic, hermit, atheist, etc.)",
+            "   Structure: Complex Tense Form (Present Tense – Simple, Present Continuous, Present Perfect and Present Perfect Continuous)",
+            "Writing Skills: Speech Writing (Introduction)",
+          ],
+        },
+        {
+          week: 2,
+          topics: " Words of Two Syllables (Stressed on the Second Syllable)",
+          content: [
+            "Speech Work: Words of Two Syllables (Stressed on the Second Syllable)",
+            "    Comprehension: Cowpea Against Hunger (NOSEC. Pages 49-50)",
+            "    Vocabulary Development: Words Associated with Professions – Advertising (NOSEC. Pg. 173)",
+            " Structure: Phrasal Verbs (Introduction)",
+            "Writing Skill: Speech Writing (Planning and Organization)",
+          ],
+        },
+        {
+          week: 3,
+          topics: " Consonant Sounds Followed by K+W e.g. quench, quiet, etc.",
+          content: [
+            "Speech Work: Consonant Sounds Followed by k + w e.g. quench, quick, etc.",
+            "Comprehension/Summary: Summarizing in a Specified Number of Sentences (NOSEC. Pg. 84)",
+            "Vocabulary Development: Antonyms",
+            "Structure: Phrasal Verbs (Separable and Non-separable)",
+            "Writing Skills: Descriptive Essay (Organizing a Descriptive Essay)",
+          ],
+        },
+        {
+          week: 4,
+          topics:
+            " Consonants Followed by /j/ and /u/ sounds e.g. dew, you, cue, etc.",
+          content: [
+            "Speech Work: Consonants Followed by /j/ and /u/ Sounds e.g. dew, you, cue, etc.",
+            " Comprehension: Our Unusual Planet",
+            "    Vocabulary Development: Antonyms (II)",
+            " Structure: Adjuncts (Adverbs)",
+            "Writing Skills: Descriptive Essays – (Guided essay) ",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            " Words of Three Syllables, Stressed on First, Second or Third Syllables.",
+          content: [
+            "Speech Work: Words of Three Syllables, Stressed on First, Second or Third Syllables",
+            "  Comprehension: The Governor and the Princess NOSEC. Pages 66-67",
+            " Vocabulary Development: Synonyms",
+            "   Structure: Structural Classification of Sentences",
+            "Writing Skills: Popular Articles for Publication in a School Magazine (General Introduction) – NOSEC. Pages 191-192",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "Words of Four Syllables, Stress on First, Second or Third Syllables",
+          content: [
+            "Speech Work: Words of Four Syllables, Stressed on the First, Second or Third Syllables",
+            "Comprehension: Kaduna: Bedrock of Strength and Creativity",
+            "     Vocabulary Development: Synonyms",
+            "Structure: Simple Sentences",
+            " Writing Skills: Popular Articles for Publication in National Dailies (Organization)",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Stress Timing in English Sentences",
+          content: [
+            "Speech Work: Stress Timing in English Sentences; Correct Phrasing & Voice Modulation",
+            "  Comprehension/Summary: Summarizing in a Specified Number of Sentences",
+            " Vocabulary Development: Words Commonly Misspelt and Use of the Dictionary (Examples: conceive, thief, beginning, proceed, occasion, etc.)",
+            "    Structure: Complex Sentences",
+            " Writing Skills: Articles for Publication in a School Magazine (Organization): “The Evil Effects of Peer Pressure",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "Oral Composition (Narrative, Descriptive, Argumentative and Expository Essay)",
+          content: [
+            "Speech Work: Oral Composition; Narrative and Descriptive, Expository and Argumentative",
+            "Comprehension: Small Pox",
+            "Vocabulary Development: Homophones, Homographs and Homonyms",
+            "Structure: Compound Sentences",
+            "Writing Skills: Continuous Writing – Exposition (Introduction)",
+          ],
+        },
+        {
+          week: 9,
+          topics: "Speaking to Persuade/Convince",
+          content: [
+            "Speech Work: Speaking to Persuade/Convince",
+            " Comprehension: The Origin of Silk",
+            " Vocabulary Development: Words Associated with Profession (Stock Exchange)",
+            "    Structure: Compound Complex Sentences",
+            "Writing Skills: Expository (Organizing an Expository Essay)",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 English Language Second Term Examination"],
+        },
+      ],
+      "Financial Accounting": [
+        {
+          week: 1,
+          topics: "Other Types of Journal and Classification of Accounts",
+          content: [
+            "SALES JOURNAL",
+            " PURCHASES JOURNAL",
+            ". RETURN INWARD JOURNALS",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Trial Balance and Correction of Errors",
+          content: ["The Need for Trial Balance"],
+        },
+        {
+          week: 3,
+          topics: "Trading Account",
+          content: ["THE DEFINITION OF TRADING ACCOUNT"],
+        },
+        {
+          week: 4,
+          topics: "Profit and Loss Account",
+          content: ["Profit and Loss Account Items"],
+        },
+        {
+          week: 5,
+          topics:
+            "Adjustment in Profit and Loss Account I: Prepayment and Accruals",
+          content: ["Adjustment in Profit and Loss account – Prepayments"],
+        },
+        {
+          week: 6,
+          topics:
+            "Adjustment in Profit and Loss Account II: Bad Debts, Discounts and Depreciation",
+          content: ["Posting of Entries into Ledger"],
+        },
+        {
+          week: 8,
+          topics: "Introduction to Accounting Ratios",
+          content: ["Meaning of Accounting Ratios"],
+        },
+
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Financial Accounting Second Term Examination"],
+        },
+      ],
+      "General Mathematics": [
+        {
+          week: 1,
+          topics: "Modular Arithmetic 1",
+          content: [
+            "Revision of addition and subtraction of integers",
+            "Revision of multiplication and division of integers",
+            "Concept of modular arithmetic/Cyclic events",
+          ],
+        },
+        {
+          week: 2,
+          topics: "Modular Arithmetic 2",
+          content: [
+            "Addition, Subtraction, Multiplication and Division operations in module arithmetic",
+            "Application to daily life",
+          ],
+        },
+        {
+          week: 3,
+          topics: "Quadratic Equation 1",
+          content: [
+            "Revision of linear and quadratic expressions",
+            "   Solution of quadratic expression of the form ab = 0, a = 0 or b = 0",
+            "Formation of quadratic equation with given roots",
+          ],
+        },
+        {
+          week: 4,
+          topics: "Quadratic Equations 2",
+          content: [
+            "Revision of linear graph and drawing quadratic graph",
+            "Obtaining roots from a quadratic graph",
+            "Finding an equation from a given graph",
+            "Application of quadratic equation to real life situations",
+          ],
+        },
+        {
+          week: 5,
+          topics: "Constructions 1",
+          content: [
+            "Guidelines for Constructions",
+            "Bisecting of Angles",
+            "Bisecting A Line AB",
+            "Constructions of the Basic Angles",
+            "Construction of Triangles with Given Sides and Angle",
+            "Bisection of Basic Angles",
+          ],
+        },
+        {
+          week: 6,
+          topics: "Constructions 2",
+          content: [
+            "Construction of Perpendiculars",
+            "How to Construct Perpendiculars",
+            "Circumscribed and Inscribed Circles of a Triangle",
+            "Construction of Quadrilaterals",
+            "Locus",
+            "Dividing a Line Segment into N Equal Parts",
+          ],
+        },
+        {
+          week: 7,
+          topics: "Proofs of Some Basic Theorems 1",
+          content: [
+            "Introduction to Geometry",
+            "      Interior and Exterior Angles of a Triangle",
+            "Congruency and Similarity of Triangles",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Proofs of Some Basic Theorems 2",
+          content: [
+            "(i) Riders including angles of parallel lines",
+            "(ii) Angles in a polygon",
+            "Congruent triangles",
+            "Properties of Parallelogram",
+            "(v) Intercept theorem",
+          ],
+        },
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 General Mathematics Second Term Examination"],
+        },
+      ],
+      Geography: [
+        {
+          week: 1,
+          topics: "PLATEAU",
+          content: [
+            "Definition of Plateau",
+            "Types of Plateaux",
+            " Mode of Formation and Characteristics of Plateaux",
+            "Importance of Plateaux",
+          ],
+        },
+        {
+          week: 2,
+          topics: "LOWLANDS",
+          content: [
+            "Meaning of Lowland",
+            "   Types of Lowlands",
+            " Mode of Formation",
+            "   Characteristics of the Types of Lowlands",
+            "  Importance of Lowland to Man",
+            "Disadvantages of Lowland",
+          ],
+        },
+        {
+          week: 3,
+          topics: "ENVIRONMENT",
+          content: [
+            "Meaning of Environment",
+            " Types of Environment",
+            "    Domains or Spheres of Environment",
+            "Importance of the Environment",
+          ],
+        },
+        {
+          week: 4,
+          topics: "WEATHER",
+          content: [
+            "Meaning of Weather",
+            "Elements of Weather – Temperature, Rainfall, Humidity, Winds",
+            "Importance of Weather",
+          ],
+        },
+        {
+          week: 5,
+          topics: "CLIMATE",
+          content: [
+            "Meaning of Climate",
+            " Elements of Climate (i) Atmosphere pressure (ii) Temperature (iii) Humidity (iv) Precipitation (v) (Rainfall, snowfall, hail, fog, mist, sleet, etc.) (vi) Winds (vii) Sunshine",
+            " Climate Regions of the World",
+            "  Importance of Climate on Physical and Cultural Activities",
+            "Factors Affecting Climate",
+          ],
+        },
+        {
+          week: 6,
+          topics: "NIGERIA: LOCATION AND POSITION",
+          content: [
+            "Location and Position – Latitudes, Longitude, Boundaries and Neighbors",
+            "Size and Distances – (i) North to South (ii) East to West",
+            "Political Divisions – (i) States and their Capitals (ii) Local Government Areas and their Headquarters",
+          ],
+        },
+        {
+          week: 7,
+          topics: "PHYSICAL SETTING OF NIGERIA",
+          content: [
+            "Meaning of Relief",
+            "Lowland Areas in Nigeria",
+            "Highland Areas in Nigeria",
+            "Drainage System in Nigeria",
+            "Climate and the Seasons in Nigeria",
+            "Vegetation of Nigeria",
+          ],
+        },
+        {
+          week: 1,
+          topics: "POPULATION OF NIGERIA",
+          content: [
+            "Definition of Population",
+            "Population Concepts: (i) Over-population (ii) Under-population (iii) Optimum Population (iv) Population Density",
+            "Population Distribution: (i) Areas of High Population Density in Nigeria (ii) Areas of Medium Population Density in Nigeria (iii) Areas of Low Population Density in Nigeria",
+            "Population Structure",
+            "Population Quality",
+            "Population Movement",
+            "Population Data",
+          ],
+        },
+        {
+          week: 1,
+          topics: "RESOURCES OF NIGERIA",
+          content: [
+            "Mineral Resources in Nigeria: (i) Petroleum/Crude Oil (ii) Coal (iii) Tin Ore (iv) Columbite (v) Iron Ore (vi) Limestone (vii) Gold (viii) Lead and Zinc",
+            "   Importance of Mineral Resources to the Economic Development of Nigeria",
+            " Problems of Mineral Exploration in Nigeria",
+            " Power Resources in Nigeria",
+            "Water Resources in Nigeria",
+            "  Vegetative Resources in Nigeria",
+            " Vegetation of Nigeria",
+            "Importance of Environment",
+          ],
+        },
+
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Geaography Second Term Examination"],
+        },
+      ],
+      Government: [
+        {
+          week: 1,
+          topics: "UNITARY SYSTEM OF GOVERNMENT",
+          content: [
+            "Meaning of Unitary Government",
+            "   Main Features or Characteristics of Unitary Government",
+            "       Advantages and Disadvantages of Unitary Government",
+            " Factors Responsible for the Success of Unitary Government",
+            "        Resource Control in a Unitary System of Government",
+          ],
+        },
+        {
+          week: 2,
+          topics: "FEDERAL SYSTEM OF GOVERNMENT",
+          content: [
+            "Definition of Federalism",
+            "Reasons for Federating",
+            "Characteristics or Features of Federal System of Government",
+            "Resource Control in a Federal System Government",
+            "Merits and Demerits of Federalism",
+          ],
+        },
+        {
+          week: 3,
+          topics: "CONFEDERAL SYSTEM OF GOVERNMENT",
+          content: [
+            "Meaning of Confederation",
+            "Main Features of Confederation",
+            "Resource Control in a Confederation",
+            "Merits and Demerits of Confederation",
+            "Differences between Federalism and Confederalism",
+          ],
+        },
+        {
+          week: 4,
+          topics: "THE PRESIDENTIAL SYSTEM OF GOVERNMENT",
+          content: [
+            "Definition of Presidential System of Government",
+            "Characteristics of Presidential System of Government",
+            "Resource Control in a Presidential System of Government",
+            "Advantages and Disadvantages of the Presidential System of Government",
+            "Checks and Limitations on the Powers of the Executive President",
+            "The Principle of Individual Responsibility in the Presidential System of Government",
+          ],
+        },
+        {
+          week: 5,
+          topics: "THE PARLIAMENTARY SYSTEM OF GOVERNMENT",
+          content: [
+            "Meaning of Parliamentary System",
+            "Major Characteristics of Parliamentary System of Government",
+            "Merits or Advantages and Demerits or Disadvantages of Parliamentary System of Government",
+            "The Principle of Collective Responsibility in the Parliamentary System of Government",
+            "Differences between Presidential and Parliamentary Systems of Government",
+          ],
+        },
+        {
+          week: 6,
+          topics: "MONARCHY",
+          content: [
+            "Meaning of Monarchy",
+            "Forms of Monarchy",
+            "Resource Control in a Monarchy",
+            "The Main Features of Monarchy",
+            "Merits or Advantages and Demerits or Disadvantages of Monarchy",
+          ],
+        },
+        {
+          week: 7,
+          topics: "REPUBLICAN SYSTEM OF GOVERNMENT",
+          content: [
+            "Definition of Republicanism",
+            "Features of a Republican Government",
+            "Resource Control in a Republican Government",
+            "Differences between Republicanism and Monarchy",
+          ],
+        },
+        {
+          week: 8,
+          topics: "CONSTITUTION",
+          content: [
+            "Meaning of Constitution",
+            "Sources of Constitution",
+            "The Scope of a Constitution",
+            "Features of a Constitution",
+            "Types of Constitution",
+            "Constitutionalism",
+          ],
+        },
+        {
+          week: 9,
+          topics: "THE EXECUTIVE ORGAN OF GOVERNMENT",
+          content: [
+            "Definition of the Executive Organ of Government",
+            "omposition of the Executive",
+            "Types of Executive",
+            "Functions of the Executive",
+            "Control of the Executive",
+            "Honesty and Integrity in the Executive Organ of Government",
+          ],
+        },
+        {
+          week: 10,
+          topics: "THE LEGISLATIVE ORGAN OF GOVERNMENT",
+          content: [
+            "Meaning of Legislature",
+            "Functions of the Legislature",
+            "Types of Legislature",
+            "The Stages of Passing a Bill into Law",
+            "Honesty and Integrity in the Legislature",
+          ],
+        },
+        {
+          week: 11,
+          topics: "THE JUDICIAL ORGAN OF GOVERNMENT",
+          content: [
+            "Definition of the Judiciary",
+            "The Nigerian Court System",
+            "Characteristics of the Judiciary",
+            "Methods of Appointment or Selection of Judges, Status, Conditions and Privileges",
+            "Functions of the Judiciary",
+            "Independence of the Judiciary",
+            "Honesty And Integrity in the Judicial Organ of Government",
+          ],
+        },
+
+        {
+          week: 12,
+          topics: "Examination",
+          content: ["SS1 Financial Accounting Second Term Examination"],
+        },
+      ],
+      "Literature in English": [
+        {
+          week: 1,
+          topics:
+            "HARVEST OF CORRUPTION: BACKGROUND STUDY; AUTHOR’S BIOGRAPHY; PLOT AND SETTING",
+          content: [
+            "Biography of the Author",
+            "Background of the Book Harvest of Corruption",
+            "Plot of the text",
+            "Setting of the text",
+          ],
+        },
+        {
+          week: 2,
+          topics:
+            "HARVEST OF CORRUPTION: SUBJECT MATTER; THEMES; CHARACTERISATION AND CHARACTERS",
+          content: ["Subject Matter/Themes", "Characterization/Characters"],
+        },
+        {
+          week: 3,
+          topics:
+            "HARVEST OF CORRUPTION: LITERACY DEVICES; LANGUAGE AND STYLE OF THE AUTHOR",
+          content: ["Literary Devices", "Language and Style"],
+        },
+        {
+          week: 4,
+          topics:
+            "THE PROUD KING” BY WILLIAM MORRIS: INTRODUCTION TO THE POEM; AUTHOR’S BACKGROUND; PLOT AND SUBJECT MATTER",
+          content: [
+            "Background/Authorisation of The Proud King",
+            "The Setting of The Proud King",
+            "The Plot of The Proud King",
+          ],
+        },
+        {
+          week: 5,
+          topics:
+            "AMMA DARKO’S FACELESS: BIOGRAPHY OF AUTHOR; BACKGROUND STUDY; THEMES; SUBJECT MATTER; PLOT AND SETTING",
+          content: [
+            "The Author’s Biography and the Background Study of the Text",
+            "The Plot of the Text",
+            "Subject Matter",
+            "The Setting of the Text",
+            "Themes",
+          ],
+        },
+        {
+          week: 6,
+          topics:
+            "FACELESS: CHARACTERISATION; LITERACY DEVICES; LANGUAGE AND STYLE",
+          content: ["Characterisation", "Language and Style"],
+        },
+        {
+          week: 7,
+          topics:
+            "‘VANITY’ BY BIRAGO DIOP: AUTHOR’S BACKGROUND; PLOT; SUBJECT MATTER; THEMES; POETIC DEVICES, LANGUAGE AND STYLE",
+          content: [
+            "Background/Author of the Poet",
+            "Subject Matter of the Poem",
+            "Themes of the Poem",
+            "Literary/Poetic Devices and Style",
+          ],
+        },
+        {
+          week: 8,
+          topics:
+            "INTRODUCTION TO THE POEM “THE DINING TABLE” BY GBANABOM HALLOWELL",
+          content: [
+            "Author’s Background",
+            "Plot",
+            "Subject Matter",
+            "Themes",
+            "Poetic Devices",
+            "Language and Style",
+          ],
+        },
+
+        {
+          week: 11,
+          topics: "Examination",
+          content: ["SS1 Literature in English Second Term Examination"],
+        },
+      ],
+      Physics: [
+        {
+          week: 1,
+          topics: "ENERGY ",
+          content: [
+            "The Concept of Energy",
+            "Types of Energy",
+            "The Law of Conservation of Energy",
+            "Sources of Energy",
+            "Classification of the Sources of Energy",
+            "Uses of Energy",
+            "Energy and Social Environment",
+            "The Impact of Energy Usage on the Environment",
+            "Energy Crises",
+            "Oil Spillage",
+          ],
+        },
+        {
+          week: 2,
+          topics: "WORK AND POWER",
+          content: [
+            "Work Done in a Force Field",
+            "Power",
+            "   Interchangeability of Work and Energy",
+            "   Calculations on Work and Power",
+          ],
+        },
+        {
+          week: 3,
+          topics: "HEAT ENERGY: THERMAL EXPANSIVITY",
+          content: [
+            "The Concept of Heat and Temperature",
+            "    The Differences between Heat and Temperature",
+            "The Kinetic Theory of Matter",
+            " The Effects of Heat on Substances (Expansion, Vaporization)",
+            "Using Kinetic Theory to Explain the Temperature of a Body",
+            "   Linear Expansion, Coefficient of Linear Expansivity",
+            " Expansion in Liquids",
+            "Applications of Expansion",
+          ],
+        },
+        {
+          week: 4,
+          topics: "THE ELASTIC PROPERTIES OF SOLID",
+          content: [
+            "The Concept of Elasticity",
+            "   Definitions of Elasticity",
+            " Hooke’s Law",
+            " Definition of Elastic Constant",
+            "   Verification or Demonstration of Hooke’s Law",
+            "    Definition of (i) Elastic Limit (ii) Yield Point (iii) Breaking Point (iv) Tensile Stress (v) Tensile Strain (vi) Young’s Modulus",
+            "Worked Examples",
+            "Work Done in an Elastic Material",
+          ],
+        },
+        {
+          week: 5,
+          topics: "ELASTIC PROPERTIES OF SOLID",
+          content: [
+            "Young’s Modulus Law of Elasticity",
+            "Work Done in Springs and Elastic String",
+            "Elastic Potential Energy",
+          ],
+        },
+        {
+          week: 6,
+          topics: "HEAT ENERGY: TRANSFER OF HEAT",
+          content: [
+            "Conduction of Heat",
+
+            "  ( Meaning of Heat Conduction)",
+            "   Using Kinetic Molecular Theory to Explain Conduction in Solids",
+            "  Conduction of Heat in Liquids",
+            "   Experiment to Show that Water is a Poor Conductor of Heat",
+            "   Applications of Conductors and Insulators",
+            "  (Convection of Heat)",
+
+            "Meaning of Convection of Heat",
+            "Using Kinetic Molecular Theory to Explain Convection in Liquids",
+            "Applications of Convection",
+          ],
+        },
+        {
+          week: 7,
+          topics: "ELECTROSTATICS",
+          content: [
+            "Types of Charges",
+            "     The Law of Electrostatics",
+            "  Gold leaf Electroscope",
+            "Ways of Producing Charges",
+            " Charge Distribution in a Conductor",
+            "   Lightning Conductors",
+            "Electrophorus",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Examination",
+          content: ["SS1 Physics Second Term Examination"],
+        },
+      ],
+    },
+    ThirdTerm: {
+      "Agricultural Science": [
+        {
+          week: 1,
+          topics: "CLASSIFICATION OF CROPS BASED ON USES",
+          content: ["Meaning of Crop", "Classification of Crops based on Uses"],
+        },
+        {
+          week: 2,
+          topics: "CLASSIFICATION OF CROPS BASED ON LIFE CYCLE AND MORPHOLOGY",
+          content: [
+            "Classification of Crops based on Life Cycle",
+            "Classification of Crops based on Morphology",
+          ],
+        },
+        {
+          week: 3,
+          topics: "HUSBANDRY OF SELECTED CROPS",
+          content: [
+            "Cereals – Maize",
+            "Legumes – Cowpea",
+            "Roots & Tubers – Yam",
+          ],
+        },
+        {
+          week: 4,
+          topics: "HUSBANDRY OF SELECTED CROPS",
+          content: [
+            "Vegetables - Tomato",
+            "Beverages - Cocoa",
+            "Oil - Oil Palm",
+          ],
+        },
+        {
+          week: 5,
+          topics: "PASTURE AND FORAGE CROPS",
+          content: [
+            "Meaning of Pasture and Forage Crops",
+            "    Uses of Forage/Pasture Crops",
+            " Types of Pasture",
+            "Common Grasses and Legumes",
+            "Description of Grasses and Legumes",
+            " Factors Affecting the Distribution and Productivity of Pasture",
+            " Establishment and Management of Pasture",
+            " Determination of Plant Population",
+          ],
+        },
+        {
+          week: 8,
+          topics: "Examination",
+          content: ["SS1 Agricultural Science Third Term Examination"],
+        },
+      ],
+      "Animal Husbandry": [
+        {
+          week: 1,
+          topics: "LIVESTOCK MANAGEMENT",
+          content: [
+            "Meaning of Livestock Management",
+            "  Requirements for Livestock Management",
+            " Meaning of Livestock Management Syste",
+            " Factors that Determine the Choice of a Management Practice",
+            "Types of Management Practices",
+          ],
+        },
+        {
+          week: 2,
+          topics: "CARE OF PREGNANT FARM ANIMALS",
+          content: [
+            "(Introduction)",
+            "   Care of a Pregnant Rabbit",
+            " Care of a Pregnant Cane Rat (Grasscutter)",
+            "  Care of a Pregnant Heifer",
+            " Care of a Pregnant Mare",
+          ],
+        },
+        {
+          week: 3,
+          topics: "FARM ANIMAL IDENTIFICATION METHODS",
+          content: [
+            "(Introduction)",
+            "Meaning of Animal Identification",
+            "Farm Animal Identification Methods",
+          ],
+        },
+        {
+          week: 4,
+          topics: "LIVESTOCK MANAGEMENT PRACTICES (POULTRY)",
+          content: [
+            "Definition of Poultry",
+            "Importance of Poultry",
+            "Breeds of Domestic Fowl",
+            "Systems of Poultry Production",
+            "  Requirements for Poultry Production (i) Diseases control (ii) Housing (iii) Feeding (iv) Hygiene",
+            "Other Poultry Management Practices",
+          ],
+        },
+        {
+          week: 5,
+          topics: "LIVESTOCK MANAGEMENT PRACTICES (CATTLE)",
+          content: [
+            "Introduction to Cattle Management",
+            "Breeds of Cattle",
+            "Systems of Cattle Management",
+            "Economic Importance of Cattle",
+            "Management Practices in Cattle Production",
+          ],
+        },
+        {
+          week: 6,
+          topics: "MANAGEMENT OF LIVESTOCK (PIG)",
+          content: [
+            "Introduction to Pig Management",
+            " Breeds of Pigs",
+            "Systems of Rearing Pigs",
+            "Management Practices in Pig Rearing",
+          ],
+        },
+        {
+          week: 7,
+          topics: "RABBITS MANAGEMENT",
+          content: [
+            "Introduction to Rabbits Management",
+            "  Breeds of Rabbits",
+            "Rabbits Management Practices",
+          ],
+        },
+        {
+          week: 8,
+          topics: "MANAGEMENT OF LIVESTOCK – GOATS MANAGEMENT",
+          content: [
+            "Introduction to Goats Management",
+            "   Importance of Keeping Goats",
+            "Factors Responsible for Success in Goats Production",
+            " Breeds of Goats",
+            "Goats Management Practices",
+            "Systems Used for Goats Keeping",
+          ],
+        },
+        {
+          week: 9,
+          topics: "MANAGEMENT OF LIVESTOCK- SHEEP MANAGEMENT",
+          content: [
+            "Introduction to Sheep Management",
+            "  Breeds of Sheep",
+            " Sheep Management Practices",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Animal Husbandry Third Term Examination"],
+        },
+      ],
+      Biology: [
+        {
+          week: 1,
+          topics: "AQUATIC HABITAT: MARINE",
+          content: [
+            "Meaning of Aquatic Habitat",
+            "  Types of Aquatic Habitat",
+            " Major Zones of a Marine Habitat",
+            "Distribution of the Organisms in the Habitat and their Adaptive Features",
+          ],
+        },
+        {
+          week: 2,
+          topics: "AQUATIC HABITAT: ESTUARINE",
+          content: [
+            "Meaning of Estuarine Habitat",
+            "        Characteristics of Estuarine Habitat",
+            " Types of Estuary",
+            "Distribution of the Plants and Animals in Estuarine Habitat",
+            "Adaptive Features of the Plants and Animals in the Estuarine Habitat",
+            "Food Chain in Estuarine Habitat",
+          ],
+        },
+        {
+          week: 3,
+          topics: "FRESH WATER HABITAT",
+          content: [
+            "Characteristics of Freshwater Habitat",
+            "  Types of Freshwater",
+            "    Zones in Fresh Water Habitat",
+            " Fresh Water Organisms",
+            "Adaptation of Organisms to Fresh Water",
+          ],
+        },
+        {
+          week: 4,
+          topics: "TERRESTRIAL HABITAT: MARSH",
+          content: [
+            "Meaning of Marshland",
+            "  Water and Vegetation Patterns of Marshes",
+            "Importance of Freshwater Marshes",
+            "Characteristics of Marshland",
+            "Types of Marshes",
+            "Plants and Animals in the Marshes",
+          ],
+        },
+        {
+          week: 5,
+          topics: "TERRESTRIAL HABITAT: FOREST, GRASSLANDS AND ARID LANDS",
+          content: [
+            "(Forest)",
+            "Characteristics of Forest",
+            " Strata in a Rain Forest",
+            " Distribution of Organisms in a Forest",
+            "   Adaption of Plants and Animals in a Forest",
+            "(Grassland)",
+
+            "Characteristics of Grassland",
+            "Distribution of Plants and Animals in Grassland",
+            "Some Adaptation of Grassland Communities",
+
+            "( Arid Land)",
+
+            "Characteristics of Arid Lands",
+            "Types of Arid Lands",
+            "Distribution of the Organisms to Arid Lands",
+            "Some Adaptation of Organisms to Arid Lands",
+          ],
+        },
+        {
+          week: 6,
+          topics: "REPRODUCTION IN UNICELLULAR ORGANISMS",
+          content: [
+            "1. Reproduction in Amoeba by Asexual Reproduction by ,Binary Fission ,Multiple Fission",
+            " 2. Reproduction in Paramecium by Asexual Reproduction,Sexual Reproduction,3. Reproduction in Spirogyra by,Asexual or Vegetative Reproduction or Conjugation",
+            " 4. Reproduction in the Earthworm by Sexual Reproduction",
+          ],
+        },
+        {
+          week: 7,
+          topics: "REPRODUCTION IN INVERTEBRATES",
+          content: [
+            "Meaning of Reproduction",
+            "  Reproduction in Cockroach",
+            " Reproduction in Housefly",
+            " Reproduction in Snail",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Biology Third Term Examination"],
+        },
+      ],
+      Chemistry: [
+        {
+          week: 1,
+          topics: "ACIDS",
+          content: [
+            "Definition of Acid",
+            "   Strength of an Acid",
+            "Basicity of an Acid",
+            "Characteristics of Acid (Physical Properties)",
+            " Preparation of Acids",
+            " Reaction of Acids (Chemical Properties)",
+            "Uses of Acids",
+          ],
+        },
+        {
+          week: 2,
+          topics: "BASES",
+          content: [
+            "Definition of Bases",
+            "   Strength of an Alkali",
+            "Characteristics of Bases",
+            "Preparation of Bases",
+            "Reaction of Bases",
+            "Uses of Bases",
+            "Relative Acidity and Alkalinity (The PH Scale)",
+            "Logarithmic pH Scale",
+            "Worked Examples",
+          ],
+        },
+        {
+          week: 3,
+          topics: "SALTS",
+          content: [
+            "Definition of Salts",
+            "Characteristics of Salts",
+            "Preparation of Salts",
+            "Types of Salts",
+            "Uses of Salts",
+            "Hydrolysis of Salts",
+          ],
+        },
+        {
+          week: 4,
+          topics: "WATER ",
+          content: [
+            "Definition of Water",
+            "Sources of Water",
+            "Treated Water",
+            "Distilled Water",
+            "Types of Water (Soft and Hard)",
+            "Water Pollutants",
+            "Properties of Water",
+            "Uses of Water",
+            "Laboratory Preparation of Water",
+          ],
+        },
+        {
+          week: 5,
+          topics: "ALLOTROPES OF CARBON",
+          content: [
+            "Carbon Allotropes and their Structures",
+            "The Atomic Structure of Carbon",
+            "Allotropes of Carbon",
+            " Diamond",
+            "Graphite",
+            "Differences between Diamond and Graphite",
+            "Chemical Properties of Carbon",
+          ],
+        },
+        {
+          week: 6,
+          topics: "COAL",
+          content: [
+            "Definition of Coal",
+            " Types of Coal",
+            "Destructive Distillation of Coal",
+            "Uses of Products of Destructive Distillation of Coal",
+          ],
+        },
+        {
+          week: 7,
+          topics: "CO, CO2 AND TRIOXOCARBONATES",
+          content: [
+            "(Carbon (IV) Oxide)",
+            "Formation/Preparation of Carbon (IV) Oxide (CO2)",
+            "Laboratory Preparation of CO2 Gas",
+            "Physical and Chemical Properties of CO2(g)",
+            "Uses of CO2",
+            "Advantages of Dry Ice Over Popular Ice",
+            "(Carbon (II) Oxide)",
+            "  Laboratory Preparation of CO [in the fume cupboard",
+            "Physical Properties of CO",
+            "  Chemical Properties and Uses of CO",
+            "Synthetic Gas",
+            "Separation of the Constituents of Producer Gas and Water",
+            "Trioxocarbonates",
+            " (Preparation of Metallic Trioxocarbonates)",
+            " Properties of Salts",
+            "Trioxocarbonate (IV) Acid",
+            "Uses of Trioxocarbonate (IV) Salts",
+            "Chemical Tests for CO32- Salts",
+          ],
+        },
+        {
+          week: 8,
+          topics: "TRIOXOCARBONATES (IV)",
+          content: [
+            "Trioxocarbonates (IV)",
+            "  Preparation of Soluble Trioxocarbonate (IV)",
+            " Laboratory Preparation of Sodium Trioxocarbonate (IV)",
+            "Industrial Preparation of Sodium Trioxocarbonate (IV)",
+            "Advantages of the Solvay Process",
+            " Properties of Sodium Trioxocarbonate (IV)",
+            "Uses of Sodium Trioxocarbonate (IV)",
+            " Test for Trioxocarbonate (IV)",
+            "Preparation of Insoluble Trioxocarbonate (IV)",
+            "Hydrogen Trioxocarbonate (IV)",
+            "Uses of Hydrogen Trioxocarbonate (IV)",
+          ],
+        },
+        {
+          week: 10,
+          topics: "HYDROCARBONS AND CRUDE OIL",
+          content: [
+            "Hydrocarbon and its Main Classes",
+            "Crude Oil and Natural Gas",
+            " Refining of Crude Oil",
+            "Fractional Distillation of Oil",
+            "Cracking and Reforming of Petroleum Fractions",
+            " Octane Number or Rating",
+            "The Importance of Crude Oil and Petrochemicals",
+          ],
+        },
+        {
+          week: 1,
+          topics: "VOLUMETRIC ANALYSIS",
+          content: [
+            "Introduction to Volumetric Analysis",
+            "Apparatus Used in Volumetric Analysis",
+            "Basic Definitions in Volumetric Analysis",
+            " Different Indicators and their Colours in Different Media",
+            "Universal Indicator",
+            "Effect of the Wrong Use of Indicator",
+            "The Importance of Volumetric Analysis",
+            " General Procedure and Precautions During Acid-Base Titration",
+            " Steps in Recording Observations Made During Acid-Base Titration Experiment",
+            " Determination of Relative Molar Mass",
+            "Determination of Mole Ratio",
+          ],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Chemistry  Third Term Examination"],
+        },
+      ],
+      "Christian Religious Studies (CRS)": [
+        {
+          week: 1,
+          topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
+          content: [
+            "Introduction",
+            "Peter’s Message on Christian Living (1 Pet. 1:13-17; 2:9-25; 4:1-19)",
+            " The Roles of Christians in the Community",
+            "Paul’s Statements on Children of Light (Rom. 13:11-14)",
+          ],
+        },
+        {
+          week: 2,
+          topics: "LIVING A LIFE OF WITNESSING TO CHRIST",
+          content: [
+            "Social Vices and Witnessing to Christ",
+            " Tolerance and Peaceful Co-existence",
+            "Civic Responsibilities (1 Pet. 2:13-17)",
+          ],
+        },
+        {
+          week: 3,
+          topics: "CHRISTIAN ATTITUDE TOWARDS PERSECUTION",
+          content: [
+            "Meaning of Persecution",
+            "  Forms of Persecution",
+            "Peter’s Message to Christian under Persecution (1 Pet. 1:5-9; 4:12-19)",
+            "Jesus’ Message on Love of Enemies (Matthew 5:43-48)",
+            "The Persecution of Christ",
+            "Suffering and the Christian Faith",
+            "Christian Attitude to Persecution (1 Peter 4:12-19)",
+          ],
+        },
+        {
+          week: 4,
+          topics: "IMPARTIALITY",
+          content: [
+            "Meaning of Impartiality",
+            "All Human Beings are Equal before God",
+            "  Warning against Prejudice/James’ Teaching on Partiality (James 2: 1-13)",
+            " The “Golden Rule” (Matt. 7:12; Luke 6:31)",
+            "Negative Effects of Nepotism, Fabouritism and Tribalism in the Society",
+          ],
+        },
+        {
+          week: 5,
+          topics: "THE RESURRECTION AND SECOND COMING",
+          content: [
+            "Meaning of Resurrection",
+            "     The Account of the Resurrection in Matthew (Matthew 28:1-8)",
+            " Mark’s Account of the Resurrection (Mark 16:1-8)",
+            "Luke’s Account of the Resurrection (Luke 24:1-11)",
+            "Significance of the Resurrection to the Christian Faith",
+          ],
+        },
+        {
+          week: 6,
+          topics: "RESURRECTION",
+          content: [
+            "The Role of Women in the Resurrection Story of Jesus",
+            "Comparison of the Three Accounts of Resurrection in the Synoptic Gospels",
+          ],
+        },
+        {
+          week: 7,
+          topics: "THE SECOND COMING OF CHRIST",
+          content: [
+            "Jesus Talks of the Last Judgment When He Comes (Matthew 25:31-36)",
+            "  Paul’s Teaching on Jesus’ Second Coming (I Thess. 4:13-18, 5:1-11)",
+            " How We Ought to Prepare for the Second Coming of the Lord (Matthew 25: 31-46)",
+          ],
+        },
+
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Chemistry  Third Term Examination"],
+        },
+      ],
+
+      "Civic Education": [
+        {
+          week: 1,
+          topics: "CULTISM",
+          content: ["The Meaning of Cult and Cultism",
+         " Activities of Cults",
+          "The Origin of Cultism",
+         " Cults and their Signs and Symbols",
+          "Reasons for Establishing Cults"],
+        },
+        {
+          week: 2,
+          topics: "CULTISM",
+          content: ["Reasons for Joining Cults",
+          "Female Cult Groups",
+          "The Consequences of Cultism"],
+        },
+        {
+          week: 3,
+          topics: "PREVENTIVE MEASURES AGAINST CULTISM",
+          content: ["Preventive Measures against Cultism"],
+        },
+        {
+          week: 4,
+          topics: "LAW AND ORDERLINESS",
+          content: ["LAW AND ORDERLINESS",
+         "( Law)",
+          
+         " The Meaning of Law",
+          "Types of Law",
+         " Enforcers of Law",
+          "Purposes of Law",
+          
+          "(Orderliness)",
+
+"The Meaning of Orderliness",
+"Forms of Orderliness",
+"Where Order Can be Observed",
+"The Role of Orderliness in the Society"],
+        },
+        {
+          week: 5,
+          topics: "CONSTITUTED AUTHORITY",
+          content: ["The Meaning of Authority",
+        "  The Meaning of Constituted Authority",
+          "Forms of Constituted Authority",
+          "Types of Constituted Authority",
+          "Importance of Constituted Authority"],
+        },
         
-        
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Chemistry  Third Term Examination"],
+        },
+      ],
+      "Commerce":[
+        {
+          week: 1,
+          topics: "SOLE PROPRIETORSHIP",
+          content: ["Features of Sole Proprietorship",
+         " Features of Sole Proprietorship",
+        "  Sources of Capital for Sole Proprietorship",
+          "Advantages and Disadvantages of Sole Proprietorship"],
+        },
+        {
+          week: 2,
+          topics: "PARTNERSHIP",
+          content: ["Meaning of Partnership",
+          "Features or Characteristics of Partnership",
+          "Types of Partnership",
+          "Types of Partners",
+          "Formation and Agreement of Partnership Business",
+         " Rights of Partners",
+          "Sources of Capital for a Partnership",
+          "Advantages and Disadvantages of Partnership",
+          "Dissolution of Partnership"],
+        },
+        {
+          week: 3,
+          topics: "MONEY",
+          content: ["The Meaning of Money",
+          "Evolution of Money",
+          "Functions of Money",
+          "Qualities/Characteristics of Money",
+          "Forms/Types of Money"],
+        },
+        {
+          week: 4,
+          topics: "CAREER OPPORTUNITIES",
+          content: ["Meaning of Career",
+         " Types of Occupations",
+          "Meaning of Career Opportunities",
+          "Career Opportunities in Commerce",
+          "Requirements for Different Careers"],
+        },
+        {
+          week: 5,
+          topics: "COOPERATIVE SOCIETY",
+          content: ["Definition of Cooperative Society",
+          "Formation of a Cooperative Society",
+          "Characteristics of Cooperative Societies",
+          "History of Cooperative Movements"],
+        },
+        {
+          week: 6,
+          topics: "COOPERATIVE SOCIETY II",
+          content: ["Types of Cooperative Societies",
+          "Advantages and Disadvantages of Cooperative Societies",
+          "Problems of Cooperative Societies"],
+        },
+        {
+          week: 7,
+          topics: "PUBLIC ENTERPRISES",
+          content: ["Meaning of Public Enterprise",
+          "Characteristics/Features of Public Enterprise",
+          "Formation and Management of Public Enterprises",
+          "Source of Capital for Public Enterprises",
+         " Reasons for Government Ownership of Public Enterprises",
+          "Advantages and Disadvantages of Public Enterprises"],
+        },
 
-      {
-        week: 8,
-        topics: "TRIOXOCARBONATES (IV)",
-        content: ["Trioxocarbonates (IV)",
-      "  Preparation of Soluble Trioxocarbonate (IV)",
-       " Laboratory Preparation of Sodium Trioxocarbonate (IV)",
-        "Industrial Preparation of Sodium Trioxocarbonate (IV)",
-        "Advantages of the Solvay Process",
-       " Properties of Sodium Trioxocarbonate (IV)",
-        "Uses of Sodium Trioxocarbonate (IV)",
-       " Test for Trioxocarbonate (IV)",
-        "Preparation of Insoluble Trioxocarbonate (IV)",
-        "Hydrogen Trioxocarbonate (IV)",
-        "Uses of Hydrogen Trioxocarbonate (IV)"],
-      },
-      {
-        week: 10,
-        topics: "HYDROCARBONS AND CRUDE OIL",
-        content: ["Hydrocarbon and its Main Classes",
-        "Crude Oil and Natural Gas",
-       " Refining of Crude Oil",
-        "Fractional Distillation of Oil",
-        "Cracking and Reforming of Petroleum Fractions",
-       " Octane Number or Rating",
-       "The Importance of Crude Oil and Petrochemicals"],
-      },
-      {
-        week: 1,
-        topics: "VOLUMETRIC ANALYSIS",
-        content: ["Introduction to Volumetric Analysis",
-        "Apparatus Used in Volumetric Analysis",
-        "Basic Definitions in Volumetric Analysis",
-       " Different Indicators and their Colours in Different Media",
-        "Universal Indicator",
-        "Effect of the Wrong Use of Indicator",
-        "The Importance of Volumetric Analysis",
-       " General Procedure and Precautions During Acid-Base Titration",
-       " Steps in Recording Observations Made During Acid-Base Titration Experiment",
-       " Determination of Relative Molar Mass",
-       "Determination of Mole Ratio"],
-      },
-      {
-        week: 10,
-        topics: "Examination",
-        content: ["SS1 Chemistry  Third Term Examination"],
-      },
-    ]
-  }
-}
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Chemistry  Third Term Examination"],
+        },
+      ],
+      "Computer Science/ICT":[
+        {
+          week: 1,
+          topics: "INFORMATION AND COMMUNICATIONS TECHNOLOGY (ICT)",
+          content: ["Definition and Meaning of ICT","Types of ICT"],
+        },
+        {
+          week: 2,
+          topics: "TELECOMMUNICATIONS",
+          content: ["Telecommunications",
+          "Types of Telecommunication Systems"],
+        },
+        {
+          week: 3,
+          topics: "DATA NETWORKS AND INFORMATION SYSTEMS",
+          content: ["Meaning of Data Networks",
+          "Types of Data Networks",
+          "Information Systems"],
+        },
+        {
+          week: 4,
+          topics: "APPLICATION AREAS OF ICT",
+          content: ["Application Areas of ICT",
+          "ICT-based Gadgets",
+          "Operations of ICT-based Gadgets"],
+        },
+        {
+          week: 5,
+          topics: "BASIC COMPUTER OPERATIONS",
+          content: ["Description of the Booting Process",
+          "Types of Booting",
+          "Components of the Windows Desktop",
+         " Running an Application or Program",
+          "Shutting Down the Computer"],
+        },
+        {
+          week: 6,
+          topics: "WORD PROCESSING",
+          content: ["Definition of Word Processing and Word Processor",
+          "Examples of Word Processors",
+          "Features of Word Processors",
+          "The Word Processing Environment",
+          "Using MS Word 2007"],
+        },
+        {
+          week: 7,
+          topics: "PRESENTATION PACKAGE",
+          content: ["Definition of Presentation Package",
+          "Example of Presentation Packages",
+          "Features of a Presentation Package"],
+        },
+        {
+          week: 8,
+          topics: "PRESENTATION PACKAGE: MS POWERPOINT",
+          content: ["Using a Presentation Package – MS PowerPoint"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Chemistry  Third Term Examination"],
+        },
+      ],
+      "Economics" :[
+        {
+          week: 1,
+          topics: "THE NATURE OF THE NIGERIAN ECONOMY",
+          content: ["Meaning of Economy",
+          "General Overview of the Nigeria Economy"],
+        },
+        {
+          week: 2,
+          topics: "AGRICULTURE",
+          content: ["Definition of Agriculture",
+          "Components of Agriculture",
+          "Systems of Agriculture",
+          "Importance of Agriculture to the Nigerian economy",
+          "Activities of the Marketing Boards in Nigeria"],
+        },
+        {
+          week: 3,
+          topics: "Components of the Nigerian Mining Industry",
+          content: ["Meaning of Mining",
+         " Classification of Mineral Resources",
+          "Importance of Mineral Resources in Nigeria",
+          "Location and Uses of Some Mineral Resources Found in Nigeria"],
+        },
+        {
+          week: 4,
+          topics: "FINANCIAL INSTITUTIONS",
+          content: ["Meaning of Financial Institution",
+      "    Types of Financial Institutions",
+        "  Definition and Types of Banks",
+          "Meaning and Segments of Financial Systems"],
+        },
+        {
+          week: 5,
+          topics: "MONEY",
+          content: ["Definition and Meaning of Money",
+          "Trade by Barter",
+          "Historical Development of Money",
+          "Functions of Money",
+          "Types of Money",
+          "Characteristics of Money"],
+        },
+        {
+          week: 6,
+          topics: "CHANNELS OF DISTRIBUTION",
+          content: ["Definition of Distribution",
+          "The Process of Distribution",
+          "Channels of Distribution"],
+        },
+        {
+          week: 7,
+          topics: "CHANNELS OF DISTRIBUTION",
+          content: ["Definition of Distribution",
+          "The Process of Distribution",
+          "Channels of Distribution"],
+        },
+        {
+          week: 8,
+          topics: "DISTRIBUTIVE TRADE",
+          content: ["Roles of Cooperative Societies in Product Distribution",
+          "Roles of Government Agencies in Product Distribution",
+          "Problems of Distribution of Commodities in West Africa",
+        "  Reasons or Circumstances that May Warrant the Elimination or By-passing or Omission of the Middlemen in the Channel of Distribution",
+          "Types of Warehouses",
+          "Problems of Distribution and Marketing of Commodities in West Africa"],
+        },
+        {
+          week: 9,
+          topics: "BASIC INSTRUMENTS FOR BUSINESS FINANCE",
+          content: ["Definition of Business Finance",
+          "Shares",
+          "Debenture",
+          "Bonds",
+          "Sources of Fund for Business",
+          "Problems of Business Finance In Nigeria",
+          "Definition of Business Finance",
+          "Suggested Solutions to Problems of Business Finance In Nigeria Summary"],
+        },
+        {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 Chemistry  Third Term Examination"],
+        },
+      ],
+      "English Language":[
+        {
+          week: 1,
+          topics: "Nasal Sounds:/m/, /n/, /ŋ/",
+          content: ["Speech Work: Nasal Sounds:/m/, /n/, /ŋ/",
+          "Comprehension: HIV/AIDS NOSEC. Pages 97-98",
+          "Vocabulary Development: Words Associated with Building and Building Construction",
+         " Structure: Punctuation – Capitalization and Full Stop",
+         "Writing Skills: Various Methods of Introducing Writings"],
+        },
+        {
+          week: 2,
+          topics: "Introduction to Diphthongs",
+          content: ["Speech Work: Introduction to Diphthongs",
+         " Comprehension: The Threat to Roll Back Malaria Project. NOSEC. Pages 104-105",
+         " Vocabulary Development: Words Associated with Profession – Law",
+         " Structure: Clauses (Introduction)",
+          "Writing Skills: Narrative – ‘A story that ends with the saying: “It pays to be hardworking”‘."],
+        },
+        {
+          week: 3,
+          topics: "Vowel Sounds /əu/ and /au/",
+          content: ["Speech Work: Vowels /əu/ and /au/",
+        "  Comprehension/Reading: Exercises NOSEC. Pg. 163",
+         " Vocabulary Development (Words Associated with Profession – Medicine)",
+       "   Structure: Noun Clauses",
+         " Writing Skills:  Letter Writing – Formal Lette"],
+        },
+        {
+          week: 4,
+          topics: " Vowels /ai/ and /ͻi/",
+          content: ["Speech Work: Vowel Sounds /ai/ and /ͻi/",
+          "Comprehension: Hidden Secret",
+         " Vocabulary Development (Words Associated with Air Transportation)",
+         " Structure: Relative Clauses",
+          "Writing Skills: Letter Writing – More on Formal Letters (Conventions)"],
+        },
+        {
+          week: 5,
+          topics: "Vowels /ei/ and /ʊə/",
+          content: ["SPEECH WORK: Vowels /ei/ and /ʊə/",
+          "COMPREHENSION: The Lost Princess",
+          "VOCABULARY DEVELOPMENT (Words Associated with Government and Politics)",
+          "STRUCTURE: Adverbial Clauses",
+          "WRITING SKILLS: Story Writing – A story which illustrates the saying – “It is a man’s world"],
+        },
+        {
+          week: 6,
+          topics: "Speech Work: Vowels /eǝ/ and /iǝ/",
+       
+          content: [ "Comprehension/Summary: The Case for Building Wooden Houses in Nigeria",
+          "Vocabulary Development: Words Associated with Profession – Advertising",
+          "Structure: Introduction to Auxiliary Verbs",
+          "Writing Skills: Argumentative Essay – Child Abuse, Who is to be Blamed –Government or Parents? (Oral)"],
+        },
+        {
+          week: 7,
+          topics: "Speech Work: Introduction to Intonation Pattern",
+          content: ["Speech Work: Introduction to Intonation Pattern",
+          "Comprehension: Road Traffic Accidents",
+          "Vocabulary Development: Words Associated with Profession – Advertising",
+          "Structure: Auxiliary Verbs – Modals",
+        "  Writing Skills: Argumentative Essay – “Child Abuse, Who is to be Blamed – Government or Parents? (Written)"],
+        },
+        {
+          week: 8,
+          topics: "Speech Work: Rising and Falling Tones",
+          content: ["Speech Work: Rising and Falling Tones",
+          "Comprehension: A Bad End for a Bad Friend – NOSEC. Pages 136-137",
+          "Vocabulary Development: Words Associated with Media: Radio and Television",
+          "Structure: Auxiliary Verbs – Non-modals",
+         "Writing Skills: Expository Essay: “Honesty is the Best Legacy"],
+        },
+        {
+          week: 9,
+          topics: "Speech Work: Intonation (simple polite requests, simple greetings, etc.)",
+          content: ["Speech Work: Intonation (simple polite requests, simple greetings, etc.)",
+          "Comprehension/Summary: Exercises NOSEC. Pages 186-187",
+          "Vocabulary Development: Words Associated with Journalism",
+         " Structure: Exercises (Antonyms and Synonyms)",
+          "Writing Skills: Letter Writing – Informal Letters: ‘A letter to a sister who plans to divorce her husband advising her against the decision’."],
+        },   {
+          week: 10,
+          topics: "Examination",
+          content: ["SS1 English Language  Third Term Examination"],
+        },
+      ]
+    },
+  },
 };
