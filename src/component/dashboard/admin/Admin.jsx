@@ -1,9 +1,8 @@
 import React, { useState } from "react";
-import styles from "./scss/admin.module.scss";
+import styles from "./admin.module.scss";
 import AllStudent from "./AllStudent";
-import Assignment from "./Assignment";
 import Logout from "../../../assets/svg/logout.svg";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom"; // Import Link from react-router-dom
 import ReactLoading from "react-loading";
 
 const Admin = () => {
@@ -11,6 +10,7 @@ const Admin = () => {
   const [selectedUser, setSelectedUser] = useState(null);
   const [activeTab, setActiveTab] = useState("allStudents");
   const [loading, setLoading] = useState(false);
+  const navigate = useNavigate();
 
   const handleModalOpen = (user) => {
     setSelectedUser(user);
@@ -21,20 +21,16 @@ const Admin = () => {
     setShowModal(false);
   };
 
-  const navigate = useNavigate();
-
   const handleLogout = () => {
-    // Set loading state to true when logout is clicked
     setLoading(true);
-    // Simulate logout process (you should replace this with your actual logout logic)
+
     setTimeout(() => {
-      // After some time (simulating async operation), set loading state back to false
       setLoading(false);
-      // Perform actual logout actions here, such as clearing session data or redirecting to login page
-      // Navigate to the logout path
+
       navigate("/admin-login");
     }, 1000);
   };
+
   const handleTabChange = (tab) => {
     setActiveTab(tab);
   };
@@ -47,19 +43,50 @@ const Admin = () => {
             className={activeTab === "allStudents" ? styles.activeButton : ""}
             onClick={() => handleTabChange("allStudents")}
           >
-            admission
+            Admission
           </button>
-          <button
-            className={activeTab === "assignment" ? styles.activeButton : ""}
-            onClick={() => handleTabChange("assignment")}
+
+          <Link
+            to="/add-subject"
+            className={activeTab === "add-subject" ? styles.activeButton : ""}
           >
-            Assignment
-          </button>
-            <Link className={styles.upload} to="/upload-lectures">
-          <button>
-              Upload
-          </button>
-            </Link>
+            <button>Add Subject</button>
+          </Link>
+
+          <Link
+            to="/upload-lesson"
+            className={activeTab === "upload-lesson" ? styles.activeButton : ""}
+          >
+            <button>Upload Lesson</button>
+          </Link>
+
+          <Link
+            to="/class-subjects"
+            className={
+              activeTab === "class-subjects" ? styles.activeButton : ""
+            }
+            style={{ marginLeft: "1em" }}
+          >
+            <button> view subjects</button>
+          </Link>
+
+          <Link
+            to="/add-lesson"
+            className={
+              activeTab === "class-subjects" ? styles.activeButton : ""
+            }
+            style={{ marginLeft: "1em" }}
+          >
+            <button>Add Lesson</button>
+          </Link>
+
+          <Link
+            to="/all-lesson"
+            className={activeTab === "all-lesson" ? styles.activeButton : ""}
+            style={{ marginLeft: "1em" }}
+          >
+            <button>All Lesson</button>
+          </Link>
 
           <button className={styles.log} onClick={handleLogout}>
             {loading ? (
@@ -92,8 +119,6 @@ const Admin = () => {
               closeModal={closeModal}
               selectedUser={selectedUser}
             />
-          ) : activeTab === "assignment" ? (
-            <Assignment />
           ) : null}
         </div>
       </div>

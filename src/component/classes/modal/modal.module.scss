@@ -1,51 +1,51 @@
 /*MODAL CSS*/
 .styledmodal {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  border: 1px solid #fff;
-  transform: translate(-50%, -50%);
-  width: 50%;
-  background-color: #fff;
-  border-radius: 1rem;
-  box-shadow: 0 2.4rem 3.2rem rgba(0, 0, 0, 0.4);
-  padding: 3rem 2rem;
-  display: flex;
-  justify-content: center;
-  transition: all 0.5s;
-  z-index: 1001;
-  max-height: 90vh;
-}
-
-.overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  backdrop-filter: blur(8px);
-  z-index: 1000;
-  transition: all 0.5s;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.bt {
-  background: none;
-  border: none;
-  padding: 0.4rem;
-  border-radius: var(--border-radius-sm);
-  transition: all 0.2s;
-  position: absolute;
-  top: 1.2rem;
-  right: 1.9rem;
-  color: #888888;
-}
-
-@media screen and (max-width: 960px) {
-  .styledmodal {
-    width: 99%;
-    padding: 2rem 2rem;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border: 1px solid #fff;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    background-color: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 2.4rem 3.2rem rgba(0, 0, 0, 0.4);
+    padding: 3rem 2rem;
+    display: flex;
+    justify-content: center;
+    transition: all 0.5s;
+    z-index: 1001;
+    max-height: 90vh;
   }
-}
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    backdrop-filter: blur(8px);
+    z-index: 1000;
+    transition: all 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .bt {
+    background: none;
+    border: none;
+    padding: 0.4rem;
+    border-radius: var(--border-radius-sm);
+    transition: all 0.2s;
+    position: absolute;
+    top: 1.2rem;
+    right: 1.9rem;
+    color: #888888;
+  }
+  
+  @media screen and (max-width: 960px) {
+    .styledmodal {
+      width: 99%;
+      padding: 2rem 2rem;
+    }
+  }

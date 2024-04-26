@@ -1,0 +1,87 @@
+.parent {
+    background: #f1f5f9;
+    height: 100vh;
+    max-width: 100%;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .parentchild {
+    width: 100%;
+    max-width: 800px; /* Adjust maximum width according to your design */
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-evenly; /* Evenly space the buttons */
+    align-items: center;
+    margin-bottom: 1em;
+    width: 100%; /* Ensure buttons take full width */
+  }
+  
+  .buttons button {
+    padding: 0.5em 1em; /* Reduce button padding */
+    background: #064e3b;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border: none;
+    font-weight: 700;
+    row-gap: 3px;
+    font-size: 0.9em;
+    line-height: 24px;
+    margin-right: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  .buttons button:last-child {
+    margin-right: 0; /* Remove margin-right for the last button */
+  }
+  
+  .buttons button.activeButton {
+    background: #627d6e;
+  }
+  
+  .upload{
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .log {
+    margin-left: auto;
+  }
+  
+  .iconpagename {
+    display: flex;
+    align-items: center;
+  }
+  
+  .pageName {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.9em;
+    line-height: 24px;
+    margin-left: 0.5em;
+  }
+  
+  .icon {
+    font-size: 2em;
+  }
+  
+  .content {
+    width: 100%; /* Ensure content takes full width */
+    max-width: 800px; /* Adjust maximum width according to your design */
+    overflow-x: auto; /* Enable horizontal scrolling for table overflow */
+  }
+  
+  @media (max-width: 950px) {
+    .parent {
+      padding: 0.5em;
+    }
+  }

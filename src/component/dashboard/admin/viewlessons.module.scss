@@ -1,0 +1,24 @@
+.viewLessonsContainer {
+    padding: 20px;
+  }
+  
+  .lessonTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .lessonTable th,
+  .lessonTable td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .lessonTable th {
+    background-color: #f2f2f2;
+  }
+  
+  .noData {
+    font-style: italic;
+    color: #888;
+  }
+  

@@ -29,10 +29,27 @@ const API_URL_STUDENT_LOGIN = process.env.REACT_APP_API_URL + "/student/login";
 const API_URL_STUDENT_FORGET_PASSWORD =
   process.env.REACT_APP_API_URL + "/forget-password";
 
+//API TO ADD CREATE SUBJECT FOR STUDENT
+const API_URL_ADMIN_CREATE_SUBJECT =
+  process.env.REACT_APP_API_URL + "/subject/create-subject";
+
+  
+
 /*AUTH SERVICE TO ADD AN ADMIN*/
 const AddAnAdmin = async (body) => {
   return await axios
     .post(API_URL_ADMIN_REGISTER, body, {
+      headers: authHeader(),
+    })
+    .then((response) => {
+      return response.data;
+    });
+};
+
+/*AUTH SERVICE TO CREATE SUBJECT*/
+const AdminCreateSubject = async (body) => {
+  return await axios
+    .post(API_URL_ADMIN_CREATE_SUBJECT, body, {
       headers: authHeader(),
     })
     .then((response) => {
@@ -120,6 +137,7 @@ const AuthServices = {
   StudentLogin,
   ForgetStudentPassword,
   AdminApprove,
+  AdminCreateSubject,
 };
 
 export default AuthServices;

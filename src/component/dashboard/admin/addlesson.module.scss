@@ -1,0 +1,44 @@
+/* addlesson.module.css */
+.addLessonContainer {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .addLessonContainer h2 {
+    margin-bottom: 20px;
+  }
+  
+  .addLessonContainer form div {
+    margin-bottom: 15px;
+  }
+  
+  .addLessonContainer form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .addLessonContainer form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .addLessonContainer form button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .addLessonContainer form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  

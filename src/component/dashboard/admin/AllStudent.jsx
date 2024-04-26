@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import styles from "./scss/allstudent.module.scss";
+import styles from "./allstudent.module.scss";
 import Modal from "../../classes/modal/Modal";
 import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
 import { useDispatch } from "react-redux";
@@ -64,7 +64,7 @@ const AllStudent = () => {
   // };
   const handleSubmit = async () => {
     if (!selectedUser || !selectedStatus) return;
-  
+
     try {
       setLoading(true);
       const body = {
@@ -78,14 +78,14 @@ const AllStudent = () => {
       registeredStudents(); // Reload registered students after status update
     } catch (error) {
       setLoading(false);
-      console.error("Error while updating admission status:", error); 
+      console.error("Error while updating admission status:", error);
       const errorMessage =
         error.response?.data?.message ||
         "Failed to update student admission status";
       toast.error(errorMessage);
     }
   };
-  
+
   const handleModalOpen = (user) => {
     setSelectedUser(user);
     setShowModal(true);
@@ -191,9 +191,9 @@ const AllStudent = () => {
                 className={styles.statusDropdown}
                 style={{
                   width: "100%",
-                  height: "40px", 
-                  padding: "5px", 
-                  borderRadius: "5px", 
+                  height: "40px",
+                  padding: "5px",
+                  borderRadius: "5px",
                   border: "1px solid #ccc",
                 }}
               >

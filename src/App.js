@@ -5,44 +5,16 @@ import Register from "./component/dashboard/student/registration/Register.jsx";
 import StudentSideBarRoute from "./component/dashboard/layout/studentlayout/StudentSideBarRoute";
 import StudentResetPassword from "./component/login/student/StudentResetPassword.jsx";
 import AdminResetPassword from "./component/login/admin/AdminResetPassword.jsx";
-import PageNotFound from "./component/pagenotfound/PageNotFound.jsx";
-import Upload from "./component/dashboard/admin/upload/Upload.jsx";
-import ClassSubjectTopicsDownload from "../src/component/dashboard/admin/upload/ClassSubjectsTopicsUpload.jsx";
-
-// For JSS1
-import JSS1FirstTermPage from "./component/classes/jss1/jss1FirstTerm";
-import JSS1SecondTermPage from "./component/classes/jss1/jss1SecondTerm";
-import JSS1ThirdTermPage from "./component/classes/jss1/jss1ThirdTerm";
-// For JSS2
-import JSS2FirstTermPage from "./component/classes/jss2/jss2FirstTerm";
-import JSS2SecondTermPage from "./component/classes/jss2/jss2SecondTerm";
-import JSS2ThirdTermPage from "./component/classes/jss2/jss2ThirdTerm";
-// For JSS3
-import JSS3FirstTermPage from "./component/classes/jss3/jss3FirstTerm";
-import JSS3SecondTermPage from "./component/classes/jss3/jss3SecondTerm";
-import JSS3ThirdTermPage from "./component/classes/jss3/jss3ThirdTerm";
-// For SS1
-import SS1FirstTermPage from "./component/classes/ss1/ss1FirstTerm";
-import SS1SecondTermPage from "./component/classes/ss1/ss1SecondTerm";
-import SS1ThirdTermPage from "./component/classes/ss1/ss1ThirdTerm";
-// For SS2
-import SS2FirstTermPage from "./component/classes/ss2/ss2FirstTerm";
-import SS2SecondTermPage from "./component/classes/ss2/ss2SecondTerm";
-import SS2ThirdTermPage from "./component/classes/ss2/ss2ThirdTerm";
-
-// For SS3
-import SS3FirstTermPage from "./component/classes/ss3/ss3FirstTerm";
-import SS3SecondTermPage from "./component/classes/ss3/ss3SecondTerm";
-import SS3ThirdTermPage from "./component/classes/ss3/ss3ThirdTerm";
-
-//View content file
-import Video from "./component/classes/tableofcontents/view/Video.jsx";
-import Text from "./component/classes/tableofcontents/view/Text.jsx";
-
-import SchemeOfWork from "./component/classes/tableofcontents/Schemeofwork";
 import Admin from "./component/dashboard/admin/Admin.jsx";
 import AdminLoginPage from "./component/login/admin/AdminLoginPage.jsx";
 import PasswordChange from "./component/login/student/PasswordChange.jsx";
+import Upload from "./component/dashboard/admin/upload/Upload.jsx";
+import AddSubject from "./component/dashboard/admin/AddSubject.jsx";
+import GetClassSubject from "./component/dashboard/admin/GetClassSubject.jsx";
+import AddStudentLesson from "./component/dashboard/admin/AddStudentLesson.jsx";
+import AllLesson from "./component/dashboard/admin/AllLesson.jsx";
+import SchemeOfWork from "./component/dashboard/student/SchemeOfWork.jsx";
+import UploadLessonComponent from "./component/dashboard/admin/upload/UploadLessonComponent.jsx";
 
 function App() {
   return (
@@ -50,65 +22,25 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/register" element={<Register />} />
-
         <Route path="/student-login" element={<StudentLogin />} />
         <Route path="/admin-login" element={<AdminLoginPage />} />
-
         <Route path="/*" element={<StudentSideBarRoute />} />
         <Route path="/admin" element={<Admin />} />
-        <Route
-          path="/upload/:classGrade/:term"
-          element={<ClassSubjectTopicsDownload />}
-        />
+        <Route path="/upload" element={<Upload />} />
+        <Route path="/add-subject" element={<AddSubject />} />
+        <Route path="/upload-lesson" element={<UploadLessonComponent />} />
+        <Route path="/class-subjects" element={<GetClassSubject />} />
+        <Route path="/add-lesson" element={<AddStudentLesson />} />
+        <Route path="/scheme-of-work" element={<SchemeOfWork />} />
+
+        <Route path="/all-lesson" element={<AllLesson />} />
 
         <Route path="/change-password" element={<PasswordChange />} />
-
         <Route path="/admin-reset-password" element={<AdminResetPassword />} />
         <Route
           path="/student-reset-password"
           element={<StudentResetPassword />}
         />
-        <Route path="/upload-lectures" element={<Upload />} />
-
-        {/*ROUTES FOR CLASSES */}
-        {/**JSS1 */}
-        <Route path="/jss1/first-term" element={<JSS1FirstTermPage />} />
-        <Route path="/jss1/second-term" element={<JSS1SecondTermPage />} />
-        <Route path="/jss1/third-term" element={<JSS1ThirdTermPage />} />
-        {/**JSS2 */}
-        <Route path="/jss2/first-term" element={<JSS2FirstTermPage />} />
-        <Route path="/jss2/second-term" element={<JSS2SecondTermPage />} />
-        <Route path="/jss2/third-term" element={<JSS2ThirdTermPage />} />
-        {/**JSS3 */}
-        <Route path="/jss3/first-term" element={<JSS3FirstTermPage />} />
-        <Route path="/jss3/second-term" element={<JSS3SecondTermPage />} />
-        <Route path="/jss3/third-term" element={<JSS3ThirdTermPage />} />
-        {/**SS1 */}
-        <Route path="/ss1/first-term" element={<SS1FirstTermPage />} />
-        <Route path="/ss1/second-term" element={<SS1SecondTermPage />} />
-        <Route path="/ss1/third-term" element={<SS1ThirdTermPage />} />
-        {/**SS2 */}
-        <Route path="/ss2/first-term" element={<SS2FirstTermPage />} />
-        <Route path="/ss2/second-term" element={<SS2SecondTermPage />} />
-        <Route path="/ss2/third-term" element={<SS2ThirdTermPage />} />
-        {/**SS3 */}
-        <Route path="/ss3/first-term" element={<SS3FirstTermPage />} />
-        <Route path="/ss3/second-term" element={<SS3SecondTermPage />} />
-        <Route path="/ss3/third-term" element={<SS3ThirdTermPage />} />
-        <Route
-          path="/scheme-of-work/:classGrade/:term/:subject"
-          element={<SchemeOfWork />}
-        />
-        <Route
-          path="/video/:classGrade/:term/:subject/:topic"
-          element={<Video />}
-        />
-        <Route
-          path="/text/:classGrade/:term/:subject/:topic"
-          element={<Text />}
-        />
-
-        <Route path="*" component={PageNotFound} />
       </Routes>
     </Router>
   );

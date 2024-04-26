@@ -2,6 +2,16 @@
   background: var(--white-grey, #f9f9f9);
 }
 
+.seeall {
+  padding: 10px;
+  background-color: #064e3b;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 10px;
+  margin-right: 2em;
+}
+
 /* Button Styles */
 .requestbut {
   position: relative;
@@ -223,6 +233,7 @@
   margin-bottom: 1em;
   line-height: 26px;
   color: #064e3b;
+  text-decoration: none;
   min-width: 230px;
 }
 
@@ -233,6 +244,13 @@
   font-weight: 300;
   line-height: 26px;
   color: #064e3b;
+}
+
+.subject {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  color: #064e3b;
+  font-size: 1em;
 }
 
 .tabledataa {

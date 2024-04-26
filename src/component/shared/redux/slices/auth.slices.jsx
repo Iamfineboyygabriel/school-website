@@ -22,6 +22,26 @@ export const RegisterAnAdmin = createAsyncThunk(
   }
 );
 
+/*AUTH SLICE TO CREATE SUBJECT POST*/
+export const CreateSubject = createAsyncThunk(
+  "auth/createSubject",
+  async (body, thunkAPI) => {
+    try {
+      const data = await AuthServices.AdminCreateSubject(body);
+      return { auth: data };
+    } catch (error) {
+      const message =
+        (error.response &&
+          error.response.data &&
+          error.response.data.message) ||
+        error.message ||
+        error.toString();
+      thunkAPI.dispatch(setMessage(message));
+      return thunkAPI.rejectWithValue(message);
+    }
+  }
+);
+
 export const AdminReset = createAsyncThunk(
   "auth/adminReset",
   async (body, thunkAPI) => {
@@ -171,6 +191,7 @@ const initialState = {
   approveStudent: null,
   adminData: null,
   adminResetPassword: null,
+  createSubject: null,
 };
 
 export const authSlice = createSlice({
@@ -225,6 +246,12 @@ export const authSlice = createSlice({
     });
     builder.addCase(AdminReset.rejected, (state) => {
       state.adminReset = null;
+    });
+    builder.addCase(CreateSubject.fulfilled, (state, action) => {
+      state.createSubject = action.payload.auth;
+    });
+    builder.addCase(CreateSubject.rejected, (state) => {
+      state.createSubject = null;
     });
   },
 });

@@ -1,0 +1,34 @@
+.schemeOfWorkTable {
+  margin-top: 20px;
+}
+
+.schemeOfWorkTable table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "Roboto", sans-serif;
+  border-spacing: 0;
+}
+
+.schemeOfWorkTable th,
+.schemeOfWorkTable td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+  color: #064e3b;
+}
+
+.schemeOfWorkTable th {
+  background-color: #f2f2f2;
+  color: #064e3b;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.schemeOfWorkTable tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.schemeOfWorkTable tbody tr:hover {
+  background-color: #f2f2f2;
+}

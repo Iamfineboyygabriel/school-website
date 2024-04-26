@@ -12,8 +12,6 @@ export const GetStudentProfile = async () => {
   }).then((response) => {
     const studentData = response.data.data.token;
     sessionStorage.setItem("StudentData", studentData);
-    console.log("student", studentData);
-    console.log("profile", response.data);
     return { ...response.data, studentData };
   });
 };
