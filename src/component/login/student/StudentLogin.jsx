@@ -15,7 +15,7 @@ const StudentLogin = () => {
   const [admissionNumber, setadmissionNumber] = useState("");
   const [passwordType, setPasswordType] = useState("password");
   const [loading, setLoading] = useState(false);
-  const [showModal, setShowModal] = useState(false); // State for modal visibility
+  const [showModal, setShowModal] = useState(false); 
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
