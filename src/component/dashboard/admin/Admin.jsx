@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import styles from "./admin.module.scss";
 import AllStudent from "./AllStudent";
 import Logout from "../../../assets/svg/logout.svg";
-import { Link, useNavigate } from "react-router-dom"; // Import Link from react-router-dom
+import { Link, useNavigate } from "react-router-dom";
 import ReactLoading from "react-loading";
 
 const Admin = () => {
@@ -46,38 +46,16 @@ const Admin = () => {
             Admission
           </button>
 
-          <Link
-            to="/add-subject"
-            className={activeTab === "add-subject" ? styles.activeButton : ""}
-          >
+          <Link to="/add-subject" style={{ marginLeft: "1em" }}>
             <button>Add Subject</button>
           </Link>
 
-          <Link
-            to="/upload-lesson"
-            className={activeTab === "upload-lesson" ? styles.activeButton : ""}
-          >
-            <button>Upload Lesson</button>
+          <Link to="/upload-lesson">
+            <button style={{ marginLeft: "1em" }}>Upload Lesson</button>
           </Link>
 
-          <Link
-            to="/class-subjects"
-            className={
-              activeTab === "class-subjects" ? styles.activeButton : ""
-            }
-            style={{ marginLeft: "1em" }}
-          >
+          <Link to="/class-subjects" style={{ marginLeft: "1em" }}>
             <button> view subjects</button>
-          </Link>
-
-          <Link
-            to="/add-lesson"
-            className={
-              activeTab === "class-subjects" ? styles.activeButton : ""
-            }
-            style={{ marginLeft: "1em" }}
-          >
-            <button>Add Lesson</button>
           </Link>
 
           <Link

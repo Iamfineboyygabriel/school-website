@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom";
 
 const AddSubject = () => {
   const [subject_name, setSubject_name] = useState("");
-  const [class_name, setClass_name] = useState("JSS1"); // Default class set to JSS1
+  const [class_name, setClass_name] = useState("JSS1");
   const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
@@ -18,7 +18,7 @@ const AddSubject = () => {
   const [data] = useState(createSubject);
 
   const submitFormData = (e) => {
-    e.preventDefault(); // Prevent page reload
+    e.preventDefault(); 
     setLoading(true);
     let body = {
       subject_name,

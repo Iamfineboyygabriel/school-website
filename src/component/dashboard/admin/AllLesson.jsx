@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import styles from "../student/schemeofwork.module.scss";
 import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
-import { GetLessonsAdmin } from "../../shared/redux/slices/AdminGetLessons.slices";
+import { GetLessonsAdmin, GetUploaded } from "../../shared/redux/slices/AdminGetLessons.slices";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import ReactLoading from "react-loading";
@@ -10,7 +10,27 @@ const AllLesson = () => {
   const [loading, setLoading] = useState(false);
   const dispatch = useAppDispatch();
   const lessonsData = useAppSelector((state) => state?.admin?.details);
-  console.log("lessonsdata", lessonsData);
+  const uploadedData = useAppSelector((state) => state?.admin?.uploaded);
+  console.log("uploaded", uploadedData);
+
+  useEffect(() => {
+    getLessons();
+    getUploadedItems('video_1714339263046_ivvyhouse follow clip.MP4'); // Dispatch the thunk with the file name
+  }, []);
+
+  const getUploadedItems = (filename) => {
+    setLoading(true);
+    dispatch(GetUploaded(filename))
+      .unwrap()
+      .then(() => {
+        setLoading(false);
+      })
+      .catch((err) => {
+        const errorMessage = err.message;
+        toast.error(errorMessage);
+        setLoading(false);
+      });
+  };
 
   const getLessons = () => {
     setLoading(true);
@@ -71,11 +91,6 @@ const AllLesson = () => {
                 ))}
             </tbody>
           </table>
-          <div>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum
-            cumque placeat, libero ipsa aspernatur laboriosam iste commodi ad
-            beatae optio?
-          </div>
         </div>
       )}
       <ToastContainer />

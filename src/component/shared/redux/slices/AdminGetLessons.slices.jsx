@@ -1,13 +1,15 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { setMessage } from "./message.slices";
-import getAllLessonsService from "../services/AdminGetLessons.services";
+import getAllLessonsService, {
+  GetUploadedItems,
+} from "../services/AdminGetLessons.services";
 
 export const GetLessonsAdmin = createAsyncThunk(
   "admin/getLessonsAdmin",
   async (thunkAPI) => {
     try {
       const data = await getAllLessonsService.GetAllLessons();
-      console.log("lessons slices", data);
+      // console.log("lessons slice", data);
       return { admin: data };
     } catch (error) {
       const message =
@@ -22,9 +24,31 @@ export const GetLessonsAdmin = createAsyncThunk(
     }
   }
 );
+export const GetUploaded = createAsyncThunk(
+  "admin/getUploaded",
+  async (filename, thunkAPI) => {
+    try {
+      console.log("fetching data for filename:", filename); 
+      const data = await GetUploadedItems(filename);
+      console.log("uploadeditems", data);
+      return { admin: data };
+    } catch (error) {
+      const message =
+        (error.response &&
+          error.response.data &&
+          error.response.data.message) ||
+        error.message ||
+        error.toString();
+      console.error("Error fetching uploaded items:", message);
+      thunkAPI.dispatch(setMessage(message));
+      return thunkAPI.rejectWithValue(message);
+    }
+  }
+);
 
 const initialState = {
   details: null,
+  uploaded: null,
 };
 
 export const adminLessonSlice = createSlice({
@@ -37,6 +61,12 @@ export const adminLessonSlice = createSlice({
     });
     builder.addCase(GetLessonsAdmin.rejected, (state) => {
       state.details = null;
+    });
+    builder.addCase(GetUploaded.fulfilled, (state, action) => {
+      state.uploaded = action.payload.admin;
+    });
+    builder.addCase(GetUploaded.rejected, (state) => {
+      state.uploaded = null;
     });
   },
 });

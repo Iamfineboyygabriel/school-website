@@ -79,6 +79,7 @@ const Register = () => {
           gender: "",
           dob: "",
           student_class: "",
+          photo: null,
         });
       })
       .catch((err) => {
@@ -100,6 +101,13 @@ const Register = () => {
         dob: e.target.value,
       });
     }
+  };
+
+  const handlePhotoChange = (e) => {
+    setRegistrationDetails({
+      ...registrationDetails,
+      photo: e.target.files[0], // Set the photo field to the selected file
+    });
   };
 
   return (
