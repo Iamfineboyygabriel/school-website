@@ -5,7 +5,7 @@ import studentProfileSlice from "./slices/GetStudentProfile.slices";
 import { lessonSlice } from "./slices/addlesson.slices";
 import studentLessonSlice from "./slices/GetLessons.slices";
 import studentSubjectsSlice from "./slices/GetStudentSubjects.slices";
-import { adminLessonSlice } from "./slices/AdminGetLessons.slices";
+import  adminLessonSlice  from "./slices/AdminGetLessons.slices";
 
 const rootReducer = combineReducers({
   auth: authReducer,

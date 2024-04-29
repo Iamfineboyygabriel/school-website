@@ -1,46 +1,42 @@
-.parent {
-  display: flex;
-  justify-content: center;
+.addLessonContainer {
   background: #f1f5f9;
-  align-items: center;
-  height: 100vh;
-}
-
-.addSubjectContainer {
-  background-color: #f9f9f9;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 40px;
-  width: 400px;
+  width: 800px;
+  margin: auto;
 }
 
 h2 {
   font-size: 24px;
   margin-bottom: 20px;
-  font-family: "Roboto", sans-serif;
   text-align: center;
 }
 
-.formGroup {
-  margin-bottom: 20px;
+form {
+  display: flex;
+  flex-direction: column;
 }
 
 label {
-  display: block;
-  margin-bottom: 5px;
   font-weight: bold;
+  margin-bottom: 5px;
+  color: #052e16;
+  font-family: "Roboto", sans-serif;
 }
 
 input[type="text"],
-select {
+input[type="number"],
+input[type="string"],
+input[type="file"] {
   width: 100%;
   padding: 10px;
   border-radius: 5px;
   border: 1px solid #ccc;
-  font-size: 16px;
+  margin-bottom: 15px;
 }
 
-.submitButton {
+button {
   width: 100%;
   padding: 10px;
   border: none;
@@ -48,11 +44,15 @@ select {
   background-color: #052e16;
   color: #fff;
   font-size: 16px;
-  font-family: "Roboto", sans-serif;
   cursor: pointer;
   transition: background-color 0.3s;
 }
 
-.submitButton:hover {
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+button:hover {
   background-color: #627d6e;
 }
