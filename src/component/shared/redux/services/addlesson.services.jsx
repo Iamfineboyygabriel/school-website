@@ -15,8 +15,10 @@ console.log("subject", subjectId);
 console.log("lesson", lessonId);
 
 const AdminAddLesson = async (body) => {
+  const subject = sessionStorage.getItem("subjectId");
+  console.log("subject id before request", subject);
   const urlWithParams =
-    process.env.REACT_APP_API_URL + `/lesson/create-lesson/${subjectId}`;
+    process.env.REACT_APP_API_URL + `/lesson/create-lesson/${subject}`;
 
   return await axios
     .post(urlWithParams, body, {
@@ -27,13 +29,14 @@ const AdminAddLesson = async (body) => {
     });
 };
 
-const UploadLesson = async (body) => {
-  const urlWithParams =
-    process.env.REACT_APP_API_URL + `/lesson/upload-lesson/${lessonId}`;
+//modified thi endpoint to upload file and collect the corresponding url from the response
+//also pa content type as an argument to authHeader to be added to the heaer for file upload
+const UploadLesson = async (file) => {
+  const urlWithParams = process.env.REACT_APP_API_URL + `/lesson/upload-lesson`;
 
   return await axios
-    .post(urlWithParams, body, {
-      headers: authHeader(),
+    .post(urlWithParams, file, {
+      headers: authHeader({ "Content-Type": "multipart/form-data" }),
     })
     .then((response) => {
       return response.data;

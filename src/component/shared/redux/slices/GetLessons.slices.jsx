@@ -25,29 +25,34 @@ export const GetLessons = createAsyncThunk(
 
 const initialState = {
   lessons: null,
-  loading: false,
+  status: "isIdle",
   error: null,
 };
 
 const lessonsSlice = createSlice({
   name: "lessons",
   initialState,
-  reducers: {},
+  reducers: {
+    reset(state) {
+      state.status = "isIdle";
+    },
+  },
   extraReducers: (builder) => {
     builder.addCase(GetLessons.pending, (state) => {
-      state.loading = true;
+      state.status = "isLoading";
       state.error = null;
     });
     builder.addCase(GetLessons.fulfilled, (state, action) => {
+      state.status = "isSuccess";
       state.lessons = action.payload;
-      state.loading = false;
     });
     builder.addCase(GetLessons.rejected, (state, action) => {
-      state.loading = false;
+      state.status = "isError";
       state.error = action.payload;
     });
   },
 });
 
 export const { reducer: lessonsReducer } = lessonsSlice;
+export const lessonsSliceActions = lessonsSlice.actions;
 export default lessonsSlice;
