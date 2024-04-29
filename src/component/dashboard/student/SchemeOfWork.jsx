@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import styles from "./schemeofwork.module.scss";
 import { GetLessons } from "../../shared/redux/slices/GetLessons.slices";
 import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
@@ -6,6 +6,23 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const SchemeOfWork = () => {
+  const dispatch = useAppDispatch();
+  const [loading, setLoading] = useState(false);
+  const getLessons = useAppSelector((state) => state?.lessons?.lessons);
+  console.log("student lessons", getLessons);
+  useEffect(() => {
+    setLoading(true);
+    dispatch(GetLessons())
+      .unwrap()
+      .then(() => {
+        setLoading(false);
+      })
+      .catch((err) => {
+        const errorMessage = err.message;
+        toast.error(errorMessage);
+      });
+  }, [dispatch]);
+
   return (
     <div>
       <h2>All Contents</h2>
@@ -25,19 +42,28 @@ const SchemeOfWork = () => {
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
+            {loading ? (
+              <tr>
+                <td colSpan="8">Loading...</td>
+              </tr>
+            ) : (
+              getLessons?.map((lesson) => (
+                <tr key={lesson.lesson_id}>
+                  <td>{lesson.subject}</td>
+                  <td>{lesson.class}</td>
+                  <td>{lesson.term}</td>
+                  <td>{lesson.topic}</td>
+                  <td>{lesson.description}</td>
+                  <td>{lesson.content}</td>
+                  <td>{lesson.document}</td>
+                  <td>{lesson.video}</td>
+                </tr>
+              ))
+            )}
           </tbody>
         </table>
       </div>
+      <ToastContainer />
     </div>
   );
 };
