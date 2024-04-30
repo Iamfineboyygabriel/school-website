@@ -111,10 +111,10 @@ const StudentLogin = async (body) => {
       headers: authHeader(),
     })
     .then((response) => {
-      const studentData = response.data.data.token; // Assuming the token is returned in the 'token' field of the response
-      sessionStorage.setItem("studentData", studentData); // Store the student token in sessionStorage
+      const studentData = response.data.data.token;
+      sessionStorage.setItem("studentData", studentData); 
       console.log("here", response.data);
-      return { ...response.data, studentData }; // Return studentData along with other data
+      return { ...response.data, studentData };
     });
 };
 

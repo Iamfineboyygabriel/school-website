@@ -134,8 +134,10 @@ const AdminLoginPage = () => {
                   )}
                 </button>
               </div> */}
-
-              <div className={styles.passwordContainer}>
+              <div
+                className={styles.passwordContainer}
+                style={{ position: "relative" }}
+              >
                 <input
                   type={passwordType}
                   placeholder="Enter password"
@@ -143,28 +145,30 @@ const AdminLoginPage = () => {
                   value={password}
                   name="password"
                   style={{
-                    width: "100% ",
+                    width: "100%",
                     height: "50px",
-                    position: "relative",
                     borderRadius: "8px",
                     border: "1px solid var(--grey-50, #ccc)",
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
-                    paddingRight: "10px",
+                    paddingRight: "40px", // Increased paddingRight to accommodate the icon
                     outline: "none",
                   }}
                 />
-                <button
+                <div
                   className={styles.visibility}
                   onClick={togglePassword}
                   style={{
                     display: "flex",
-                    justifyContent: "flex-end",
-                    margin: "auto",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    position: "absolute",
+                    right: "10px",
+                    top: "50%",
+                    transform: "translateY(-50%)",
+                    cursor: "pointer",
                     background: "transparent",
                     border: "none",
-                    position: "absolute",
-                    cursor: "pointer",
                   }}
                 >
                   {passwordType === "password" ? (
@@ -172,7 +176,7 @@ const AdminLoginPage = () => {
                   ) : (
                     <MdOutlineVisibility style={{ color: "black" }} />
                   )}
-                </button>
+                </div>
               </div>
 
               <p className={styles.forget}>

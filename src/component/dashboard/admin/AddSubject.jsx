@@ -32,7 +32,7 @@ const AddSubject = () => {
         navigate("/admin");
       })
       .catch((err) => {
-        console.log(err);
+        // console.log(err);
         if (
           err &&
           err.response &&

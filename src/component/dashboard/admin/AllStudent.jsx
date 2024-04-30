@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import styles from "./allstudent.module.scss";
 import Modal from "../../classes/modal/Modal";
-import { useAppSelector, useAppDispatch } from "../../shared/redux/reduxHooks";
+import { useAppSelector } from "../../shared/redux/reduxHooks";
 import { useDispatch } from "react-redux";
 import { GetRegisteredStudents } from "../../shared/redux/slices/registeredStudent.slices";
 import { ApproveStudent } from "../../shared/redux/slices/auth.slices";
@@ -75,7 +75,7 @@ const AllStudent = () => {
       setLoading(false);
       setShowModal(false);
       toast.success("Student admission status updated successfully!");
-      registeredStudents(); // Reload registered students after status update
+      registeredStudents(); 
     } catch (error) {
       setLoading(false);
       console.error("Error while updating admission status:", error);

@@ -9,6 +9,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import ReactLoading from "react-loading";
 
+
 const AllLesson = () => {
   const [loading, setLoading] = useState(false);
   const dispatch = useAppDispatch();
@@ -78,28 +79,28 @@ const AllLesson = () => {
                 <thead>
                   <tr>
                     <th>Lesson Id</th>
+                    <th>Subject</th>
+                    <th>Class</th>
+                    <th>Term</th>
                     <th>Title</th>
                     <th>Description</th>
                     <th>Content</th>
                     <th>Document</th>
                     <th>Video</th>
-                    <th>Term</th>
-                    <th>Subject</th>
-                    <th>Class</th>
                   </tr>
                 </thead>
                 <tbody>
                   {lessons.map((lesson) => (
                     <tr key={lesson.lesson_id}>
                       <td>{lesson.lesson_id}</td>
+                      <td>{lesson.subject_name}</td>
+                      <td>{lesson.class_name}</td>
+                      <td>{lesson.term}</td>
                       <td>{lesson.title}</td>
                       <td>{lesson.description}</td>
                       <td>{lesson.content}</td>
                       <td>{lesson.text_content}</td>
                       <td>{lesson.video_url}</td>
-                      <td>{lesson.term}</td>
-                      <td>{lesson.subject_name}</td>
-                      <td>{lesson.class_name}</td>
                     </tr>
                   ))}
                 </tbody>

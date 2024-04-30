@@ -15,7 +15,6 @@ const StudentLogin = () => {
   const [admissionNumber, setadmissionNumber] = useState("");
   const [passwordType, setPasswordType] = useState("password");
   const [loading, setLoading] = useState(false);
-  const [showModal, setShowModal] = useState(false);
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
@@ -36,7 +35,6 @@ const StudentLogin = () => {
       })
       .catch((err) => {
         if (err && err.data && err.data.error) {
-          // If the error object has a 'data' property containing 'error' message
           toast.error(err.data.error); // Display custom error message from the backend
         } else {
           toast.error("Invalid Credentials."); // Fallback error message
@@ -51,14 +49,6 @@ const StudentLogin = () => {
 
   const togglePassword = () => {
     setPasswordType(passwordType === "password" ? "text" : "password");
-  };
-
-  const openModal = () => {
-    setShowModal(true);
-  };
-
-  const closeModal = () => {
-    setShowModal(false);
   };
 
   return (
@@ -80,86 +70,98 @@ const StudentLogin = () => {
               />
 
               <h2 className={styles.rowname}>Password</h2>
-              {/* <div
-                style={{
-                  position: "relative",
-                  display: "flex",
-                  justifyContent: "space-between",
-                  alignItems: "center",
-                }}
-              >
-                <input
-                  onChange={(e) => setPassword(e.target.value)}
-                  style={{
-                    width: "100%",
-                    height: "50px",
-                    marginTop: "0.4em",
-                    borderRadius: "8px",
-                    border: "1px solid var(--grey-50, #ccc)",
-                    background: "var(--white-full, #fff)",
-                    padding: "0.5em",
-                    position: "absolute",
-                    outline: "none", // Remove default focus
-                  }}
-                  type={passwordType}
-                  placeholder="Enter password"
-                  value={password}
-                  name="password"
-                />
 
-                <button
-                  className={styles.visibility}
-                  onClick={togglePassword}
-                  style={{ background: "black" }}
-                >
-                  {passwordType === "password" ? (
-                    <MdOutlineVisibilityOff />
-                  ) : (
-                    <MdOutlineVisibility />
-                  )}
-                </button>
-              </div> */}
-              <div className={styles.passwordContainer}>
+              {/* <div className={styles.passwordContainer}>
                 <input
                   onChange={(e) => setPassword(e.target.value)}
                   style={{
-                    width: "100% ", // Adjusted width to accommodate the button
+                    width: "100% ",
                     height: "50px",
                     position: "relative",
                     borderRadius: "8px",
                     border: "1px solid var(--grey-50, #ccc)",
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
-                    paddingRight: "10px", // Adjusted paddingRight for better spacing
-                    outline: "none", // Remove default focus
+                    paddingRight: "10px",
+                    outline: "none",
                   }}
                   type={passwordType}
                   placeholder="Enter password"
                   value={password}
                   name="password"
                 />
-                <button
+                <div
                   className={styles.visibility}
                   onClick={togglePassword}
                   style={{
-                    // width: "10px",
                     display: "flex",
                     justifyContent: "flex-end",
-                    margin:"auto",
+                    margin: "auto",
                     background: "transparent",
                     border: "none",
                     position: "absolute",
-                    // backgroundColor: "black",
                     cursor: "pointer",
                   }}
                 >
                   {passwordType === "password" ? (
-                    <MdOutlineVisibilityOff />
+                    <MdOutlineVisibilityOff
+                      style={{
+                        color: "black",
+                        display: "flex",
+                        justifyContent: "flex-end",
+                      }}
+                    />
                   ) : (
-                    <MdOutlineVisibility />
+                    <MdOutlineVisibility style={{ color: "black" }} />
                   )}
-                </button>
+                </div>
+              </div> */}
+
+              <div
+                className={styles.passwordContainer}
+                style={{ position: "relative" }}
+              >
+                <input
+                  onChange={(e) => setPassword(e.target.value)}
+                  style={{
+                    width: "100%",
+                    height: "50px",
+                    borderRadius: "8px",
+                    border: "1px solid var(--grey-50, #ccc)",
+                    background: "var(--white-full, #fff)",
+                    padding: "0.5em",
+                    paddingRight: "40px",
+                    outline: "none",
+                  }}
+                  type={passwordType}
+                  placeholder="Enter password"
+                  value={password}
+                  name="password"
+                />
+                <div
+                  className={styles.visibility}
+                  onClick={togglePassword}
+                  style={{
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    position: "absolute",
+                    right: "10px",
+                    top: "50%",
+                    transform: "translateY(-50%)",
+                    cursor: "pointer",
+                    background: "transparent",
+                    border: "none",
+                  }}
+                >
+                  {passwordType === "password" ? (
+                    <MdOutlineVisibilityOff style={{ color: "black" }} />
+                  ) : (
+                    <MdOutlineVisibility style={{ color: "black" }} />
+                  )}
+                </div>
               </div>
+
               <p className={styles.forget}>
                 <Link
                   to="/student-reset-password"

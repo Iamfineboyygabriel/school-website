@@ -27,7 +27,7 @@ const AddStudentLesson = () => {
       text_content: downloadDoc,
       video_url: downloadVideo,
     };
-    console.log("bodys", body);
+    // console.log("bodys", body);
 
     dispatch(AddLesson(body))
       .unwrap()
