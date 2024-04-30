@@ -15,7 +15,7 @@ const StudentLogin = () => {
   const [admissionNumber, setadmissionNumber] = useState("");
   const [passwordType, setPasswordType] = useState("password");
   const [loading, setLoading] = useState(false);
-  const [showModal, setShowModal] = useState(false); 
+  const [showModal, setShowModal] = useState(false);
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
@@ -80,10 +80,11 @@ const StudentLogin = () => {
               />
 
               <h2 className={styles.rowname}>Password</h2>
-              <div
+              {/* <div
                 style={{
                   position: "relative",
                   display: "flex",
+                  justifyContent: "space-between",
                   alignItems: "center",
                 }}
               >
@@ -97,7 +98,40 @@ const StudentLogin = () => {
                     border: "1px solid var(--grey-50, #ccc)",
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
-                    paddingRight: "40px", // Space for the button
+                    position: "absolute",
+                    outline: "none", // Remove default focus
+                  }}
+                  type={passwordType}
+                  placeholder="Enter password"
+                  value={password}
+                  name="password"
+                />
+
+                <button
+                  className={styles.visibility}
+                  onClick={togglePassword}
+                  style={{ background: "black" }}
+                >
+                  {passwordType === "password" ? (
+                    <MdOutlineVisibilityOff />
+                  ) : (
+                    <MdOutlineVisibility />
+                  )}
+                </button>
+              </div> */}
+              <div className={styles.passwordContainer}>
+                <input
+                  onChange={(e) => setPassword(e.target.value)}
+                  style={{
+                    width: "100% ", // Adjusted width to accommodate the button
+                    height: "50px",
+                    position: "relative",
+                    borderRadius: "8px",
+                    border: "1px solid var(--grey-50, #ccc)",
+                    background: "var(--white-full, #fff)",
+                    padding: "0.5em",
+                    paddingRight: "10px", // Adjusted paddingRight for better spacing
+                    outline: "none", // Remove default focus
                   }}
                   type={passwordType}
                   placeholder="Enter password"
@@ -108,12 +142,15 @@ const StudentLogin = () => {
                   className={styles.visibility}
                   onClick={togglePassword}
                   style={{
-                    position: "absolute",
-                    right: "5px",
-                    top: "50%",
-                    transform: "translateY(-50%)",
+                    // width: "10px",
+                    display: "flex",
+                    justifyContent: "flex-end",
+                    margin:"auto",
+                    background: "transparent",
                     border: "none",
-                    backgroundColor: "transparent",
+                    position: "absolute",
+                    // backgroundColor: "black",
+                    cursor: "pointer",
                   }}
                 >
                   {passwordType === "password" ? (
@@ -123,7 +160,6 @@ const StudentLogin = () => {
                   )}
                 </button>
               </div>
-
               <p className={styles.forget}>
                 <Link
                   to="/student-reset-password"

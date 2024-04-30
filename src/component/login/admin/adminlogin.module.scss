@@ -111,10 +111,18 @@
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-style: normal;
+  display: flex;
+  justify-content: flex-start;
   font-weight: 700;
   // line-height: 20px;
   letter-spacing: 0.035px;
   margin-top: 1.7em;
+}
+
+.passwordContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
 }
 
 .calculatorinput {
