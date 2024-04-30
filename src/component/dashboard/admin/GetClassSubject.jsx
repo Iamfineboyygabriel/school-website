@@ -10,7 +10,6 @@ const GetClassSubject = () => {
   const [selectedClass, setSelectedClass] = useState("");
   const dispatch = useAppDispatch();
   const subjects = useAppSelector((state) => state.subjects);
-  console.log("subject", subjects);
   useEffect(() => {
     if (selectedClass) {
       setLoading(true);

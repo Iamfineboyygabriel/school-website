@@ -129,14 +129,6 @@
   align-items: center;
 }
 
-
-// .calculatorinputgroup:focus {
-//   outline: none;
-// }
-
-// .calculatorinputgroup {
-//   border: none;
-// }
 .forget {
   color: #627d6e;
   font-family: "Roboto", sans-serif;
@@ -204,7 +196,6 @@
   background-color: transparent;
   padding-right: 0.8em !important;
   color: black;
-  background-color: #00040f;
 }
 
 .group {
@@ -230,6 +221,20 @@
     display: none;
     position: fixed;
   }
+  .visibility button {
+    color: #00040f;
+    width: 2em;
+    border: none;
+    position: relative;
+    outline: none;
+  }
+
+  .passwordContainer {
+    outline: none;
+    position: relative;
+    border: none;
+  }
+
   .disctwo {
     width: 100%;
     padding: auto;

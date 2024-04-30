@@ -1,13 +1,5 @@
-.schemeOfWorkTable {
-  margin-top: 20px;
-}
-
-.parents {
-  background: #f1f5f9;
-}
-
 .schemeOfWorkTable table {
-  width: 100%;
+  width: 100%; /* Set the width to 100% to occupy the full width of its container */
   border-collapse: collapse;
   font-family: "Roboto", sans-serif;
   border-spacing: 0;
@@ -25,7 +17,6 @@
 .schemeOfWorkTable th {
   background-color: #f2f2f2;
   color: #064e3b;
-  font-family: "Roboto", sans-serif;
   font-weight: bold;
 }
 

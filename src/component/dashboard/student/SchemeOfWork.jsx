@@ -7,34 +7,38 @@ import "react-toastify/dist/ReactToastify.css";
 
 const SchemeOfWork = () => {
   const dispatch = useAppDispatch();
-  const [loading, setLoading] = useState(false);
-  const getLessons = useAppSelector((state) => state?.lessons?.lessons);
-  console.log("student lessons", getLessons);
+  const [loading, setLoading] = useState(true);
+  const studentLessons = useAppSelector(
+    (state) => state?.studentLesson?.studentLessons
+  );
+
   useEffect(() => {
-    setLoading(true);
-    dispatch(GetLessons())
-      .unwrap()
-      .then(() => {
-        setLoading(false);
-      })
-      .catch((err) => {
-        const errorMessage = err.message;
-        toast.error(errorMessage);
-      });
+    const studentToken = sessionStorage.getItem("studentData");
+    if (studentToken) {
+      dispatch(GetLessons())
+        .unwrap()
+        .then(() => {
+          setLoading(false);
+        })
+        .catch((err) => {
+          const errorMessage = err.message;
+          toast.error(errorMessage);
+          setLoading(false);
+        });
+    }
   }, [dispatch]);
 
   return (
     <div>
       <h2>All Contents</h2>
-
       <div className={styles.schemeOfWorkTable}>
         <table>
           <thead>
             <tr>
-              <th>Subject</th>
               <th>Class</th>
               <th>Term</th>
-              <th>Topic</th>
+              <th>Subject</th>
+              <th>Title</th>
               <th>Description</th>
               <th>Content</th>
               <th>Document</th>
@@ -47,16 +51,16 @@ const SchemeOfWork = () => {
                 <td colSpan="8">Loading...</td>
               </tr>
             ) : (
-              getLessons?.map((lesson) => (
-                <tr key={lesson.lesson_id}>
-                  <td>{lesson.subject}</td>
-                  <td>{lesson.class}</td>
-                  <td>{lesson.term}</td>
-                  <td>{lesson.topic}</td>
-                  <td>{lesson.description}</td>
-                  <td>{lesson.content}</td>
-                  <td>{lesson.document}</td>
-                  <td>{lesson.video}</td>
+              studentLessons?.data?.map((lesson, index) => (
+                <tr key={index}>
+                  <td>{lesson?.class_name}</td>
+                  <td>{lesson?.term}</td>
+                  <td>{lesson?.subject_name}</td>
+                  <td>{lesson?.title}</td>
+                  <td>{lesson?.description}</td>
+                  <td>{lesson?.content}</td>
+                  <td>{lesson?.text_content}</td>
+                  <td>{lesson?.video_url}</td>
                 </tr>
               ))
             )}
