@@ -29,7 +29,9 @@ const Register = () => {
   });
   const dispatch = useDispatch();
 
-  const registerStudent = useAppSelector((state) => state.auth.registerStudent);
+  const registerStudent = useAppSelector(
+    (state) => state?.auth?.registerStudent
+  );
 
   const registerStudentData = async () => {
     setLoading(true);
@@ -101,13 +103,6 @@ const Register = () => {
         dob: e.target.value,
       });
     }
-  };
-
-  const handlePhotoChange = (e) => {
-    setRegistrationDetails({
-      ...registrationDetails,
-      photo: e.target.files[0], // Set the photo field to the selected file
-    });
   };
 
   return (

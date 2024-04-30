@@ -16,7 +16,7 @@ const AllStudent = () => {
   const [loading, setLoading] = useState(false);
   const dispatch = useDispatch();
   const registeredStudent = useAppSelector(
-    (state) => state.registration.getAllStudents
+    (state) => state?.registration?.getAllStudents
   );
 
   useEffect(() => {
@@ -40,28 +40,6 @@ const AllStudent = () => {
     setSelectedStatus(e.target.value);
   };
 
-  // const handleSubmit = async () => {
-  //   if (!selectedUser || !selectedStatus) return;
-
-  //   try {
-  //     setLoading(true);
-  //     const body = {
-  //       studentEmail: selectedUser.email,
-  //       admissionStatus: selectedStatus,
-  //     };
-  //     await dispatch(ApproveStudent(body));
-  //     setLoading(false);
-  //     setShowModal(false);
-  //     toast.success("Student admission status updated successfully!");
-  //     registeredStudents(); // Reload registered students after status update
-  //   } catch (error) {
-  //     setLoading(false);
-  //     const errorMessage =
-  //       error.response?.data?.message ||
-  //       "Failed to update student admission status";
-  //     toast.error(errorMessage);
-  //   }
-  // };
   const handleSubmit = async () => {
     if (!selectedUser || !selectedStatus) return;
 
@@ -95,7 +73,6 @@ const AllStudent = () => {
     setShowModal(false);
   };
 
-  // Filter students whose status is pending
   const pendingStudents = registeredStudent?.data?.filter(
     (student) => student.admission_status === "pending"
   );

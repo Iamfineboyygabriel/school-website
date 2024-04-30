@@ -35,9 +35,9 @@ const StudentLogin = () => {
       })
       .catch((err) => {
         if (err && err.data && err.data.error) {
-          toast.error(err.data.error); // Display custom error message from the backend
+          toast.error(err.data.error); 
         } else {
-          toast.error("Invalid Credentials."); // Fallback error message
+          toast.error("Invalid Credentials."); 
         }
         setLoading(false);
       });
