@@ -119,7 +119,7 @@ const AdminLoginPage = () => {
                   onClick={togglePassword}
                   style={{
                     right: "5px",
-                    position:"relative",
+                    position: "relative",
                     // top: "50%",
                     // transform: "translateY(-50%)",
                     cursor: "pointer",
@@ -137,7 +137,11 @@ const AdminLoginPage = () => {
 
               <div className={styles.passwordContainer}>
                 <input
+                  type={passwordType}
+                  placeholder="Enter password"
                   onChange={(e) => setPassword(e.target.value)}
+                  value={password}
+                  name="password"
                   style={{
                     width: "100% ",
                     height: "50px",
@@ -149,16 +153,11 @@ const AdminLoginPage = () => {
                     paddingRight: "10px",
                     outline: "none",
                   }}
-                  type={passwordType}
-                  placeholder="Enter password"
-                  value={password}
-                  name="password"
                 />
                 <button
                   className={styles.visibility}
                   onClick={togglePassword}
                   style={{
-                    // width: "10px",
                     display: "flex",
                     justifyContent: "flex-end",
                     margin: "auto",
