@@ -88,7 +88,7 @@ const AdminLoginPage = () => {
               />
 
               <h2 className={styles.rowname}>Password</h2>
-              <div
+              {/* <div
                 style={{
                   position: "relative",
                   display: "flex",
@@ -131,6 +131,47 @@ const AdminLoginPage = () => {
                     <MdOutlineVisibilityOff />
                   ) : (
                     <MdOutlineVisibility />
+                  )}
+                </button>
+              </div> */}
+
+              <div className={styles.passwordContainer}>
+                <input
+                  onChange={(e) => setPassword(e.target.value)}
+                  style={{
+                    width: "100% ",
+                    height: "50px",
+                    position: "relative",
+                    borderRadius: "8px",
+                    border: "1px solid var(--grey-50, #ccc)",
+                    background: "var(--white-full, #fff)",
+                    padding: "0.5em",
+                    paddingRight: "10px",
+                    outline: "none",
+                  }}
+                  type={passwordType}
+                  placeholder="Enter password"
+                  value={password}
+                  name="password"
+                />
+                <button
+                  className={styles.visibility}
+                  onClick={togglePassword}
+                  style={{
+                    // width: "10px",
+                    display: "flex",
+                    justifyContent: "flex-end",
+                    margin: "auto",
+                    background: "transparent",
+                    border: "none",
+                    position: "absolute",
+                    cursor: "pointer",
+                  }}
+                >
+                  {passwordType === "password" ? (
+                    <MdOutlineVisibilityOff style={{ color: "black" }} />
+                  ) : (
+                    <MdOutlineVisibility style={{ color: "black" }} />
                   )}
                 </button>
               </div>

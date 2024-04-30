@@ -119,6 +119,12 @@
   margin-top: 1.7em;
 }
 
+.passwordContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
 .calculatorinput {
   width: 100%;
   height: 50px;

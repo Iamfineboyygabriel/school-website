@@ -80,7 +80,7 @@ const StudentLogin = () => {
               />
 
               <h2 className={styles.rowname}>Password</h2>
-              <div
+              {/* <div
                 style={{
                   position: "relative",
                   display: "flex",
@@ -99,7 +99,6 @@ const StudentLogin = () => {
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
                     position: "absolute",
-                    paddingRight: "40px", // Space for the button
                     outline: "none", // Remove default focus
                   }}
                   type={passwordType}
@@ -119,8 +118,48 @@ const StudentLogin = () => {
                     <MdOutlineVisibility />
                   )}
                 </button>
+              </div> */}
+              <div className={styles.passwordContainer}>
+                <input
+                  onChange={(e) => setPassword(e.target.value)}
+                  style={{
+                    width: "100% ", // Adjusted width to accommodate the button
+                    height: "50px",
+                    position: "relative",
+                    borderRadius: "8px",
+                    border: "1px solid var(--grey-50, #ccc)",
+                    background: "var(--white-full, #fff)",
+                    padding: "0.5em",
+                    paddingRight: "10px", // Adjusted paddingRight for better spacing
+                    outline: "none", // Remove default focus
+                  }}
+                  type={passwordType}
+                  placeholder="Enter password"
+                  value={password}
+                  name="password"
+                />
+                <button
+                  className={styles.visibility}
+                  onClick={togglePassword}
+                  style={{
+                    // width: "10px",
+                    display: "flex",
+                    justifyContent: "flex-end",
+                    margin:"auto",
+                    background: "transparent",
+                    border: "none",
+                    position: "absolute",
+                    // backgroundColor: "black",
+                    cursor: "pointer",
+                  }}
+                >
+                  {passwordType === "password" ? (
+                    <MdOutlineVisibilityOff />
+                  ) : (
+                    <MdOutlineVisibility />
+                  )}
+                </button>
               </div>
-
               <p className={styles.forget}>
                 <Link
                   to="/student-reset-password"
