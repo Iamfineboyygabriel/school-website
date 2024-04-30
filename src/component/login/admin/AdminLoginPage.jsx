@@ -110,6 +110,7 @@ const AdminLoginPage = () => {
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
                     paddingRight: "40px",
+                    position: "absolute",
                     outline: "none",
                   }}
                 />
@@ -117,13 +118,13 @@ const AdminLoginPage = () => {
                   className={styles.visibility}
                   onClick={togglePassword}
                   style={{
-                    position: "absolute",
                     right: "5px",
-                    top: "50%",
-                    transform: "translateY(-50%)",
+                    position:"relative",
+                    // top: "50%",
+                    // transform: "translateY(-50%)",
                     cursor: "pointer",
                     border: "none",
-                    backgroundColor: "transparent",
+                    backgroundColor: "black",
                   }}
                 >
                   {passwordType === "password" ? (

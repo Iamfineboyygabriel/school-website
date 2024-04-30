@@ -15,7 +15,7 @@ const StudentLogin = () => {
   const [admissionNumber, setadmissionNumber] = useState("");
   const [passwordType, setPasswordType] = useState("password");
   const [loading, setLoading] = useState(false);
-  const [showModal, setShowModal] = useState(false); 
+  const [showModal, setShowModal] = useState(false);
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
@@ -84,6 +84,7 @@ const StudentLogin = () => {
                 style={{
                   position: "relative",
                   display: "flex",
+                  justifyContent: "space-between",
                   alignItems: "center",
                 }}
               >
@@ -97,24 +98,20 @@ const StudentLogin = () => {
                     border: "1px solid var(--grey-50, #ccc)",
                     background: "var(--white-full, #fff)",
                     padding: "0.5em",
+                    position: "absolute",
                     paddingRight: "40px", // Space for the button
+                    outline: "none", // Remove default focus
                   }}
                   type={passwordType}
                   placeholder="Enter password"
                   value={password}
                   name="password"
                 />
+
                 <button
                   className={styles.visibility}
                   onClick={togglePassword}
-                  style={{
-                    position: "absolute",
-                    right: "5px",
-                    top: "50%",
-                    transform: "translateY(-50%)",
-                    border: "none",
-                    backgroundColor: "transparent",
-                  }}
+                  style={{ background: "black" }}
                 >
                   {passwordType === "password" ? (
                     <MdOutlineVisibilityOff />
