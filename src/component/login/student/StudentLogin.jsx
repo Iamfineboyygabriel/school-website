@@ -35,7 +35,7 @@ const StudentLogin = () => {
       })
       .catch((err) => {
         if (err && err.data && err.data.error) {
-          toast.error(err.data.error); 
+          // toast.error(err.data.error); 
         } else {
           toast.error("Invalid Credentials."); 
         }

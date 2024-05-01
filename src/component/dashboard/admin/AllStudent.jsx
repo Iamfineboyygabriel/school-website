@@ -26,13 +26,13 @@ const AllStudent = () => {
   const registeredStudents = () => {
     setLoading(true);
     dispatch(GetRegisteredStudents())
-      .unwrap()
+    .unwrap()
       .then(() => {
         setLoading(false);
       })
       .catch((err) => {
         const errorMessage = err.message;
-        toast.error(errorMessage);
+        // toast.error(errorMessage);
       });
   };
 
